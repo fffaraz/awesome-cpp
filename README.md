@@ -81,6 +81,12 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 
 * [C++ B-tree](https://code.google.com/p/cpp-btree/) - A template library that implements ordered in-memory containers based on a B-tree data structure.
 
+## Cryptography
+
+* [Crypto++](http://www.cryptopp.com/) - A free C++ class library of cryptographic schemes.
+* [LibTomCrypt](https://github.com/libtom/libtomcrypt) - A fairly comprehensive, modular and portable cryptographic toolkit.
+* [OpenSSL](http://www.openssl.org/) - a robust, commercial-grade, full-featured, and Open Source cryptography library.
+
 ## GUI
 *Graphic User Interface*
 
@@ -202,6 +208,8 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 ## Other Awesome Things
 *Collection of useful codes, snippets, ...*
 
+* [algorithms](https://github.com/xtaci/algorithms) - Algorithms & Data Structures in C++.
+* [c-algorithms](https://github.com/fragglet/c-algorithms) - C algorithms library.
 * [C/C++ Awesome Pack](https://github.com/junian/CppAwesomePack) - Contains some awesome c++ codes, packed in one.
 
 # Contributing
