@@ -6,10 +6,12 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 	- [Frameworks](#frameworks)
 	- [Artificial Intelligence](#artificial-intelligence)
 	- [Audio](#audio)
+	- [Compression](#compression) 
 	- [Concurrency](#concurrency)
 	- [Containers](#containers)
 	- [Cryptography](#cryptography)
 	- [Database](#database)
+	- [Debug](#debug)
 	- [GUI](#gui)
 	- [Graphics](#graphics)
 	- [Imaging](#imaging)
@@ -21,7 +23,6 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 	- [Multimedia](#multimedia)
 	- [Networking](#networking)
 	- [Serialization](#serialization)
-	- [Testing](#testing)
 	- [Web Application Framework](#web-application-framework)
 	- [XML](#xml)
 	- [Etc.](#etc)
@@ -67,14 +68,18 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Windows Template Library](http://sourceforge.net/projects/wtl/) - A C++ library for developing Windows applications and UI components.
 * [Yomm11](https://github.com/jll63/yomm11) - Open multi-methods for C++11.
 
-##Artificial Intelligence
+## Artificial Intelligence
 
 * [Evolving Objects](http://eodev.sourceforge.net/) - A template-based, ANSI-C++ evolutionary computation library which helps you to write your own stochastic optimization algorithms insanely fast.
 * [Neu](https://github.com/andrometa/neu) - A C++ 11 framework, collection of programming languages, and multipurpose software system designed for: the creation of artificial intelligence applications.
 
-##Audio
+## Audio
+*Audio, Sound, Music, Digitized Voice Libraries*
 
 * [Maximilian](https://github.com/micknoise/Maximilian) - C++ Audio and Music DSP Library.
+
+## Compression
+*Compression and Archiving Libraries*
 
 ## Concurrency
 
@@ -92,10 +97,20 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [C++ B-tree](https://code.google.com/p/cpp-btree/) - A template library that implements ordered in-memory containers based on a B-tree data structure.
 
 ## Cryptography
+*Cryptography and Encryption Libraries*
 
 * [Crypto++](http://www.cryptopp.com/) - A free C++ class library of cryptographic schemes.
 * [LibTomCrypt](https://github.com/libtom/libtomcrypt) - A fairly comprehensive, modular and portable cryptographic toolkit.
 * [OpenSSL](http://www.openssl.org/) - a robust, commercial-grade, full-featured, and Open Source cryptography library.
+
+## Database
+*Database Libraries, SQL Servers, ODBC Drivers, and Tools*
+
+## Debug
+*Debugging Libraries, Memory Leak and Resource Leak Detection, Unit Testing*
+
+* [CppUnit](http://sourceforge.net/projects/cppunit/) - C++ port of JUnit.
+* [googletest](http://code.google.com/p/googletest/) - Google C++ Testing Framework.
 
 ## GUI
 *Graphic User Interface*
@@ -158,11 +173,6 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 
 * [cereal](https://github.com/USCiLab/cereal) - A C++11 library for serialization.
 * [protobuf](http://code.google.com/p/protobuf/) - Protocol Buffers - Google's data interchange format.
-
-## Testing
-
-* [CppUnit](http://sourceforge.net/projects/cppunit/) - C++ port of JUnit.
-* [googletest](http://code.google.com/p/googletest/) - Google C++ Testing Framework.
 
 ## Web Application Framework
 
@@ -227,7 +237,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 ## C++ Videos
 *Fantastic C++ related videos.*
 
-## Other Awesome Things
+## Other Awesome Projects
 *Collection of useful codes, snippets, ...*
 
 * [algorithms](https://github.com/xtaci/algorithms) - Algorithms & Data Structures in C++.
@@ -237,19 +247,20 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 # Other Awesome Lists
 *Other amazingly awesome lists*
 
-* [lists](https://github.com/jnv/lists)
-* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
-* [awesome](https://github.com/sindresorhus/awesome)
-* [free-programming-books](https://github.com/vhf/free-programming-books)
-* [papers-we-love](https://github.com/papers-we-love/papers-we-love)
-* [awesome-php](https://github.com/ziadoz/awesome-php)
-* [awesome-python](https://github.com/vinta/awesome-python)
-* [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin)
-* [awesome-talks](https://github.com/JanVanRyswyck/awesome-talks)
-* [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet)
-* [ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade)
-* [cheatsheets.org](http://www.cheatsheets.org/)
-* [cheat-sheets.org](http://www.cheat-sheets.org/)
+* [lists](https://github.com/jnv/lists) - List of (awesome) lists curated on GitHub
+* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness.
+* [awesome](https://github.com/sindresorhus/awesome) - A curated list of awesome lists.
+* [free-programming-books](https://github.com/vhf/free-programming-books) - List of Freely Available Programming Books
+* [papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
+* [awesome-php](https://github.com/ziadoz/awesome-php) - Awesome PHP libraries, resources and shiny things.
+* [awesome-python](https://github.com/vinta/awesome-python) - Awesome Python frameworks, libraries and software.
+* [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - Awesome open source sysadmin resources
+* [awesome-talks](https://github.com/JanVanRyswyck/awesome-talks) - A lot of screencasts, recordings of user group gatherings and conference talks available online.
+* [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
+* [ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
+* [cheatsheets.org](http://www.cheatsheets.org/) - The largest collection of reference cards for developers.
+* [cheat-sheets.org](http://www.cheat-sheets.org/) - All cheat sheets, round-ups, quick reference cards, quick reference guides and quick reference sheets in one page.
+* [thefreecountry.com](http://www.thefreecountry.com/) - A collection of free programming resources, free webmasters' resources, free security resources and free utilities.
 
 # Contributing
 Please see [CONTRIBUTING](https://github.com/fffaraz/awesome-cpp/blob/master/CONTRIBUTING.md) for details.
