@@ -24,6 +24,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 	- [Testing](#testing)
 	- [Web Application Framework](#web-application-framework)
 	- [XML](#xml)
+	- [Etc.](#etc)
 - [Compilers](#compilers)
 - [Software](#software)
 	- [Integrated Development Environments](#integrated-development-environments)
@@ -100,11 +101,18 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 
 ## JSON
 
+* [frozen](https://github.com/cesanta/frozen) - JSON parser and generator for C/C++.
 * [picojson](https://github.com/kazuho/picojson) - A header-file-only, JSON parser serializer in C++.
 
 ## Machine Learning
 
-* [OpenCV](http://opencv.org/) - Computer Vision.
+* [OpenCV](http://opencv.org/) - Open Computer Vision.
+* [Recommender](https://github.com/GHamrouni/Recommender) - A C library for product recommendations/suggestions using collaborative filtering (CF).
+* [CCV](https://github.com/liuliu/ccv) - C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library.
+* [mlpack](http://www.mlpack.org/) - A scalable c++ machine learning library.
+* [sofia-ml](https://code.google.com/p/sofia-ml/) - The suite of fast incremental algorithms for machine learning.
+* [SHOGUN](https://github.com/shogun-toolbox/shogun) - The Shogun Machine Learning Toolbox.
+* [Caffe](https://github.com/BVLC/caffe) - A fast framework for neural networks..
 
 ## Mocking
 
@@ -121,10 +129,12 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Asio](http://think-async.com/) - A cross-platform C++ library for network and low-level I/O programming.
 * [Casablanca](http://casablanca.codeplex.com/) - C++ REST SDK.
 * [cpp-netlib](http://cpp-netlib.org/) - A collection of open-source libraries for high level network programming.
+* [net_skeleton](https://github.com/cesanta/net_skeleton) - TCP client/server library for C/C++.
 * [POCO](http://pocoproject.org/) - C++ class libraries and frameworks for building network- and internet-based applications that run on desktop, server, mobile and embedded systems.
 
 ## Serialization
 
+* [cereal](https://github.com/USCiLab/cereal) - A C++11 library for serialization.
 * [protobuf](http://code.google.com/p/protobuf/) - Protocol Buffers - Google's data interchange format.
 
 ## Testing
@@ -137,6 +147,11 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [CppCMS](http://cppcms.com/) - A Free High Performance Web Development Framework (not a CMS).
 * [Crow](https://github.com/ipkn/crow) - Crow is C++ micro web framework (inspired by Python Flask).
 * [Wt](http://www.webtoolkit.eu/wt) - A C++ library for developing web applications.
+
+## Etc.
+
+* [SLDR](https://github.com/cesanta/sldr) - Super Light DNS Resolver.
+* [SLRE](https://github.com/cesanta/slre) - Super Light Regular Expression library.
 
 # Compilers
 *List of C/C++ compilers*
