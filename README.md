@@ -171,5 +171,10 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 ## C++ Videos
 *Fantastic C++ related videos.*
 
+## Awesome Things
+*Collection of useful codes*
+
+* [C/C++ Awesome Pack](https://github.com/junian/CppAwesomePack) - Contains some awesome c++ codes, packed in one.
+
 # Contributing
 Please see [CONTRIBUTING](https://github.com/fffaraz/awesome-cpp/blob/master/CONTRIBUTING.md) for details.
