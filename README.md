@@ -1,7 +1,7 @@
 # Awesome C/C++
 A curated list of awesome C/C++ frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 
-- [Awesome C++](#awesome-cpp)
+- [Awesome C/C++](#awesome-cpp)
 	- [Standard Libraries](#standard-libraries)
 	- [Frameworks](#frameworks)
 	- [Audio](#audio)
@@ -197,8 +197,8 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 ## C++ Videos
 *Fantastic C++ related videos.*
 
-## Awesome Things
-*Collection of useful codes*
+## Other Awesome Things
+*Collection of useful codes, snippets, ...*
 
 * [C/C++ Awesome Pack](https://github.com/junian/CppAwesomePack) - Contains some awesome c++ codes, packed in one.
 
