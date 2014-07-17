@@ -187,6 +187,8 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 ## C++ Books
 *Fantastic C++ related books.*
 
+* [The C++ Annotations](http://cppannotations.sourceforge.net/annotations/html/) - An in-depth guide on C++, intended for people with a good knowledge of C who want to make the transition to C++. 
+
 ## C++ Articles
 *Fantastic C++ related articles.*
 
