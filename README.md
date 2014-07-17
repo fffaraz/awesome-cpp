@@ -4,8 +4,8 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 - [Awesome C/C++](#awesome-cpp)
 	- [Standard Libraries](#standard-libraries)
 	- [Frameworks](#frameworks)
-	- [Audio](#audio)
 	- [Artificial Intelligence](#artificial-intelligence)
+	- [Audio](#audio)
 	- [Concurrency](#concurrency)
 	- [Containers](#containers)
 	- [Cryptography](#cryptography)
@@ -54,6 +54,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [ffead-cpp](https://github.com/sumeetchhetri/ffead-cpp) - Framework for Enterprise Application Development.
 * [Folly](https://github.com/facebook/folly) - An open-source C++ library developed and used at Facebook.
 * [JUCE](http://www.juce.com/) - An all-encompassing C++ class library for developing cross-platform software.
+* [libPhenom](https://github.com/facebook/libphenom) - libPhenom is an eventing framework for building high performance and high scalability systems in C.
 * [LibSourcey](https://github.com/sourcey/libsourcey) - C++11 evented IO for real-time video streaming and high performance networking applications.
 * [LibU](https://github.com/koanlogic/libu) - A multiplatform utility library written in C.
 * [Loki](http://loki-lib.sourceforge.net/) - A C++ library of designs, containing flexible implementations of common design patterns and idioms.
@@ -71,12 +72,20 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Evolving Objects](http://eodev.sourceforge.net/) - A template-based, ANSI-C++ evolutionary computation library which helps you to write your own stochastic optimization algorithms insanely fast.
 * [Neu](https://github.com/andrometa/neu) - A C++ 11 framework, collection of programming languages, and multipurpose software system designed for: the creation of artificial intelligence applications.
 
+##Audio
+
+* [Maximilian](https://github.com/micknoise/Maximilian) - C++ Audio and Music DSP Library.
+
 ## Concurrency
 
+* [Boost.Compute](https://github.com/kylelutz/compute) - A C++ GPU Computing Library for OpenCL.
+* [Bolt](https://github.com/HSA-Libraries/Bolt) - A C++ template library optimized for GPUs.
 * [Intel TBB](https://www.threadingbuildingblocks.org/) - Intel® Threading Building Blocks.
+* [OpenCL](https://www.khronos.org/opencl/) - The open standard for parallel programming of heterogeneous systems.
 * [OpenMP](http://openmp.org/) - The OpenMP API.
 * [Thrust](http://thrust.github.io/) - A parallel algorithms library which resembles the C++ Standard Template Library (STL).
 * [HPX](https://github.com/STEllAR-GROUP/hpx/) - A general purpose C++ runtime system for parallel and distributed applications of any scale.
+* [VexCL](https://github.com/ddemidov/vexcl) - A C++ vector expression template library for OpenCL/CUDA.
 
 ## Containers
 
@@ -109,7 +118,10 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 ## JSON
 
 * [frozen](https://github.com/cesanta/frozen) - JSON parser and generator for C/C++.
+* [Jansson](https://github.com/akheron/jansson) - https://github.com/akheron/jansson.
+* [json11](https://github.com/dropbox/json11) - A tiny JSON library for C++11.
 * [picojson](https://github.com/kazuho/picojson) - A header-file-only, JSON parser serializer in C++.
+* [YAJL](https://github.com/lloyd/yajl) - A fast streaming JSON parsing library in C.
 
 ## Machine Learning
 
@@ -136,8 +148,11 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Asio](http://think-async.com/) - A cross-platform C++ library for network and low-level I/O programming.
 * [Casablanca](http://casablanca.codeplex.com/) - C++ REST SDK.
 * [cpp-netlib](http://cpp-netlib.org/) - A collection of open-source libraries for high level network programming.
+* [Muduo](https://github.com/chenshuo/muduo) - A C++ non-blocking network library for multi-threaded server in Linux.
 * [net_skeleton](https://github.com/cesanta/net_skeleton) - TCP client/server library for C/C++.
+* [Onion](https://github.com/davidmoreno/onion) - HTTP server library in C designed to be lightweight and easy to use.
 * [POCO](http://pocoproject.org/) - C++ class libraries and frameworks for building network- and internet-based applications that run on desktop, server, mobile and embedded systems.
+* [WebSocket++](https://github.com/zaphoyd/websocketpp) - C++/Boost Asio based websocket client/server library.
 
 ## Serialization
 
@@ -157,6 +172,12 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 
 ## Etc.
 
+* [Box2D](https://code.google.com/p/box2d/) - A 2D Physics Engine for Games.
+* [ofxBox2d](https://github.com/vanderlin/ofxBox2d) - Openframework wrapper for box2d.
+* [C++ Format](https://github.com/cppformat/cppformat) - Small, safe and fast formatting library for C++.
+* [cxx-prettyprint](https://github.com/louisdx/cxx-prettyprint) - A pretty printing library for C++ containers.
+* [SDS](https://github.com/antirez/sds) - Simple Dynamic Strings library for C.
+* [Simbody](https://github.com/simbody/simbody) - High-performance C++ multibody dynamics/physics library for simulating articulated biomechanical and mechanical systems like vehicles, robots, and the human skeleton.
 * [SLDR](https://github.com/cesanta/sldr) - Super Light DNS Resolver.
 * [SLRE](https://github.com/cesanta/slre) - Super Light Regular Expression library.
 
