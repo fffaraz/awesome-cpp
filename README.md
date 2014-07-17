@@ -172,6 +172,8 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 *Fantastic C++ related articles.*
 
 * [C++Now 2014 Presentations](https://github.com/boostcon/cppnow_presentations_2014) - Presentation materials presented at C++Now 2014.
+* [C++Now 2013 Presentations](https://github.com/boostcon/cppnow_presentations_2013) - Presentation materials presented at C++Now 2013.
+* [C++Now 2012 Presentations](https://github.com/boostcon/cppnow_presentations_2012) - Presentation materials presented at C++Now 2012.
 
 ## C++ Videos
 *Fantastic C++ related videos.*
