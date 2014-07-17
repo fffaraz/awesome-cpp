@@ -135,8 +135,8 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 ## Web Application Framework
 
 * [CppCMS](http://cppcms.com/) - A Free High Performance Web Development Framework (not a CMS).
+* [Crow](https://github.com/ipkn/crow) - Crow is C++ micro web framework (inspired by Python Flask).
 * [Wt](http://www.webtoolkit.eu/wt) - A C++ library for developing web applications.
-* [crow](https://github.com/mattn/awesome-cpp) - Crow is C++ micro web framework (inspired by Python Flask).
 
 # Compilers
 *List of C/C++ compilers*
