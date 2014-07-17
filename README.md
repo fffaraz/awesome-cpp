@@ -5,6 +5,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 	- [Standard Libraries](#standard-libraries)
 	- [Frameworks](#frameworks)
 	- [Artificial Intelligence](#artificial-intelligence)
+	- [Asynchronous Event Loop](#asynchronous-event-loop)
 	- [Audio](#audio)
 	- [Compression](#compression) 
 	- [Concurrency](#concurrency)
@@ -72,6 +73,12 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 
 * [Evolving Objects](http://eodev.sourceforge.net/) - A template-based, ANSI-C++ evolutionary computation library which helps you to write your own stochastic optimization algorithms insanely fast.
 * [Neu](https://github.com/andrometa/neu) - A C++ 11 framework, collection of programming languages, and multipurpose software system designed for: the creation of artificial intelligence applications.
+
+## Asynchronous Event Loop
+
+* [libev](http://libev.schmorp.de/) - A full-featured and high-performance event loop that is loosely modelled after libevent, but without its limitations and bugs.
+* [libevent](http://libevent.org/) - An event notification library.
+* [libuv](https://github.com/joyent/libuv) - Cross-platform asychronous I/O.
 
 ## Audio
 *Audio, Sound, Music, Digitized Voice Libraries*
@@ -186,6 +193,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [ofxBox2d](https://github.com/vanderlin/ofxBox2d) - Openframework wrapper for box2d.
 * [C++ Format](https://github.com/cppformat/cppformat) - Small, safe and fast formatting library for C++.
 * [cxx-prettyprint](https://github.com/louisdx/cxx-prettyprint) - A pretty printing library for C++ containers.
+* [HTTP Parser](https://github.com/joyent/http-parser) - A http request/response parser for C.
 * [SDS](https://github.com/antirez/sds) - Simple Dynamic Strings library for C.
 * [Simbody](https://github.com/simbody/simbody) - High-performance C++ multibody dynamics/physics library for simulating articulated biomechanical and mechanical systems like vehicles, robots, and the human skeleton.
 * [SLDR](https://github.com/cesanta/sldr) - Super Light DNS Resolver.
