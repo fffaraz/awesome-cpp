@@ -25,8 +25,8 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 	- [Web Application Framework](#web-application-framework)
 	- [XML](#xml)
 	- [Etc.](#etc)
-- [Compilers](#compilers)
 - [Software](#software)
+	- [Compilers](#compilers)
 	- [Integrated Development Environments](#integrated-development-environments)
 - [Resources](#resources)
 	- [C++ Websites](#cpp-websites)
@@ -38,7 +38,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 
 * [C++ Standard Library](http://en.wikipedia.org/wiki/C%2B%2B_Standard_Library) - A collection of classes and functions, which are written in the core language and part of the C++ ISO Standard itself.
 * [Standard Template Library](http://en.wikipedia.org/wiki/Standard_Template_Library) - The Standard Template Library (STL).
-* [C POSIX library](http://en.wikipedia.org/wiki/C_POSIX_library) - A specification of a C standard library for POSIX systems..
+* [C POSIX library](http://en.wikipedia.org/wiki/C_POSIX_library) - A specification of a C standard library for POSIX systems.
 
 ## Frameworks
 *C++ generic frameworks and libraries.*
@@ -46,13 +46,13 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Apache C++ Standard Library](http://stdcxx.apache.org/) - A collection of algorithms, containers, iterators, and other fundamental components.
 * [ASL](http://stlab.adobe.com/) - Adobe Source Libraries provides peer-reviewed and portable C++ source libraries.
 * [Boost](http://www.boost.org/) - A large collection of generic C++ libraries.
-* [BDE](https://github.com/bloomberg/bde) - The BDE Development Environment from Bloomberg L.P.
-* [Cinder](http://libcinder.org/) - A community-developed, free and open source library for professional-quality creative coding in C++.
+* [BDE](https://github.com/bloomberg/bde) - The BDE Development Environment from Bloomberg Labs.
+* [Cinder](http://libcinder.org/) - A community-developed, free and open source library for professional-quality creative coding.
 * [Cxxomfort](http://ryan.gulix.cl/fossil.cgi/cxxomfort/) - A small, header-only library that backports to C++03 some of the nifty C++11 goodies.
 * [Dlib](http://dlib.net/) - A general purpose cross-platform C++ library designed using contract programming and modern C++ techniques.
 * [ffead-cpp](https://github.com/sumeetchhetri/ffead-cpp) - Framework for Enterprise Application Development.
 * [Folly](https://github.com/facebook/folly) - An open-source C++ library developed and used at Facebook.
-* [JUCE](http://www.juce.com/) - An all-encompassing C++ class library for developing cross-platform software..
+* [JUCE](http://www.juce.com/) - An all-encompassing C++ class library for developing cross-platform software.
 * [LibSourcey](https://github.com/sourcey/libsourcey) - C++11 evented IO for real-time video streaming and high performance networking applications.
 * [LibU](https://github.com/koanlogic/libu) - A multiplatform utility library written in C.
 * [Loki](http://loki-lib.sourceforge.net/) - A C++ library of designs, containing flexible implementations of common design patterns and idioms.
@@ -112,7 +112,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [mlpack](http://www.mlpack.org/) - A scalable c++ machine learning library.
 * [sofia-ml](https://code.google.com/p/sofia-ml/) - The suite of fast incremental algorithms for machine learning.
 * [SHOGUN](https://github.com/shogun-toolbox/shogun) - The Shogun Machine Learning Toolbox.
-* [Caffe](https://github.com/BVLC/caffe) - A fast framework for neural networks..
+* [Caffe](https://github.com/BVLC/caffe) - A fast framework for neural networks.
 
 ## Mocking
 
@@ -153,7 +153,10 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [SLDR](https://github.com/cesanta/sldr) - Super Light DNS Resolver.
 * [SLRE](https://github.com/cesanta/slre) - Super Light Regular Expression library.
 
-# Compilers
+# Software
+*Software for creating a development environment.*
+
+## Compilers
 *List of C/C++ compilers*
 
 * [Clang](http://clang.llvm.org/) - Developed by Apple.
@@ -161,11 +164,8 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Intel C++ Compiler](https://software.intel.com/en-us/c-compilers) - Developed by Intel.
 * [Microsoft Visual C++](http://msdn.microsoft.com/en-us/vstudio/hh386302.aspx) - MSVC, developed by Microsoft.
 
-# Software
-*Software for creating a development environment.*
-
 ## Integrated Development Environments
-*nominal IDEs.*
+*List of C/C++ nominal IDEs.*
 
 * [Code::Blocks](http://www.codeblocks.org/) - A free C, C++ and Fortran IDE.
 * [Dev-C++](http://sourceforge.net/projects/orwelldevcpp/) - A portable C/C++/C++11 IDE.
