@@ -98,6 +98,10 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [IBM ICU](http://site.icu-project.org/) - A set of C/C++ and Java libraries providing Unicode and Globalization support.
 * [gettext](http://www.gnu.org/software/gettext/) - GNU `gettext'.
 
+## JSON
+
+* [picojson](https://github.com/kazuho/picojson) - A header-file-only, JSON parser serializer in C++.
+
 ## Machine Learning
 
 * [OpenCV](http://opencv.org/) - Computer Vision.
