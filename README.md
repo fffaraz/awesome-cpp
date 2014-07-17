@@ -32,6 +32,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 	- [C++ Websites](#cpp-websites)
 	- [C++ Books](#cpp-books)
 	- [C++ Videos](#cpp-videos)
+- [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
 
 ## Standard Libraries
@@ -211,6 +212,14 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [algorithms](https://github.com/xtaci/algorithms) - Algorithms & Data Structures in C++.
 * [c-algorithms](https://github.com/fragglet/c-algorithms) - C algorithms library.
 * [C/C++ Awesome Pack](https://github.com/junian/CppAwesomePack) - Contains some awesome c++ codes, packed in one.
+
+# Other Awesome Lists
+*Other amazingly awesome lists*
+
+* [lists](https://github.com/jnv/lists)
+* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
+* [awesome](https://github.com/sindresorhus/awesome)
+* [free-programming-books](https://github.com/vhf/free-programming-books)
 
 # Contributing
 Please see [CONTRIBUTING](https://github.com/fffaraz/awesome-cpp/blob/master/CONTRIBUTING.md) for details.
