@@ -156,10 +156,10 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 # Compilers
 *List of C/C++ compilers*
 
-* [Clang]() - .
-* [GCC]() - .
-* [Intel C++ Compiler]() - .
-* [Microsoft Visual C++]() - .
+* [Clang](http://clang.llvm.org/) - Developed by Apple.
+* [GCC](https://gcc.gnu.org/) - GNU Compiler Collection.
+* [Intel C++ Compiler](https://software.intel.com/en-us/c-compilers) - Developed by Intel.
+* [Microsoft Visual C++](http://msdn.microsoft.com/en-us/vstudio/hh386302.aspx) - MSVC, developed by Microsoft.
 
 # Software
 *Software for creating a development environment.*
@@ -167,15 +167,14 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 ## Integrated Development Environments
 *nominal IDEs.*
 
-* [Code::Blocks]() - .
-* [Dev-C++]() - .
-* [Eclipse CDT]() - .
-* [KDevelop]() - .
-* [Microsoft Visual Studio]() - .
-* [NetBeans]() - .
-* [Qt Creator]() - .
-* [Xcode]() - .
-
+* [Code::Blocks](http://www.codeblocks.org/) - A free C, C++ and Fortran IDE.
+* [Dev-C++](http://sourceforge.net/projects/orwelldevcpp/) - A portable C/C++/C++11 IDE.
+* [Eclipse CDT](http://www.eclipse.org/cdt/) - A fully functional C and C++ IDE based on the Eclipse platform.
+* [KDevelop](https://www.kdevelop.org/) - A free, open source IDE.
+* [Microsoft Visual Studio](http://www.visualstudio.com/) - An IDE from Microsoft.
+* [NetBeans](https://netbeans.org/) - An IDE for developing primarily with Java, but also with other languages, in particular PHP, C/C++, and HTML5.
+* [Qt Creator](http://qt-project.org/) - A cross-platform C++, JavaScript and QML IDE which is part of the SDK for the Qt.
+* [Xcode](https://developer.apple.com/xcode/) - Developed by Apple.
 
 # Resources
 *Various resources, such as books, websites and articles, for improving your C++ development skills and knowledge.*
