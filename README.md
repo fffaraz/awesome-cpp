@@ -220,6 +220,15 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
 * [awesome](https://github.com/sindresorhus/awesome)
 * [free-programming-books](https://github.com/vhf/free-programming-books)
+* [papers-we-love](https://github.com/papers-we-love/papers-we-love)
+* [awesome-php](https://github.com/ziadoz/awesome-php)
+* [awesome-python](https://github.com/vinta/awesome-python)
+* [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin)
+* [awesome-talks](https://github.com/JanVanRyswyck/awesome-talks)
+* [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet)
+* [ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade)
+* [cheatsheets.org](http://www.cheatsheets.org/)
+* [cheat-sheets.org](http://www.cheat-sheets.org/)
 
 # Contributing
 Please see [CONTRIBUTING](https://github.com/fffaraz/awesome-cpp/blob/master/CONTRIBUTING.md) for details.
