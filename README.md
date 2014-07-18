@@ -108,7 +108,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 
 * [Crypto++](http://www.cryptopp.com/) - A free C++ class library of cryptographic schemes.
 * [LibTomCrypt](https://github.com/libtom/libtomcrypt) - A fairly comprehensive, modular and portable cryptographic toolkit.
-* [OpenSSL](http://www.openssl.org/) - a robust, commercial-grade, full-featured, and Open Source cryptography library.
+* [OpenSSL](http://www.openssl.org/) - A robust, commercial-grade, full-featured, and Open Source cryptography library.
 
 ## Database
 *Database Libraries, SQL Servers, ODBC Drivers, and Tools*
@@ -124,7 +124,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 
 * [GTK+](http://www.gtk.org/) - A multi-platform toolkit for creating graphical user interfaces.
 * [gtkmm](http://www.gtkmm.org/en/) - The official C++ interface for the popular GUI library GTK+.
-* [wxWidgets](http://wxwidgets.org/) - a C++ library that lets developers create applications for Windows, Mac OS X, Linux and other platforms with a single code base.
+* [wxWidgets](http://wxwidgets.org/) - A C++ library that lets developers create applications for Windows, Mac OS X, Linux and other platforms with a single code base.
 * [Qwt](http://qwt.sourceforge.net/) - Qt Widgets for Technical Applications.
 * [QwtPlot3D](http://qwtplot3d.sourceforge.net/) - A feature-rich Qt/OpenGL-based C++ programming library, providing essentially a bunch of 3D-widgets.
 
@@ -140,7 +140,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 ## JSON
 
 * [frozen](https://github.com/cesanta/frozen) - JSON parser and generator for C/C++.
-* [Jansson](https://github.com/akheron/jansson) - https://github.com/akheron/jansson.
+* [Jansson](https://github.com/akheron/jansson) - C library for encoding, decoding and manipulating JSON data.
 * [json11](https://github.com/dropbox/json11) - A tiny JSON library for C++11.
 * [picojson](https://github.com/kazuho/picojson) - A header-file-only, JSON parser serializer in C++.
 * [YAJL](https://github.com/lloyd/yajl) - A fast streaming JSON parsing library in C.
@@ -148,7 +148,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 ## Machine Learning
 
 * [OpenCV](http://opencv.org/) - Open Computer Vision.
-* [Recommender](https://github.com/GHamrouni/Recommender) - A C library for product recommendations/suggestions using collaborative filtering (CF).
+* [Recommender](https://github.com/GHamrouni/Recommender) - C library for product recommendations/suggestions using collaborative filtering (CF).
 * [CCV](https://github.com/liuliu/ccv) - C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library.
 * [mlpack](http://www.mlpack.org/) - A scalable c++ machine learning library.
 * [sofia-ml](https://code.google.com/p/sofia-ml/) - The suite of fast incremental algorithms for machine learning.
