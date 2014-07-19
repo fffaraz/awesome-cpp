@@ -1,0 +1,89 @@
+
+* []() - .
+
+
+Lua - A minimal and fast scripting engine for configuration files and basic application scripting.
+http://www.lua.org/
+
+V8 - A fast JavaScript by Google engine similar to WebKit's JavaScriptCore.
+http://code.google.com/p/v8/
+
+Cairo - A good graphcis library similar to QuickDraw/Quartz on Mac OS X.
+http://www.cairographics.org/
+
+ZBar - A barcode scanner library, which allows to scan photos/images/video streams for barcodes and return their value.
+http://zbar.sourceforge.net/
+
+ZLib - A very compact compression library for data streams. Used zziblib and minizip, too.
+http://zlib.net/
+
+DynaPDF - A easy-to-use PDF generation library.
+http://www.dynaforms.com/
+
+libusb - A universal USB library which allows for portable access to USB devices (I used this to write a basic driver for a custom POS printer).
+http://www.libusb.org/
+
+WebKit - This is a really nice one if you want to render HTML/Web contents and use it in applications to give your users a "richer" user experience.
+http://www.webkit.org/
+
+STL and Boost are musts.
+
+Every C++ programmer should first play around with these two libraries:
+* C++ Standard Library - including STL Containers, STL Aglorithm, STL Functional etc.
+* Boost C++ Libraries.
+
+SQLite provides a completely embedded, full-featured relational database in a few 100k that you can include right into your project.
+http://www.sqlite.org/
+
+If you're interested in creating user interfaces, look into ncurses -- it's the library that was used to create many terminal user interfaces and can be very useful for creating games and shell utilities.
+http://invisible-island.net/ncurses/
+
+If you're interested in graphics or creating games, consider SDL or OpenGL (or DirectX if you don't mind only working on Windows).
+
+Bullet Physics Library is an open source physics engine featuring 3D collision detection, soft body dynamics, and rigid body dynamics. It is used in games, and in visual effects in movies.
+http://bulletphysics.com/
+http://bulletphysics.org/
+https://github.com/bulletphysics/bullet3
+
+a very good, easy to use image library, good for messing around with
+http://cimg.sourceforge.net/
+
+Errlicht 3D engine
+http://irrlicht.sourceforge.net/
+
+SWIG. It is a wrapper/interface Generator that let you link your c++ code to Python.
+http://www.swig.org/
+
+Ogre was already mentioned. If you want to go into 3D, then Panda3D I found easy to learn.
+http://www.panda3d.org/
+
+The Player/Stage Project is a robot control interface and simulation library. You could simulate robots or run it on real robots.
+http://playerstage.sourceforge.net/index.php?src=index
+
+This is the home of the templog library, a very small and lightweight C++ library which you can use to add logging to your C++ applications. It heavily relies on expression templates and inlining to minimize run-time overhead caused by logging.
+http://www.templog.org/
+
+hiberlite
+C++ Object-relational mapping for sqlite3
+https://github.com/paulftw/hiberlite
+
+The LLVM Compiler Infrastructure
+http://llvm.org/
+
+casacore
+A set of c++ core libraries derived from aips++
+https://code.google.com/p/casacore/
+
+skia
+2D Graphics Library
+https://code.google.com/p/skia/
+
+rcf-cpp
+Inter-process communication framework for C++
+https://code.google.com/p/rcf-cpp/
+
+Serial Communication Library
+Cross-platform, Serial Port library written in C++
+https://github.com/wjwwood/serial
+
+http://scripts.mit.edu/~6.270/contestants/workshops/awesomec.pdf
