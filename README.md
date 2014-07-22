@@ -183,10 +183,12 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Box2D](https://code.google.com/p/box2d/) - A 2D physics engine for games.
 * [ofxBox2d](https://github.com/vanderlin/ofxBox2d) - openFrameworks wrapper for Box2D.
 * [Bullet](http://bulletphysics.org) - A 3D physics engine for games.
+* [LiquidFun](https://github.com/google/liquidfun) - A 2D physics engine for games.
 
 ## Serialization
 
 * [cereal](https://github.com/USCiLab/cereal) - A C++11 library for serialization.
+* [FlatBuffers](https://github.com/google/flatbuffers) -  A Memory efficient serialization library.
 * [protobuf](http://code.google.com/p/protobuf/) - Protocol Buffers - Google's data interchange format.
 
 ## Web Application Framework
