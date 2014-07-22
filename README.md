@@ -23,6 +23,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 	- [Mocking](#mocking)
 	- [Multimedia](#multimedia)
 	- [Networking](#networking)
+	- [Physics](#physics)
 	- [Serialization](#serialization)
 	- [Web Application Framework](#web-application-framework)
 	- [XML](#xml)
@@ -176,6 +177,13 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [POCO](http://pocoproject.org/) - C++ class libraries and frameworks for building network- and internet-based applications that run on desktop, server, mobile and embedded systems.
 * [WebSocket++](https://github.com/zaphoyd/websocketpp) - C++/Boost Asio based websocket client/server library.
 
+## Physics
+*Dynamics simulation engines*
+
+* [Box2D](https://code.google.com/p/box2d/) - A 2D physics engine for games.
+* [ofxBox2d](https://github.com/vanderlin/ofxBox2d) - openFrameworks wrapper for Box2D.
+* [Bullet](http://bulletphysics.org) - A 3D physics engine for games.
+
 ## Serialization
 
 * [cereal](https://github.com/USCiLab/cereal) - A C++11 library for serialization.
@@ -189,8 +197,6 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 
 ## Etc.
 
-* [Box2D](https://code.google.com/p/box2d/) - A 2D Physics Engine for Games.
-* [ofxBox2d](https://github.com/vanderlin/ofxBox2d) - Openframework wrapper for box2d.
 * [C++ Format](https://github.com/cppformat/cppformat) - Small, safe and fast formatting library for C++.
 * [cxx-prettyprint](https://github.com/louisdx/cxx-prettyprint) - A pretty printing library for C++ containers.
 * [HTTP Parser](https://github.com/joyent/http-parser) - A http request/response parser for C.
