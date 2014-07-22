@@ -40,11 +40,6 @@ http://invisible-island.net/ncurses/
 
 If you're interested in graphics or creating games, consider SDL or OpenGL (or DirectX if you don't mind only working on Windows).
 
-Bullet Physics Library is an open source physics engine featuring 3D collision detection, soft body dynamics, and rigid body dynamics. It is used in games, and in visual effects in movies.
-http://bulletphysics.com/
-http://bulletphysics.org/
-https://github.com/bulletphysics/bullet3
-
 a very good, easy to use image library, good for messing around with
 http://cimg.sourceforge.net/
 
@@ -87,3 +82,15 @@ Cross-platform, Serial Port library written in C++
 https://github.com/wjwwood/serial
 
 http://scripts.mit.edu/~6.270/contestants/workshops/awesomec.pdf
+
+Cocos2d-x - a C++ OpenGL 2D and 3D game engine. Uses C++ but has JS and Lua bindings. Target all the major mobile platforms and operating systems. Additional tools CocoStudio and Cocos Code IDE.
+
+Ogre3D - is a scene-oriented, real-time, flexible 3D rendering engine (as opposed to a game engine) written in C++.
+
+Panda3D - a framework for 3D rendering and game development for Python and C++ programs.
+
+Irrlicht - open source high performance realtime 3D engine written in C++.
+
+Polycode - Open-Source Framework for creating games in C++ (with Lua bindings).
+
+Cinder - Cinder is a community-developed, free and open source library for professional-quality creative coding in C++.
