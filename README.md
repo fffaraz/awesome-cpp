@@ -138,6 +138,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 
 ## Game Engine
 
+* [Cocos2d-x](http://www.cocos2d-x.org/) - A multi-platform framework for building 2d games, interactive books, demos and other graphical applications.
 * [Errlicht](http://irrlicht.sourceforge.net/) - An open source high performance realtime 3D engine written in C++.
 * [Polycode](http://polycode.org/) - Open-Source Framework for creating games in C++ (with Lua bindings)..
 
@@ -153,6 +154,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 
 ## Graphics
 
+* [Cairo](http://www.cairographics.org/) - A 2D graphics library with support for multiple output devices.
 * [Ogre 3D](http://www.ogre3d.org/) - A scene-oriented, real-time, flexible 3D rendering engine (as opposed to a game engine) written in C++.
 * [Panda3D](http://www.panda3d.org/) - A framework for 3D rendering and game development for Python and C++ .
 * [Skia](https://code.google.com/p/skia/) - A 2D Graphics Library.
@@ -169,6 +171,11 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [json11](https://github.com/dropbox/json11) - A tiny JSON library for C++11.
 * [picojson](https://github.com/kazuho/picojson) - A header-file-only, JSON parser serializer in C++.
 * [YAJL](https://github.com/lloyd/yajl) - A fast streaming JSON parsing library in C.
+
+## Logging
+
+* [Log4cpp](http://log4cpp.sourceforge.net/) - A library of C++ classes for flexible logging to files, syslog, IDSA and other destinations.
+* [templog](http://www.templog.org/) - A very small and lightweight C++ library which you can use to add logging to your C++ applications.
 
 ## Machine Learning
 
@@ -231,9 +238,13 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 ## Etc.
 
 * [C++ Format](https://github.com/cppformat/cppformat) - Small, safe and fast formatting library for C++.
+* [casacore](https://code.google.com/p/casacore/) - A set of c++ core libraries derived from aips++.
+* [CImg](http://cimg.sourceforge.net/) - A small, open source, C++ toolkit for image processing.
 * [cxx-prettyprint](https://github.com/louisdx/cxx-prettyprint) - A pretty printing library for C++ containers.
 * [DynaPDF](http://www.dynaforms.com/) - An easy-to-use PDF generation library.
 * [HTTP Parser](https://github.com/joyent/http-parser) - A http request/response parser for C.
+* [libusb](http://www.libusb.org/) - A universal USB library which allows for portable access to USB devices.
+* [Remote Call Framework](http://www.deltavsoft.com/) - Inter-process communication framework for C++.
 * [Serial Communication Library](https://github.com/wjwwood/serial) - Cross-platform, Serial Port library written in C++.
 * [SDS](https://github.com/antirez/sds) - Simple Dynamic Strings library for C.
 * [Simbody](https://github.com/simbody/simbody) - High-performance C++ multibody dynamics/physics library for simulating articulated biomechanical and mechanical systems like vehicles, robots, and the human skeleton.

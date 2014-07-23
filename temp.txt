@@ -1,38 +1,20 @@
 
 * []() - .
 
+* [OpenGL](http://www.opengl.org/) - (Open Graphics Library) is a cross-language, multi-platform application programming interface (API) for rendering 2D and 3D vector graphics.
+* [DirectX]() - .
 
-Cairo - A good graphcis library similar to QuickDraw/Quartz on Mac OS X.
-http://www.cairographics.org/
+* [Blink](http://www.chromium.org/blink) - A web browser engine developed as part of the Chromium project.
+* [WebKit](http://www.webkit.org/) - A layout engine software component for rendering web pages in web browsers.
 
-libusb - A universal USB library which allows for portable access to USB devices (I used this to write a basic driver for a custom POS printer).
-http://www.libusb.org/
 
-WebKit - This is a really nice one if you want to render HTML/Web contents and use it in applications to give your users a "richer" user experience.
-http://www.webkit.org/
+* [libvpx](http://www.webmproject.org/code/) - libvpx.
+* [FFmpeg](https://www.ffmpeg.org/) - FFmpeg.
 
-OpenGL
-DirectX
+* [LLVM](http://llvm.org/) - The LLVM Compiler Infrastructure.
 
-a very good, easy to use image library, good for messing around with
-http://cimg.sourceforge.net/
+====================
 
-Log4cpp
-
-templog library. a very small and lightweight C++ library which you can use to add logging to your C++ applications.
-http://www.templog.org/
-
-The LLVM Compiler Infrastructure
-http://llvm.org/
-
-casacore
-A set of c++ core libraries derived from aips++
-https://code.google.com/p/casacore/
-
-rcf-cpp
-Inter-process communication framework for C++
-https://code.google.com/p/rcf-cpp/
+All libs in: https://github.com/Alexpux/MINGW-packages
 
 http://scripts.mit.edu/~6.270/contestants/workshops/awesomec.pdf
-
-Cocos2d-x - a C++ OpenGL 2D and 3D game engine. Uses C++ but has JS and Lua bindings. Target all the major mobile platforms and operating systems. Additional tools CocoStudio and Cocos Code IDE.
