@@ -328,7 +328,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [awesome-php](https://github.com/ziadoz/awesome-php) - Awesome PHP libraries, resources and shiny things.
 * [awesome-python](https://github.com/vinta/awesome-python) - Awesome Python frameworks, libraries and software.
 * [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - Awesome open source sysadmin resources
-* [awesome-talks](https://github.com/JanVanRyswyck/awesome-talks) - A lot of screencasts, recordings of user group gatherings and conference talks available online.
+* [awesome-talks](https://github.com/JanVanRyswyck/awesome-talks) - A lot of screencasts, recordings of user group gatherings and conference talks.
 * [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
 * [ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
 * [cheatsheets.org](http://www.cheatsheets.org/) - The largest collection of reference cards for developers.

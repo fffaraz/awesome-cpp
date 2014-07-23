@@ -2,11 +2,10 @@
 * []() - .
 
 * [OpenGL](http://www.opengl.org/) - (Open Graphics Library) is a cross-language, multi-platform application programming interface (API) for rendering 2D and 3D vector graphics.
-* [DirectX]() - .
+* [DirectX](http://msdn.microsoft.com/en-us/library/bb384840.aspx) - Microsoft DirectX.
 
 * [Blink](http://www.chromium.org/blink) - A web browser engine developed as part of the Chromium project.
 * [WebKit](http://www.webkit.org/) - A layout engine software component for rendering web pages in web browsers.
-
 
 * [libvpx](http://www.webmproject.org/code/) - libvpx.
 * [FFmpeg](https://www.ffmpeg.org/) - FFmpeg.
