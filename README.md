@@ -34,9 +34,10 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 	- [Compilers](#compilers)
 	- [Integrated Development Environments](#integrated-development-environments)
 - [Resources](#resources)
-	- [C++ Websites](#cpp-websites)
-	- [C++ Books](#cpp-books)
-	- [C++ Videos](#cpp-videos)
+	- [Articles](#articles)
+	- [Books](#books)
+	- [Videos](#videos)
+	- [Websites](#websites)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
 
@@ -265,29 +266,24 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Xcode](https://developer.apple.com/xcode/) - Developed by Apple.
 
 # Resources
-*Various resources, such as books, websites and articles, for improving your C++ development skills and knowledge.*
+*Various resources, such as books, websites, and articles for improving your C++ development skills and knowledge.*
 
-## C++ Websites
-*Useful C++ related websites.*
-
-* [C++ reference](http://cppreference.com/) - C++98, C++03, C++11, C++14 reference.
-
-## C++ Books
-*Fantastic C++ related books.*
-
-* [The C++ Annotations](http://cppannotations.sourceforge.net/annotations/html/) - An in-depth guide on C++, intended for people with a good knowledge of C who want to make the transition to C++. 
-* [Free C Books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#c) - vhf/free-programming-books/C.
-* [Free C++ Books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#c-1) - vhf/free-programming-books/C++.
-* [The Definitive C++ Book Guide and List](http://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list) - .
-
-## C++ Articles
-*Fantastic C++ related articles.*
+## Articles
+*Fantastic C/C++ related articles.*
 
 * [C++Now 2014 Presentations](https://github.com/boostcon/cppnow_presentations_2014) - Presentation materials presented at C++Now 2014.
 * [C++Now 2013 Presentations](https://github.com/boostcon/cppnow_presentations_2013) - Presentation materials presented at C++Now 2013.
 * [C++Now 2012 Presentations](https://github.com/boostcon/cppnow_presentations_2012) - Presentation materials presented at C++Now 2012.
 
-## C++ Videos
+## Books
+*Fantastic C/C++ related books.*
+
+* [The C++ Annotations](http://cppannotations.sourceforge.net/annotations/html/) - An in-depth guide on C++, intended for people with a good knowledge of C who want to make the transition to C++. 
+* [Free C Books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#c) - vhf/free-programming-books/C.
+* [Free C++ Books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#c-1) - vhf/free-programming-books/C++.
+* [The Definitive C++ Book Guide and List](http://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list) - A collection of quality books and an approximate skill level.
+
+## Videos
 *Fantastic C++ related videos.*
 
 * [Awesome C Programming Tutorials in Hi Def [HD]](https://www.youtube.com/playlist?list=PLCB9F975ECF01953C) - A collection of detailed C Programming Language Tutorials for Beginners and New Programmers.
@@ -297,6 +293,11 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [C++ Programming Tutorials from thenewboston](https://www.youtube.com/playlist?list=PLF541C2C1F671AEF6) - These are all of thenewboston's C++ programming tutorials.
 * [C++ GUI with Qt Playlist](https://www.youtube.com/playlist?list=PLD0D54219E5F2544D) - Official Playlist for thenewboston C++ GUI with Qt tutorials.
 * [C Programming Tutorials](https://www.youtube.com/playlist?list=PL78280D6BE6F05D34) - All of thenewboston's C programming tutorials are right here.
+
+## C++ Websites
+*Useful C++ related websites.*
+
+* [C++ reference](http://cppreference.com/) - C++98, C++03, C++11, C++14 reference.
 
 ## Other Awesome Projects
 *Collection of useful codes, snippets, ...*
