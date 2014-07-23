@@ -13,6 +13,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 	- [Cryptography](#cryptography)
 	- [Database](#database)
 	- [Debug](#debug)
+	- [Game Engine](#game-engine)
 	- [GUI](#gui)
 	- [Graphics](#graphics)
 	- [Imaging](#imaging)
@@ -24,6 +25,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 	- [Multimedia](#multimedia)
 	- [Networking](#networking)
 	- [Physics](#physics)
+	- [Scripting](#scripting)
 	- [Serialization](#serialization)
 	- [Web Application Framework](#web-application-framework)
 	- [XML](#xml)
@@ -39,6 +41,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 - [Contributing](#contributing)
 
 ## Standard Libraries
+*C++ Standard Library - including STL Containers, STL Aglorithm, STL Functional etc.*
 
 * [C++ Standard Library](http://en.wikipedia.org/wiki/C%2B%2B_Standard_Library) - A collection of classes and functions, which are written in the core language and part of the C++ ISO Standard itself.
 * [Standard Template Library](http://en.wikipedia.org/wiki/Standard_Template_Library) - The Standard Template Library (STL).
@@ -89,6 +92,15 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 ## Compression
 *Compression and Archiving Libraries*
 
+* [bzip2](http://www.bzip.org/) - A freely available, patent free, high-quality data compressor.
+* [LZ4](https://code.google.com/p/lz4/) - Extremely Fast Compression algorithm.
+* [LZMA](http://www.7-zip.org/sdk.html) - The default and general compression method of 7z format.
+* [miniz](https://code.google.com/p/miniz/) - Single C source file Deflate/Inflate compression library with zlib-compatible API, ZIP archive reading/writing, PNG writing.
+* [Minizip](https://github.com/nmoinvaz/minizip) - Zlib with latest bug fixes that supports PKWARE disk spanning, AES encryption, and IO buffering.
+* [Snappy](https://code.google.com/p/snappy/) - A fast compressor/decompressor.
+* [ZLib](http://zlib.net/) - A very compact compression library for data streams.
+* [ZZIPlib](http://zziplib.sourceforge.net/) - Provides read access on ZIP-archives.
+
 ## Concurrency
 
 * [Boost.Compute](https://github.com/kylelutz/compute) - A C++ GPU Computing Library for OpenCL.
@@ -114,24 +126,35 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 ## Database
 *Database Libraries, SQL Servers, ODBC Drivers, and Tools*
 
+* [hiberlite](https://github.com/paulftw/hiberlite) - C++ Object-relational mapping for sqlite3.
+* [SQLite](http://www.sqlite.org/) - A completely embedded, full-featured relational database in a few 100k that you can include right into your project.
+
 ## Debug
 *Debugging Libraries, Memory Leak and Resource Leak Detection, Unit Testing*
 
 * [CppUnit](http://sourceforge.net/projects/cppunit/) - C++ port of JUnit.
 * [googletest](http://code.google.com/p/googletest/) - Google C++ Testing Framework.
 
+## Game Engine
+
+* [Errlicht](http://irrlicht.sourceforge.net/) - An open source high performance realtime 3D engine written in C++.
+* [Polycode](http://polycode.org/) - Open-Source Framework for creating games in C++ (with Lua bindings)..
+
 ## GUI
 *Graphic User Interface*
 
 * [GTK+](http://www.gtk.org/) - A multi-platform toolkit for creating graphical user interfaces.
 * [gtkmm](http://www.gtkmm.org/en/) - The official C++ interface for the popular GUI library GTK+.
+* [Ncurses](http://invisible-island.net/ncurses/) - A terminal user interfaces.
 * [wxWidgets](http://wxwidgets.org/) - A C++ library that lets developers create applications for Windows, Mac OS X, Linux and other platforms with a single code base.
 * [Qwt](http://qwt.sourceforge.net/) - Qt Widgets for Technical Applications.
 * [QwtPlot3D](http://qwtplot3d.sourceforge.net/) - A feature-rich Qt/OpenGL-based C++ programming library, providing essentially a bunch of 3D-widgets.
 
 ## Graphics
 
-* [Ogre 3D](http://www.ogre3d.org/) - One of the most popular open-source graphics rendering engines.
+* [Ogre 3D](http://www.ogre3d.org/) - A scene-oriented, real-time, flexible 3D rendering engine (as opposed to a game engine) written in C++.
+* [Panda3D](http://www.panda3d.org/) - A framework for 3D rendering and game development for Python and C++ .
+* [Skia](https://code.google.com/p/skia/) - A 2D Graphics Library.
 
 ## Internationalization
 
@@ -185,6 +208,13 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Bullet](http://bulletphysics.org) - A 3D physics engine for games.
 * [LiquidFun](https://github.com/google/liquidfun) - A 2D physics engine for games.
 
+## Scripting
+
+* [ChaiScript](http://chaiscript.com/) - An easy to use embedded scripting language for C++.
+* [Lua](http://www.lua.org/) - A minimal and fast scripting engine for configuration files and basic application scripting.
+* [V8](http://code.google.com/p/v8/) - A fast JavaScript by Google engine similar to WebKit's JavaScriptCore.
+* [SWIG](http://www.swig.org/) - a wrapper/interface Generator that let you link your c++ code to Javascript, Perl, PHP, Python, Tcl and Ruby.
+
 ## Serialization
 
 * [cereal](https://github.com/USCiLab/cereal) - A C++11 library for serialization.
@@ -201,11 +231,15 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 
 * [C++ Format](https://github.com/cppformat/cppformat) - Small, safe and fast formatting library for C++.
 * [cxx-prettyprint](https://github.com/louisdx/cxx-prettyprint) - A pretty printing library for C++ containers.
+* [DynaPDF](http://www.dynaforms.com/) - An easy-to-use PDF generation library.
 * [HTTP Parser](https://github.com/joyent/http-parser) - A http request/response parser for C.
+* [Serial Communication Library](https://github.com/wjwwood/serial) - Cross-platform, Serial Port library written in C++.
 * [SDS](https://github.com/antirez/sds) - Simple Dynamic Strings library for C.
 * [Simbody](https://github.com/simbody/simbody) - High-performance C++ multibody dynamics/physics library for simulating articulated biomechanical and mechanical systems like vehicles, robots, and the human skeleton.
 * [SLDR](https://github.com/cesanta/sldr) - Super Light DNS Resolver.
 * [SLRE](https://github.com/cesanta/slre) - Super Light Regular Expression library.
+* [Stage](https://github.com/rtv/Stage) - Mobile robot simulator.
+* [ZBar](http://zbar.sourceforge.net/) - A barcode scanner library, which allows to scan photos/images/video streams for barcodes and return their value.
 
 # Software
 *Software for creating a development environment.*
@@ -242,6 +276,9 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 *Fantastic C++ related books.*
 
 * [The C++ Annotations](http://cppannotations.sourceforge.net/annotations/html/) - An in-depth guide on C++, intended for people with a good knowledge of C who want to make the transition to C++. 
+* [Free C Books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#c) - vhf/free-programming-books/C.
+* [Free C++ Books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#c-1) - vhf/free-programming-books/C++.
+* [The Definitive C++ Book Guide and List](http://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list) - .
 
 ## C++ Articles
 *Fantastic C++ related articles.*
