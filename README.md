@@ -193,7 +193,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 
 ## Multimedia
 
-* [libVLC](https://wiki.videolan.org/LibVLC) - libVLC (VLC SDK) media framework
+* [libVLC](https://wiki.videolan.org/LibVLC) - libVLC (VLC SDK) media framework.
 * [SFML](http://www.sfml-dev.org/index.php) - Simple and Fast Multimedia Library.
 * [SDL](http://www.libsdl.org/) - Simple DirectMedia Layer.
 
@@ -237,6 +237,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Wt](http://www.webtoolkit.eu/wt) - A C++ library for developing web applications.
 
 ## Etc.
+*Etcetera or maybe just uncategorized*
 
 * [C++ Format](https://github.com/cppformat/cppformat) - Small, safe and fast formatting library for C++.
 * [casacore](https://code.google.com/p/casacore/) - A set of c++ core libraries derived from aips++.
@@ -253,6 +254,8 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [SLRE](https://github.com/cesanta/slre) - Super Light Regular Expression library.
 * [Stage](https://github.com/rtv/Stage) - Mobile robot simulator.
 * [ZBar](http://zbar.sourceforge.net/) - A barcode scanner library, which allows to scan photos/images/video streams for barcodes and return their value.
+* [CppVerbalExpressions](https://github.com/VerbalExpressions/CppVerbalExpressions) - C++ regular expressions made easy.
+* [QtVerbalExpressions](https://github.com/VerbalExpressions/QtVerbalExpressions) - This Qt lib is based off of the C++ VerbalExpressions library.
 
 # Software
 *Software for creating a development environment.*
