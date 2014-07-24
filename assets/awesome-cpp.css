@@ -5,12 +5,12 @@
   display: block;
 }
 
-#awesomecpp {
+#awesomecc {
   margin-top: 15px;
   text-align: center;
 }
 
-#awesomecpp + p {
+#awesomecc + p {
   margin-bottom: 30px;
   padding-bottom: 30px;
   text-align: center;
