@@ -139,7 +139,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 ## Game Engine
 
 * [Cocos2d-x](http://www.cocos2d-x.org/) - A multi-platform framework for building 2d games, interactive books, demos and other graphical applications.
-* [Errlicht](http://irrlicht.sourceforge.net/) - An open source high performance realtime 3D engine written in C++.
+* [Irrlicht](http://irrlicht.sourceforge.net/) - An open source high performance realtime 3D engine written in C++.
 * [Polycode](http://polycode.org/) - Open-Source Framework for creating games in C++ (with Lua bindings)..
 
 ## GUI
@@ -193,6 +193,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 
 ## Multimedia
 
+* [libVLC](https://wiki.videolan.org/LibVLC) - libVLC (VLC SDK) media framework
 * [SFML](http://www.sfml-dev.org/index.php) - Simple and Fast Multimedia Library.
 * [SDL](http://www.libsdl.org/) - Simple DirectMedia Layer.
 
