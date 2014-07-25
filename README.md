@@ -7,7 +7,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 	- [Artificial Intelligence](#artificial-intelligence)
 	- [Asynchronous Event Loop](#asynchronous-event-loop)
 	- [Audio](#audio)
-	- [Compression](#compression) 
+	- [Compression](#compression)
 	- [Concurrency](#concurrency)
 	- [Containers](#containers)
 	- [Cryptography](#cryptography)
@@ -150,6 +150,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 
 * [GTK+](http://www.gtk.org/) - A multi-platform toolkit for creating graphical user interfaces.
 * [gtkmm](http://www.gtkmm.org/en/) - The official C++ interface for the popular GUI library GTK+.
+* [libRocket](http://librocket.com/) - libRocket is a C++ HTML/CSS game interface middleware.
 * [Ncurses](http://invisible-island.net/ncurses/) - A terminal user interfaces.
 * [Qwt](http://qwt.sourceforge.net/) - Qt Widgets for Technical Applications.
 * [QwtPlot3D](http://qwtplot3d.sourceforge.net/) - A feature-rich Qt/OpenGL-based C++ programming library, providing essentially a bunch of 3D-widgets.
@@ -172,6 +173,8 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 
 * [frozen](https://github.com/cesanta/frozen) - JSON parser and generator for C/C++.
 * [Jansson](https://github.com/akheron/jansson) - C library for encoding, decoding and manipulating JSON data.
+* [jbson](https://github.com/chrismanning/jbson) - jbson is a library for building & iterating BSON data, and JSON documents in C++14.
+* [JeayeSON](https://github.com/jeaye/jeayeson) - A very sane (header only) C++ JSON library.
 * [json11](https://github.com/dropbox/json11) - A tiny JSON library for C++11.
 * [picojson](https://github.com/kazuho/picojson) - A header-file-only, JSON parser serializer in C++.
 * [RapidJSON](https://github.com/miloyip/rapidjson) - A fast JSON parser/generator for C++ with both SAX/DOM style API.
@@ -213,6 +216,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [net_skeleton](https://github.com/cesanta/net_skeleton) - TCP client/server library for C/C++.
 * [Onion](https://github.com/davidmoreno/onion) - HTTP server library in C designed to be lightweight and easy to use.
 * [POCO](http://pocoproject.org/) - C++ class libraries and frameworks for building network- and internet-based applications that run on desktop, server, mobile and embedded systems.
+* [Tufão](https://github.com/vinipsmaker/tufao) - An asynchronous web framework for C++ built on top of Qt.
 * [WebSocket++](https://github.com/zaphoyd/websocketpp) - C++/Boost Asio based websocket client/server library.
 * [ZeroMQ](http://zeromq.org/) - High-speed, modular asynchronous communication library.
 
@@ -229,6 +233,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 
 * [ChaiScript](http://chaiscript.com/) - An easy to use embedded scripting language for C++.
 * [Lua](http://www.lua.org/) - A minimal and fast scripting engine for configuration files and basic application scripting.
+* [luacxx](https://github.com/dafrito/luacxx) - C++11 API for creating Lua bindings.
 * [SWIG](http://www.swig.org/) - a wrapper/interface Generator that let you link your c++ code to Javascript, Perl, PHP, Python, Tcl and Ruby.
 * [V8](http://code.google.com/p/v8/) - A fast JavaScript engine by Google that can be embedded into any C++ application.
 
@@ -288,6 +293,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [NetBeans](https://netbeans.org/) - An IDE for developing primarily with Java, but also with other languages, in particular PHP, C/C++, and HTML5.
 * [Qt Creator](http://qt-project.org/) - A cross-platform C++, JavaScript and QML IDE which is part of the SDK for Qt.
 * [Xcode](https://developer.apple.com/xcode/) - Developed by Apple.
+* [YouCompleteMe](https://valloric.github.io/YouCompleteMe/) - YouCompleteMe is a fast, as-you-type, fuzzy-search code completion engine for Vim.
 
 # Resources
 *Various resources, such as books, websites, and articles for improving your C++ development skills and knowledge.*
@@ -302,7 +308,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 ## Books
 *Fantastic C/C++ related books.*
 
-* [The C++ Annotations](http://cppannotations.sourceforge.net/annotations/html/) - An in-depth guide on C++, intended for people with a good knowledge of C who want to make the transition to C++. 
+* [The C++ Annotations](http://cppannotations.sourceforge.net/annotations/html/) - An in-depth guide on C++, intended for people with a good knowledge of C who want to make the transition to C++.
 * [Free C Books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#c) - vhf/free-programming-books/C.
 * [Free C++ Books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#c-1) - vhf/free-programming-books/C++.
 * [The Definitive C++ Book Guide and List](http://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list) - A collection of quality books and an approximate skill level.
