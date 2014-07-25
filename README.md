@@ -213,6 +213,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Onion](https://github.com/davidmoreno/onion) - HTTP server library in C designed to be lightweight and easy to use.
 * [POCO](http://pocoproject.org/) - C++ class libraries and frameworks for building network- and internet-based applications that run on desktop, server, mobile and embedded systems.
 * [WebSocket++](https://github.com/zaphoyd/websocketpp) - C++/Boost Asio based websocket client/server library.
+* [ZeroMQ](http://zeromq.org/) - High-speed, modular asynchronous communication library.
 
 ## Physics
 *Dynamics simulation engines*
