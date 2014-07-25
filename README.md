@@ -7,7 +7,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 	- [Artificial Intelligence](#artificial-intelligence)
 	- [Asynchronous Event Loop](#asynchronous-event-loop)
 	- [Audio](#audio)
-	- [Compression](#compression) 
+	- [Compression](#compression)
 	- [Concurrency](#concurrency)
 	- [Containers](#containers)
 	- [Cryptography](#cryptography)
@@ -172,6 +172,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 
 * [frozen](https://github.com/cesanta/frozen) - JSON parser and generator for C/C++.
 * [Jansson](https://github.com/akheron/jansson) - C library for encoding, decoding and manipulating JSON data.
+* [JeayeSON](https://github.com/jeaye/jeayeson) - A very sane (header only) C++ JSON library
 * [json11](https://github.com/dropbox/json11) - A tiny JSON library for C++11.
 * [picojson](https://github.com/kazuho/picojson) - A header-file-only, JSON parser serializer in C++.
 * [RapidJSON](https://github.com/miloyip/rapidjson) - A fast JSON parser/generator for C++ with both SAX/DOM style API.
@@ -302,7 +303,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 ## Books
 *Fantastic C/C++ related books.*
 
-* [The C++ Annotations](http://cppannotations.sourceforge.net/annotations/html/) - An in-depth guide on C++, intended for people with a good knowledge of C who want to make the transition to C++. 
+* [The C++ Annotations](http://cppannotations.sourceforge.net/annotations/html/) - An in-depth guide on C++, intended for people with a good knowledge of C who want to make the transition to C++.
 * [Free C Books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#c) - vhf/free-programming-books/C.
 * [Free C++ Books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#c-1) - vhf/free-programming-books/C++.
 * [The Definitive C++ Book Guide and List](http://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list) - A collection of quality books and an approximate skill level.
