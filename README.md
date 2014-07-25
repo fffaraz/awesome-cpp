@@ -232,6 +232,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 
 * [ChaiScript](http://chaiscript.com/) - An easy to use embedded scripting language for C++.
 * [Lua](http://www.lua.org/) - A minimal and fast scripting engine for configuration files and basic application scripting.
+* [luacxx](https://github.com/dafrito/luacxx) - C++11 API for creating Lua bindings
 * [SWIG](http://www.swig.org/) - a wrapper/interface Generator that let you link your c++ code to Javascript, Perl, PHP, Python, Tcl and Ruby.
 * [V8](http://code.google.com/p/v8/) - A fast JavaScript engine by Google that can be embedded into any C++ application.
 
