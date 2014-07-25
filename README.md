@@ -233,6 +233,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 
 ## Serialization
 
+* [Cap'n Proto](http://kentonv.github.io/capnproto/) - Fast data interchange format and capability-based RPC system.
 * [cereal](https://github.com/USCiLab/cereal) - A C++11 library for serialization.
 * [FlatBuffers](https://github.com/google/flatbuffers) -  A Memory efficient serialization library.
 * [protobuf](http://code.google.com/p/protobuf/) - Protocol Buffers - Google's data interchange format.
