@@ -171,6 +171,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 ## JSON
 
 * [frozen](https://github.com/cesanta/frozen) - JSON parser and generator for C/C++.
+* [msgpack](https://github.com/msgpack/msgpack-c) - Efficient binary serialization format "like JSON" for C/C++.
 * [Jansson](https://github.com/akheron/jansson) - C library for encoding, decoding and manipulating JSON data.
 * [json11](https://github.com/dropbox/json11) - A tiny JSON library for C++11.
 * [picojson](https://github.com/kazuho/picojson) - A header-file-only, JSON parser serializer in C++.
