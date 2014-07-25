@@ -249,8 +249,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [casacore](https://code.google.com/p/casacore/) - A set of c++ core libraries derived from aips++.
 * [cxx-prettyprint](https://github.com/louisdx/cxx-prettyprint) - A pretty printing library for C++ containers.
 * [DynaPDF](http://www.dynaforms.com/) - An easy-to-use PDF generation library.
-* [Eigen](http://eigen.tuxfamily.org/index.php) - C++ template library for
-linear algebra: matrices, vectors, numerical solvers, and related algorithms.
+* [Eigen](http://eigen.tuxfamily.org/index.php) - C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms.
 * [HTTP Parser](https://github.com/joyent/http-parser) - A http request/response parser for C.
 * [libusb](http://www.libusb.org/) - A universal USB library which allows for portable access to USB devices.
 * [Remote Call Framework](http://www.deltavsoft.com/) - Inter-process communication framework for C++.
