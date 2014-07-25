@@ -293,6 +293,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [NetBeans](https://netbeans.org/) - An IDE for developing primarily with Java, but also with other languages, in particular PHP, C/C++, and HTML5.
 * [Qt Creator](http://qt-project.org/) - A cross-platform C++, JavaScript and QML IDE which is part of the SDK for Qt.
 * [Xcode](https://developer.apple.com/xcode/) - Developed by Apple.
+* [YouCompleteMe](https://valloric.github.io/YouCompleteMe/) - YouCompleteMe is a fast, as-you-type, fuzzy-search code completion engine for Vim.
 
 # Resources
 *Various resources, such as books, websites, and articles for improving your C++ development skills and knowledge.*
