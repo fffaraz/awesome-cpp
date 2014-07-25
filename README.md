@@ -81,6 +81,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 
 ## Asynchronous Event Loop
 
+* [Boost.Asio](http://think-async.com/) - A cross-platform C++ library for network and low-level I/O programming.
 * [libev](http://libev.schmorp.de/) - A full-featured and high-performance event loop that is loosely modelled after libevent, but without its limitations and bugs.
 * [libevent](http://libevent.org/) - An event notification library.
 * [libuv](https://github.com/joyent/libuv) - Cross-platform asychronous I/O.
@@ -122,6 +123,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 
 * [Crypto++](http://www.cryptopp.com/) - A free C++ class library of cryptographic schemes.
 * [LibTomCrypt](https://github.com/libtom/libtomcrypt) - A fairly comprehensive, modular and portable cryptographic toolkit.
+* [libsodium](https://github.com/jedisct1/libsodium) - P(ortable|ackageable) NaCl-based crypto library, opinionated and easy to use.
 * [OpenSSL](http://www.openssl.org/) - A robust, commercial-grade, full-featured, and Open Source cryptography library.
 
 ## Database
@@ -148,13 +150,14 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [GTK+](http://www.gtk.org/) - A multi-platform toolkit for creating graphical user interfaces.
 * [gtkmm](http://www.gtkmm.org/en/) - The official C++ interface for the popular GUI library GTK+.
 * [Ncurses](http://invisible-island.net/ncurses/) - A terminal user interfaces.
-* [wxWidgets](http://wxwidgets.org/) - A C++ library that lets developers create applications for Windows, Mac OS X, Linux and other platforms with a single code base.
 * [Qwt](http://qwt.sourceforge.net/) - Qt Widgets for Technical Applications.
 * [QwtPlot3D](http://qwtplot3d.sourceforge.net/) - A feature-rich Qt/OpenGL-based C++ programming library, providing essentially a bunch of 3D-widgets.
+* [wxWidgets](http://wxwidgets.org/) - A C++ library that lets developers create applications for Windows, Mac OS X, Linux and other platforms with a single code base.
 
 ## Graphics
 
 * [Cairo](http://www.cairographics.org/) - A 2D graphics library with support for multiple output devices.
+* [CImg](http://cimg.sourceforge.net/) - A small, open source, C++ toolkit for image processing.
 * [Ogre 3D](http://www.ogre3d.org/) - A scene-oriented, real-time, flexible 3D rendering engine (as opposed to a game engine) written in C++.
 * [Panda3D](http://www.panda3d.org/) - A framework for 3D rendering and game development for Python and C++ .
 * [Skia](https://code.google.com/p/skia/) - A 2D Graphics Library.
@@ -170,6 +173,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Jansson](https://github.com/akheron/jansson) - C library for encoding, decoding and manipulating JSON data.
 * [json11](https://github.com/dropbox/json11) - A tiny JSON library for C++11.
 * [picojson](https://github.com/kazuho/picojson) - A header-file-only, JSON parser serializer in C++.
+* [RapidJSON](https://github.com/miloyip/rapidjson) - A fast JSON parser/generator for C++ with both SAX/DOM style API.
 * [YAJL](https://github.com/lloyd/yajl) - A fast streaming JSON parsing library in C.
 
 ## Logging
@@ -179,13 +183,13 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 
 ## Machine Learning
 
-* [OpenCV](http://opencv.org/) - Open Computer Vision.
-* [Recommender](https://github.com/GHamrouni/Recommender) - C library for product recommendations/suggestions using collaborative filtering (CF).
+* [Caffe](https://github.com/BVLC/caffe) - A fast framework for neural networks.
 * [CCV](https://github.com/liuliu/ccv) - C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library.
 * [mlpack](http://www.mlpack.org/) - A scalable c++ machine learning library.
-* [sofia-ml](https://code.google.com/p/sofia-ml/) - The suite of fast incremental algorithms for machine learning.
+* [OpenCV](http://opencv.org/) - Open Computer Vision.
+* [Recommender](https://github.com/GHamrouni/Recommender) - C library for product recommendations/suggestions using collaborative filtering (CF).
 * [SHOGUN](https://github.com/shogun-toolbox/shogun) - The Shogun Machine Learning Toolbox.
-* [Caffe](https://github.com/BVLC/caffe) - A fast framework for neural networks.
+* [sofia-ml](https://code.google.com/p/sofia-ml/) - The suite of fast incremental algorithms for machine learning.
 
 ## Mocking
 
@@ -193,6 +197,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 
 ## Multimedia
 
+* [GStreamer](http://gstreamer.freedesktop.org/) - A library for constructing graphs of media-handling components.
 * [libVLC](https://wiki.videolan.org/LibVLC) - libVLC (VLC SDK) media framework.
 * [SFML](http://www.sfml-dev.org/index.php) - Simple and Fast Multimedia Library.
 * [SDL](http://www.libsdl.org/) - Simple DirectMedia Layer.
@@ -200,7 +205,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 ## Networking
 
 * [ACE](http://www.cs.wustl.edu/~schmidt/ACE.html) - An OO Network Programming Toolkit in C++.
-* [Asio](http://think-async.com/) - A cross-platform C++ library for network and low-level I/O programming.
+* [Boost.Asio](http://think-async.com/) - A cross-platform C++ library for network and low-level I/O programming.
 * [Casablanca](http://casablanca.codeplex.com/) - C++ REST SDK.
 * [cpp-netlib](http://cpp-netlib.org/) - A collection of open-source libraries for high level network programming.
 * [Muduo](https://github.com/chenshuo/muduo) - A C++ non-blocking network library for multi-threaded server in Linux.
@@ -213,16 +218,17 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 *Dynamics simulation engines*
 
 * [Box2D](https://code.google.com/p/box2d/) - A 2D physics engine for games.
-* [ofxBox2d](https://github.com/vanderlin/ofxBox2d) - openFrameworks wrapper for Box2D.
 * [Bullet](http://bulletphysics.org) - A 3D physics engine for games.
 * [LiquidFun](https://github.com/google/liquidfun) - A 2D physics engine for games.
+* [ofxBox2d](https://github.com/vanderlin/ofxBox2d) - openFrameworks wrapper for Box2D.
+* [Simbody](https://github.com/simbody/simbody) - High-performance C++ multibody dynamics/physics library for simulating articulated biomechanical and mechanical systems like vehicles, robots, and the human skeleton.
 
 ## Scripting
 
 * [ChaiScript](http://chaiscript.com/) - An easy to use embedded scripting language for C++.
 * [Lua](http://www.lua.org/) - A minimal and fast scripting engine for configuration files and basic application scripting.
-* [V8](http://code.google.com/p/v8/) - A fast JavaScript by Google engine similar to WebKit's JavaScriptCore.
 * [SWIG](http://www.swig.org/) - a wrapper/interface Generator that let you link your c++ code to Javascript, Perl, PHP, Python, Tcl and Ruby.
+* [V8](http://code.google.com/p/v8/) - A fast JavaScript engine by Google that can be embedded into any C++ application.
 
 ## Serialization
 
@@ -241,7 +247,6 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 
 * [C++ Format](https://github.com/cppformat/cppformat) - Small, safe and fast formatting library for C++.
 * [casacore](https://code.google.com/p/casacore/) - A set of c++ core libraries derived from aips++.
-* [CImg](http://cimg.sourceforge.net/) - A small, open source, C++ toolkit for image processing.
 * [cxx-prettyprint](https://github.com/louisdx/cxx-prettyprint) - A pretty printing library for C++ containers.
 * [DynaPDF](http://www.dynaforms.com/) - An easy-to-use PDF generation library.
 * [HTTP Parser](https://github.com/joyent/http-parser) - A http request/response parser for C.
@@ -249,7 +254,6 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Remote Call Framework](http://www.deltavsoft.com/) - Inter-process communication framework for C++.
 * [Serial Communication Library](https://github.com/wjwwood/serial) - Cross-platform, Serial Port library written in C++.
 * [SDS](https://github.com/antirez/sds) - Simple Dynamic Strings library for C.
-* [Simbody](https://github.com/simbody/simbody) - High-performance C++ multibody dynamics/physics library for simulating articulated biomechanical and mechanical systems like vehicles, robots, and the human skeleton.
 * [SLDR](https://github.com/cesanta/sldr) - Super Light DNS Resolver.
 * [SLRE](https://github.com/cesanta/slre) - Super Light Regular Expression library.
 * [Stage](https://github.com/rtv/Stage) - Mobile robot simulator.
@@ -277,7 +281,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [KDevelop](https://www.kdevelop.org/) - A free, open source IDE.
 * [Microsoft Visual Studio](http://www.visualstudio.com/) - An IDE from Microsoft.
 * [NetBeans](https://netbeans.org/) - An IDE for developing primarily with Java, but also with other languages, in particular PHP, C/C++, and HTML5.
-* [Qt Creator](http://qt-project.org/) - A cross-platform C++, JavaScript and QML IDE which is part of the SDK for the Qt.
+* [Qt Creator](http://qt-project.org/) - A cross-platform C++, JavaScript and QML IDE which is part of the SDK for Qt.
 * [Xcode](https://developer.apple.com/xcode/) - Developed by Apple.
 
 # Resources
