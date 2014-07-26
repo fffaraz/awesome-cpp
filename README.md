@@ -171,10 +171,10 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 
 ## JSON
 
-* [frozen](https://github.com/cesanta/frozen) - :star: 19 - JSON parser and generator for C/C++.
+* [frozen](https://github.com/cesanta/frozen) - :star: 20+ - JSON parser and generator for C/C++.
 * [Jansson](https://github.com/akheron/jansson) - :star: 650+ - C library for encoding, decoding and manipulating JSON data.
-* [jbson](https://github.com/chrismanning/jbson) - :star: 3 - jbson is a library for building & iterating BSON data, and JSON documents in C++14.
-* [JeayeSON](https://github.com/jeaye/jeayeson) - :star: 16 - A very sane (header only) C++ JSON library.
+* [jbson](https://github.com/chrismanning/jbson) - :star: <10 - jbson is a library for building & iterating BSON data, and JSON documents in C++14.
+* [JeayeSON](https://github.com/jeaye/jeayeson) - :star: 10+ - A very sane (header only) C++ JSON library.
 * [JSON++](https://github.com/hjiang/jsonxx) - :star: 130+ - A JSON parser in C++.
 * [json11](https://github.com/dropbox/json11) - :star: 290+ - A tiny JSON library for C++11.
 * [PicoJSON](https://github.com/kazuho/picojson) - :star: 170+ - A header-file-only, JSON parser serializer in C++.
@@ -237,6 +237,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Lua](http://www.lua.org/) - A minimal and fast scripting engine for configuration files and basic application scripting.
 * [luacxx](https://github.com/dafrito/luacxx) - C++11 API for creating Lua bindings.
 * [SWIG](http://www.swig.org/) - a wrapper/interface Generator that let you link your c++ code to Javascript, Perl, PHP, Python, Tcl and Ruby.
+* [V7](https://github.com/cesanta/v7) - An embedded JavaScript engine.
 * [V8](http://code.google.com/p/v8/) - A fast JavaScript engine by Google that can be embedded into any C++ application.
 
 ## Serialization
