@@ -29,7 +29,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 	- [Serialization](#serialization)
 	- [Web Application Framework](#web-application-framework)
 	- [XML](#xml)
-	- [Etc.](#etc)
+	- [Miscellaneous](#miscellaneous)
 - [Software](#software)
 	- [Compilers](#compilers)
 	- [Integrated Development Environments](#integrated-development-environments)
@@ -42,7 +42,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 - [Contributing](#contributing)
 
 ## Standard Libraries
-*C++ Standard Library - including STL Containers, STL Aglorithm, STL Functional etc.*
+*C++ Standard Library - including STL Containers, STL Aglorithm, STL Functional, etc.*
 
 * [C++ Standard Library](http://en.wikipedia.org/wiki/C%2B%2B_Standard_Library) - A collection of classes and functions, which are written in the core language and part of the C++ ISO Standard itself.
 * [Standard Template Library](http://en.wikipedia.org/wiki/Standard_Template_Library) - The Standard Template Library (STL).
@@ -262,8 +262,8 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [TinyXML++](https://code.google.com/p/ticpp/) - A completely new interface to TinyXML that uses MANY of the C++ strengths. Templates, exceptions, and much better error handling.
 * [Xerces-C++](http://xerces.apache.org/xerces-c/) - A validating XML parser written in a portable subset of C++.
 
-## Etc.
-*Etcetera or maybe just uncategorized*
+## Miscellaneous
+*Useful libraries or tools that don't fit in the categories above or maybe just not categorised yet*
 
 * [C++ Format](https://github.com/cppformat/cppformat) - Small, safe and fast formatting library for C++.
 * [casacore](https://code.google.com/p/casacore/) - A set of c++ core libraries derived from aips++.
