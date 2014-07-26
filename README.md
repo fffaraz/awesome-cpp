@@ -250,6 +250,18 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Crow](https://github.com/ipkn/crow) - Crow is C++ micro web framework (inspired by Python Flask).
 * [Wt](http://www.webtoolkit.eu/wt) - A C++ library for developing web applications.
 
+## XML
+
+* [Expat](http://www.libexpat.org/) - An XML parser library written in C.
+* [Libxml2](http://xmlsoft.org/) - The XML C parser and toolkit of Gnome.
+* [libxml++](http://libxmlplusplus.sourceforge.net/) - An XML Parser for C++.
+* [PugiXML](http://pugixml.org/) - A light-weight, simple and fast XML parser for C++ with XPath support.
+* [RapidXml](http://rapidxml.sourceforge.net/) - An attempt to create the fastest XML parser possible, while retaining useability, portability and reasonable W3C compatibility.
+* [TinyXML](http://sourceforge.net/projects/tinyxml/) - A simple, small, minimal, C++ XML parser that can be easily integrating into other programs.
+* [TinyXML2](https://github.com/leethomason/tinyxml2) - A simple, small, efficient, C++ XML parser that can be easily integrating into other programs.
+* [TinyXML++](https://code.google.com/p/ticpp/) - A completely new interface to TinyXML that uses MANY of the C++ strengths. Templates, exceptions, and much better error handling.
+* [Xerces-C++](http://xerces.apache.org/xerces-c/) - A validating XML parser written in a portable subset of C++.
+
 ## Etc.
 *Etcetera or maybe just uncategorized*
 
