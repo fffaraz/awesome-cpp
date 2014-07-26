@@ -35,8 +35,6 @@ https://github.com/USCiLab/cereal
 https://github.com/bittorrent/libutp
 https://github.com/micknoise/Maximilian
 https://github.com/vinniefalco/DSPFilters
-https://github.com/kazuho/picojson
-https://github.com/miloyip/rapidjson
 
 https://github.com/Hawstein/cracking-the-coding-interview
 
@@ -56,7 +54,6 @@ https://github.com/beark/ftl
 https://github.com/opencog/opencog
 https://github.com/CopernicaMarketingSoftware/PHP-CPP
 https://github.com/xtaci/algorithms
-https://github.com/dropbox/json11
 https://github.com/GraphChi/graphchi-cpp
 https://github.com/webcoyote/coho
 https://github.com/facebook/fbthrift
@@ -91,10 +88,8 @@ https://github.com/geometer/FBReader
 https://github.com/easylogging/easyloggingpp
 https://github.com/lastfm/libmoost
 https://github.com/jscheiny/Streams
-https://github.com/hjiang/jsonxx
 https://github.com/lemire/FastPFor
 https://github.com/pennyliang/MachineLearning-C---code
-https://github.com/gaudecker/qt-json
 https://github.com/zeromq/cppzmq
 https://github.com/bytefish/opencv
 https://github.com/treefrogframework/treefrog-framework

@@ -171,14 +171,16 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 
 ## JSON
 
-* [frozen](https://github.com/cesanta/frozen) - JSON parser and generator for C/C++.
-* [Jansson](https://github.com/akheron/jansson) - C library for encoding, decoding and manipulating JSON data.
-* [jbson](https://github.com/chrismanning/jbson) - jbson is a library for building & iterating BSON data, and JSON documents in C++14.
-* [JeayeSON](https://github.com/jeaye/jeayeson) - A very sane (header only) C++ JSON library.
-* [json11](https://github.com/dropbox/json11) - A tiny JSON library for C++11.
-* [picojson](https://github.com/kazuho/picojson) - A header-file-only, JSON parser serializer in C++.
-* [RapidJSON](https://github.com/miloyip/rapidjson) - A fast JSON parser/generator for C++ with both SAX/DOM style API.
-* [YAJL](https://github.com/lloyd/yajl) - A fast streaming JSON parsing library in C.
+* [frozen](https://github.com/cesanta/frozen) - :star: 19 - JSON parser and generator for C/C++.
+* [Jansson](https://github.com/akheron/jansson) - :star: 650+ - C library for encoding, decoding and manipulating JSON data.
+* [jbson](https://github.com/chrismanning/jbson) - :star: 3 - jbson is a library for building & iterating BSON data, and JSON documents in C++14.
+* [JeayeSON](https://github.com/jeaye/jeayeson) - :star: 16 - A very sane (header only) C++ JSON library.
+* [JSON++](https://github.com/hjiang/jsonxx) - :star: 130+ - A JSON parser in C++.
+* [json11](https://github.com/dropbox/json11) - :star: 290+ - A tiny JSON library for C++11.
+* [PicoJSON](https://github.com/kazuho/picojson) - :star: 170+ - A header-file-only, JSON parser serializer in C++.
+* [qt-json](https://github.com/gaudecker/qt-json) - :star: 120+ - A simple class for parsing JSON data into a QVariant hierarchy and vice versa.
+* [RapidJSON](https://github.com/miloyip/rapidjson) - :star: 170+ - A fast JSON parser/generator for C++ with both SAX/DOM style API.
+* [YAJL](https://github.com/lloyd/yajl) - :star: 1,100+ - A fast streaming JSON parsing library in C.
 
 ## Logging
 
