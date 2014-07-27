@@ -64,6 +64,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [libPhenom](https://github.com/facebook/libphenom) - libPhenom is an eventing framework for building high performance and high scalability systems in C.
 * [LibSourcey](https://github.com/sourcey/libsourcey) - C++11 evented IO for real-time video streaming and high performance networking applications.
 * [LibU](https://github.com/koanlogic/libu) - A multiplatform utility library written in C.
+* [LLVM](http://llvm.org/) - Collection of modular and reusable compiler and toolchain technologies.
 * [Loki](http://loki-lib.sourceforge.net/) - A C++ library of designs, containing flexible implementations of common design patterns and idioms.
 * [MiLi](https://code.google.com/p/mili/) - Minimal headers-only C++ Library.
 * [openFrameworks](http://www.openframeworks.cc/) - An open source C++ toolkit for creative coding.
