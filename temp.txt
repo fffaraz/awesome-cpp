@@ -12,8 +12,6 @@
 * [libvpx](http://www.webmproject.org/code/) - libvpx.
 * [FFmpeg](https://www.ffmpeg.org/) - FFmpeg.
 
-* [LLVM](http://llvm.org/) - The LLVM Compiler Infrastructure.
-
 ====================
 
 All libs in: https://github.com/Alexpux/MINGW-packages

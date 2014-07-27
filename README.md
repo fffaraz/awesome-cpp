@@ -297,6 +297,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [GCC](https://gcc.gnu.org/) - GNU Compiler Collection.
 * [Intel C++ Compiler](https://software.intel.com/en-us/c-compilers) - Developed by Intel.
 * [Microsoft Visual C++](http://msdn.microsoft.com/en-us/vstudio/hh386302.aspx) - MSVC, developed by Microsoft.
+* [LLVM](http://llvm.org/) - Collection of modular and reusable compiler and toolchain technologies.
 
 ## Integrated Development Environments
 *List of C/C++ nominal IDEs.*
