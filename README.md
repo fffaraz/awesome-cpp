@@ -29,7 +29,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 	- [Serialization](#serialization)
 	- [Web Application Framework](#web-application-framework)
 	- [XML](#xml)
-	- [Etc.](#etc)
+	- [Miscellaneous](#miscellaneous)
 - [Software](#software)
 	- [Compilers](#compilers)
 	- [Integrated Development Environments](#integrated-development-environments)
@@ -42,7 +42,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 - [Contributing](#contributing)
 
 ## Standard Libraries
-*C++ Standard Library - including STL Containers, STL Aglorithm, STL Functional etc.*
+*C++ Standard Library - including STL Containers, STL Aglorithm, STL Functional, etc.*
 
 * [C++ Standard Library](http://en.wikipedia.org/wiki/C%2B%2B_Standard_Library) - A collection of classes and functions, which are written in the core language and part of the C++ ISO Standard itself.
 * [Standard Template Library](http://en.wikipedia.org/wiki/Standard_Template_Library) - The Standard Template Library (STL).
@@ -159,8 +159,10 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 
 ## Graphics
 
+* [bgfx](https://github.com/bkaradzic/bgfx) - A cross-platform rendering library.
 * [Cairo](http://www.cairographics.org/) - A 2D graphics library with support for multiple output devices.
 * [CImg](http://cimg.sourceforge.net/) - A small, open source, C++ toolkit for image processing.
+* [Horde3D](https://github.com/horde3d/Horde3D) - A small 3D rendering and animation engine.
 * [Ogre 3D](http://www.ogre3d.org/) - A scene-oriented, real-time, flexible 3D rendering engine (as opposed to a game engine) written in C++.
 * [Panda3D](http://www.panda3d.org/) - A framework for 3D rendering and game development for Python and C++ .
 * [Skia](https://code.google.com/p/skia/) - A 2D Graphics Library.
@@ -172,14 +174,16 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 
 ## JSON
 
-* [frozen](https://github.com/cesanta/frozen) - JSON parser and generator for C/C++.
-* [Jansson](https://github.com/akheron/jansson) - C library for encoding, decoding and manipulating JSON data.
-* [jbson](https://github.com/chrismanning/jbson) - jbson is a library for building & iterating BSON data, and JSON documents in C++14.
-* [JeayeSON](https://github.com/jeaye/jeayeson) - A very sane (header only) C++ JSON library.
-* [json11](https://github.com/dropbox/json11) - A tiny JSON library for C++11.
-* [picojson](https://github.com/kazuho/picojson) - A header-file-only, JSON parser serializer in C++.
-* [RapidJSON](https://github.com/miloyip/rapidjson) - A fast JSON parser/generator for C++ with both SAX/DOM style API.
-* [YAJL](https://github.com/lloyd/yajl) - A fast streaming JSON parsing library in C.
+* [frozen](https://github.com/cesanta/frozen) - :star: 20+ - JSON parser and generator for C/C++.
+* [Jansson](https://github.com/akheron/jansson) - :star: 650+ - C library for encoding, decoding and manipulating JSON data.
+* [jbson](https://github.com/chrismanning/jbson) - :star: <10 - jbson is a library for building & iterating BSON data, and JSON documents in C++14.
+* [JeayeSON](https://github.com/jeaye/jeayeson) - :star: 10+ - A very sane (header only) C++ JSON library.
+* [JSON++](https://github.com/hjiang/jsonxx) - :star: 130+ - A JSON parser in C++.
+* [json11](https://github.com/dropbox/json11) - :star: 290+ - A tiny JSON library for C++11.
+* [PicoJSON](https://github.com/kazuho/picojson) - :star: 170+ - A header-file-only, JSON parser serializer in C++.
+* [qt-json](https://github.com/gaudecker/qt-json) - :star: 120+ - A simple class for parsing JSON data into a QVariant hierarchy and vice versa.
+* [RapidJSON](https://github.com/miloyip/rapidjson) - :star: 170+ - A fast JSON parser/generator for C++ with both SAX/DOM style API.
+* [YAJL](https://github.com/lloyd/yajl) - :star: 1,100+ - A fast streaming JSON parsing library in C.
 
 ## Logging
 
@@ -225,7 +229,8 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 *Dynamics simulation engines*
 
 * [Box2D](https://code.google.com/p/box2d/) - A 2D physics engine for games.
-* [Bullet](http://bulletphysics.org) - A 3D physics engine for games.
+* [Bullet](https://github.com/bulletphysics/bullet3) - A 3D physics engine for games. - [website](http://bulletphysics.org)
+* [Chipmunk](https://github.com/slembcke/Chipmunk2D) - A fast and lightweight 2D game physics library. - [website](https://chipmunk-physics.net/)
 * [LiquidFun](https://github.com/google/liquidfun) - A 2D physics engine for games.
 * [ofxBox2d](https://github.com/vanderlin/ofxBox2d) - openFrameworks wrapper for Box2D.
 * [Simbody](https://github.com/simbody/simbody) - High-performance C++ multibody dynamics/physics library for simulating articulated biomechanical and mechanical systems like vehicles, robots, and the human skeleton.
@@ -236,6 +241,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Lua](http://www.lua.org/) - A minimal and fast scripting engine for configuration files and basic application scripting.
 * [luacxx](https://github.com/dafrito/luacxx) - C++11 API for creating Lua bindings.
 * [SWIG](http://www.swig.org/) - a wrapper/interface Generator that let you link your c++ code to Javascript, Perl, PHP, Python, Tcl and Ruby.
+* [V7](https://github.com/cesanta/v7) - An embedded JavaScript engine.
 * [V8](http://code.google.com/p/v8/) - A fast JavaScript engine by Google that can be embedded into any C++ application.
 
 ## Serialization
@@ -243,6 +249,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Cap'n Proto](http://kentonv.github.io/capnproto/) - Fast data interchange format and capability-based RPC system.
 * [cereal](https://github.com/USCiLab/cereal) - A C++11 library for serialization.
 * [FlatBuffers](https://github.com/google/flatbuffers) -  A Memory efficient serialization library.
+* [MessagePack](https://github.com/msgpack/msgpack-c) - Efficient binary serialization format "like JSON" for C/C++. - [website](http://msgpack.org/)
 * [protobuf](http://code.google.com/p/protobuf/) - Protocol Buffers - Google's data interchange format.
 
 ## Web Application Framework
@@ -251,8 +258,20 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Crow](https://github.com/ipkn/crow) - Crow is C++ micro web framework (inspired by Python Flask).
 * [Wt](http://www.webtoolkit.eu/wt) - A C++ library for developing web applications.
 
-## Etc.
-*Etcetera or maybe just uncategorized*
+## XML
+
+* [Expat](http://www.libexpat.org/) - An XML parser library written in C.
+* [Libxml2](http://xmlsoft.org/) - The XML C parser and toolkit of Gnome.
+* [libxml++](http://libxmlplusplus.sourceforge.net/) - An XML Parser for C++.
+* [PugiXML](http://pugixml.org/) - A light-weight, simple and fast XML parser for C++ with XPath support.
+* [RapidXml](http://rapidxml.sourceforge.net/) - An attempt to create the fastest XML parser possible, while retaining useability, portability and reasonable W3C compatibility.
+* [TinyXML](http://sourceforge.net/projects/tinyxml/) - A simple, small, minimal, C++ XML parser that can be easily integrating into other programs.
+* [TinyXML2](https://github.com/leethomason/tinyxml2) - A simple, small, efficient, C++ XML parser that can be easily integrating into other programs.
+* [TinyXML++](https://code.google.com/p/ticpp/) - A completely new interface to TinyXML that uses MANY of the C++ strengths. Templates, exceptions, and much better error handling.
+* [Xerces-C++](http://xerces.apache.org/xerces-c/) - A validating XML parser written in a portable subset of C++.
+
+## Miscellaneous
+*Useful libraries or tools that don't fit in the categories above or maybe just not categorised yet*
 
 * [C++ Format](https://github.com/cppformat/cppformat) - Small, safe and fast formatting library for C++.
 * [casacore](https://code.google.com/p/casacore/) - A set of c++ core libraries derived from aips++.
@@ -282,6 +301,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [GCC](https://gcc.gnu.org/) - GNU Compiler Collection.
 * [Intel C++ Compiler](https://software.intel.com/en-us/c-compilers) - Developed by Intel.
 * [Microsoft Visual C++](http://msdn.microsoft.com/en-us/vstudio/hh386302.aspx) - MSVC, developed by Microsoft.
+* [LLVM](http://llvm.org/) - Collection of modular and reusable compiler and toolchain technologies.
 
 ## Integrated Development Environments
 *List of C/C++ nominal IDEs.*
