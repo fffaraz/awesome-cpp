@@ -290,6 +290,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [SLDR](https://github.com/cesanta/sldr) - Super Light DNS Resolver.
 * [SLRE](https://github.com/cesanta/slre) - Super Light Regular Expression library.
 * [Stage](https://github.com/rtv/Stage) - Mobile robot simulator.
+* [VarTypes](https://code.google.com/p/vartypes/) - A feature-rich, object-oriented framework for managing variables in C++ / Qt4.
 * [ZBar](http://zbar.sourceforge.net/) - A barcode scanner library, which allows to scan photos/images/video streams for barcodes and return their value.
 * [CppVerbalExpressions](https://github.com/VerbalExpressions/CppVerbalExpressions) - C++ regular expressions made easy.
 * [QtVerbalExpressions](https://github.com/VerbalExpressions/QtVerbalExpressions) - This Qt lib is based off of the C++ VerbalExpressions library.
