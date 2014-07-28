@@ -228,6 +228,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 
 * [Box2D](https://code.google.com/p/box2d/) - A 2D physics engine for games.
 * [Bullet](http://bulletphysics.org) - A 3D physics engine for games.
+* [Chipmunk](https://chipmunk-physics.net/) - A 2D physics engine for games
 * [LiquidFun](https://github.com/google/liquidfun) - A 2D physics engine for games.
 * [ofxBox2d](https://github.com/vanderlin/ofxBox2d) - openFrameworks wrapper for Box2D.
 * [Simbody](https://github.com/simbody/simbody) - High-performance C++ multibody dynamics/physics library for simulating articulated biomechanical and mechanical systems like vehicles, robots, and the human skeleton.
