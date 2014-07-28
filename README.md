@@ -160,6 +160,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 
 * [Cairo](http://www.cairographics.org/) - A 2D graphics library with support for multiple output devices.
 * [CImg](http://cimg.sourceforge.net/) - A small, open source, C++ toolkit for image processing.
+* [Horde3D](https://github.com/horde3d/Horde3D) - A small 3D rendering and animation engine.
 * [Ogre 3D](http://www.ogre3d.org/) - A scene-oriented, real-time, flexible 3D rendering engine (as opposed to a game engine) written in C++.
 * [Panda3D](http://www.panda3d.org/) - A framework for 3D rendering and game development for Python and C++ .
 * [Skia](https://code.google.com/p/skia/) - A 2D Graphics Library.
