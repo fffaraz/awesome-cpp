@@ -31,6 +31,7 @@ http://scripts.mit.edu/~6.270/contestants/workshops/awesomec.pdf
 
 ====================
 
+https://github.com/tinfoilboy/Explodable
 https://github.com/bulletphysics/bullet3
 https://github.com/thrust/thrust
 https://github.com/cisco/openh264
