@@ -89,8 +89,9 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 ## Audio
 *Audio, Sound, Music, Digitized Voice Libraries*
 
-* [FMOD](http://www.fmod.org/) - Audio content creation tool for games.
+* [FMOD](http://www.fmod.org/) - An easy to use crossplatform audio engine and audio content creation tool for games.
 * [Maximilian](https://github.com/micknoise/Maximilian) - C++ Audio and Music DSP Library.
+* [OpenAL](http://www.openal.org/) - Open Audio Library - A crossplatform audio API.
 
 ## Compression
 *Compression and Archiving Libraries*
