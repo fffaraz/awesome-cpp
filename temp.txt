@@ -32,7 +32,6 @@ http://scripts.mit.edu/~6.270/contestants/workshops/awesomec.pdf
 ====================
 
 https://github.com/tinfoilboy/Explodable
-https://github.com/bulletphysics/bullet3
 https://github.com/thrust/thrust
 https://github.com/cisco/openh264
 https://github.com/ipkn/crow
@@ -68,7 +67,6 @@ https://github.com/GraphChi/graphchi-cpp
 https://github.com/webcoyote/coho
 https://github.com/facebook/fbthrift
 https://github.com/alecthomas/entityx
-https://github.com/horde3d/Horde3D
 https://github.com/chenshuo/recipes
 https://github.com/HeliumProject/Helium
 https://github.com/lballabio/quantlib
