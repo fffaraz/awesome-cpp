@@ -89,6 +89,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 ## Audio
 *Audio, Sound, Music, Digitized Voice Libraries*
 
+* [FMOD](http://www.fmod.org/) - Audio content creation tool for games.
 * [Maximilian](https://github.com/micknoise/Maximilian) - C++ Audio and Music DSP Library.
 
 ## Compression
