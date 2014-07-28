@@ -19,6 +19,10 @@ All libs in: https://github.com/Alexpux/MINGW-packages
 https://github.com/clibs
 https://github.com/clibs/clib/wiki/Packages
 
+https://github.com/rampantpixels
+https://github.com/rampantpixels/foundation_lib
+https://github.com/rampantpixels/network_lib
+
 https://github.com/stephenmathieson/http-get.c
 https://github.com/Constellation/console-colors.c
 https://github.com/jwerle/strsplit.c
