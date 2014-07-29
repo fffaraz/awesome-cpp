@@ -266,6 +266,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Wt](http://www.webtoolkit.eu/wt) - A C++ library for developing web applications.
 
 ## XML
+*XML is crap. Really. There are no excuses. XML is nasty to parse for humans, and it's a disaster to parse even for computers. There's just no reason for that horrible crap to exist. - Linus Torvalds*
 
 * [Expat](http://www.libexpat.org/) - An XML parser library written in C.
 * [Libxml2](http://xmlsoft.org/) - The XML C parser and toolkit of Gnome.
