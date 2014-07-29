@@ -14,7 +14,9 @@
 
 ====================
 
-All libs in: https://github.com/Alexpux/MINGW-packages
+All libs in: 
+https://github.com/Alexpux/MINGW-packages
+http://en.cppreference.com/w/cpp/links/libs
 
 https://github.com/clibs
 https://github.com/clibs/clib/wiki/Packages
