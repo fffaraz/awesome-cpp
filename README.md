@@ -198,7 +198,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Caffe](https://github.com/BVLC/caffe) - A fast framework for neural networks.
 * [CCV](https://github.com/liuliu/ccv) - C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library.
 * [mlpack](http://www.mlpack.org/) - A scalable c++ machine learning library.
-* [OpenCV](http://opencv.org/) - Open Computer Vision.
+* [OpenCV](https://github.com/Itseez/opencv) - Open Source Computer Vision Library. - [website](http://opencv.org/)
 * [Recommender](https://github.com/GHamrouni/Recommender) - C library for product recommendations/suggestions using collaborative filtering (CF).
 * [SHOGUN](https://github.com/shogun-toolbox/shogun) - The Shogun Machine Learning Toolbox.
 * [sofia-ml](https://code.google.com/p/sofia-ml/) - The suite of fast incremental algorithms for machine learning.
