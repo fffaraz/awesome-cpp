@@ -34,7 +34,6 @@ http://scripts.mit.edu/~6.270/contestants/workshops/awesomec.pdf
 https://github.com/tinfoilboy/Explodable
 https://github.com/thrust/thrust
 https://github.com/cisco/openh264
-https://github.com/ipkn/crow
 https://github.com/chenshuo/muduo
 https://github.com/shaih/HElib
 https://github.com/philsquared/Catch
@@ -56,7 +55,6 @@ https://github.com/blackberry/GamePlay
 https://github.com/apache/thrift
 https://github.com/biometrics/openbr
 https://github.com/MailCore/mailcore2
-https://github.com/danmar/cppcheck
 https://github.com/zaphoyd/websocketpp
 https://github.com/julianstorer/JUCE
 https://github.com/beark/ftl

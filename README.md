@@ -33,6 +33,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 - [Software](#software)
 	- [Compilers](#compilers)
 	- [Integrated Development Environments](#integrated-development-environments)
+	- [Static Code Analysis](#static-code-analysis)
 - [Resources](#resources)
 	- [Articles](#articles)
 	- [Books](#books)
@@ -321,6 +322,13 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Qt Creator](http://qt-project.org/) - A cross-platform C++, JavaScript and QML IDE which is part of the SDK for Qt.
 * [Xcode](https://developer.apple.com/xcode/) - Developed by Apple.
 * [YouCompleteMe](https://valloric.github.io/YouCompleteMe/) - YouCompleteMe is a fast, as-you-type, fuzzy-search code completion engine for Vim.
+
+## Static Code Analysis
+*List of tools for improving quality and reducing defects by code analysis*
+
+* [Cppcheck](http://cppcheck.sourceforge.net/) - A tool for static C/C++ code analysis. - [source](https://github.com/danmar/cppcheck)
+* [OCLint](http://oclint.org/) - A static source code analysis tool to improve quality and reduce defects for C, C++ and Objective-C. - [source](https://github.com/oclint/oclint)
+* [List of tools for static code analysis](http://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis#C.2FC.2B.2B) - A list of tools for static code analysis from Wikipedia.
 
 # Resources
 *Various resources, such as books, websites, and articles for improving your C++ development skills and knowledge.*
