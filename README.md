@@ -106,6 +106,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [ZZIPlib](http://zziplib.sourceforge.net/) - Provides read access on ZIP-archives.
 
 ## Concurrency
+*Concurrency and Multithreading*
 
 * [Boost.Compute](https://github.com/kylelutz/compute) - A C++ GPU Computing Library for OpenCL.
 * [Bolt](https://github.com/HSA-Libraries/Bolt) - A C++ template library optimized for GPUs.
@@ -221,6 +222,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [cpp-netlib](http://cpp-netlib.org/) - A collection of open-source libraries for high level network programming.
 * [Muduo](https://github.com/chenshuo/muduo) - A C++ non-blocking network library for multi-threaded server in Linux.
 * [net_skeleton](https://github.com/cesanta/net_skeleton) - TCP client/server library for C/C++.
+* [nope.c](https://github.com/riolet/nope.c) - A C language-based ultra-light software platform for scalable server-side and networking applications. Think node.js for C programmers.
 * [Onion](https://github.com/davidmoreno/onion) - HTTP server library in C designed to be lightweight and easy to use.
 * [POCO](http://pocoproject.org/) - C++ class libraries and frameworks for building network- and internet-based applications that run on desktop, server, mobile and embedded systems.
 * [Tufão](https://github.com/vinipsmaker/tufao) - An asynchronous web framework for C++ built on top of Qt.
