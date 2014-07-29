@@ -353,6 +353,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 *Useful C/C++ related websites.*
 
 * [C++ reference](http://cppreference.com/) - C++98, C++03, C++11, C++14 reference.
+* [cplusplus.com](http://www.cplusplus.com/) - The C++ Resources Network.
 
 ## Other Awesome Projects
 *Collection of useful codes, snippets, ...*
