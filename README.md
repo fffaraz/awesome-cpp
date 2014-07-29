@@ -134,6 +134,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 *Database Libraries, SQL Servers, ODBC Drivers, and Tools*
 
 * [hiberlite](https://github.com/paulftw/hiberlite) - C++ Object-relational mapping for sqlite3.
+* [Hiredis](https://github.com/redis/hiredis) - A minimalistic C client library for the Redis database.
 * [LMDB](http://symas.com/mdb/) - Very fast embedded key/value store with full ACID semantics.
 * [SQLite](http://www.sqlite.org/) - A completely embedded, full-featured relational database in a few 100k that you can include right into your project.
 
