@@ -31,6 +31,11 @@ https://github.com/stephenmathieson/http-get.c
 https://github.com/Constellation/console-colors.c
 https://github.com/jwerle/strsplit.c
 
+https://github.com/psi-im
+https://github.com/psi-im/iris
+https://github.com/psi-im/jdns
+https://github.com/psi-im/libpsi
+
 http://scripts.mit.edu/~6.270/contestants/workshops/awesomec.pdf
 
 ====================
