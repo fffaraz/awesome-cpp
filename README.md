@@ -31,8 +31,9 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 	- [XML](#xml)
 	- [Miscellaneous](#miscellaneous)
 - [Software](#software)
-	- [Compilers](#compilers)
-	- [Integrated Development Environments](#integrated-development-environments)
+	- [Compiler](#compiler)
+	- [Debugger](#debugger)
+	- [Integrated Development Environment](#integrated-development-environment)
 	- [Static Code Analysis](#static-code-analysis)
 - [Resources](#resources)
 	- [Articles](#articles)
@@ -303,7 +304,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 # Software
 *Software for creating a development environment.*
 
-## Compilers
+## Compiler
 *List of C/C++ compilers*
 
 * [Clang](http://clang.llvm.org/) - Developed by Apple.
@@ -312,7 +313,15 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Microsoft Visual C++](http://msdn.microsoft.com/en-us/vstudio/hh386302.aspx) - MSVC, developed by Microsoft.
 * [LLVM](http://llvm.org/) - Collection of modular and reusable compiler and toolchain technologies.
 
-## Integrated Development Environments
+## Debugger
+*List of C/C++ debuggers*
+
+* [Comparison of debuggers](http://en.wikipedia.org/wiki/Comparison_of_debuggers) - A list of Debuggers from Wikipedia.
+* [GDB](https://www.gnu.org/software/gdb) - GNU Debugger.
+* [Valgrind](http://valgrind.org/) - A tool for memory debugging, memory leak detection, and profiling.
+* [x64_dbg](http://x64dbg.com/) - An open-source x64/x32 debugger for windows.
+
+## Integrated Development Environment
 *List of C/C++ nominal IDEs.*
 
 * [Code::Blocks](http://www.codeblocks.org/) - A free C, C++ and Fortran IDE.
