@@ -12,6 +12,8 @@
 * [libvpx](http://www.webmproject.org/code/) - libvpx.
 * [FFmpeg](https://www.ffmpeg.org/) - FFmpeg.
 
+* [Fruit](https://github.com/google/fruit) - A dependency injection framework for C++.
+
 ====================
 
 All libs in: 
@@ -49,6 +51,9 @@ https://github.com/vinniefalco/DSPFilters
 https://github.com/Hawstein/cracking-the-coding-interview
 
 ====================
+
+"libc++" C++ Standard Library
+http://libcxx.llvm.org/
 
 https://github.com/TrinityCore/TrinityCore
 https://github.com/sass/libsass
