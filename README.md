@@ -170,7 +170,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Horde3D](https://github.com/horde3d/Horde3D) - A small 3D rendering and animation engine.
 * [Ogre 3D](http://www.ogre3d.org/) - A scene-oriented, real-time, flexible 3D rendering engine (as opposed to a game engine) written in C++.
 * [Panda3D](http://www.panda3d.org/) - A framework for 3D rendering and game development for Python and C++ .
-* [Skia](https://code.google.com/p/skia/) - A 2D Graphics Library.
+* [Skia](https://github.com/google/skia) - A complete 2D graphic library for drawing Text, Geometries, and Images. - [webpage](https://sites.google.com/site/skiadocs/home)
 
 ## Internationalization
 
