@@ -50,6 +50,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [C++ Standard Library](http://en.wikipedia.org/wiki/C%2B%2B_Standard_Library) - A collection of classes and functions, which are written in the core language and part of the C++ ISO Standard itself.
 * [Standard Template Library](http://en.wikipedia.org/wiki/Standard_Template_Library) - The Standard Template Library (STL).
 * [C POSIX library](http://en.wikipedia.org/wiki/C_POSIX_library) - A specification of a C standard library for POSIX systems.
+* [ISO C++ Standards Committee](https://github.com/cplusplus) - ISO/IEC JTC1/SC22/WG21 - The C++ Standards Committee. - [website](http://www.open-std.org/JTC1/SC22/WG21/)
 
 ## Frameworks
 *C++ generic frameworks and libraries.*
@@ -384,6 +385,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 
 * [C++ reference](http://cppreference.com/) - C++98, C++03, C++11, C++14 reference.
 * [cplusplus.com](http://www.cplusplus.com/) - The C++ Resources Network.
+* [Standard C++](http://isocpp.org/) - News, Status & Discussion about Standard C++.
 
 ## Other Awesome Projects
 *Collection of useful codes, snippets, ...*
