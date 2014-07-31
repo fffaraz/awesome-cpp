@@ -57,7 +57,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 
 * [Apache C++ Standard Library](http://stdcxx.apache.org/) - A collection of algorithms, containers, iterators, and other fundamental components.
 * [ASL](http://stlab.adobe.com/) - Adobe Source Libraries provides peer-reviewed and portable C++ source libraries.
-* [Boost](http://www.boost.org/) - A large collection of generic C++ libraries.
+* [Boost](https://github.com/boostorg) - A large collection of generic C++ libraries. - [website](http://www.boost.org/)
 * [BDE](https://github.com/bloomberg/bde) - The BDE Development Environment from Bloomberg Labs.
 * [Cinder](http://libcinder.org/) - A community-developed, free and open source library for professional-quality creative coding.
 * [Cxxomfort](http://ryan.gulix.cl/fossil.cgi/cxxomfort/) - A small, header-only library that backports to C++03 some of the nifty C++11 goodies.
