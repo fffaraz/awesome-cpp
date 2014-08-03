@@ -88,6 +88,7 @@ https://github.com/esnme/ultramemcache
 
 ====================
 
+https://github.com/Kosta-Github/http-cpp
 https://github.com/adafruit/Adafruit-GFX-Library
 https://github.com/lsegal/my_toy_compiler
 https://github.com/openexr/openexr
