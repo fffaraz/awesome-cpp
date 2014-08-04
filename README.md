@@ -39,6 +39,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 - [Resources](#resources)
 	- [Articles](#articles)
 	- [Books](#books)
+	- [Coding Style](#coding-style)
 	- [Videos](#videos)
 	- [Websites](#websites)
 - [Other Awesome Lists](#other-awesome-lists)
@@ -368,6 +369,12 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Free C Books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#c) - vhf/free-programming-books/C.
 * [Free C++ Books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#c-1) - vhf/free-programming-books/C++.
 * [The Definitive C++ Book Guide and List](http://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list) - A collection of quality books and an approximate skill level.
+
+## Coding Style
+
+* [google-styleguide](http://code.google.com/p/google-styleguide/) - Style guides for Google-originated open-source projects.
+* [Google C++ Style Guide](http://google-styleguide.googlecode.com/svn/trunk/cppguide.xml)
+* [GNU Coding Standard](http://www.gnu.org/prep/standards/standards.html)
 
 ## Videos
 *Fantastic C/C++ related videos.*
