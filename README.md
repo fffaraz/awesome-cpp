@@ -306,6 +306,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [QtVerbalExpressions](https://github.com/VerbalExpressions/QtVerbalExpressions) - This Qt lib is based off of the C++ VerbalExpressions library.
 * [TinyVM](https://github.com/jakogut/tinyvm) - A small, fast, lightweight virtual machine written in pure ANSI C.
 * [CarpVM](https://github.com/tekknolagi/carp) - "interesting" VM in C. Let's see how this goes.
+* [PHP-CPP](https://github.com/CopernicaMarketingSoftware/PHP-CPP) - A library to build PHP extensions with C++. - [website](http://www.php-cpp.com/)
 
 # Software
 *Software for creating a development environment.*
