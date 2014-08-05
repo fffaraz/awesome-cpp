@@ -303,6 +303,8 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [ZBar](http://zbar.sourceforge.net/) - A barcode scanner library, which allows to scan photos/images/video streams for barcodes and return their value.
 * [CppVerbalExpressions](https://github.com/VerbalExpressions/CppVerbalExpressions) - C++ regular expressions made easy.
 * [QtVerbalExpressions](https://github.com/VerbalExpressions/QtVerbalExpressions) - This Qt lib is based off of the C++ VerbalExpressions library.
+* [TinyVM](https://github.com/jakogut/tinyvm) - A small, fast, lightweight virtual machine written in pure ANSI C.
+* [CarpVM](https://github.com/tekknolagi/carp) - "interesting" VM in C. Let's see how this goes.
 
 # Software
 *Software for creating a development environment.*
