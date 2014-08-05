@@ -36,6 +36,8 @@ https://github.com/psi-im/iris
 https://github.com/psi-im/jdns
 https://github.com/psi-im/libpsi
 
+https://github.com/CopernicaMarketingSoftware
+
 http://scripts.mit.edu/~6.270/contestants/workshops/awesomec.pdf
 
 ====================
