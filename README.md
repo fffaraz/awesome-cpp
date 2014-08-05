@@ -145,6 +145,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 ## Debug
 *Debugging Libraries, Memory Leak and Resource Leak Detection, Unit Testing*
 
+* [Catch](https://github.com/philsquared/Catch) - A modern, C++-native, header-only, framework for unit-tests, TDD and BDD.
 * [CppUnit](http://sourceforge.net/projects/cppunit/) - C++ port of JUnit.
 * [googletest](http://code.google.com/p/googletest/) - Google C++ Testing Framework.
 
