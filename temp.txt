@@ -54,6 +54,7 @@ https://github.com/USCiLab/cereal
 https://github.com/bittorrent/libutp
 https://github.com/micknoise/Maximilian
 https://github.com/vinniefalco/DSPFilters
+https://github.com/m-ou-se/moggle
 
 https://github.com/Hawstein/cracking-the-coding-interview
 
