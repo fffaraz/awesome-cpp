@@ -40,6 +40,9 @@ https://github.com/CopernicaMarketingSoftware
 
 http://scripts.mit.edu/~6.270/contestants/workshops/awesomec.pdf
 
+Oracle Template Library
+http://otl.sourceforge.net/
+
 ====================
 
 https://github.com/tinfoilboy/Explodable
