@@ -43,6 +43,18 @@ http://scripts.mit.edu/~6.270/contestants/workshops/awesomec.pdf
 Oracle Template Library
 http://otl.sourceforge.net/
 
+Intel Parallel Building Blocks
+Intel Threading Building Blocks
+Intel Array Building Blocks
+Intel Cilk Plus
+
+http://www.alhem.net/Sockets/
+http://www.tntnet.org/
+
+http://en.wikiversity.org/wiki/Introduction_to_C++
+
+http://blogs.msdn.com/b/nativeconcurrency/
+
 ====================
 
 https://github.com/tinfoilboy/Explodable
