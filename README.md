@@ -103,6 +103,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 
 * [bzip2](http://www.bzip.org/) - A freely available, patent free, high-quality data compressor.
 * [LZ4](https://code.google.com/p/lz4/) - Extremely Fast Compression algorithm.
+* [LZHAM](https://code.google.com/p/lzham/) - Lossless data compression library with a compression ratio similar to LZMA but with much faster decompression.
 * [LZMA](http://www.7-zip.org/sdk.html) - The default and general compression method of 7z format.
 * [LZMAT](http://www.matcode.com/lzmat.htm) - An extremely fast real-time lossless data compression library.
 * [miniz](https://code.google.com/p/miniz/) - Single C source file Deflate/Inflate compression library with zlib-compatible API, ZIP archive reading/writing, PNG writing.
