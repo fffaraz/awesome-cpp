@@ -159,6 +159,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [CppUnit](http://sourceforge.net/projects/cppunit/) - C++ port of JUnit.
 * [googletest](http://code.google.com/p/googletest/) - Google C++ Testing Framework.
 * [ig-debugheap](https://github.com/deplinenoise/ig-debugheap) - Multiplatform debug heap useful for tracking down memory errors.
+* [libtap](https://github.com/zorgnax/libtap) - Write tests in C.
 * [microprofile](https://bitbucket.org/jonasmeyer/microprofile/overview) - Profiler with web-view for multiple platforms.
 * [Remotery](https://github.com/Celtoys/Remotery) - Single C File Profiler with Web Viewer.
 
