@@ -21,6 +21,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 	- [JSON](#json)
 	- [Logging](#logging)
 	- [Machine Learning](#machine-learning)
+	- [Math](#math)
 	- [Mocking](#mocking)
 	- [Multimedia](#multimedia)
 	- [Networking](#networking)
@@ -35,6 +36,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 	- [Online Compiler](#online-compiler)
 	- [Debugger](#debugger)
 	- [Integrated Development Environment](#integrated-development-environment)
+	- [Buildsystem](#buildsystem)
 	- [Static Code Analysis](#static-code-analysis)
 - [Resources](#resources)
 	- [Articles](#articles)
@@ -63,6 +65,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Cinder](http://libcinder.org/) - A community-developed, free and open source library for professional-quality creative coding.
 * [Cxxomfort](http://ryan.gulix.cl/fossil.cgi/cxxomfort/) - A small, header-only library that backports to C++03 some of the nifty C++11 goodies.
 * [Dlib](http://dlib.net/) - A general purpose cross-platform C++ library designed using contract programming and modern C++ techniques.
+* [EASTL](https://github.com/paulhodge/EASTL) - Public part of EA-STL.
 * [ffead-cpp](https://github.com/sumeetchhetri/ffead-cpp) - Framework for Enterprise Application Development.
 * [Folly](https://github.com/facebook/folly) - An open-source C++ library developed and used at Facebook.
 * [JUCE](http://www.juce.com/) - An all-encompassing C++ class library for developing cross-platform software.
@@ -81,6 +84,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 
 ## Artificial Intelligence
 
+* [btsk](https://github.com/aigamedev/btsk) - Game Behavior Tree Starter Kit.
 * [Evolving Objects](http://eodev.sourceforge.net/) - A template-based, ANSI-C++ evolutionary computation library which helps you to write your own stochastic optimization algorithms insanely fast.
 * [Neu](https://github.com/andrometa/neu) - A C++ 11 framework, collection of programming languages, and multipurpose software system designed for: the creation of artificial intelligence applications.
 
@@ -97,11 +101,13 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [FMOD](http://www.fmod.org/) - An easy to use crossplatform audio engine and audio content creation tool for games.
 * [Maximilian](https://github.com/micknoise/Maximilian) - C++ Audio and Music DSP Library.
 * [OpenAL](http://www.openal.org/) - Open Audio Library - A crossplatform audio API.
+* [Tonic](https://github.com/TonicAudio/Tonic) - Easy and efficient audio synthesis in C++.
 
 ## Compression
 *Compression and Archiving Libraries*
 
 * [bzip2](http://www.bzip.org/) - A freely available, patent free, high-quality data compressor.
+* [doboz](https://bitbucket.org/attila_afra/doboz/overview) - Compression library with very fast decompression.
 * [LZ4](https://code.google.com/p/lz4/) - Extremely Fast Compression algorithm.
 * [LZHAM](https://code.google.com/p/lzham/) - Lossless data compression library with a compression ratio similar to LZMA but with much faster decompression.
 * [LZMA](http://www.7-zip.org/sdk.html) - The default and general compression method of 7z format.
@@ -142,6 +148,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [hiberlite](https://github.com/paulftw/hiberlite) - C++ Object-relational mapping for sqlite3.
 * [Hiredis](https://github.com/redis/hiredis) - A minimalistic C client library for the Redis database.
 * [LMDB](http://symas.com/mdb/) - Very fast embedded key/value store with full ACID semantics.
+* [RocksDB](https://github.com/facebook/rocksdb) - Embedded key-value store for fast storage from facebook.
 * [SQLite](http://www.sqlite.org/) - A completely embedded, full-featured relational database in a few 100k that you can include right into your project.
 
 ## Debug
@@ -150,10 +157,14 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Catch](https://github.com/philsquared/Catch) - A modern, C++-native, header-only, framework for unit-tests, TDD and BDD.
 * [CppUnit](http://sourceforge.net/projects/cppunit/) - C++ port of JUnit.
 * [googletest](http://code.google.com/p/googletest/) - Google C++ Testing Framework.
+* [ig-debugheap](https://github.com/deplinenoise/ig-debugheap) - Multiplatform debug heap useful for tracking down memory errors.
+* [microprofile](https://bitbucket.org/jonasmeyer/microprofile/overview) - Profiler with web-view for multiple platforms.
+* [Remotery](https://github.com/Celtoys/Remotery) - Single C File Profiler with Web Viewer.
 
 ## Game Engine
 
 * [Cocos2d-x](http://www.cocos2d-x.org/) - A multi-platform framework for building 2d games, interactive books, demos and other graphical applications.
+* [Grit](http://gritengine.com/) - Community project to build a free game engine for implementing open world 3D games.
 * [Irrlicht](http://irrlicht.sourceforge.net/) - An open source high performance realtime 3D engine written in C++.
 * [Polycode](http://polycode.org/) - Open-Source Framework for creating games in C++ (with Lua bindings)..
 
@@ -162,6 +173,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 
 * [GTK+](http://www.gtk.org/) - A multi-platform toolkit for creating graphical user interfaces.
 * [gtkmm](http://www.gtkmm.org/en/) - The official C++ interface for the popular GUI library GTK+.
+* [imgui](https://github.com/ocornut/imgui) - Immediate Mode Graphical User Interface with minimal dependencies.
 * [libRocket](http://librocket.com/) - libRocket is a C++ HTML/CSS game interface middleware.
 * [Ncurses](http://invisible-island.net/ncurses/) - A terminal user interfaces.
 * [Qwt](http://qwt.sourceforge.net/) - Qt Widgets for Technical Applications.
@@ -178,6 +190,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Ogre 3D](http://www.ogre3d.org/) - A scene-oriented, real-time, flexible 3D rendering engine (as opposed to a game engine) written in C++.
 * [Panda3D](http://www.panda3d.org/) - A framework for 3D rendering and game development for Python and C++ .
 * [Skia](https://github.com/google/skia) - A complete 2D graphic library for drawing Text, Geometries, and Images. - [webpage](https://sites.google.com/site/skiadocs/home)
+* [urho3d](https://github.com/urho3d/Urho3D) - Cross-platform rendering and game engine.
 
 ## Internationalization
 
@@ -211,6 +224,14 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Recommender](https://github.com/GHamrouni/Recommender) - C library for product recommendations/suggestions using collaborative filtering (CF).
 * [SHOGUN](https://github.com/shogun-toolbox/shogun) - The Shogun Machine Learning Toolbox.
 * [sofia-ml](https://code.google.com/p/sofia-ml/) - The suite of fast incremental algorithms for machine learning.
+
+## Math
+
+* [blaze](https://code.google.com/p/blaze-lib/) - high-performance C++ math library for dense and sparse arithmetic.
+* [ceres-solver](http://ceres-solver.org/) - C++ library for modeling and solving large complicated nonlinear least squares problems from google.
+* [cml](http://cmldev.net/) - free C++ math library for games and graphics.
+* [Eigen](http://eigen.tuxfamily.org/index.php) - C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms.
+
 
 ## Mocking
 
@@ -270,6 +291,8 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 
 * [CppCMS](http://cppcms.com/) - A Free High Performance Web Development Framework (not a CMS).
 * [Crow](https://github.com/ipkn/crow) - Crow is C++ micro web framework (inspired by Python Flask).
+* [Kore](https://kore.io/) - ultra fast and flexible web server / framework for web applications developed in C.
+* [libOnion](http://www.coralbits.com/libonion/) - lightweight library to help you create webservers in C programming language.
 * [Wt](http://www.webtoolkit.eu/wt) - A C++ library for developing web applications.
 
 ## XML
@@ -292,7 +315,6 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [casacore](https://code.google.com/p/casacore/) - A set of c++ core libraries derived from aips++.
 * [cxx-prettyprint](https://github.com/louisdx/cxx-prettyprint) - A pretty printing library for C++ containers.
 * [DynaPDF](http://www.dynaforms.com/) - An easy-to-use PDF generation library.
-* [Eigen](http://eigen.tuxfamily.org/index.php) - C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms.
 * [HTTP Parser](https://github.com/joyent/http-parser) - A http request/response parser for C.
 * [libcpuid](https://github.com/anrieff/libcpuid) - A small C library for x86 CPU detection and feature extraction.
 * [libusb](http://www.libusb.org/) - A universal USB library which allows for portable access to USB devices.
@@ -350,6 +372,12 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Qt Creator](http://qt-project.org/) - A cross-platform C++, JavaScript and QML IDE which is part of the SDK for Qt.
 * [Xcode](https://developer.apple.com/xcode/) - Developed by Apple.
 * [YouCompleteMe](https://valloric.github.io/YouCompleteMe/) - YouCompleteMe is a fast, as-you-type, fuzzy-search code completion engine for Vim.
+
+## Buildsystem
+
+* [FASTBuild](http://www.fastbuild.org/docs/home.html) - high performance, open-source build system supporting highly scalable compilation, caching and network distribution.
+* [tundra](https://github.com/deplinenoise/tundra) - high-performance code build system designed to give the best possible incremental build times even for very large software projects.
+* [tup](http://gittup.org/tup/) - file-based build system that monitors in the background for changed files.
 
 ## Static Code Analysis
 *List of tools for improving quality and reducing defects by code analysis*
