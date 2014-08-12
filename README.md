@@ -65,6 +65,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Cinder](http://libcinder.org/) - A community-developed, free and open source library for professional-quality creative coding.
 * [Cxxomfort](http://ryan.gulix.cl/fossil.cgi/cxxomfort/) - A small, header-only library that backports to C++03 some of the nifty C++11 goodies.
 * [Dlib](http://dlib.net/) - A general purpose cross-platform C++ library designed using contract programming and modern C++ techniques.
+* [EASTL](https://github.com/paulhodge/EASTL) - Public part of EA-STL.
 * [ffead-cpp](https://github.com/sumeetchhetri/ffead-cpp) - Framework for Enterprise Application Development.
 * [Folly](https://github.com/facebook/folly) - An open-source C++ library developed and used at Facebook.
 * [JUCE](http://www.juce.com/) - An all-encompassing C++ class library for developing cross-platform software.
