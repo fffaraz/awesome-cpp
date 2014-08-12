@@ -21,6 +21,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 	- [JSON](#json)
 	- [Logging](#logging)
 	- [Machine Learning](#machine-learning)
+	- [Math](#math)
 	- [Mocking](#mocking)
 	- [Multimedia](#multimedia)
 	- [Networking](#networking)
@@ -213,6 +214,12 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [SHOGUN](https://github.com/shogun-toolbox/shogun) - The Shogun Machine Learning Toolbox.
 * [sofia-ml](https://code.google.com/p/sofia-ml/) - The suite of fast incremental algorithms for machine learning.
 
+## Math
+
+* [cml](http://cmldev.net/) - free C++ math library for games and graphics
+* [Eigen](http://eigen.tuxfamily.org/index.php) - C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms.
+
+
 ## Mocking
 
 * [googlemock](http://code.google.com/p/googlemock/) - A library for writing and using C++ mock classes.
@@ -293,7 +300,6 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [casacore](https://code.google.com/p/casacore/) - A set of c++ core libraries derived from aips++.
 * [cxx-prettyprint](https://github.com/louisdx/cxx-prettyprint) - A pretty printing library for C++ containers.
 * [DynaPDF](http://www.dynaforms.com/) - An easy-to-use PDF generation library.
-* [Eigen](http://eigen.tuxfamily.org/index.php) - C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms.
 * [HTTP Parser](https://github.com/joyent/http-parser) - A http request/response parser for C.
 * [libcpuid](https://github.com/anrieff/libcpuid) - A small C library for x86 CPU detection and feature extraction.
 * [libusb](http://www.libusb.org/) - A universal USB library which allows for portable access to USB devices.
