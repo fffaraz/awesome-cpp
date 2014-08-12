@@ -103,7 +103,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 *Compression and Archiving Libraries*
 
 * [bzip2](http://www.bzip.org/) - A freely available, patent free, high-quality data compressor.
-* [doboz](https://bitbucket.org/attila_afra/doboz/overview) - Compression library with very fast decompression 
+* [doboz](https://bitbucket.org/attila_afra/doboz/overview) - Compression library with very fast decompression.
 * [LZ4](https://code.google.com/p/lz4/) - Extremely Fast Compression algorithm.
 * [LZHAM](https://code.google.com/p/lzham/) - Lossless data compression library with a compression ratio similar to LZMA but with much faster decompression.
 * [LZMA](http://www.7-zip.org/sdk.html) - The default and general compression method of 7z format.
@@ -164,6 +164,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 
 * [GTK+](http://www.gtk.org/) - A multi-platform toolkit for creating graphical user interfaces.
 * [gtkmm](http://www.gtkmm.org/en/) - The official C++ interface for the popular GUI library GTK+.
+* [imgui](https://github.com/ocornut/imgui) - Immediate Mode Graphical User Interface with minimal dependencies.
 * [libRocket](http://librocket.com/) - libRocket is a C++ HTML/CSS game interface middleware.
 * [Ncurses](http://invisible-island.net/ncurses/) - A terminal user interfaces.
 * [Qwt](http://qwt.sourceforge.net/) - Qt Widgets for Technical Applications.
@@ -216,7 +217,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 
 ## Math
 
-* [cml](http://cmldev.net/) - free C++ math library for games and graphics
+* [cml](http://cmldev.net/) - free C++ math library for games and graphics.
 * [Eigen](http://eigen.tuxfamily.org/index.php) - C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms.
 
 
