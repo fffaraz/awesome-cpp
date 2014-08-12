@@ -124,6 +124,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Boost.Compute](https://github.com/kylelutz/compute) - A C++ GPU Computing Library for OpenCL.
 * [Bolt](https://github.com/HSA-Libraries/Bolt) - A C++ template library optimized for GPUs.
 * [Intel TBB](https://www.threadingbuildingblocks.org/) - Intel® Threading Building Blocks.
+* [Libclsph](https://github.com/libclsph/libclsph) - An OpenCL based GPU accelerated SPH fluid simulation library.
 * [OpenCL](https://www.khronos.org/opencl/) - The open standard for parallel programming of heterogeneous systems.
 * [OpenMP](http://openmp.org/) - The OpenMP API.
 * [Thrust](http://thrust.github.io/) - A parallel algorithms library which resembles the C++ Standard Template Library (STL).
@@ -231,7 +232,6 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [ceres-solver](http://ceres-solver.org/) - C++ library for modeling and solving large complicated nonlinear least squares problems from google.
 * [cml](http://cmldev.net/) - free C++ math library for games and graphics.
 * [Eigen](http://eigen.tuxfamily.org/index.php) - C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms.
-
 
 ## Mocking
 
