@@ -160,6 +160,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 ## Game Engine
 
 * [Cocos2d-x](http://www.cocos2d-x.org/) - A multi-platform framework for building 2d games, interactive books, demos and other graphical applications.
+* [Grit](http://gritengine.com/) - Community project to build a free game engine for implementing open world 3D games.
 * [Irrlicht](http://irrlicht.sourceforge.net/) - An open source high performance realtime 3D engine written in C++.
 * [Polycode](http://polycode.org/) - Open-Source Framework for creating games in C++ (with Lua bindings)..
 
