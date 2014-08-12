@@ -36,6 +36,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 	- [Online Compiler](#online-compiler)
 	- [Debugger](#debugger)
 	- [Integrated Development Environment](#integrated-development-environment)
+	- [Buildsystem](#buildsystem)
 	- [Static Code Analysis](#static-code-analysis)
 - [Resources](#resources)
 	- [Articles](#articles)
@@ -364,6 +365,12 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Qt Creator](http://qt-project.org/) - A cross-platform C++, JavaScript and QML IDE which is part of the SDK for Qt.
 * [Xcode](https://developer.apple.com/xcode/) - Developed by Apple.
 * [YouCompleteMe](https://valloric.github.io/YouCompleteMe/) - YouCompleteMe is a fast, as-you-type, fuzzy-search code completion engine for Vim.
+
+## Buildsystem
+
+* [FASTBuild](http://www.fastbuild.org/docs/home.html) - high performance, open-source build system supporting highly scalable compilation, caching and network distribution.
+* [tundra](https://github.com/deplinenoise/tundra) - high-performance code build system designed to give the best possible incremental build times even for very large software projects.
+* [tup](http://gittup.org/tup/) - file-based build system that monitors in the background for changed files.
 
 ## Static Code Analysis
 *List of tools for improving quality and reducing defects by code analysis*
