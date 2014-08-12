@@ -155,6 +155,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Catch](https://github.com/philsquared/Catch) - A modern, C++-native, header-only, framework for unit-tests, TDD and BDD.
 * [CppUnit](http://sourceforge.net/projects/cppunit/) - C++ port of JUnit.
 * [googletest](http://code.google.com/p/googletest/) - Google C++ Testing Framework.
+* [ig-debugheap](https://github.com/deplinenoise/ig-debugheap) - Multiplatform debug heap useful for tracking down memory errors.
 
 ## Game Engine
 
