@@ -287,6 +287,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [FlatBuffers](https://github.com/google/flatbuffers) -  A Memory efficient serialization library.
 * [MessagePack](https://github.com/msgpack/msgpack-c) - Efficient binary serialization format "like JSON" for C/C++. - [website](http://msgpack.org/)
 * [protobuf](http://code.google.com/p/protobuf/) - Protocol Buffers - Google's data interchange format.
+* [SimpleBinaryEncoding](https://github.com/real-logic/simple-binary-encoding) - encoding and decoding application messages in binary format for low-latency applications. [Apache2]
 
 ## Web Application Framework
 
