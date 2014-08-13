@@ -282,19 +282,20 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 
 ## Serialization
 
-* [Cap'n Proto](http://kentonv.github.io/capnproto/) - Fast data interchange format and capability-based RPC system.
-* [cereal](https://github.com/USCiLab/cereal) - A C++11 library for serialization.
-* [FlatBuffers](https://github.com/google/flatbuffers) -  A Memory efficient serialization library.
-* [MessagePack](https://github.com/msgpack/msgpack-c) - Efficient binary serialization format "like JSON" for C/C++. - [website](http://msgpack.org/)
-* [protobuf](http://code.google.com/p/protobuf/) - Protocol Buffers - Google's data interchange format.
+* [Cap'n Proto](http://kentonv.github.io/capnproto/) - Fast data interchange format and capability-based RPC system. [MIT]
+* [cereal](https://github.com/USCiLab/cereal) - A C++11 library for serialization. [BSD]
+* [FlatBuffers](https://github.com/google/flatbuffers) -  A Memory efficient serialization library. [Apache2]
+* [MessagePack](https://github.com/msgpack/msgpack-c) - Efficient binary serialization format "like JSON" for C/C++. - [website](http://msgpack.org/) [Apache2]
+* [protobuf](http://code.google.com/p/protobuf/) - Protocol Buffers - Google's data interchange format. [BSD]
+* [SimpleBinaryEncoding](https://github.com/real-logic/simple-binary-encoding) - encoding and decoding application messages in binary format for low-latency applications. [Apache2]
 
 ## Web Application Framework
 
-* [CppCMS](http://cppcms.com/) - A Free High Performance Web Development Framework (not a CMS).
-* [Crow](https://github.com/ipkn/crow) - Crow is C++ micro web framework (inspired by Python Flask).
-* [Kore](https://kore.io/) - ultra fast and flexible web server / framework for web applications developed in C.
-* [libOnion](http://www.coralbits.com/libonion/) - lightweight library to help you create webservers in C programming language.
-* [Wt](http://www.webtoolkit.eu/wt) - A C++ library for developing web applications.
+* [CppCMS](http://cppcms.com/) - A Free High Performance Web Development Framework (not a CMS). [LGPLv3]
+* [Crow](https://github.com/ipkn/crow) - Crow is C++ micro web framework (inspired by Python Flask). [BSD]
+* [Kore](https://kore.io/) - ultra fast and flexible web server / framework for web applications developed in C. [ISC]
+* [libOnion](http://www.coralbits.com/libonion/) - lightweight library to help you create webservers in C programming language. [LGPLv3]
+* [Wt](http://www.webtoolkit.eu/wt) - A C++ library for developing web applications. [GPL/Commercial]
 
 ## XML
 *XML is crap. Really. There are no excuses. XML is nasty to parse for humans, and it's a disaster to parse even for computers. There's just no reason for that horrible crap to exist. - Linus Torvalds*
