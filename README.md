@@ -282,11 +282,11 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 
 ## Serialization
 
-* [Cap'n Proto](http://kentonv.github.io/capnproto/) - Fast data interchange format and capability-based RPC system.
-* [cereal](https://github.com/USCiLab/cereal) - A C++11 library for serialization.
-* [FlatBuffers](https://github.com/google/flatbuffers) -  A Memory efficient serialization library.
-* [MessagePack](https://github.com/msgpack/msgpack-c) - Efficient binary serialization format "like JSON" for C/C++. - [website](http://msgpack.org/)
-* [protobuf](http://code.google.com/p/protobuf/) - Protocol Buffers - Google's data interchange format.
+* [Cap'n Proto](http://kentonv.github.io/capnproto/) - Fast data interchange format and capability-based RPC system. [MIT]
+* [cereal](https://github.com/USCiLab/cereal) - A C++11 library for serialization. [BSD]
+* [FlatBuffers](https://github.com/google/flatbuffers) -  A Memory efficient serialization library. [Apache2]
+* [MessagePack](https://github.com/msgpack/msgpack-c) - Efficient binary serialization format "like JSON" for C/C++. - [website](http://msgpack.org/) [Apache2]
+* [protobuf](http://code.google.com/p/protobuf/) - Protocol Buffers - Google's data interchange format. [BSD]
 * [SimpleBinaryEncoding](https://github.com/real-logic/simple-binary-encoding) - encoding and decoding application messages in binary format for low-latency applications. [Apache2]
 
 ## Web Application Framework
