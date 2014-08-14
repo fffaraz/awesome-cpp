@@ -98,25 +98,25 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 ## Audio
 *Audio, Sound, Music, Digitized Voice Libraries*
 
-* [FMOD](http://www.fmod.org/) - An easy to use crossplatform audio engine and audio content creation tool for games.
-* [Maximilian](https://github.com/micknoise/Maximilian) - C++ Audio and Music DSP Library.
-* [OpenAL](http://www.openal.org/) - Open Audio Library - A crossplatform audio API.
-* [Tonic](https://github.com/TonicAudio/Tonic) - Easy and efficient audio synthesis in C++.
+* [FMOD](http://www.fmod.org/) - An easy to use crossplatform audio engine and audio content creation tool for games. [Free for non-commercial/Commercial]
+* [Maximilian](https://github.com/micknoise/Maximilian) - C++ Audio and Music DSP Library. [MIT]
+* [OpenAL](http://www.openal.org/) - Open Audio Library - A crossplatform audio API. [BSD/LGPL/Commercial]
+* [Tonic](https://github.com/TonicAudio/Tonic) - Easy and efficient audio synthesis in C++. [Unlicense]
 
 ## Compression
 *Compression and Archiving Libraries*
 
-* [bzip2](http://www.bzip.org/) - A freely available, patent free, high-quality data compressor.
-* [doboz](https://bitbucket.org/attila_afra/doboz/overview) - Compression library with very fast decompression.
-* [LZ4](https://code.google.com/p/lz4/) - Extremely Fast Compression algorithm.
-* [LZHAM](https://code.google.com/p/lzham/) - Lossless data compression library with a compression ratio similar to LZMA but with much faster decompression.
-* [LZMA](http://www.7-zip.org/sdk.html) - The default and general compression method of 7z format.
-* [LZMAT](http://www.matcode.com/lzmat.htm) - An extremely fast real-time lossless data compression library.
-* [miniz](https://code.google.com/p/miniz/) - Single C source file Deflate/Inflate compression library with zlib-compatible API, ZIP archive reading/writing, PNG writing.
-* [Minizip](https://github.com/nmoinvaz/minizip) - Zlib with latest bug fixes that supports PKWARE disk spanning, AES encryption, and IO buffering.
-* [Snappy](https://code.google.com/p/snappy/) - A fast compressor/decompressor.
-* [ZLib](http://zlib.net/) - A very compact compression library for data streams.
-* [ZZIPlib](http://zziplib.sourceforge.net/) - Provides read access on ZIP-archives.
+* [bzip2](http://www.bzip.org/) - A freely available, patent free, high-quality data compressor. [BSD]
+* [doboz](https://bitbucket.org/attila_afra/doboz/overview) - Compression library with very fast decompression. [zlib]
+* [LZ4](https://code.google.com/p/lz4/) - Extremely Fast Compression algorithm. [BSD]
+* [LZHAM](https://code.google.com/p/lzham/) - Lossless data compression library with a compression ratio similar to LZMA but with much faster decompression. [BSD]
+* [LZMA](http://www.7-zip.org/sdk.html) - The default and general compression method of 7z format. [LGPL]
+* [LZMAT](http://www.matcode.com/lzmat.htm) - An extremely fast real-time lossless data compression library. [GPL]
+* [miniz](https://code.google.com/p/miniz/) - Single C source file Deflate/Inflate compression library with zlib-compatible API, ZIP archive reading/writing, PNG writing. [Unlicense]
+* [Minizip](https://github.com/nmoinvaz/minizip) - Zlib with latest bug fixes that supports PKWARE disk spanning, AES encryption, and IO buffering. [zlib]
+* [Snappy](https://code.google.com/p/snappy/) - A fast compressor/decompressor. [BSD]
+* [ZLib](http://zlib.net/) - A very compact compression library for data streams. [zlib]
+* [ZZIPlib](http://zziplib.sourceforge.net/) - Provides read access on ZIP-archives. [MPL/LGPL]
 
 ## Concurrency
 *Concurrency and Multithreading*
