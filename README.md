@@ -58,42 +58,42 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 ## Frameworks
 *C++ generic frameworks and libraries.*
 
-* [Apache C++ Standard Library](http://stdcxx.apache.org/) - A collection of algorithms, containers, iterators, and other fundamental components.
-* [ASL](http://stlab.adobe.com/) - Adobe Source Libraries provides peer-reviewed and portable C++ source libraries.
-* [Boost](https://github.com/boostorg) - A large collection of generic C++ libraries. - [website](http://www.boost.org/)
-* [BDE](https://github.com/bloomberg/bde) - The BDE Development Environment from Bloomberg Labs.
-* [Cinder](http://libcinder.org/) - A community-developed, free and open source library for professional-quality creative coding.
-* [Cxxomfort](http://ryan.gulix.cl/fossil.cgi/cxxomfort/) - A small, header-only library that backports to C++03 some of the nifty C++11 goodies.
-* [Dlib](http://dlib.net/) - A general purpose cross-platform C++ library designed using contract programming and modern C++ techniques.
-* [EASTL](https://github.com/paulhodge/EASTL) - Public part of EA-STL.
-* [ffead-cpp](https://github.com/sumeetchhetri/ffead-cpp) - Framework for Enterprise Application Development.
-* [Folly](https://github.com/facebook/folly) - An open-source C++ library developed and used at Facebook.
-* [JUCE](http://www.juce.com/) - An all-encompassing C++ class library for developing cross-platform software.
-* [libPhenom](https://github.com/facebook/libphenom) - libPhenom is an eventing framework for building high performance and high scalability systems in C.
-* [LibSourcey](https://github.com/sourcey/libsourcey) - C++11 evented IO for real-time video streaming and high performance networking applications.
-* [LibU](https://github.com/koanlogic/libu) - A multiplatform utility library written in C.
-* [Loki](http://loki-lib.sourceforge.net/) - A C++ library of designs, containing flexible implementations of common design patterns and idioms.
-* [MiLi](https://code.google.com/p/mili/) - Minimal headers-only C++ Library.
-* [openFrameworks](http://www.openframeworks.cc/) - An open source C++ toolkit for creative coding.
-* [Qt](http://qt-project.org/) - A cross-platform application and UI framework.
-* [Reason](http://code.google.com/p/reason/) - A cross platform framework designed to bring the ease of use of Java, .Net, or Python to developers who require the performance and strength of C++.
-* [STXXL](http://stxxl.sourceforge.net/) - Standard Template Library for Extra Large Data Sets.
-* [Ultimate++](http://www.ultimatepp.org/) - A C++ cross-platform rapid application development framework.
-* [Windows Template Library](http://sourceforge.net/projects/wtl/) - A C++ library for developing Windows applications and UI components.
-* [Yomm11](https://github.com/jll63/yomm11) - Open multi-methods for C++11.
+* [Apache C++ Standard Library](http://stdcxx.apache.org/) - A collection of algorithms, containers, iterators, and other fundamental components. [Apache2]
+* [ASL](http://stlab.adobe.com/) - Adobe Source Libraries provides peer-reviewed and portable C++ source libraries. [MIT]
+* [Boost](https://github.com/boostorg) - A large collection of generic C++ libraries. [Boost] [website](http://www.boost.org/)
+* [BDE](https://github.com/bloomberg/bde) - The BDE Development Environment from Bloomberg Labs. [MIT]
+* [Cinder](http://libcinder.org/) - A community-developed, free and open source library for professional-quality creative coding. [BSD]
+* [Cxxomfort](http://ryan.gulix.cl/fossil.cgi/cxxomfort/) - A small, header-only library that backports to C++03 some of the nifty C++11 goodies. [MIT]
+* [Dlib](http://dlib.net/) - A general purpose cross-platform C++ library designed using contract programming and modern C++ techniques. [Boost]
+* [EASTL](https://github.com/paulhodge/EASTL) - Public part of EA-STL. [BSD]
+* [ffead-cpp](https://github.com/sumeetchhetri/ffead-cpp) - Framework for Enterprise Application Development. [Apache2]
+* [Folly](https://github.com/facebook/folly) - An open-source C++ library developed and used at Facebook. [Apache2]
+* [JUCE](http://www.juce.com/) - An all-encompassing C++ class library for developing cross-platform software. [Core-Module:ISC/Rest: GPL2/GPL3/Commercial]
+* [libPhenom](https://github.com/facebook/libphenom) - libPhenom is an eventing framework for building high performance and high scalability systems in C. [Apache2]
+* [LibSourcey](https://github.com/sourcey/libsourcey) - C++11 evented IO for real-time video streaming and high performance networking applications. [LGPL]
+* [LibU](https://github.com/koanlogic/libu) - A multiplatform utility library written in C. [BSD]
+* [Loki](http://loki-lib.sourceforge.net/) - A C++ library of designs, containing flexible implementations of common design patterns and idioms. [MIT]
+* [MiLi](https://code.google.com/p/mili/) - Minimal headers-only C++ Library. [Boost]
+* [openFrameworks](http://www.openframeworks.cc/) - An open source C++ toolkit for creative coding. [MIT]
+* [Qt](http://qt-project.org/) - A cross-platform application and UI framework. [LGPL]
+* [Reason](http://code.google.com/p/reason/) - A cross platform framework designed to bring the ease of use of Java, .Net, or Python to developers who require the performance and strength of C++. [GPLv2]
+* [STXXL](http://stxxl.sourceforge.net/) - Standard Template Library for Extra Large Data Sets. [Boost]
+* [Ultimate++](http://www.ultimatepp.org/) - A C++ cross-platform rapid application development framework. [BSD]
+* [Windows Template Library](http://sourceforge.net/projects/wtl/) - A C++ library for developing Windows applications and UI components. [Public]
+* [Yomm11](https://github.com/jll63/yomm11) - Open multi-methods for C++11. [Boost]
 
 ## Artificial Intelligence
 
-* [btsk](https://github.com/aigamedev/btsk) - Game Behavior Tree Starter Kit.
-* [Evolving Objects](http://eodev.sourceforge.net/) - A template-based, ANSI-C++ evolutionary computation library which helps you to write your own stochastic optimization algorithms insanely fast.
-* [Neu](https://github.com/andrometa/neu) - A C++ 11 framework, collection of programming languages, and multipurpose software system designed for: the creation of artificial intelligence applications.
+* [btsk](https://github.com/aigamedev/btsk) - Game Behavior Tree Starter Kit. [zlib]
+* [Evolving Objects](http://eodev.sourceforge.net/) - A template-based, ANSI-C++ evolutionary computation library which helps you to write your own stochastic optimization algorithms insanely fast. [LGPL]
+* [Neu](https://github.com/andrometa/neu) - A C++ 11 framework, collection of programming languages, and multipurpose software system designed for: the creation of artificial intelligence applications. [BSD]
 
 ## Asynchronous Event Loop
 
-* [Boost.Asio](http://think-async.com/) - A cross-platform C++ library for network and low-level I/O programming.
-* [libev](http://libev.schmorp.de/) - A full-featured and high-performance event loop that is loosely modelled after libevent, but without its limitations and bugs.
-* [libevent](http://libevent.org/) - An event notification library.
-* [libuv](https://github.com/joyent/libuv) - Cross-platform asychronous I/O.
+* [Boost.Asio](http://think-async.com/) - A cross-platform C++ library for network and low-level I/O programming. [Boost]
+* [libev](http://libev.schmorp.de/) - A full-featured and high-performance event loop that is loosely modelled after libevent, but without its limitations and bugs. [BSD and GPL]
+* [libevent](http://libevent.org/) - An event notification library. [BSD]
+* [libuv](https://github.com/joyent/libuv) - Cross-platform asychronous I/O. [BSD]
 
 ## Audio
 *Audio, Sound, Music, Digitized Voice Libraries*
