@@ -302,6 +302,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 
 * [libvpx](http://www.webmproject.org/code/) - VP8/VP9 Codec SDK.
 * [FFmpeg](https://www.ffmpeg.org/) - A complete, cross-platform solution to record, convert and stream audio and video.
+* [libde265](https://github.com/strukturag/libde265) - Open h.265 video codec implementation. [LGPL] [website](http://www.libde265.org/)
 * [OpenH264](https://github.com/cisco/openh264) - Open Source H.264 Codec. [BSD] [website](http://www.openh264.org/)
 * [Theora](http://www.theora.org/) - A free and open video compression format.
 

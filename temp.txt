@@ -57,7 +57,6 @@ http://blogs.msdn.com/b/nativeconcurrency/
 https://github.com/mozilla/mozjpeg
 https://github.com/tinfoilboy/Explodable
 https://github.com/thrust/thrust
-https://github.com/cisco/openh264
 https://github.com/chenshuo/muduo
 https://github.com/shaih/HElib
 https://github.com/philsquared/Catch
