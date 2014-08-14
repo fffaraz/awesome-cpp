@@ -77,6 +77,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [openFrameworks](http://www.openframeworks.cc/) - An open source C++ toolkit for creative coding. [MIT]
 * [Qt](http://qt-project.org/) - A cross-platform application and UI framework. [LGPL]
 * [Reason](http://code.google.com/p/reason/) - A cross platform framework designed to bring the ease of use of Java, .Net, or Python to developers who require the performance and strength of C++. [GPLv2]
+* [root](http://root.cern.ch) - The ROOT system provides a set of OO frameworks with all the functionality needed to handle and analyze large amounts of data in a very efficient way. Used at [CERN](http://cern.ch). [LGPL]
 * [STXXL](http://stxxl.sourceforge.net/) - Standard Template Library for Extra Large Data Sets. [Boost]
 * [Ultimate++](http://www.ultimatepp.org/) - A C++ cross-platform rapid application development framework. [BSD]
 * [Windows Template Library](http://sourceforge.net/projects/wtl/) - A C++ library for developing Windows applications and UI components. [Public]
@@ -108,6 +109,8 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 
 * [bzip2](http://www.bzip.org/) - A freely available, patent free, high-quality data compressor. [BSD]
 * [doboz](https://bitbucket.org/attila_afra/doboz/overview) - Compression library with very fast decompression. [zlib]
+* [PhysicsFS](https://icculus.org/physfs/) - PhysicsFS is a library to provide abstract access to various archives. It is intended for use in video games, and the design was somewhat inspired by Quake 3's file subsystem. [zlib]
+* [KArchive](https://projects.kde.org/projects/frameworks/karchive) - KArchive is a library for creating, reading, writing and manipulating file archives. It provides easy to use classes for manipulation of archive file formats like zip and tar. It also provides transparent compression and decompression of data, using formats like gzip, via a subclass of QIODevice. [LGPL]
 * [LZ4](https://code.google.com/p/lz4/) - Extremely Fast Compression algorithm. [BSD]
 * [LZHAM](https://code.google.com/p/lzham/) - Lossless data compression library with a compression ratio similar to LZMA but with much faster decompression. [BSD]
 * [LZMA](http://www.7-zip.org/sdk.html) - The default and general compression method of 7z format. [LGPL]
@@ -127,6 +130,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Libclsph](https://github.com/libclsph/libclsph) - An OpenCL based GPU accelerated SPH fluid simulation library.
 * [OpenCL](https://www.khronos.org/opencl/) - The open standard for parallel programming of heterogeneous systems.
 * [OpenMP](http://openmp.org/) - The OpenMP API.
+* [React](http://schlangster.github.io/cpp.react/) - C++React is reactive programming library for C++11. Generally speaking, it provides abstractions to handle change propagation and data processing for a push-based event model. A more practical description is that it enables coordinated, multi-layered - and potentially parallel [boost]
 * [Thrust](http://thrust.github.io/) - A parallel algorithms library which resembles the C++ Standard Template Library (STL).
 * [HPX](https://github.com/STEllAR-GROUP/hpx/) - A general purpose C++ runtime system for parallel and distributed applications of any scale.
 * [VexCL](https://github.com/ddemidov/vexcl) - A C++ vector expression template library for OpenCL/CUDA.
@@ -242,6 +246,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 
 * [GStreamer](http://gstreamer.freedesktop.org/) - A library for constructing graphs of media-handling components.
 * [libVLC](https://wiki.videolan.org/LibVLC) - libVLC (VLC SDK) media framework.
+* [QtAv](http://wang-bin.github.io/QtAV/) - A multimedia playback framework based on Qt and FFmpeg. It helps you to write a player easily
 * [SFML](http://www.sfml-dev.org/) - Simple and Fast Multimedia Library.
 * [SDL](http://www.libsdl.org/) - Simple DirectMedia Layer.
 
@@ -295,6 +300,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Crow](https://github.com/ipkn/crow) - Crow is C++ micro web framework (inspired by Python Flask). [BSD]
 * [Kore](https://kore.io/) - ultra fast and flexible web server / framework for web applications developed in C. [ISC]
 * [libOnion](http://www.coralbits.com/libonion/) - lightweight library to help you create webservers in C programming language. [LGPLv3]
+* [QDjango](https://github.com/jlaine/qdjango/) - QDjango is a web framework written in C++ and built on top of the Qt library. Where possible it tries to follow django's API, hence its name [LGPL]
 * [Wt](http://www.webtoolkit.eu/wt) - A C++ library for developing web applications. [GPL/Commercial]
 
 ## XML
