@@ -1,8 +1,6 @@
 
 * []() - .
 
-* [Opus](http://opus-codec.org/) - A totally open, royalty-free, highly versatile audio codec.
-
 * [OpenGL](http://www.opengl.org/) - (Open Graphics Library) is a cross-language, multi-platform application programming interface (API) for rendering 2D and 3D vector graphics.
 * [DirectX](http://msdn.microsoft.com/en-us/library/bb384840.aspx) - Microsoft DirectX.
 

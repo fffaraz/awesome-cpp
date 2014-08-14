@@ -102,6 +102,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [FMOD](http://www.fmod.org/) - An easy to use crossplatform audio engine and audio content creation tool for games. [Free for non-commercial/Commercial]
 * [Maximilian](https://github.com/micknoise/Maximilian) - C++ Audio and Music DSP Library. [MIT]
 * [OpenAL](http://www.openal.org/) - Open Audio Library - A crossplatform audio API. [BSD/LGPL/Commercial]
+* [Opus](http://opus-codec.org/) - A totally open, royalty-free, highly versatile audio codec.
 * [Tonic](https://github.com/TonicAudio/Tonic) - Easy and efficient audio synthesis in C++. [Unlicense]
 
 ## Compression
