@@ -84,16 +84,16 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 
 ## Artificial Intelligence
 
-* [btsk](https://github.com/aigamedev/btsk) - Game Behavior Tree Starter Kit.
-* [Evolving Objects](http://eodev.sourceforge.net/) - A template-based, ANSI-C++ evolutionary computation library which helps you to write your own stochastic optimization algorithms insanely fast.
-* [Neu](https://github.com/andrometa/neu) - A C++ 11 framework, collection of programming languages, and multipurpose software system designed for: the creation of artificial intelligence applications.
+* [btsk](https://github.com/aigamedev/btsk) - Game Behavior Tree Starter Kit. [zlib]
+* [Evolving Objects](http://eodev.sourceforge.net/) - A template-based, ANSI-C++ evolutionary computation library which helps you to write your own stochastic optimization algorithms insanely fast. [LGPL]
+* [Neu](https://github.com/andrometa/neu) - A C++ 11 framework, collection of programming languages, and multipurpose software system designed for: the creation of artificial intelligence applications. [BSD]
 
 ## Asynchronous Event Loop
 
-* [Boost.Asio](http://think-async.com/) - A cross-platform C++ library for network and low-level I/O programming.
-* [libev](http://libev.schmorp.de/) - A full-featured and high-performance event loop that is loosely modelled after libevent, but without its limitations and bugs.
-* [libevent](http://libevent.org/) - An event notification library.
-* [libuv](https://github.com/joyent/libuv) - Cross-platform asychronous I/O.
+* [Boost.Asio](http://think-async.com/) - A cross-platform C++ library for network and low-level I/O programming. [Boost]
+* [libev](http://libev.schmorp.de/) - A full-featured and high-performance event loop that is loosely modelled after libevent, but without its limitations and bugs. [BSD and GPL]
+* [libevent](http://libevent.org/) - An event notification library. [BSD]
+* [libuv](https://github.com/joyent/libuv) - Cross-platform asychronous I/O. [BSD]
 
 ## Audio
 *Audio, Sound, Music, Digitized Voice Libraries*
