@@ -232,7 +232,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [blaze](https://code.google.com/p/blaze-lib/) - high-performance C++ math library for dense and sparse arithmetic.
 * [ceres-solver](http://ceres-solver.org/) - C++ library for modeling and solving large complicated nonlinear least squares problems from google.
 * [cml](http://cmldev.net/) - free C++ math library for games and graphics.
-* [Eigen](http://eigen.tuxfamily.org/index.php) - C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms.
+* [Eigen](http://eigen.tuxfamily.org/) - A high-level C++ library of template headers for linear algebra, matrix and vector operations, numerical solvers and related algorithms. [MPL2]
 
 ## Mocking
 
@@ -242,7 +242,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 
 * [GStreamer](http://gstreamer.freedesktop.org/) - A library for constructing graphs of media-handling components.
 * [libVLC](https://wiki.videolan.org/LibVLC) - libVLC (VLC SDK) media framework.
-* [SFML](http://www.sfml-dev.org/index.php) - Simple and Fast Multimedia Library.
+* [SFML](http://www.sfml-dev.org/) - Simple and Fast Multimedia Library.
 * [SDL](http://www.libsdl.org/) - Simple DirectMedia Layer.
 
 ## Networking
