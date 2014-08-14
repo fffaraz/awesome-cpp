@@ -16,7 +16,7 @@
 
 ====================
 
-All libs in: 
+All libs in:
 https://github.com/Alexpux/MINGW-packages
 http://en.cppreference.com/w/cpp/links/libs
 
@@ -57,6 +57,7 @@ http://blogs.msdn.com/b/nativeconcurrency/
 
 ====================
 
+https://github.com/mozilla/mozjpeg
 https://github.com/tinfoilboy/Explodable
 https://github.com/thrust/thrust
 https://github.com/cisco/openh264
