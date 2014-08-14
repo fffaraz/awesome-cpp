@@ -53,7 +53,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [C++ Standard Library](http://en.wikipedia.org/wiki/C%2B%2B_Standard_Library) - A collection of classes and functions, which are written in the core language and part of the C++ ISO Standard itself.
 * [Standard Template Library](http://en.wikipedia.org/wiki/Standard_Template_Library) - The Standard Template Library (STL).
 * [C POSIX library](http://en.wikipedia.org/wiki/C_POSIX_library) - A specification of a C standard library for POSIX systems.
-* [ISO C++ Standards Committee](https://github.com/cplusplus) - ISO/IEC JTC1/SC22/WG21 - The C++ Standards Committee. - [website](http://www.open-std.org/JTC1/SC22/WG21/)
+* [ISO C++ Standards Committee](https://github.com/cplusplus) - ISO/IEC JTC1/SC22/WG21 - The C++ Standards Committee. [website](http://www.open-std.org/JTC1/SC22/WG21/)
 
 ## Frameworks
 *C++ generic frameworks and libraries.*
@@ -168,7 +168,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Cocos2d-x](http://www.cocos2d-x.org/) - A multi-platform framework for building 2d games, interactive books, demos and other graphical applications.
 * [Grit](http://gritengine.com/) - Community project to build a free game engine for implementing open world 3D games.
 * [Irrlicht](http://irrlicht.sourceforge.net/) - An open source high performance realtime 3D engine written in C++.
-* [Polycode](http://polycode.org/) - Open-Source Framework for creating games in C++ (with Lua bindings)..
+* [Polycode](http://polycode.org/) - Open-Source Framework for creating games in C++ (with Lua bindings).
 
 ## GUI
 *Graphic User Interface*
@@ -191,7 +191,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Horde3D](https://github.com/horde3d/Horde3D) - A small 3D rendering and animation engine.
 * [Ogre 3D](http://www.ogre3d.org/) - A scene-oriented, real-time, flexible 3D rendering engine (as opposed to a game engine) written in C++.
 * [Panda3D](http://www.panda3d.org/) - A framework for 3D rendering and game development for Python and C++ .
-* [Skia](https://github.com/google/skia) - A complete 2D graphic library for drawing Text, Geometries, and Images. - [webpage](https://sites.google.com/site/skiadocs/home)
+* [Skia](https://github.com/google/skia) - A complete 2D graphic library for drawing Text, Geometries, and Images. [webpage](https://sites.google.com/site/skiadocs/home)
 * [urho3d](https://github.com/urho3d/Urho3D) - Cross-platform rendering and game engine.
 
 ## Internationalization
@@ -222,7 +222,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Caffe](https://github.com/BVLC/caffe) - A fast framework for neural networks.
 * [CCV](https://github.com/liuliu/ccv) - C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library.
 * [mlpack](http://www.mlpack.org/) - A scalable c++ machine learning library.
-* [OpenCV](https://github.com/Itseez/opencv) - Open Source Computer Vision Library. - [website](http://opencv.org/)
+* [OpenCV](https://github.com/Itseez/opencv) - Open Source Computer Vision Library. [website](http://opencv.org/)
 * [Recommender](https://github.com/GHamrouni/Recommender) - C library for product recommendations/suggestions using collaborative filtering (CF).
 * [SHOGUN](https://github.com/shogun-toolbox/shogun) - The Shogun Machine Learning Toolbox.
 * [sofia-ml](https://code.google.com/p/sofia-ml/) - The suite of fast incremental algorithms for machine learning.
@@ -264,8 +264,8 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 *Dynamics simulation engines*
 
 * [Box2D](https://code.google.com/p/box2d/) - A 2D physics engine for games.
-* [Bullet](https://github.com/bulletphysics/bullet3) - A 3D physics engine for games. - [website](http://bulletphysics.org)
-* [Chipmunk](https://github.com/slembcke/Chipmunk2D) - A fast and lightweight 2D game physics library. - [website](https://chipmunk-physics.net/)
+* [Bullet](https://github.com/bulletphysics/bullet3) - A 3D physics engine for games. [website](http://bulletphysics.org)
+* [Chipmunk](https://github.com/slembcke/Chipmunk2D) - A fast and lightweight 2D game physics library. [website](https://chipmunk-physics.net/)
 * [LiquidFun](https://github.com/google/liquidfun) - A 2D physics engine for games.
 * [ODE](http://www.ode.org/) - Open Dynamics Engine - An open source, high performance library for simulating rigid body dynamics.
 * [ofxBox2d](https://github.com/vanderlin/ofxBox2d) - openFrameworks wrapper for Box2D.
@@ -273,7 +273,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 
 ## Scripting
 
-* [ChaiScript](https://github.com/ChaiScript/ChaiScript/) - An easy to use embedded scripting language for C++. - [website](http://chaiscript.com/)
+* [ChaiScript](https://github.com/ChaiScript/ChaiScript/) - An easy to use embedded scripting language for C++. [website](http://chaiscript.com/)
 * [Lua](http://www.lua.org/) - A minimal and fast scripting engine for configuration files and basic application scripting.
 * [luacxx](https://github.com/dafrito/luacxx) - C++11 API for creating Lua bindings.
 * [SWIG](http://www.swig.org/) - a wrapper/interface Generator that let you link your c++ code to Javascript, Perl, PHP, Python, Tcl and Ruby.
@@ -285,7 +285,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Cap'n Proto](http://kentonv.github.io/capnproto/) - Fast data interchange format and capability-based RPC system. [MIT]
 * [cereal](https://github.com/USCiLab/cereal) - A C++11 library for serialization. [BSD]
 * [FlatBuffers](https://github.com/google/flatbuffers) -  A Memory efficient serialization library. [Apache2]
-* [MessagePack](https://github.com/msgpack/msgpack-c) - Efficient binary serialization format "like JSON" for C/C++. - [website](http://msgpack.org/) [Apache2]
+* [MessagePack](https://github.com/msgpack/msgpack-c) - Efficient binary serialization format "like JSON" for C/C++. [Apache2] [website](http://msgpack.org/)
 * [protobuf](http://code.google.com/p/protobuf/) - Protocol Buffers - Google's data interchange format. [BSD]
 * [SimpleBinaryEncoding](https://github.com/real-logic/simple-binary-encoding) - encoding and decoding application messages in binary format for low-latency applications. [Apache2]
 
@@ -332,7 +332,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [QtVerbalExpressions](https://github.com/VerbalExpressions/QtVerbalExpressions) - This Qt lib is based off of the C++ VerbalExpressions library.
 * [TinyVM](https://github.com/jakogut/tinyvm) - A small, fast, lightweight virtual machine written in pure ANSI C.
 * [CarpVM](https://github.com/tekknolagi/carp) - "interesting" VM in C. Let's see how this goes.
-* [PHP-CPP](https://github.com/CopernicaMarketingSoftware/PHP-CPP) - A library to build PHP extensions with C++. - [website](http://www.php-cpp.com/)
+* [PHP-CPP](https://github.com/CopernicaMarketingSoftware/PHP-CPP) - A library to build PHP extensions with C++. [website](http://www.php-cpp.com/)
 
 # Software
 *Software for creating a development environment.*
