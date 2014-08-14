@@ -36,6 +36,8 @@ https://github.com/psi-im/libpsi
 
 https://github.com/CopernicaMarketingSoftware
 
+====================
+
 http://scripts.mit.edu/~6.270/contestants/workshops/awesomec.pdf
 
 Oracle Template Library
@@ -64,9 +66,7 @@ https://github.com/shaih/HElib
 https://github.com/philsquared/Catch
 https://github.com/jlnr/gosu
 https://github.com/rakshasa/libtorrent
-https://github.com/USCiLab/cereal
 https://github.com/bittorrent/libutp
-https://github.com/micknoise/Maximilian
 https://github.com/vinniefalco/DSPFilters
 https://github.com/m-ou-se/moggle
 
@@ -85,11 +85,9 @@ https://github.com/apache/thrift
 https://github.com/biometrics/openbr
 https://github.com/MailCore/mailcore2
 https://github.com/zaphoyd/websocketpp
-https://github.com/julianstorer/JUCE
 https://github.com/beark/ftl
 https://github.com/opencog/opencog
 https://github.com/CopernicaMarketingSoftware/PHP-CPP
-https://github.com/xtaci/algorithms
 https://github.com/GraphChi/graphchi-cpp
 https://github.com/webcoyote/coho
 https://github.com/facebook/fbthrift

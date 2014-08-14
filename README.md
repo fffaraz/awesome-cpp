@@ -68,7 +68,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [EASTL](https://github.com/paulhodge/EASTL) - Public part of EA-STL. [BSD]
 * [ffead-cpp](https://github.com/sumeetchhetri/ffead-cpp) - Framework for Enterprise Application Development. [Apache2]
 * [Folly](https://github.com/facebook/folly) - An open-source C++ library developed and used at Facebook. [Apache2]
-* [JUCE](http://www.juce.com/) - An all-encompassing C++ class library for developing cross-platform software. [Core-Module:ISC/Rest: GPL2/GPL3/Commercial]
+* [JUCE](https://github.com/julianstorer/JUCE) - An all-encompassing C++ class library for developing cross-platform software. [Core-Module: ISC, Rest: GPL2/GPL3/Commercial] [website](http://www.juce.com/)
 * [libPhenom](https://github.com/facebook/libphenom) - libPhenom is an eventing framework for building high performance and high scalability systems in C. [Apache2]
 * [LibSourcey](https://github.com/sourcey/libsourcey) - C++11 evented IO for real-time video streaming and high performance networking applications. [LGPL]
 * [LibU](https://github.com/koanlogic/libu) - A multiplatform utility library written in C. [BSD]
