@@ -138,10 +138,10 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 ## Cryptography
 *Cryptography and Encryption Libraries*
 
-* [Crypto++](http://www.cryptopp.com/) - A free C++ class library of cryptographic schemes.
-* [LibTomCrypt](https://github.com/libtom/libtomcrypt) - A fairly comprehensive, modular and portable cryptographic toolkit.
-* [libsodium](https://github.com/jedisct1/libsodium) - P(ortable|ackageable) NaCl-based crypto library, opinionated and easy to use.
-* [OpenSSL](http://www.openssl.org/) - A robust, commercial-grade, full-featured, and Open Source cryptography library.
+* [Crypto++](http://www.cryptopp.com/) - A free C++ class library of cryptographic schemes. [Boost]
+* [LibTomCrypt](https://github.com/libtom/libtomcrypt) - A fairly comprehensive, modular and portable cryptographic toolkit. [WTFPL]
+* [libsodium](https://github.com/jedisct1/libsodium) - P(ortable|ackageable) NaCl-based crypto library, opinionated and easy to use. [ISC]
+* [OpenSSL](http://www.openssl.org/) - A robust, commercial-grade, full-featured, and Open Source cryptography library. [Apache]
 
 ## Database
 *Database Libraries, SQL Servers, ODBC Drivers, and Tools*
@@ -222,7 +222,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Caffe](https://github.com/BVLC/caffe) - A fast framework for neural networks.
 * [CCV](https://github.com/liuliu/ccv) - C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library.
 * [mlpack](http://www.mlpack.org/) - A scalable c++ machine learning library.
-* [OpenCV](https://github.com/Itseez/opencv) - Open Source Computer Vision Library. [website](http://opencv.org/)
+* [OpenCV](https://github.com/Itseez/opencv) - Open Source Computer Vision Library. [BSD] [website](http://opencv.org/)
 * [Recommender](https://github.com/GHamrouni/Recommender) - C library for product recommendations/suggestions using collaborative filtering (CF).
 * [SHOGUN](https://github.com/shogun-toolbox/shogun) - The Shogun Machine Learning Toolbox.
 * [sofia-ml](https://code.google.com/p/sofia-ml/) - The suite of fast incremental algorithms for machine learning.
