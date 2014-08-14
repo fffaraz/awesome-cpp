@@ -130,6 +130,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Libclsph](https://github.com/libclsph/libclsph) - An OpenCL based GPU accelerated SPH fluid simulation library.
 * [OpenCL](https://www.khronos.org/opencl/) - The open standard for parallel programming of heterogeneous systems.
 * [OpenMP](http://openmp.org/) - The OpenMP API.
+* [React](http://schlangster.github.io/cpp.react/) - C++React is reactive programming library for C++11. Generally speaking, it provides abstractions to handle change propagation and data processing for a push-based event model. A more practical description is that it enables coordinated, multi-layered - and potentially parallel [boost]
 * [Thrust](http://thrust.github.io/) - A parallel algorithms library which resembles the C++ Standard Template Library (STL).
 * [HPX](https://github.com/STEllAR-GROUP/hpx/) - A general purpose C++ runtime system for parallel and distributed applications of any scale.
 * [VexCL](https://github.com/ddemidov/vexcl) - A C++ vector expression template library for OpenCL/CUDA.
