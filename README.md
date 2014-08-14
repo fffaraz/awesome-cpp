@@ -109,6 +109,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [bzip2](http://www.bzip.org/) - A freely available, patent free, high-quality data compressor.
 * [doboz](https://bitbucket.org/attila_afra/doboz/overview) - Compression library with very fast decompression.
 * [PhysicsFS](https://icculus.org/physfs/) - PhysicsFS is a library to provide abstract access to various archives. It is intended for use in video games, and the design was somewhat inspired by Quake 3's file subsystem. [zlib]
+* [KArchive](https://projects.kde.org/projects/frameworks/karchive) - KArchive is a library for creating, reading, writing and manipulating file archives. It provides easy to use classes for manipulation of archive file formats like zip and tar. It also provides transparent compression and decompression of data, using formats like gzip, via a subclass of QIODevice. [LGPL]
 * [LZ4](https://code.google.com/p/lz4/) - Extremely Fast Compression algorithm.
 * [LZHAM](https://code.google.com/p/lzham/) - Lossless data compression library with a compression ratio similar to LZMA but with much faster decompression.
 * [LZMA](http://www.7-zip.org/sdk.html) - The default and general compression method of 7z format.
