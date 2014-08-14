@@ -246,6 +246,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 
 * [GStreamer](http://gstreamer.freedesktop.org/) - A library for constructing graphs of media-handling components.
 * [libVLC](https://wiki.videolan.org/LibVLC) - libVLC (VLC SDK) media framework.
+* [QtAv](http://wang-bin.github.io/QtAV/) - A multimedia playback framework based on Qt and FFmpeg. It helps you to write a player easily
 * [SFML](http://www.sfml-dev.org/) - Simple and Fast Multimedia Library.
 * [SDL](http://www.libsdl.org/) - Simple DirectMedia Layer.
 
