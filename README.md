@@ -28,6 +28,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 	- [Physics](#physics)
 	- [Scripting](#scripting)
 	- [Serialization](#serialization)
+	- [Video](#video)
 	- [Web Application Framework](#web-application-framework)
 	- [XML](#xml)
 	- [Miscellaneous](#miscellaneous)
@@ -102,7 +103,8 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [FMOD](http://www.fmod.org/) - An easy to use crossplatform audio engine and audio content creation tool for games. [Free for non-commercial/Commercial]
 * [Maximilian](https://github.com/micknoise/Maximilian) - C++ Audio and Music DSP Library. [MIT]
 * [OpenAL](http://www.openal.org/) - Open Audio Library - A crossplatform audio API. [BSD/LGPL/Commercial]
-* [Opus](http://opus-codec.org/) - A totally open, royalty-free, highly versatile audio codec.
+* [Opus](http://opus-codec.org/) - A totally open, royalty-free, highly versatile audio codec. [BSD]
+* [Speex](http://www.speex.org/) - A free codec for free speech. Obsoleted by Opus. [BSD]
 * [Tonic](https://github.com/TonicAudio/Tonic) - Easy and efficient audio synthesis in C++. [Unlicense]
 
 ## Compression
@@ -294,6 +296,12 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [MessagePack](https://github.com/msgpack/msgpack-c) - Efficient binary serialization format "like JSON" for C/C++. [Apache2] [website](http://msgpack.org/)
 * [protobuf](http://code.google.com/p/protobuf/) - Protocol Buffers - Google's data interchange format. [BSD]
 * [SimpleBinaryEncoding](https://github.com/real-logic/simple-binary-encoding) - encoding and decoding application messages in binary format for low-latency applications. [Apache2]
+
+## Video
+
+* [libvpx](http://www.webmproject.org/code/) - VP8/VP9 Codec SDK.
+* [FFmpeg](https://www.ffmpeg.org/) - A complete, cross-platform solution to record, convert and stream audio and video.
+* [Theora](http://www.theora.org/) - A free and open video compression format.
 
 ## Web Application Framework
 

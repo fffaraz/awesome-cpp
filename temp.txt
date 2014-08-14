@@ -7,9 +7,6 @@
 * [Blink](http://www.chromium.org/blink) - A web browser engine developed as part of the Chromium project.
 * [WebKit](http://www.webkit.org/) - A layout engine software component for rendering web pages in web browsers.
 
-* [libvpx](http://www.webmproject.org/code/) - libvpx.
-* [FFmpeg](https://www.ffmpeg.org/) - FFmpeg.
-
 * [Fruit](https://github.com/google/fruit) - A dependency injection framework for C++.
 
 ====================
