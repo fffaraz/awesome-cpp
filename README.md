@@ -338,6 +338,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [DynaPDF](http://www.dynaforms.com/) - An easy-to-use PDF generation library.
 * [HTTP Parser](https://github.com/joyent/http-parser) - A http request/response parser for C.
 * [libcpuid](https://github.com/anrieff/libcpuid) - A small C library for x86 CPU detection and feature extraction.
+* [libevil](https://github.com/avati/libevil) - The Evil License Manager.
 * [libusb](http://www.libusb.org/) - A universal USB library which allows for portable access to USB devices.
 * [Remote Call Framework](http://www.deltavsoft.com/) - Inter-process communication framework for C++.
 * [Serial Communication Library](https://github.com/wjwwood/serial) - Cross-platform, Serial Port library written in C++.
