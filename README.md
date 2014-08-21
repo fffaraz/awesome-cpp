@@ -22,7 +22,6 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 	- [Logging](#logging)
 	- [Machine Learning](#machine-learning)
 	- [Math](#math)
-	- [Mocking](#mocking)
 	- [Multimedia](#multimedia)
 	- [Networking](#networking)
 	- [Physics](#physics)
@@ -238,15 +237,11 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 
 ## Math
 
+* [Armadillo](http://arma.sourceforge.net/) - A high quality C++ linear algebra library, aiming towards a good balance between speed and ease of use. The syntax (API) is deliberately similar to Matlab. [MPL2]
 * [blaze](https://code.google.com/p/blaze-lib/) - high-performance C++ math library for dense and sparse arithmetic.
 * [ceres-solver](http://ceres-solver.org/) - C++ library for modeling and solving large complicated nonlinear least squares problems from google.
 * [cml](http://cmldev.net/) - free C++ math library for games and graphics.
 * [Eigen](http://eigen.tuxfamily.org/) - A high-level C++ library of template headers for linear algebra, matrix and vector operations, numerical solvers and related algorithms. [MPL2]
-* [Armadillo](http://arma.sourceforge.net/) - A high quality C++ linear algebra library, aiming towards a good balance between speed and ease of use. The syntax (API) is deliberately similar to Matlab. [MPL2]
-
-## Mocking
-
-* [googlemock](http://code.google.com/p/googlemock/) - A library for writing and using C++ mock classes.
 
 ## Multimedia
 
@@ -337,6 +332,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [casacore](https://code.google.com/p/casacore/) - A set of c++ core libraries derived from aips++.
 * [cxx-prettyprint](https://github.com/louisdx/cxx-prettyprint) - A pretty printing library for C++ containers.
 * [DynaPDF](http://www.dynaforms.com/) - An easy-to-use PDF generation library.
+* [googlemock](http://code.google.com/p/googlemock/) - A library for writing and using C++ mock classes.
 * [HTTP Parser](https://github.com/joyent/http-parser) - A http request/response parser for C.
 * [libcpuid](https://github.com/anrieff/libcpuid) - A small C library for x86 CPU detection and feature extraction.
 * [libevil](https://github.com/avati/libevil) - The Evil License Manager.
