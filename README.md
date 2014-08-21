@@ -242,6 +242,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [ceres-solver](http://ceres-solver.org/) - C++ library for modeling and solving large complicated nonlinear least squares problems from google.
 * [cml](http://cmldev.net/) - free C++ math library for games and graphics.
 * [Eigen](http://eigen.tuxfamily.org/) - A high-level C++ library of template headers for linear algebra, matrix and vector operations, numerical solvers and related algorithms. [MPL2]
+* [Armadillo](http://arma.sourceforge.net/) - A high quality C++ linear algebra library, aiming towards a good balance between speed and ease of use. The syntax (API) is deliberately similar to Matlab. [MPL2]
 
 ## Mocking
 
