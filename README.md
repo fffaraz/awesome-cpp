@@ -258,6 +258,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Boost.Asio](http://think-async.com/) - A cross-platform C++ library for network and low-level I/O programming.
 * [Casablanca](http://casablanca.codeplex.com/) - C++ REST SDK.
 * [cpp-netlib](http://cpp-netlib.org/) - A collection of open-source libraries for high level network programming.
+* [Mongoose](https://github.com/cesanta/mongoose) - Extremely lightweight webserver.
 * [Muduo](https://github.com/chenshuo/muduo) - A C++ non-blocking network library for multi-threaded server in Linux.
 * [net_skeleton](https://github.com/cesanta/net_skeleton) - TCP client/server library for C/C++.
 * [nope.c](https://github.com/riolet/nope.c) - A C language-based ultra-light software platform for scalable server-side and networking applications. Think node.js for C programmers.
