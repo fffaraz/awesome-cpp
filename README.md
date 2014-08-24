@@ -212,12 +212,13 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 
 * [frozen](https://github.com/cesanta/frozen) - :star: 20+ - JSON parser and generator for C/C++.
 * [Jansson](https://github.com/akheron/jansson) - :star: 650+ - C library for encoding, decoding and manipulating JSON data.
-* [jbson](https://github.com/chrismanning/jbson) - :star: <10 - jbson is a library for building & iterating BSON data, and JSON documents in C++14.
-* [JeayeSON](https://github.com/jeaye/jeayeson) - :star: 10+ - A very sane (header only) C++ JSON library.
+* [jbson](https://github.com/chrismanning/jbson) - :star: 10 - jbson is a library for building & iterating BSON data, and JSON documents in C++14.
+* [JeayeSON](https://github.com/jeaye/jeayeson) - :star: 20+ - A very sane (header only) C++ JSON library.
 * [JSON++](https://github.com/hjiang/jsonxx) - :star: 130+ - A JSON parser in C++.
 * [json11](https://github.com/dropbox/json11) - :star: 290+ - A tiny JSON library for C++11.
 * [PicoJSON](https://github.com/kazuho/picojson) - :star: 170+ - A header-file-only, JSON parser serializer in C++.
 * [qt-json](https://github.com/gaudecker/qt-json) - :star: 120+ - A simple class for parsing JSON data into a QVariant hierarchy and vice versa.
+* [QJson](https://github.com/flavio/qjson) - :star: 70+ - QJson is a qt-based library that maps JSON data to QVariant objects.
 * [RapidJSON](https://github.com/miloyip/rapidjson) - :star: 170+ - A fast JSON parser/generator for C++ with both SAX/DOM style API.
 * [YAJL](https://github.com/lloyd/yajl) - :star: 1,100+ - A fast streaming JSON parsing library in C.
 
