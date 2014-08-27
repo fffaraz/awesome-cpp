@@ -196,6 +196,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 
 * [bgfx](https://github.com/bkaradzic/bgfx) - A cross-platform rendering library.
 * [Cairo](http://www.cairographics.org/) - A 2D graphics library with support for multiple output devices.
+* [CGal](http://www.cgal.org/) - Collection of efficient and reliable geometric algorithms.
 * [CImg](http://cimg.sourceforge.net/) - A small, open source, C++ toolkit for image processing.
 * [Horde3D](https://github.com/horde3d/Horde3D) - A small 3D rendering and animation engine.
 * [Ogre 3D](http://www.ogre3d.org/) - A scene-oriented, real-time, flexible 3D rendering engine (as opposed to a game engine) written in C++.
