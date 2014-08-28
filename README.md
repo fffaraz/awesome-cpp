@@ -127,20 +127,20 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 ## Concurrency
 *Concurrency and Multithreading*
 
-* [Boost.Compute](https://github.com/kylelutz/compute) - A C++ GPU Computing Library for OpenCL.
-* [Bolt](https://github.com/HSA-Libraries/Bolt) - A C++ template library optimized for GPUs.
+* [Boost.Compute](https://github.com/kylelutz/compute) - A C++ GPU Computing Library for OpenCL. [Boost]
+* [Bolt](https://github.com/HSA-Libraries/Bolt) - A C++ template library optimized for GPUs. [Apache2]
 * [C++React](https://github.com/schlangster/cpp.react) - A reactive programming library for C++11. [Boost]
-* [Intel TBB](https://www.threadingbuildingblocks.org/) - Intel® Threading Building Blocks.
-* [Libclsph](https://github.com/libclsph/libclsph) - An OpenCL based GPU accelerated SPH fluid simulation library.
+* [Intel TBB](https://www.threadingbuildingblocks.org/) - Intel® Threading Building Blocks. [GPLv2 with runtime exception]
+* [Libclsph](https://github.com/libclsph/libclsph) - An OpenCL based GPU accelerated SPH fluid simulation library. [MIT]
 * [OpenCL](https://www.khronos.org/opencl/) - The open standard for parallel programming of heterogeneous systems.
 * [OpenMP](http://openmp.org/) - The OpenMP API.
-* [Thrust](http://thrust.github.io/) - A parallel algorithms library which resembles the C++ Standard Template Library (STL).
-* [HPX](https://github.com/STEllAR-GROUP/hpx/) - A general purpose C++ runtime system for parallel and distributed applications of any scale.
-* [VexCL](https://github.com/ddemidov/vexcl) - A C++ vector expression template library for OpenCL/CUDA.
+* [Thrust](http://thrust.github.io/) - A parallel algorithms library which resembles the C++ Standard Template Library (STL). [Apache2]
+* [HPX](https://github.com/STEllAR-GROUP/hpx/) - A general purpose C++ runtime system for parallel and distributed applications of any scale. [Boost]
+* [VexCL](https://github.com/ddemidov/vexcl) - A C++ vector expression template library for OpenCL/CUDA. [MIT]
 
 ## Containers
 
-* [C++ B-tree](https://code.google.com/p/cpp-btree/) - A template library that implements ordered in-memory containers based on a B-tree data structure.
+* [C++ B-tree](https://code.google.com/p/cpp-btree/) - A template library that implements ordered in-memory containers based on a B-tree data structure. [Apache2]
 
 ## Cryptography
 *Cryptography and Encryption Libraries*
@@ -154,95 +154,95 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 ## Database
 *Database Libraries, SQL Servers, ODBC Drivers, and Tools*
 
-* [hiberlite](https://github.com/paulftw/hiberlite) - C++ Object-relational mapping for sqlite3.
-* [Hiredis](https://github.com/redis/hiredis) - A minimalistic C client library for the Redis database.
-* [LMDB](http://symas.com/mdb/) - Very fast embedded key/value store with full ACID semantics.
-* [RocksDB](https://github.com/facebook/rocksdb) - Embedded key-value store for fast storage from facebook.
-* [SQLite](http://www.sqlite.org/) - A completely embedded, full-featured relational database in a few 100k that you can include right into your project.
+* [hiberlite](https://github.com/paulftw/hiberlite) - C++ Object-relational mapping for sqlite3. [BSD]
+* [Hiredis](https://github.com/redis/hiredis) - A minimalistic C client library for the Redis database. [BSD]
+* [LMDB](http://symas.com/mdb/) - Very fast embedded key/value store with full ACID semantics. [OpenLDAP]
+* [RocksDB](https://github.com/facebook/rocksdb) - Embedded key-value store for fast storage from facebook. [BSD]
+* [SQLite](http://www.sqlite.org/) - A completely embedded, full-featured relational database in a few 100k that you can include right into your project. [PublicDomain]
 
 ## Debug
 *Debugging Libraries, Memory Leak and Resource Leak Detection, Unit Testing*
 
-* [Catch](https://github.com/philsquared/Catch) - A modern, C++-native, header-only, framework for unit-tests, TDD and BDD.
-* [CppUnit](http://sourceforge.net/projects/cppunit/) - C++ port of JUnit.
-* [googletest](http://code.google.com/p/googletest/) - Google C++ Testing Framework.
-* [ig-debugheap](https://github.com/deplinenoise/ig-debugheap) - Multiplatform debug heap useful for tracking down memory errors.
-* [libtap](https://github.com/zorgnax/libtap) - Write tests in C.
-* [microprofile](https://bitbucket.org/jonasmeyer/microprofile/overview) - Profiler with web-view for multiple platforms.
-* [minUnit](http://www.jera.com/techinfo/jtns/jtn002.html) - A minimal unit testing framework for C written using only 2 macros.
-* [Remotery](https://github.com/Celtoys/Remotery) - Single C File Profiler with Web Viewer.
+* [Catch](https://github.com/philsquared/Catch) - A modern, C++-native, header-only, framework for unit-tests, TDD and BDD. [Boost]
+* [CppUnit](http://sourceforge.net/projects/cppunit/) - C++ port of JUnit. [LGPLv2]
+* [googletest](http://code.google.com/p/googletest/) - Google C++ Testing Framework. [BSD]
+* [ig-debugheap](https://github.com/deplinenoise/ig-debugheap) - Multiplatform debug heap useful for tracking down memory errors. [BSD]
+* [libtap](https://github.com/zorgnax/libtap) - Write tests in C. [GPLv2]
+* [microprofile](https://bitbucket.org/jonasmeyer/microprofile/overview) - Profiler with web-view for multiple platforms. [PublicDomain]
+* [minUnit](http://www.jera.com/techinfo/jtns/jtn002.html) - A minimal unit testing framework for C written using only 2 macros. [PublicDomain]
+* [Remotery](https://github.com/Celtoys/Remotery) - Single C File Profiler with Web Viewer. [Apache2]
 
 ## Game Engine
 
-* [Cocos2d-x](http://www.cocos2d-x.org/) - A multi-platform framework for building 2d games, interactive books, demos and other graphical applications.
-* [Grit](http://gritengine.com/) - Community project to build a free game engine for implementing open world 3D games.
-* [Irrlicht](http://irrlicht.sourceforge.net/) - An open source high performance realtime 3D engine written in C++.
-* [Polycode](http://polycode.org/) - Open-Source Framework for creating games in C++ (with Lua bindings).
+* [Cocos2d-x](http://www.cocos2d-x.org/) - A multi-platform framework for building 2d games, interactive books, demos and other graphical applications. [Commercial?]
+* [Grit](http://gritengine.com/) - Community project to build a free game engine for implementing open world 3D games. [MIT]
+* [Irrlicht](http://irrlicht.sourceforge.net/) - An open source high performance realtime 3D engine written in C++. [zlib]
+* [Polycode](http://polycode.org/) - Open-Source Framework for creating games in C++ (with Lua bindings). [MIT]
 
 ## GUI
 *Graphic User Interface*
 
-* [GTK+](http://www.gtk.org/) - A multi-platform toolkit for creating graphical user interfaces.
-* [gtkmm](http://www.gtkmm.org/en/) - The official C++ interface for the popular GUI library GTK+.
-* [imgui](https://github.com/ocornut/imgui) - Immediate Mode Graphical User Interface with minimal dependencies.
-* [libRocket](http://librocket.com/) - libRocket is a C++ HTML/CSS game interface middleware.
-* [Ncurses](http://invisible-island.net/ncurses/) - A terminal user interfaces.
-* [Qwt](http://qwt.sourceforge.net/) - Qt Widgets for Technical Applications.
-* [QwtPlot3D](http://qwtplot3d.sourceforge.net/) - A feature-rich Qt/OpenGL-based C++ programming library, providing essentially a bunch of 3D-widgets.
-* [OtterUI](https://github.com/Twolewis/OtterUI) - OtterUI is a User Interface development solution for embedded systems and interactive entertainment software.
-* [wxWidgets](http://wxwidgets.org/) - A C++ library that lets developers create applications for Windows, Mac OS X, Linux and other platforms with a single code base.
+* [GTK+](http://www.gtk.org/) - A multi-platform toolkit for creating graphical user interfaces. [LGPL]
+* [gtkmm](http://www.gtkmm.org/en/) - The official C++ interface for the popular GUI library GTK+. [LGPL]
+* [imgui](https://github.com/ocornut/imgui) - Immediate Mode Graphical User Interface with minimal dependencies. [MIT]
+* [libRocket](http://librocket.com/) - libRocket is a C++ HTML/CSS game interface middleware. [MIT]
+* [Ncurses](http://invisible-island.net/ncurses/) - A terminal user interfaces. [MIT]
+* [Qwt](http://qwt.sourceforge.net/) - Qt Widgets for Technical Applications. [Own based on LGPL]
+* [QwtPlot3D](http://qwtplot3d.sourceforge.net/) - A feature-rich Qt/OpenGL-based C++ programming library, providing essentially a bunch of 3D-widgets. [zlib]
+* [OtterUI](https://github.com/Twolewis/OtterUI) - OtterUI is a User Interface development solution for embedded systems and interactive entertainment software. [MIT]
+* [wxWidgets](http://wxwidgets.org/) - A C++ library that lets developers create applications for Windows, Mac OS X, Linux and other platforms with a single code base. [Own LGPL]
 
 ## Graphics
 
-* [bgfx](https://github.com/bkaradzic/bgfx) - A cross-platform rendering library.
-* [Cairo](http://www.cairographics.org/) - A 2D graphics library with support for multiple output devices.
-* [CImg](http://cimg.sourceforge.net/) - A small, open source, C++ toolkit for image processing.
-* [Horde3D](https://github.com/horde3d/Horde3D) - A small 3D rendering and animation engine.
-* [Ogre 3D](http://www.ogre3d.org/) - A scene-oriented, real-time, flexible 3D rendering engine (as opposed to a game engine) written in C++.
-* [Panda3D](http://www.panda3d.org/) - A framework for 3D rendering and game development for Python and C++ .
-* [Skia](https://github.com/google/skia) - A complete 2D graphic library for drawing Text, Geometries, and Images. [webpage](https://sites.google.com/site/skiadocs/home)
-* [urho3d](https://github.com/urho3d/Urho3D) - Cross-platform rendering and game engine.
+* [bgfx](https://github.com/bkaradzic/bgfx) - A cross-platform rendering library. [BSD]
+* [Cairo](http://www.cairographics.org/) - A 2D graphics library with support for multiple output devices. [LGPLv2 or Mozilla MPL]
+* [CImg](http://cimg.sourceforge.net/) - A small, open source, C++ toolkit for image processing. [Own LGPL or GPL]
+* [Horde3D](https://github.com/horde3d/Horde3D) - A small 3D rendering and animation engine. [EPL]
+* [Ogre 3D](http://www.ogre3d.org/) - A scene-oriented, real-time, flexible 3D rendering engine (as opposed to a game engine) written in C++. [MIT]
+* [Panda3D](http://www.panda3d.org/) - A framework for 3D rendering and game development for Python and C++. [BSD]
+* [Skia](https://github.com/google/skia) - A complete 2D graphic library for drawing Text, Geometries, and Images. [bSD] [webpage](https://sites.google.com/site/skiadocs/home)
+* [urho3d](https://github.com/urho3d/Urho3D) - Cross-platform rendering and game engine. [Many different, mostly MIT]
 
 ## Internationalization
 
-* [IBM ICU](http://site.icu-project.org/) - A set of C/C++ and Java libraries providing Unicode and Globalization support.
-* [gettext](http://www.gnu.org/software/gettext/) - GNU `gettext'.
+* [IBM ICU](http://site.icu-project.org/) - A set of C/C++ and Java libraries providing Unicode and Globalization support. [ICU]
+* [gettext](http://www.gnu.org/software/gettext/) - GNU `gettext'. [GPLv2]
 
 ## JSON
 
-* [frozen](https://github.com/cesanta/frozen) - :star: 20+ - JSON parser and generator for C/C++.
-* [Jansson](https://github.com/akheron/jansson) - :star: 650+ - C library for encoding, decoding and manipulating JSON data.
-* [jbson](https://github.com/chrismanning/jbson) - :star: 10 - jbson is a library for building & iterating BSON data, and JSON documents in C++14.
-* [JeayeSON](https://github.com/jeaye/jeayeson) - :star: 20+ - A very sane (header only) C++ JSON library.
-* [JSON++](https://github.com/hjiang/jsonxx) - :star: 130+ - A JSON parser in C++.
-* [json11](https://github.com/dropbox/json11) - :star: 290+ - A tiny JSON library for C++11.
-* [PicoJSON](https://github.com/kazuho/picojson) - :star: 170+ - A header-file-only, JSON parser serializer in C++.
-* [qt-json](https://github.com/gaudecker/qt-json) - :star: 120+ - A simple class for parsing JSON data into a QVariant hierarchy and vice versa.
-* [QJson](https://github.com/flavio/qjson) - :star: 70+ - QJson is a qt-based library that maps JSON data to QVariant objects.
-* [RapidJSON](https://github.com/miloyip/rapidjson) - :star: 170+ - A fast JSON parser/generator for C++ with both SAX/DOM style API.
-* [YAJL](https://github.com/lloyd/yajl) - :star: 1,100+ - A fast streaming JSON parsing library in C.
+* [frozen](https://github.com/cesanta/frozen) - :star: 20+ - JSON parser and generator for C/C++. [GPL & GPLv2]
+* [Jansson](https://github.com/akheron/jansson) - :star: 650+ - C library for encoding, decoding and manipulating JSON data. [MIT]
+* [jbson](https://github.com/chrismanning/jbson) - :star: 10 - jbson is a library for building & iterating BSON data, and JSON documents in C++14. [Boost]
+* [JeayeSON](https://github.com/jeaye/jeayeson) - :star: 20+ - A very sane (header only) C++ JSON library. [BSD]
+* [JSON++](https://github.com/hjiang/jsonxx) - :star: 130+ - A JSON parser in C++. [MIT]
+* [json11](https://github.com/dropbox/json11) - :star: 290+ - A tiny JSON library for C++11. [MIT]
+* [PicoJSON](https://github.com/kazuho/picojson) - :star: 170+ - A header-file-only, JSON parser serializer in C++. [BSD]
+* [qt-json](https://github.com/gaudecker/qt-json) - :star: 120+ - A simple class for parsing JSON data into a QVariant hierarchy and vice versa. [GPLv3]
+* [QJson](https://github.com/flavio/qjson) - :star: 70+ - QJson is a qt-based library that maps JSON data to QVariant objects. [LGPLv2]
+* [RapidJSON](https://github.com/miloyip/rapidjson) - :star: 170+ - A fast JSON parser/generator for C++ with both SAX/DOM style API. [MIT]
+* [YAJL](https://github.com/lloyd/yajl) - :star: 1,100+ - A fast streaming JSON parsing library in C. [ISC]
 
 ## Logging
 
-* [Log4cpp](http://log4cpp.sourceforge.net/) - A library of C++ classes for flexible logging to files, syslog, IDSA and other destinations.
-* [templog](http://www.templog.org/) - A very small and lightweight C++ library which you can use to add logging to your C++ applications.
+* [Log4cpp](http://log4cpp.sourceforge.net/) - A library of C++ classes for flexible logging to files, syslog, IDSA and other destinations. [LGPL]
+* [templog](http://www.templog.org/) - A very small and lightweight C++ library which you can use to add logging to your C++ applications. [Boost]
 
 ## Machine Learning
 
-* [Caffe](https://github.com/BVLC/caffe) - A fast framework for neural networks.
-* [CCV](https://github.com/liuliu/ccv) - C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library.
-* [mlpack](http://www.mlpack.org/) - A scalable c++ machine learning library.
+* [Caffe](https://github.com/BVLC/caffe) - A fast framework for neural networks. [BSD]
+* [CCV](https://github.com/liuliu/ccv) - C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library. [BSD]
+* [mlpack](http://www.mlpack.org/) - A scalable c++ machine learning library. [LGPLv3]
 * [OpenCV](https://github.com/Itseez/opencv) - Open Source Computer Vision Library. [BSD] [website](http://opencv.org/)
-* [Recommender](https://github.com/GHamrouni/Recommender) - C library for product recommendations/suggestions using collaborative filtering (CF).
-* [SHOGUN](https://github.com/shogun-toolbox/shogun) - The Shogun Machine Learning Toolbox.
-* [sofia-ml](https://code.google.com/p/sofia-ml/) - The suite of fast incremental algorithms for machine learning.
+* [Recommender](https://github.com/GHamrouni/Recommender) - C library for product recommendations/suggestions using collaborative filtering (CF). [BSD]
+* [SHOGUN](https://github.com/shogun-toolbox/shogun) - The Shogun Machine Learning Toolbox. [GPLv3]
+* [sofia-ml](https://code.google.com/p/sofia-ml/) - The suite of fast incremental algorithms for machine learning. [Apache2]
 
 ## Math
 
 * [Armadillo](http://arma.sourceforge.net/) - A high quality C++ linear algebra library, aiming towards a good balance between speed and ease of use. The syntax (API) is deliberately similar to Matlab. [MPL2]
-* [blaze](https://code.google.com/p/blaze-lib/) - high-performance C++ math library for dense and sparse arithmetic.
-* [ceres-solver](http://ceres-solver.org/) - C++ library for modeling and solving large complicated nonlinear least squares problems from google.
-* [cml](http://cmldev.net/) - free C++ math library for games and graphics.
+* [blaze](https://code.google.com/p/blaze-lib/) - high-performance C++ math library for dense and sparse arithmetic. [BSD]
+* [ceres-solver](http://ceres-solver.org/) - C++ library for modeling and solving large complicated nonlinear least squares problems from google. [BSD]
+* [cml](http://cmldev.net/) - free C++ math library for games and graphics. [Boost]
 * [Eigen](http://eigen.tuxfamily.org/) - A high-level C++ library of template headers for linear algebra, matrix and vector operations, numerical solvers and related algorithms. [MPL2]
 
 ## Multimedia
