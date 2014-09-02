@@ -242,54 +242,54 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Armadillo](http://arma.sourceforge.net/) - A high quality C++ linear algebra library, aiming towards a good balance between speed and ease of use. The syntax (API) is deliberately similar to Matlab. [MPL2]
 * [blaze](https://code.google.com/p/blaze-lib/) - high-performance C++ math library for dense and sparse arithmetic. [BSD]
 * [ceres-solver](http://ceres-solver.org/) - C++ library for modeling and solving large complicated nonlinear least squares problems from google. [BSD]
-* [CGal](http://www.cgal.org/) - Collection of efficient and reliable geometric algorithms.
+* [CGal](http://www.cgal.org/) - Collection of efficient and reliable geometric algorithms. [LGPL&GPL]
 * [cml](http://cmldev.net/) - free C++ math library for games and graphics. [Boost]
 * [Eigen](http://eigen.tuxfamily.org/) - A high-level C++ library of template headers for linear algebra, matrix and vector operations, numerical solvers and related algorithms. [MPL2]
 
 ## Multimedia
 
-* [GStreamer](http://gstreamer.freedesktop.org/) - A library for constructing graphs of media-handling components.
-* [libVLC](https://wiki.videolan.org/LibVLC) - libVLC (VLC SDK) media framework.
+* [GStreamer](http://gstreamer.freedesktop.org/) - A library for constructing graphs of media-handling components. [LGPL]
+* [libVLC](https://wiki.videolan.org/LibVLC) - libVLC (VLC SDK) media framework. [GPL]
 * [QtAv](https://github.com/wang-bin/QtAV) - A multimedia playback framework based on Qt and FFmpeg to write a player easily. [LGPL] [website](http://wang-bin.github.io/QtAV/)
-* [SFML](http://www.sfml-dev.org/) - Simple and Fast Multimedia Library.
-* [SDL](http://www.libsdl.org/) - Simple DirectMedia Layer.
+* [SFML](http://www.sfml-dev.org/) - Simple and Fast Multimedia Library.[zlib]
+* [SDL](http://www.libsdl.org/) - Simple DirectMedia Layer. [zlib]
 
 ## Networking
 
-* [ACE](http://www.cs.wustl.edu/~schmidt/ACE.html) - An OO Network Programming Toolkit in C++.
-* [Boost.Asio](http://think-async.com/) - A cross-platform C++ library for network and low-level I/O programming.
-* [Casablanca](http://casablanca.codeplex.com/) - C++ REST SDK.
-* [cpp-netlib](http://cpp-netlib.org/) - A collection of open-source libraries for high level network programming.
-* [Dyad.c](https://github.com/rxi/dyad) - Asynchronous networking for C.
-* [Mongoose](https://github.com/cesanta/mongoose) - Extremely lightweight webserver.
-* [Muduo](https://github.com/chenshuo/muduo) - A C++ non-blocking network library for multi-threaded server in Linux.
-* [net_skeleton](https://github.com/cesanta/net_skeleton) - TCP client/server library for C/C++.
-* [nope.c](https://github.com/riolet/nope.c) - A C language-based ultra-light software platform for scalable server-side and networking applications. Think node.js for C programmers.
-* [Onion](https://github.com/davidmoreno/onion) - HTTP server library in C designed to be lightweight and easy to use.
-* [POCO](http://pocoproject.org/) - C++ class libraries and frameworks for building network- and internet-based applications that run on desktop, server, mobile and embedded systems.
-* [Tufão](https://github.com/vinipsmaker/tufao) - An asynchronous web framework for C++ built on top of Qt.
-* [WebSocket++](https://github.com/zaphoyd/websocketpp) - C++/Boost Asio based websocket client/server library.
-* [ZeroMQ](http://zeromq.org/) - High-speed, modular asynchronous communication library.
+* [ACE](http://www.cs.wustl.edu/~schmidt/ACE.html) - An OO Network Programming Toolkit in C++. [?MIT?]
+* [Boost.Asio](http://think-async.com/) - A cross-platform C++ library for network and low-level I/O programming. [Boost]
+* [Casablanca](http://casablanca.codeplex.com/) - C++ REST SDK. [Apache2]
+* [cpp-netlib](http://cpp-netlib.org/) - A collection of open-source libraries for high level network programming. [Boost]
+* [Dyad.c](https://github.com/rxi/dyad) - Asynchronous networking for C. [MIT]
+* [Mongoose](https://github.com/cesanta/mongoose) - Extremely lightweight webserver. [GPLv2]
+* [Muduo](https://github.com/chenshuo/muduo) - A C++ non-blocking network library for multi-threaded server in Linux. [BSD]
+* [net_skeleton](https://github.com/cesanta/net_skeleton) - TCP client/server library for C/C++. [GPLv2]
+* [nope.c](https://github.com/riolet/nope.c) - A C language-based ultra-light software platform for scalable server-side and networking applications. Think node.js for C programmers. [GPLv2]
+* [Onion](https://github.com/davidmoreno/onion) - HTTP server library in C designed to be lightweight and easy to use. [Apache2/GPLv2]
+* [POCO](http://pocoproject.org/) - C++ class libraries and frameworks for building network- and internet-based applications that run on desktop, server, mobile and embedded systems. [Boost]
+* [Tufão](https://github.com/vinipsmaker/tufao) - An asynchronous web framework for C++ built on top of Qt. [LGPLv2]
+* [WebSocket++](https://github.com/zaphoyd/websocketpp) - C++/Boost Asio based websocket client/server library. [BSD]
+* [ZeroMQ](http://zeromq.org/) - High-speed, modular asynchronous communication library. [LGPL]
 
 ## Physics
 *Dynamics simulation engines*
 
-* [Box2D](https://code.google.com/p/box2d/) - A 2D physics engine for games.
-* [Bullet](https://github.com/bulletphysics/bullet3) - A 3D physics engine for games. [website](http://bulletphysics.org)
-* [Chipmunk](https://github.com/slembcke/Chipmunk2D) - A fast and lightweight 2D game physics library. [website](https://chipmunk-physics.net/)
-* [LiquidFun](https://github.com/google/liquidfun) - A 2D physics engine for games.
-* [ODE](http://www.ode.org/) - Open Dynamics Engine - An open source, high performance library for simulating rigid body dynamics.
-* [ofxBox2d](https://github.com/vanderlin/ofxBox2d) - openFrameworks wrapper for Box2D.
-* [Simbody](https://github.com/simbody/simbody) - High-performance C++ multibody dynamics/physics library for simulating articulated biomechanical and mechanical systems like vehicles, robots, and the human skeleton.
+* [Box2D](https://code.google.com/p/box2d/) - A 2D physics engine for games. [BSD-like]
+* [Bullet](https://github.com/bulletphysics/bullet3) - A 3D physics engine for games. [zlib] [website](http://bulletphysics.org)
+* [Chipmunk](https://github.com/slembcke/Chipmunk2D) - A fast and lightweight 2D game physics library. [MIT] [website](https://chipmunk-physics.net/)
+* [LiquidFun](https://github.com/google/liquidfun) - A 2D physics engine for games. [BSD-like]
+* [ODE](http://www.ode.org/) - Open Dynamics Engine - An open source, high performance library for simulating rigid body dynamics. [BSD&LGPL]
+* [ofxBox2d](https://github.com/vanderlin/ofxBox2d) - openFrameworks wrapper for Box2D. [BSD-like]
+* [Simbody](https://github.com/simbody/simbody) - High-performance C++ multibody dynamics/physics library for simulating articulated biomechanical and mechanical systems like vehicles, robots, and the human skeleton. [Apache2]
 
 ## Scripting
 
-* [ChaiScript](https://github.com/ChaiScript/ChaiScript/) - An easy to use embedded scripting language for C++. [website](http://chaiscript.com/)
-* [Lua](http://www.lua.org/) - A minimal and fast scripting engine for configuration files and basic application scripting.
-* [luacxx](https://github.com/dafrito/luacxx) - C++11 API for creating Lua bindings.
-* [SWIG](http://www.swig.org/) - a wrapper/interface Generator that let you link your c++ code to Javascript, Perl, PHP, Python, Tcl and Ruby.
-* [V7](https://github.com/cesanta/v7) - An embedded JavaScript engine.
-* [V8](http://code.google.com/p/v8/) - A fast JavaScript engine by Google that can be embedded into any C++ application.
+* [ChaiScript](https://github.com/ChaiScript/ChaiScript/) - An easy to use embedded scripting language for C++. [BSD] [website](http://chaiscript.com/)
+* [Lua](http://www.lua.org/) - A minimal and fast scripting engine for configuration files and basic application scripting. [MIT]
+* [luacxx](https://github.com/dafrito/luacxx) - C++11 API for creating Lua bindings. [MIT]
+* [SWIG](http://www.swig.org/) - a wrapper/interface Generator that let you link your c++ code to Javascript, Perl, PHP, Python, Tcl and Ruby. [GPL/Output not licensed]
+* [V7](https://github.com/cesanta/v7) - An embedded JavaScript engine. [GPLv2]
+* [V8](http://code.google.com/p/v8/) - A fast JavaScript engine by Google that can be embedded into any C++ application. [BSD]
 
 ## Serialization
 
@@ -304,11 +304,11 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 
 ## Video
 
-* [libvpx](http://www.webmproject.org/code/) - VP8/VP9 Codec SDK.
-* [FFmpeg](https://www.ffmpeg.org/) - A complete, cross-platform solution to record, convert and stream audio and video.
+* [libvpx](http://www.webmproject.org/code/) - VP8/VP9 Codec SDK. [BSD]
+* [FFmpeg](https://www.ffmpeg.org/) - A complete, cross-platform solution to record, convert and stream audio and video. [LGPLv2/GPL2]
 * [libde265](https://github.com/strukturag/libde265) - Open h.265 video codec implementation. [LGPL] [website](http://www.libde265.org/)
 * [OpenH264](https://github.com/cisco/openh264) - Open Source H.264 Codec. [BSD] [website](http://www.openh264.org/)
-* [Theora](http://www.theora.org/) - A free and open video compression format.
+* [Theora](http://www.theora.org/) - A free and open video compression format. [BSD]
 
 ## Web Application Framework
 
