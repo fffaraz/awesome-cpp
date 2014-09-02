@@ -359,6 +359,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [TinyVM](https://github.com/jakogut/tinyvm) - A small, fast, lightweight virtual machine written in pure ANSI C.
 * [CarpVM](https://github.com/tekknolagi/carp) - "interesting" VM in C. Let's see how this goes.
 * [PHP-CPP](https://github.com/CopernicaMarketingSoftware/PHP-CPP) - A library to build PHP extensions with C++. [website](http://www.php-cpp.com/)
+* [Better string](http://bstring.sourceforge.net) - An alternative to the string library for C which is more functional and does not have buffer overflow overrun problems. Also includes a C++ wrapper. [BSD, GPLv2]
 
 # Software
 *Software for creating a development environment.*
