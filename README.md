@@ -375,6 +375,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 
 * [codepad](http://codepad.org/) - An online compiler/interpreter, and a simple collaboration tool.
 * [CodeTwist](http://codetwist.com/) - A simple online compiler/interpreter, where you can paste your C, C++ or Java code and execute it online and see results.
+* [coliru](http://coliru.stacked-crooked.com/) - Online compiler/shell with support for various C++ compilers.
 * [CompileOnline](http://www.compileonline.com/compile_cpp11_online.php) - Compile and Execute C++ online on Linux.
 * [Ideone](http://ideone.com/) - An online compiler and debugging tool which allows you to compile source code and execute it online in more than 60 programming languages.
 
