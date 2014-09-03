@@ -39,6 +39,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 	- [Buildsystem](#buildsystem)
 	- [Static Code Analysis](#static-code-analysis)
 - [Resources](#resources)
+   - [API-Design](#apidesign)
 	- [Articles](#articles)
 	- [Books](#books)
 	- [Coding Style](#coding-style)
@@ -417,6 +418,11 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 
 # Resources
 *Various resources, such as books, websites, and articles for improving your C++ development skills and knowledge.*
+
+## Api-Design
+
+* [Designing Qt-Style C++ APIs](http://doc.qt.digia.com/qq/qq13-apis.html)
+* [Beautiful Native Libraries](http://lucumr.pocoo.org/2013/8/18/beautiful-native-libraries/)
 
 ## Articles
 *Fantastic C/C++ related articles.*
