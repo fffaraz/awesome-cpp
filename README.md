@@ -28,6 +28,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 	- [Scripting](#scripting)
 	- [Serialization](#serialization)
 	- [Video](#video)
+	- [Virtual Machines](#virtual-machines)
 	- [Web Application Framework](#web-application-framework)
 	- [XML](#xml)
 	- [Miscellaneous](#miscellaneous)
@@ -39,6 +40,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 	- [Buildsystem](#buildsystem)
 	- [Static Code Analysis](#static-code-analysis)
 - [Resources](#resources)
+   - [API-Design](#apidesign)
 	- [Articles](#articles)
 	- [Books](#books)
 	- [Coding Style](#coding-style)
@@ -141,6 +143,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 ## Containers
 
 * [C++ B-tree](https://code.google.com/p/cpp-btree/) - A template library that implements ordered in-memory containers based on a B-tree data structure. [Apache2]
+* [Hashmaps](https://github.com/goossaert/hashmap) - Implementation of open addressing hash table algorithms in C++. [MIT]
 
 ## Cryptography
 *Cryptography and Encryption Libraries*
@@ -312,8 +315,15 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [OpenH264](https://github.com/cisco/openh264) - Open Source H.264 Codec. [BSD] [website](http://www.openh264.org/)
 * [Theora](http://www.theora.org/) - A free and open video compression format. [BSD]
 
+## Virtual Machines
+
+* [CarpVM](https://github.com/tekknolagi/carp) - "interesting" VM in C. Let's see how this goes. [GPLv3]
+* [MicroPython](https://github.com/micropython/micropython) - aims to put an implementation of Python 3.x on a microcontroller. [MIT]
+* [TinyVM](https://github.com/jakogut/tinyvm) - A small, fast, lightweight virtual machine written in pure ANSI C. [MIT]
+
 ## Web Application Framework
 
+* [Civetweb](https://github.com/bel2125/civetweb) - Provides easy to use, powerful, C/C++ embeddable web server with optional CGI, SSL and Lua support. [MIT]
 * [CppCMS](http://cppcms.com/) - A Free High Performance Web Development Framework (not a CMS). [LGPLv3]
 * [Crow](https://github.com/ipkn/crow) - Crow is C++ micro web framework (inspired by Python Flask). [BSD]
 * [Kore](https://kore.io/) - ultra fast and flexible web server / framework for web applications developed in C. [ISC]
@@ -324,41 +334,39 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 ## XML
 *XML is crap. Really. There are no excuses. XML is nasty to parse for humans, and it's a disaster to parse even for computers. There's just no reason for that horrible crap to exist. - Linus Torvalds*
 
-* [Expat](http://www.libexpat.org/) - An XML parser library written in C.
-* [Libxml2](http://xmlsoft.org/) - The XML C parser and toolkit of Gnome.
-* [libxml++](http://libxmlplusplus.sourceforge.net/) - An XML Parser for C++.
-* [PugiXML](http://pugixml.org/) - A light-weight, simple and fast XML parser for C++ with XPath support.
-* [RapidXml](http://rapidxml.sourceforge.net/) - An attempt to create the fastest XML parser possible, while retaining useability, portability and reasonable W3C compatibility.
-* [TinyXML](http://sourceforge.net/projects/tinyxml/) - A simple, small, minimal, C++ XML parser that can be easily integrating into other programs.
-* [TinyXML2](https://github.com/leethomason/tinyxml2) - A simple, small, efficient, C++ XML parser that can be easily integrating into other programs.
-* [TinyXML++](https://code.google.com/p/ticpp/) - A completely new interface to TinyXML that uses MANY of the C++ strengths. Templates, exceptions, and much better error handling.
-* [Xerces-C++](http://xerces.apache.org/xerces-c/) - A validating XML parser written in a portable subset of C++.
+* [Expat](http://www.libexpat.org/) - An XML parser library written in C. [MIT]
+* [Libxml2](http://xmlsoft.org/) - The XML C parser and toolkit of Gnome. [MIT]
+* [libxml++](http://libxmlplusplus.sourceforge.net/) - An XML Parser for C++. [LGPLv2]
+* [PugiXML](http://pugixml.org/) - A light-weight, simple and fast XML parser for C++ with XPath support. [MIT]
+* [RapidXml](http://rapidxml.sourceforge.net/) - An attempt to create the fastest XML parser possible, while retaining useability, portability and reasonable W3C compatibility. [Boost]
+* [TinyXML](http://sourceforge.net/projects/tinyxml/) - A simple, small, minimal, C++ XML parser that can be easily integrating into other programs. [zlib]
+* [TinyXML2](https://github.com/leethomason/tinyxml2) - A simple, small, efficient, C++ XML parser that can be easily integrating into other programs. [zlib]
+* [TinyXML++](https://code.google.com/p/ticpp/) - A completely new interface to TinyXML that uses MANY of the C++ strengths. Templates, exceptions, and much better error handling. [MIT]
+* [Xerces-C++](http://xerces.apache.org/xerces-c/) - A validating XML parser written in a portable subset of C++. [Apache2]
 
 ## Miscellaneous
 *Useful libraries or tools that don't fit in the categories above or maybe just not categorised yet*
 
-* [C++ Format](https://github.com/cppformat/cppformat) - Small, safe and fast formatting library for C++.
-* [casacore](https://code.google.com/p/casacore/) - A set of c++ core libraries derived from aips++.
-* [cxx-prettyprint](https://github.com/louisdx/cxx-prettyprint) - A pretty printing library for C++ containers.
-* [DynaPDF](http://www.dynaforms.com/) - An easy-to-use PDF generation library.
-* [googlemock](http://code.google.com/p/googlemock/) - A library for writing and using C++ mock classes.
-* [HTTP Parser](https://github.com/joyent/http-parser) - A http request/response parser for C.
-* [libcpuid](https://github.com/anrieff/libcpuid) - A small C library for x86 CPU detection and feature extraction.
-* [libevil](https://github.com/avati/libevil) - The Evil License Manager.
-* [libusb](http://www.libusb.org/) - A universal USB library which allows for portable access to USB devices.
-* [Remote Call Framework](http://www.deltavsoft.com/) - Inter-process communication framework for C++.
-* [Serial Communication Library](https://github.com/wjwwood/serial) - Cross-platform, Serial Port library written in C++.
-* [SDS](https://github.com/antirez/sds) - Simple Dynamic Strings library for C.
-* [SLDR](https://github.com/cesanta/sldr) - Super Light DNS Resolver.
-* [SLRE](https://github.com/cesanta/slre) - Super Light Regular Expression library.
-* [Stage](https://github.com/rtv/Stage) - Mobile robot simulator.
-* [VarTypes](https://code.google.com/p/vartypes/) - A feature-rich, object-oriented framework for managing variables in C++ / Qt4.
-* [ZBar](http://zbar.sourceforge.net/) - A barcode scanner library, which allows to scan photos/images/video streams for barcodes and return their value.
-* [CppVerbalExpressions](https://github.com/VerbalExpressions/CppVerbalExpressions) - C++ regular expressions made easy.
-* [QtVerbalExpressions](https://github.com/VerbalExpressions/QtVerbalExpressions) - This Qt lib is based off of the C++ VerbalExpressions library.
-* [TinyVM](https://github.com/jakogut/tinyvm) - A small, fast, lightweight virtual machine written in pure ANSI C.
-* [CarpVM](https://github.com/tekknolagi/carp) - "interesting" VM in C. Let's see how this goes.
-* [PHP-CPP](https://github.com/CopernicaMarketingSoftware/PHP-CPP) - A library to build PHP extensions with C++. [website](http://www.php-cpp.com/)
+* [C++ Format](https://github.com/cppformat/cppformat) - Small, safe and fast formatting library for C++. [BSD]
+* [casacore](https://code.google.com/p/casacore/) - A set of c++ core libraries derived from aips++. [LGPL]
+* [cxx-prettyprint](https://github.com/louisdx/cxx-prettyprint) - A pretty printing library for C++ containers. [Boost]
+* [DynaPDF](http://www.dynaforms.com/) - An easy-to-use PDF generation library. [Commercial]
+* [googlemock](http://code.google.com/p/googlemock/) - A library for writing and using C++ mock classes. [BSD]
+* [HTTP Parser](https://github.com/joyent/http-parser) - A http request/response parser for C. [MIT]
+* [libcpuid](https://github.com/anrieff/libcpuid) - A small C library for x86 CPU detection and feature extraction. [BSD]
+* [libevil](https://github.com/avati/libevil) - The Evil License Manager. [GPLv3]
+* [libusb](http://www.libusb.org/) - A universal USB library which allows for portable access to USB devices. [LGPLv2]
+* [Remote Call Framework](http://www.deltavsoft.com/) - Inter-process communication framework for C++. [GPLv2/Commercial]
+* [Serial Communication Library](https://github.com/wjwwood/serial) - Cross-platform, Serial Port library written in C++. [MIT]
+* [SDS](https://github.com/antirez/sds) - Simple Dynamic Strings library for C. [BSD]
+* [SLDR](https://github.com/cesanta/sldr) - Super Light DNS Resolver. [GPLv2/Commercial]
+* [SLRE](https://github.com/cesanta/slre) - Super Light Regular Expression library. [GPLv2/Commercial]
+* [Stage](https://github.com/rtv/Stage) - Mobile robot simulator. [GPLv2]
+* [VarTypes](https://code.google.com/p/vartypes/) - A feature-rich, object-oriented framework for managing variables in C++ / Qt4. [LGPL]
+* [ZBar](http://zbar.sourceforge.net/) - A barcode scanner library, which allows to scan photos/images/video streams for barcodes and return their value. [LGPLv2]
+* [CppVerbalExpressions](https://github.com/VerbalExpressions/CppVerbalExpressions) - C++ regular expressions made easy. [MIT]
+* [QtVerbalExpressions](https://github.com/VerbalExpressions/QtVerbalExpressions) - This Qt lib is based off of the C++ VerbalExpressions library. [MIT]
+* [PHP-CPP](https://github.com/CopernicaMarketingSoftware/PHP-CPP) - A library to build PHP extensions with C++. [Apache2] [website](http://www.php-cpp.com/)
 
 # Software
 *Software for creating a development environment.*
@@ -412,11 +420,17 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 *List of tools for improving quality and reducing defects by code analysis*
 
 * [Cppcheck](http://cppcheck.sourceforge.net/) - A tool for static C/C++ code analysis. - [source](https://github.com/danmar/cppcheck)
+* [include-what-you-use](https://code.google.com/p/include-what-you-use/) - A tool for use with clang to analyze includes in C and C++ source files.
 * [OCLint](http://oclint.org/) - A static source code analysis tool to improve quality and reduce defects for C, C++ and Objective-C. - [source](https://github.com/oclint/oclint)
 * [List of tools for static code analysis](http://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis#C.2FC.2B.2B) - A list of tools for static code analysis from Wikipedia.
 
 # Resources
 *Various resources, such as books, websites, and articles for improving your C++ development skills and knowledge.*
+
+## Api-Design
+
+* [Beautiful Native Libraries](http://lucumr.pocoo.org/2013/8/18/beautiful-native-libraries/)
+* [Designing Qt-Style C++ APIs](http://doc.qt.digia.com/qq/qq13-apis.html)
 
 ## Articles
 *Fantastic C/C++ related articles.*
