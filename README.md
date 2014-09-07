@@ -471,6 +471,12 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [cplusplus.com](http://www.cplusplus.com/) - The C++ Resources Network.
 * [Standard C++](http://isocpp.org/) - News, Status & Discussion about Standard C++.
 
+## Weblogs
+*Useful C/C++ related weblogs.*
+
+* [Sticky Bits](http://blog.feabhas.com/)
+* [Paul Fultz II's Blog](http://pfultz2.com/blog/)
+
 ## Other Awesome Projects
 *Collection of useful codes, snippets, ...*
 
