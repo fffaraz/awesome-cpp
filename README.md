@@ -401,6 +401,8 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 *List of C/C++ nominal IDEs.*
 
 * [Code::Blocks](http://www.codeblocks.org/) - A free C, C++ and Fortran IDE.
+* [CodeLite](http://codelite.org/) - Another cross-plaform, free C/C++ IDE.
+* [Geany](http://www.geany.org/) - Small, fast, cross-platform IDE.
 * [Dev-C++](http://sourceforge.net/projects/orwelldevcpp/) - A portable C/C++/C++11 IDE.
 * [Eclipse CDT](http://www.eclipse.org/cdt/) - A fully functional C and C++ IDE based on the Eclipse platform.
 * [KDevelop](https://www.kdevelop.org/) - A free, open source IDE.
