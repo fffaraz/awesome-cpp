@@ -81,6 +81,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Qt](http://qt-project.org/) - A cross-platform application and UI framework. [LGPL]
 * [Reason](http://code.google.com/p/reason/) - A cross platform framework designed to bring the ease of use of Java, .Net, or Python to developers who require the performance and strength of C++. [GPLv2]
 * [ROOT](http://root.cern.ch) - A set of OO frameworks with all the functionality needed to handle and analyze large amounts of data in a very efficient way. Used at CERN. [LGPL]
+* [STLport](http://www.stlport.org/) - An exemplary version of STL.
 * [STXXL](http://stxxl.sourceforge.net/) - Standard Template Library for Extra Large Data Sets. [Boost]
 * [Ultimate++](http://www.ultimatepp.org/) - A C++ cross-platform rapid application development framework. [BSD]
 * [Windows Template Library](http://sourceforge.net/projects/wtl/) - A C++ library for developing Windows applications and UI components. [Public]
