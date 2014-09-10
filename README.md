@@ -77,6 +77,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [LibU](https://github.com/koanlogic/libu) - A multiplatform utility library written in C. [BSD]
 * [Loki](http://loki-lib.sourceforge.net/) - A C++ library of designs, containing flexible implementations of common design patterns and idioms. [MIT]
 * [MiLi](https://code.google.com/p/mili/) - Minimal headers-only C++ Library. [Boost]
+* [OpenCL](http://www.khronos.org/opencl/) - The open standard for parallel programming of heterogeneous systems.
 * [openFrameworks](http://www.openframeworks.cc/) - An open source C++ toolkit for creative coding. [MIT]
 * [Qt](http://qt-project.org/) - A cross-platform application and UI framework. [LGPL]
 * [Reason](http://code.google.com/p/reason/) - A cross platform framework designed to bring the ease of use of Java, .Net, or Python to developers who require the performance and strength of C++. [GPLv2]
@@ -218,7 +219,12 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 ## Image Processing
 
 * [CImg](http://cimg.sourceforge.net/) - A small, open source, C++ toolkit for image processing. [Own LGPL or GPL]
+* [CxImage](http://www.codeproject.com/Articles/1300/CxImage) - A C++ class to load, save, display, transform BMP, JPEG, GIF, PNG, TIFF, MNG, ICO, PCX, TGA, WMF, WBMP, JBG, J2K images. [zlib]
+* [FreeImage](http://freeimage.sourceforge.net/) - An open source library that supports popular graphics image formats and others as needed by today's multimedia applications. [GPLv2 or GPLv3] 
+* [GDCM](http://gdcm.sourceforge.net/wiki/index.php/Main_Page) - Grassroots DICOM library.
 * [ITK](http://www.itk.org/) - An open-source, cross-platform system for image analysis. [Apache 2.0 from ITK 4.0]
+* [Magick++](http://www.imagemagick.org/script/api.php) - ImageMagick program interfaces for C++. [Apache 2.0]
+* [MagickWnd](http://www.imagemagick.org/script/api.php) - ImageMagick program interfaces for C. [Apache 2.0]
 * [OpenCV](http://opencv.org/) - Open source computer vision. [BSD]
 * [VTK](http://www.vtk.org/) - Open-source, freely available software system for 3D computer graphics, image processing and visualization. [BSD]
 
@@ -283,6 +289,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Casablanca](http://casablanca.codeplex.com/) - C++ REST SDK. [Apache2]
 * [cpp-netlib](http://cpp-netlib.org/) - A collection of open-source libraries for high level network programming. [Boost]
 * [Dyad.c](https://github.com/rxi/dyad) - Asynchronous networking for C. [MIT]
+* [libcurl](http://curl.haxx.se/libcurl/) - Multiprotocol file transfer library. [MIT/X derivate license]
 * [Mongoose](https://github.com/cesanta/mongoose) - Extremely lightweight webserver. [GPLv2]
 * [Muduo](https://github.com/chenshuo/muduo) - A C++ non-blocking network library for multi-threaded server in Linux. [BSD]
 * [net_skeleton](https://github.com/cesanta/net_skeleton) - TCP client/server library for C/C++. [GPLv2]
