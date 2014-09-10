@@ -194,7 +194,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [QwtPlot3D](http://qwtplot3d.sourceforge.net/) - A feature-rich Qt/OpenGL-based C++ programming library, providing essentially a bunch of 3D-widgets. [zlib]
 * [OtterUI](https://github.com/Twolewis/OtterUI) - OtterUI is a User Interface development solution for embedded systems and interactive entertainment software. [MIT]
 * [wxWidgets](http://wxwidgets.org/) - A C++ library that lets developers create applications for Windows, Mac OS X, Linux and other platforms with a single code base. [Own LGPL]
-* [FLTK](http://www.fltk.org/index.php) - Fast, light, cross-platform C++ GUI toolkit.
+* [FLTK](http://www.fltk.org/index.php) - Fast, light, cross-platform C++ GUI toolkit. [GPLv2]
 
 ## Graphics
 
@@ -402,10 +402,10 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 *List of C/C++ nominal IDEs.*
 
 * [Code::Blocks](http://www.codeblocks.org/) - A free C, C++ and Fortran IDE.
-* [CodeLite](http://codelite.org/) - Another cross-plaform, free C/C++ IDE.
-* [Geany](http://www.geany.org/) - Small, fast, cross-platform IDE.
+* [CodeLite](http://codelite.org/) - Another cross-plaform, free C/C++ IDE. [GPLv2 with an exception for plugins]
 * [Dev-C++](http://sourceforge.net/projects/orwelldevcpp/) - A portable C/C++/C++11 IDE.
 * [Eclipse CDT](http://www.eclipse.org/cdt/) - A fully functional C and C++ IDE based on the Eclipse platform.
+* [Geany](http://www.geany.org/) - Small, fast, cross-platform IDE. [GPL]
 * [KDevelop](https://www.kdevelop.org/) - A free, open source IDE.
 * [Microsoft Visual Studio](http://www.visualstudio.com/) - An IDE from Microsoft.
 * [NetBeans](https://netbeans.org/) - An IDE for developing primarily with Java, but also with other languages, in particular PHP, C/C++, and HTML5.
