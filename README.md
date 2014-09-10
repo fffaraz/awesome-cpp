@@ -218,7 +218,9 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 ## Image Processing
 
 * [CImg](http://cimg.sourceforge.net/) - A small, open source, C++ toolkit for image processing. [Own LGPL or GPL]
+* [ITK](http://www.itk.org/) - An open-source, cross-platform system for image analysis. [Apache 2.0 from ITK 4.0]
 * [OpenCV](http://opencv.org/) - Open source computer vision. [BSD]
+* [VTK](http://www.vtk.org/) - Open-source, freely available software system for 3D computer graphics, image processing and visualization. [BSD]
 
 ## Internationalization
 
