@@ -193,9 +193,11 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [libRocket](http://librocket.com/) - libRocket is a C++ HTML/CSS game interface middleware. [MIT]
 * [MyGUI](http://mygui.info/) - Fast, flexible and simple GUI. [MIT]
 * [Ncurses](http://invisible-island.net/ncurses/) - A terminal user interfaces. [MIT]
+* [QCustomPlot](http://qcustomplot.com/) - Qt plotting widget without further dependencies. [GPLv3]
 * [Qwt](http://qwt.sourceforge.net/) - Qt Widgets for Technical Applications. [Own based on LGPL]
 * [QwtPlot3D](http://qwtplot3d.sourceforge.net/) - A feature-rich Qt/OpenGL-based C++ programming library, providing essentially a bunch of 3D-widgets. [zlib]
 * [OtterUI](https://github.com/Twolewis/OtterUI) - OtterUI is a User Interface development solution for embedded systems and interactive entertainment software. [MIT]
+* [PDCurses](http://pdcurses.sourceforge.net/) - Public domain curses library with both source code and pre-compiled library available.
 * [wxWidgets](http://wxwidgets.org/) - A C++ library that lets developers create applications for Windows, Mac OS X, Linux and other platforms with a single code base. [Own LGPL]
 
 ## Graphics
