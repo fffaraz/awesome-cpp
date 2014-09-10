@@ -234,7 +234,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 
 * [gettext](http://www.gnu.org/software/gettext/) - GNU `gettext'. [GPLv2]
 * [IBM ICU](http://site.icu-project.org/) - A set of C/C++ and Java libraries providing Unicode and Globalization support. [ICU]
-* [libiconv](http://www.gnu.org/software/libiconv/) - A conversion library between different character encodings. [GPL]
+* [libiconv](http://www.gnu.org/software/libiconv/) - An encoding conversion library between different character encodings. [GPL]
 
 ## JSON
 
