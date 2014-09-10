@@ -385,7 +385,9 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [libcpuid](https://github.com/anrieff/libcpuid) - A small C library for x86 CPU detection and feature extraction. [BSD]
 * [libevil](https://github.com/avati/libevil) - The Evil License Manager. [GPLv3]
 * [libusb](http://www.libusb.org/) - A universal USB library which allows for portable access to USB devices. [LGPLv2]
+* [PCRE](http://pcre.org/) - A regular expression C library inspired by the regular expression capabilities in Perl. [BSD]
 * [Remote Call Framework](http://www.deltavsoft.com/) - Inter-process communication framework for C++. [GPLv2/Commercial]
+* [Scintilla](http://scintilla.org/) - A free source code editing component. [MIT]
 * [Serial Communication Library](https://github.com/wjwwood/serial) - Cross-platform, Serial Port library written in C++. [MIT]
 * [SDS](https://github.com/antirez/sds) - Simple Dynamic Strings library for C. [BSD]
 * [SLDR](https://github.com/cesanta/sldr) - Super Light DNS Resolver. [GPLv2/Commercial]
@@ -406,8 +408,10 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Clang](http://clang.llvm.org/) - Developed by Apple.
 * [GCC](https://gcc.gnu.org/) - GNU Compiler Collection.
 * [Intel C++ Compiler](https://software.intel.com/en-us/c-compilers) - Developed by Intel.
-* [Microsoft Visual C++](http://msdn.microsoft.com/en-us/vstudio/hh386302.aspx) - MSVC, developed by Microsoft.
 * [LLVM](http://llvm.org/) - Collection of modular and reusable compiler and toolchain technologies.
+* [Microsoft Visual C++](http://msdn.microsoft.com/en-us/vstudio/hh386302.aspx) - MSVC, developed by Microsoft.
+* [Open WatCom](http://www.openwatcom.org/index.php/Main_Page) - Watcom C, C++, and Fortran cross compilers and tools. [Sybase Open Watcom Public License]
+* [TCC](http://bellard.org/tcc/) - Tiny C Compiler. [LGPL]
 
 ## Online Compiler
 *List of online C/C++ compilers*
@@ -434,6 +438,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Dev-C++](http://sourceforge.net/projects/orwelldevcpp/) - A portable C/C++/C++11 IDE.
 * [Eclipse CDT](http://www.eclipse.org/cdt/) - A fully functional C and C++ IDE based on the Eclipse platform.
 * [Geany](http://www.geany.org/) - Small, fast, cross-platform IDE. [GPL]
+* [IBM VisualAge](http://www-03.ibm.com/software/products/en/visgen) - A family of computer integrated development environments from IBM.
 * [KDevelop](https://www.kdevelop.org/) - A free, open source IDE.
 * [Microsoft Visual Studio](http://www.visualstudio.com/) - An IDE from Microsoft.
 * [NetBeans](https://netbeans.org/) - An IDE for developing primarily with Java, but also with other languages, in particular PHP, C/C++, and HTML5.
