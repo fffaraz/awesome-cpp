@@ -77,7 +77,6 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [LibU](https://github.com/koanlogic/libu) - A multiplatform utility library written in C. [BSD]
 * [Loki](http://loki-lib.sourceforge.net/) - A C++ library of designs, containing flexible implementations of common design patterns and idioms. [MIT]
 * [MiLi](https://code.google.com/p/mili/) - Minimal headers-only C++ Library. [Boost]
-* [OpenCL](http://www.khronos.org/opencl/) - The open standard for parallel programming of heterogeneous systems.
 * [openFrameworks](http://www.openframeworks.cc/) - An open source C++ toolkit for creative coding. [MIT]
 * [Qt](http://qt-project.org/) - A cross-platform application and UI framework. [LGPL]
 * [Reason](http://code.google.com/p/reason/) - A cross platform framework designed to bring the ease of use of Java, .Net, or Python to developers who require the performance and strength of C++. [GPLv2]
