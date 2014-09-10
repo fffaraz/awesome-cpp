@@ -16,7 +16,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 	- [Game Engine](#game-engine)
 	- [GUI](#gui)
 	- [Graphics](#graphics)
-	- [Imaging](#imaging)
+	- [Image Processing](#image-processing)
 	- [Internationalization](#internationalization)
 	- [JSON](#json)
 	- [Logging](#logging)
@@ -25,6 +25,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 	- [Multimedia](#multimedia)
 	- [Networking](#networking)
 	- [Physics](#physics)
+	- [Scientific Computing](#scientific-computing)
 	- [Scripting](#scripting)
 	- [Serialization](#serialization)
 	- [Video](#video)
@@ -80,6 +81,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Qt](http://qt-project.org/) - A cross-platform application and UI framework. [LGPL]
 * [Reason](http://code.google.com/p/reason/) - A cross platform framework designed to bring the ease of use of Java, .Net, or Python to developers who require the performance and strength of C++. [GPLv2]
 * [ROOT](http://root.cern.ch) - A set of OO frameworks with all the functionality needed to handle and analyze large amounts of data in a very efficient way. Used at CERN. [LGPL]
+* [STLport](http://www.stlport.org/) - An exemplary version of STL.
 * [STXXL](http://stxxl.sourceforge.net/) - Standard Template Library for Extra Large Data Sets. [Boost]
 * [Ultimate++](http://www.ultimatepp.org/) - A C++ cross-platform rapid application development framework. [BSD]
 * [Windows Template Library](http://sourceforge.net/projects/wtl/) - A C++ library for developing Windows applications and UI components. [Public]
@@ -159,6 +161,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 
 * [hiberlite](https://github.com/paulftw/hiberlite) - C++ Object-relational mapping for sqlite3. [BSD]
 * [Hiredis](https://github.com/redis/hiredis) - A minimalistic C client library for the Redis database. [BSD]
+* [LevelDB](https://github.com/google/leveldb) - A fast key-value storage library. 
 * [LMDB](http://symas.com/mdb/) - Very fast embedded key/value store with full ACID semantics. [OpenLDAP]
 * [RocksDB](https://github.com/facebook/rocksdb) - Embedded key-value store for fast storage from facebook. [BSD]
 * [SQLite](http://www.sqlite.org/) - A completely embedded, full-featured relational database in a few 100k that you can include right into your project. [PublicDomain]
@@ -185,27 +188,37 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 ## GUI
 *Graphic User Interface*
 
+* [CEGUI](http://cegui.org.uk/) - Flexible, cross-platform GUI library. 
+* [FLTK](http://www.fltk.org/index.php) - Fast, light, cross-platform C++ GUI toolkit. [GPLv2]
 * [GTK+](http://www.gtk.org/) - A multi-platform toolkit for creating graphical user interfaces. [LGPL]
 * [gtkmm](http://www.gtkmm.org/en/) - The official C++ interface for the popular GUI library GTK+. [LGPL]
 * [imgui](https://github.com/ocornut/imgui) - Immediate Mode Graphical User Interface with minimal dependencies. [MIT]
 * [libRocket](http://librocket.com/) - libRocket is a C++ HTML/CSS game interface middleware. [MIT]
+* [MyGUI](http://mygui.info/) - Fast, flexible and simple GUI. [MIT]
 * [Ncurses](http://invisible-island.net/ncurses/) - A terminal user interfaces. [MIT]
+* [QCustomPlot](http://qcustomplot.com/) - Qt plotting widget without further dependencies. [GPLv3]
 * [Qwt](http://qwt.sourceforge.net/) - Qt Widgets for Technical Applications. [Own based on LGPL]
 * [QwtPlot3D](http://qwtplot3d.sourceforge.net/) - A feature-rich Qt/OpenGL-based C++ programming library, providing essentially a bunch of 3D-widgets. [zlib]
 * [OtterUI](https://github.com/Twolewis/OtterUI) - OtterUI is a User Interface development solution for embedded systems and interactive entertainment software. [MIT]
+* [PDCurses](http://pdcurses.sourceforge.net/) - Public domain curses library with both source code and pre-compiled library available.
 * [wxWidgets](http://wxwidgets.org/) - A C++ library that lets developers create applications for Windows, Mac OS X, Linux and other platforms with a single code base. [Own LGPL]
 
 ## Graphics
 
 * [bgfx](https://github.com/bkaradzic/bgfx) - A cross-platform rendering library. [BSD]
 * [Cairo](http://www.cairographics.org/) - A 2D graphics library with support for multiple output devices. [LGPLv2 or Mozilla MPL]
-* [CImg](http://cimg.sourceforge.net/) - A small, open source, C++ toolkit for image processing. [Own LGPL or GPL]
 * [Horde3D](https://github.com/horde3d/Horde3D) - A small 3D rendering and animation engine. [EPL]
 * [magnum](https://github.com/mosra/magnum) - C++11 and OpenGL 2D/3D graphics engine. [MIT] [website](http://mosra.cz/blog/magnum.php)
 * [Ogre 3D](http://www.ogre3d.org/) - A scene-oriented, real-time, flexible 3D rendering engine (as opposed to a game engine) written in C++. [MIT]
+* [OpenSceneGraph](http://www.openscenegraph.org/) - An open source high performance 3D graphics toolkit. [OSGPL]
 * [Panda3D](http://www.panda3d.org/) - A framework for 3D rendering and game development for Python and C++. [BSD]
 * [Skia](https://github.com/google/skia) - A complete 2D graphic library for drawing Text, Geometries, and Images. [bSD] [webpage](https://sites.google.com/site/skiadocs/home)
 * [urho3d](https://github.com/urho3d/Urho3D) - Cross-platform rendering and game engine. [Many different, mostly MIT]
+
+## Image Processing
+
+* [CImg](http://cimg.sourceforge.net/) - A small, open source, C++ toolkit for image processing. [Own LGPL or GPL]
+* [OpenCV](http://opencv.org/) - Open source computer vision. [BSD]
 
 ## Internationalization
 
@@ -221,6 +234,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [JSON++](https://github.com/hjiang/jsonxx) - :star: 130+ - A JSON parser in C++. [MIT]
 * [json-parser](https://github.com/udp/json-parser) - Very low footprint JSON parser written in portable ANSI C. [BSD]
 * [json11](https://github.com/dropbox/json11) - :star: 290+ - A tiny JSON library for C++11. [MIT]
+* [libjson](http://sourceforge.net/projects/libjson/) - Lightweight JSON library.
 * [PicoJSON](https://github.com/kazuho/picojson) - :star: 170+ - A header-file-only, JSON parser serializer in C++. [BSD]
 * [qt-json](https://github.com/gaudecker/qt-json) - :star: 120+ - A simple class for parsing JSON data into a QVariant hierarchy and vice versa. [GPLv3]
 * [QJson](https://github.com/flavio/qjson) - :star: 70+ - QJson is a qt-based library that maps JSON data to QVariant objects. [LGPLv2]
@@ -254,10 +268,11 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 ## Multimedia
 
 * [GStreamer](http://gstreamer.freedesktop.org/) - A library for constructing graphs of media-handling components. [LGPL]
+* [LIVE555 Streaming Media](http://www.live555.com/liveMedia/) - Multimedia streaming library using open standard protocols (RTP/RTCP, RTSP, SIP). [LGPL]
 * [libVLC](https://wiki.videolan.org/LibVLC) - libVLC (VLC SDK) media framework. [GPL]
 * [QtAv](https://github.com/wang-bin/QtAV) - A multimedia playback framework based on Qt and FFmpeg to write a player easily. [LGPL] [website](http://wang-bin.github.io/QtAV/)
-* [SFML](http://www.sfml-dev.org/) - Simple and Fast Multimedia Library.[zlib]
 * [SDL](http://www.libsdl.org/) - Simple DirectMedia Layer. [zlib]
+* [SFML](http://www.sfml-dev.org/) - Simple and Fast Multimedia Library.[zlib]
 
 ## Networking
 
@@ -286,6 +301,10 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [ODE](http://www.ode.org/) - Open Dynamics Engine - An open source, high performance library for simulating rigid body dynamics. [BSD&LGPL]
 * [ofxBox2d](https://github.com/vanderlin/ofxBox2d) - openFrameworks wrapper for Box2D. [BSD-like]
 * [Simbody](https://github.com/simbody/simbody) - High-performance C++ multibody dynamics/physics library for simulating articulated biomechanical and mechanical systems like vehicles, robots, and the human skeleton. [Apache2]
+
+## Scientific Computing
+* [FFTW](http://www.fftw.org/) - A C library for computing the DFT in one or more dimensions. [GPL]
+* [GSL](http://www.gnu.org/software/gsl/) - GNU scientific library. [GPL]
 
 ## Scripting
 
@@ -401,8 +420,10 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 *List of C/C++ nominal IDEs.*
 
 * [Code::Blocks](http://www.codeblocks.org/) - A free C, C++ and Fortran IDE.
+* [CodeLite](http://codelite.org/) - Another cross-plaform, free C/C++ IDE. [GPLv2 with an exception for plugins]
 * [Dev-C++](http://sourceforge.net/projects/orwelldevcpp/) - A portable C/C++/C++11 IDE.
 * [Eclipse CDT](http://www.eclipse.org/cdt/) - A fully functional C and C++ IDE based on the Eclipse platform.
+* [Geany](http://www.geany.org/) - Small, fast, cross-platform IDE. [GPL]
 * [KDevelop](https://www.kdevelop.org/) - A free, open source IDE.
 * [Microsoft Visual Studio](http://www.visualstudio.com/) - An IDE from Microsoft.
 * [NetBeans](https://netbeans.org/) - An IDE for developing primarily with Java, but also with other languages, in particular PHP, C/C++, and HTML5.
