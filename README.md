@@ -159,6 +159,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 
 * [hiberlite](https://github.com/paulftw/hiberlite) - C++ Object-relational mapping for sqlite3. [BSD]
 * [Hiredis](https://github.com/redis/hiredis) - A minimalistic C client library for the Redis database. [BSD]
+* [LevelDB](https://github.com/google/leveldb) - A fast key-value storage library. 
 * [LMDB](http://symas.com/mdb/) - Very fast embedded key/value store with full ACID semantics. [OpenLDAP]
 * [RocksDB](https://github.com/facebook/rocksdb) - Embedded key-value store for fast storage from facebook. [BSD]
 * [SQLite](http://www.sqlite.org/) - A completely embedded, full-featured relational database in a few 100k that you can include right into your project. [PublicDomain]
@@ -226,6 +227,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [JSON++](https://github.com/hjiang/jsonxx) - :star: 130+ - A JSON parser in C++. [MIT]
 * [json-parser](https://github.com/udp/json-parser) - Very low footprint JSON parser written in portable ANSI C. [BSD]
 * [json11](https://github.com/dropbox/json11) - :star: 290+ - A tiny JSON library for C++11. [MIT]
+* [libjson](http://sourceforge.net/projects/libjson/) - Lightweight JSON library.
 * [PicoJSON](https://github.com/kazuho/picojson) - :star: 170+ - A header-file-only, JSON parser serializer in C++. [BSD]
 * [qt-json](https://github.com/gaudecker/qt-json) - :star: 120+ - A simple class for parsing JSON data into a QVariant hierarchy and vice versa. [GPLv3]
 * [QJson](https://github.com/flavio/qjson) - :star: 70+ - QJson is a qt-based library that maps JSON data to QVariant objects. [LGPLv2]
@@ -262,8 +264,8 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [LIVE555 Streaming Media](http://www.live555.com/liveMedia/) - Multimedia streaming library using open standard protocols (RTP/RTCP, RTSP, SIP). [LGPL]
 * [libVLC](https://wiki.videolan.org/LibVLC) - libVLC (VLC SDK) media framework. [GPL]
 * [QtAv](https://github.com/wang-bin/QtAV) - A multimedia playback framework based on Qt and FFmpeg to write a player easily. [LGPL] [website](http://wang-bin.github.io/QtAV/)
-* [SFML](http://www.sfml-dev.org/) - Simple and Fast Multimedia Library.[zlib]
 * [SDL](http://www.libsdl.org/) - Simple DirectMedia Layer. [zlib]
+* [SFML](http://www.sfml-dev.org/) - Simple and Fast Multimedia Library.[zlib]
 
 ## Networking
 
