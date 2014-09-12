@@ -161,8 +161,9 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 
 * [hiberlite](https://github.com/paulftw/hiberlite) - C++ Object-relational mapping for sqlite3. [BSD]
 * [Hiredis](https://github.com/redis/hiredis) - A minimalistic C client library for the Redis database. [BSD]
-* [LevelDB](https://github.com/google/leveldb) - A fast key-value storage library. 
+* [LevelDB](https://github.com/google/leveldb) - A fast key-value storage library. [BSD]
 * [LMDB](http://symas.com/mdb/) - Very fast embedded key/value store with full ACID semantics. [OpenLDAP]
+* [MySQL++](http://www.tangentsoft.net/mysql++/) - A C++ wrapper for MySQL's C API. [LGPL]
 * [RocksDB](https://github.com/facebook/rocksdb) - Embedded key-value store for fast storage from facebook. [BSD]
 * [SQLite](http://www.sqlite.org/) - A completely embedded, full-featured relational database in a few 100k that you can include right into your project. [PublicDomain]
 
@@ -174,9 +175,11 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [googletest](http://code.google.com/p/googletest/) - Google C++ Testing Framework. [BSD]
 * [ig-debugheap](https://github.com/deplinenoise/ig-debugheap) - Multiplatform debug heap useful for tracking down memory errors. [BSD]
 * [libtap](https://github.com/zorgnax/libtap) - Write tests in C. [GPLv2]
+* [MemTrack](http://www.almostinfinite.com/memtrack.html) - Tracking memory allocations in C++.
 * [microprofile](https://bitbucket.org/jonasmeyer/microprofile/overview) - Profiler with web-view for multiple platforms. [PublicDomain]
 * [minUnit](http://www.jera.com/techinfo/jtns/jtn002.html) - A minimal unit testing framework for C written using only 2 macros. [PublicDomain]
 * [Remotery](https://github.com/Celtoys/Remotery) - Single C File Profiler with Web Viewer. [Apache2]
+* [UnitTest++](http://unittest-cpp.sourceforge.net/) - A lightweight unit testing framework for C++. [MIT/X Consortium license]
 
 ## Game Engine
 
@@ -200,7 +203,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Qwt](http://qwt.sourceforge.net/) - Qt Widgets for Technical Applications. [Own based on LGPL]
 * [QwtPlot3D](http://qwtplot3d.sourceforge.net/) - A feature-rich Qt/OpenGL-based C++ programming library, providing essentially a bunch of 3D-widgets. [zlib]
 * [OtterUI](https://github.com/Twolewis/OtterUI) - OtterUI is a User Interface development solution for embedded systems and interactive entertainment software. [MIT]
-* [PDCurses](http://pdcurses.sourceforge.net/) - Public domain curses library with both source code and pre-compiled library available.
+* [PDCurses](http://pdcurses.sourceforge.net/) - Public domain curses library with both source code and pre-compiled library available. [PublicDomain]
 * [wxWidgets](http://wxwidgets.org/) - A C++ library that lets developers create applications for Windows, Mac OS X, Linux and other platforms with a single code base. [Own LGPL]
 
 ## Graphics
@@ -217,13 +220,23 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 
 ## Image Processing
 
+* [Boost.GIL](http://www.boost.org/doc/libs/1_56_0/libs/gil/doc/index.html) - Generic Image Library.
 * [CImg](http://cimg.sourceforge.net/) - A small, open source, C++ toolkit for image processing. [Own LGPL or GPL]
+* [CxImage](http://www.codeproject.com/Articles/1300/CxImage) - A C++ class to load, save, display, transform BMP, JPEG, GIF, PNG, TIFF, MNG, ICO, PCX, TGA, WMF, WBMP, JBG, J2K images. [zlib]
+* [FreeImage](http://freeimage.sourceforge.net/) - An open source library that supports popular graphics image formats and others as needed by today's multimedia applications. [GPLv2 or GPLv3] 
+* [GDCM](http://gdcm.sourceforge.net/wiki/index.php/Main_Page) - Grassroots DICOM library.
+* [ITK](http://www.itk.org/) - An open-source, cross-platform system for image analysis. [Apache 2.0 from ITK 4.0]
+* [Magick++](http://www.imagemagick.org/script/api.php) - ImageMagick program interfaces for C++. [Apache 2.0]
+* [MagickWnd](http://www.imagemagick.org/script/api.php) - ImageMagick program interfaces for C. [Apache 2.0]
 * [OpenCV](http://opencv.org/) - Open source computer vision. [BSD]
+* [tesseract-ocr](https://code.google.com/p/tesseract-ocr/) - An OCR engine. [Apache 2.0]
+* [VTK](http://www.vtk.org/) - Open-source, freely available software system for 3D computer graphics, image processing and visualization. [BSD]
 
 ## Internationalization
 
-* [IBM ICU](http://site.icu-project.org/) - A set of C/C++ and Java libraries providing Unicode and Globalization support. [ICU]
 * [gettext](http://www.gnu.org/software/gettext/) - GNU `gettext'. [GPLv2]
+* [IBM ICU](http://site.icu-project.org/) - A set of C/C++ and Java libraries providing Unicode and Globalization support. [ICU]
+* [libiconv](http://www.gnu.org/software/libiconv/) - An encoding conversion library between different character encodings. [GPL]
 
 ## JSON
 
@@ -234,6 +247,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [JSON++](https://github.com/hjiang/jsonxx) - :star: 130+ - A JSON parser in C++. [MIT]
 * [json-parser](https://github.com/udp/json-parser) - Very low footprint JSON parser written in portable ANSI C. [BSD]
 * [json11](https://github.com/dropbox/json11) - :star: 290+ - A tiny JSON library for C++11. [MIT]
+* [libjson](https://github.com/vincenthz/libjson) - :star: 95 - A JSON parser and printer library in C. easy to integrate with any model. [LGPL]
 * [libjson](http://sourceforge.net/projects/libjson/) - Lightweight JSON library.
 * [PicoJSON](https://github.com/kazuho/picojson) - :star: 170+ - A header-file-only, JSON parser serializer in C++. [BSD]
 * [qt-json](https://github.com/gaudecker/qt-json) - :star: 120+ - A simple class for parsing JSON data into a QVariant hierarchy and vice versa. [GPLv3]
@@ -281,6 +295,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Casablanca](http://casablanca.codeplex.com/) - C++ REST SDK. [Apache2]
 * [cpp-netlib](http://cpp-netlib.org/) - A collection of open-source libraries for high level network programming. [Boost]
 * [Dyad.c](https://github.com/rxi/dyad) - Asynchronous networking for C. [MIT]
+* [libcurl](http://curl.haxx.se/libcurl/) - Multiprotocol file transfer library. [MIT/X derivate license]
 * [Mongoose](https://github.com/cesanta/mongoose) - Extremely lightweight webserver. [GPLv2]
 * [Muduo](https://github.com/chenshuo/muduo) - A C++ non-blocking network library for multi-threaded server in Linux. [BSD]
 * [net_skeleton](https://github.com/cesanta/net_skeleton) - TCP client/server library for C/C++. [GPLv2]
@@ -375,7 +390,9 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [libcpuid](https://github.com/anrieff/libcpuid) - A small C library for x86 CPU detection and feature extraction. [BSD]
 * [libevil](https://github.com/avati/libevil) - The Evil License Manager. [GPLv3]
 * [libusb](http://www.libusb.org/) - A universal USB library which allows for portable access to USB devices. [LGPLv2]
+* [PCRE](http://pcre.org/) - A regular expression C library inspired by the regular expression capabilities in Perl. [BSD]
 * [Remote Call Framework](http://www.deltavsoft.com/) - Inter-process communication framework for C++. [GPLv2/Commercial]
+* [Scintilla](http://scintilla.org/) - A free source code editing component. [MIT]
 * [Serial Communication Library](https://github.com/wjwwood/serial) - Cross-platform, Serial Port library written in C++. [MIT]
 * [SDS](https://github.com/antirez/sds) - Simple Dynamic Strings library for C. [BSD]
 * [SLDR](https://github.com/cesanta/sldr) - Super Light DNS Resolver. [GPLv2/Commercial]
@@ -396,8 +413,10 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Clang](http://clang.llvm.org/) - Developed by Apple.
 * [GCC](https://gcc.gnu.org/) - GNU Compiler Collection.
 * [Intel C++ Compiler](https://software.intel.com/en-us/c-compilers) - Developed by Intel.
-* [Microsoft Visual C++](http://msdn.microsoft.com/en-us/vstudio/hh386302.aspx) - MSVC, developed by Microsoft.
 * [LLVM](http://llvm.org/) - Collection of modular and reusable compiler and toolchain technologies.
+* [Microsoft Visual C++](http://msdn.microsoft.com/en-us/vstudio/hh386302.aspx) - MSVC, developed by Microsoft.
+* [Open WatCom](http://www.openwatcom.org/index.php/Main_Page) - Watcom C, C++, and Fortran cross compilers and tools. [Sybase Open Watcom Public License]
+* [TCC](http://bellard.org/tcc/) - Tiny C Compiler. [LGPL]
 
 ## Online Compiler
 *List of online C/C++ compilers*
@@ -405,6 +424,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [codepad](http://codepad.org/) - An online compiler/interpreter, and a simple collaboration tool.
 * [CodeTwist](http://codetwist.com/) - A simple online compiler/interpreter, where you can paste your C, C++ or Java code and execute it online and see results.
 * [coliru](http://coliru.stacked-crooked.com/) - Online compiler/shell with support for various C++ compilers.
+* [Compiler Explorer](http://gcc.godbolt.org/) - An interactive compiler with assembly output available.
 * [CompileOnline](http://www.compileonline.com/compile_cpp11_online.php) - Compile and Execute C++ online on Linux.
 * [Ideone](http://ideone.com/) - An online compiler and debugging tool which allows you to compile source code and execute it online in more than 60 programming languages.
 
@@ -424,6 +444,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Dev-C++](http://sourceforge.net/projects/orwelldevcpp/) - A portable C/C++/C++11 IDE.
 * [Eclipse CDT](http://www.eclipse.org/cdt/) - A fully functional C and C++ IDE based on the Eclipse platform.
 * [Geany](http://www.geany.org/) - Small, fast, cross-platform IDE. [GPL]
+* [IBM VisualAge](http://www-03.ibm.com/software/products/en/visgen) - A family of computer integrated development environments from IBM.
 * [KDevelop](https://www.kdevelop.org/) - A free, open source IDE.
 * [Microsoft Visual Studio](http://www.visualstudio.com/) - An IDE from Microsoft.
 * [NetBeans](https://netbeans.org/) - An IDE for developing primarily with Java, but also with other languages, in particular PHP, C/C++, and HTML5.
