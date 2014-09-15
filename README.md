@@ -247,6 +247,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [JSON++](https://github.com/hjiang/jsonxx) - :star: 130+ - A JSON parser in C++. [MIT]
 * [json-parser](https://github.com/udp/json-parser) - Very low footprint JSON parser written in portable ANSI C. [BSD]
 * [json11](https://github.com/dropbox/json11) - :star: 290+ - A tiny JSON library for C++11. [MIT]
+* [jute](https://github.com/amir-s/jute) - Very simple C++ JSON Parser.
 * [libjson](https://github.com/vincenthz/libjson) - :star: 95 - A JSON parser and printer library in C. easy to integrate with any model. [LGPL]
 * [libjson](http://sourceforge.net/projects/libjson/) - Lightweight JSON library.
 * [PicoJSON](https://github.com/kazuho/picojson) - :star: 170+ - A header-file-only, JSON parser serializer in C++. [BSD]
