@@ -441,6 +441,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 ## Integrated Development Environment
 *List of C/C++ nominal IDEs.*
 
+* [CLion](http://www.jetbrains.com/clion/) - Cross-platform C/C++ IDE from JetBrains. In pre-release/early access stadium.
 * [Code::Blocks](http://www.codeblocks.org/) - A free C, C++ and Fortran IDE.
 * [CodeLite](http://codelite.org/) - Another cross-plaform, free C/C++ IDE. [GPLv2 with an exception for plugins]
 * [Dev-C++](http://sourceforge.net/projects/orwelldevcpp/) - A portable C/C++/C++11 IDE.
