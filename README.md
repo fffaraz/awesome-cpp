@@ -115,6 +115,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 ## Biology
 *Bioinformatics, Genomics, Biotech
 
+* [Vcflib](https://github.com/ekg/vcflib) - a C++ library for parsing and manipulating VCF files. [MIT]
 * [Wham](https://github.com/jewmanchue/wham) - Structural variants (SVs) in Genomes by directly applying association tests to BAM files. 
 	
 ## Compression
