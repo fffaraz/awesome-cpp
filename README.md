@@ -237,6 +237,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [MagickWnd](http://www.imagemagick.org/script/api.php) - ImageMagick program interfaces for C. [Apache 2.0]
 * [OpenCV](http://opencv.org/) - Open source computer vision. [BSD]
 * [tesseract-ocr](https://code.google.com/p/tesseract-ocr/) - An OCR engine. [Apache 2.0]
+* [VIGRA](https://github.com/ukoethe/vigra) - a generic C++ computer vision library for image analysis.
 * [VTK](http://www.vtk.org/) - Open-source, freely available software system for 3D computer graphics, image processing and visualization. [BSD]
 
 ## Internationalization
