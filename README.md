@@ -113,7 +113,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Vorbis](http://xiph.org/vorbis/) - Ogg Vorbis is a fully open, non-proprietary, patent-and-royalty-free, general-purpose compressed audio format. [BSD]
 
 ## Biology
-*Bioinformatics, Genomics, Biotech
+*Bioinformatics, Genomics, Biotech*
 
 * [Vcflib](https://github.com/ekg/vcflib) - a C++ library for parsing and manipulating VCF files. [MIT]
 * [Wham](https://github.com/jewmanchue/wham) - Structural variants (SVs) in Genomes by directly applying association tests to BAM files. 
