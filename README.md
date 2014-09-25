@@ -7,6 +7,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 	- [Artificial Intelligence](#artificial-intelligence)
 	- [Asynchronous Event Loop](#asynchronous-event-loop)
 	- [Audio](#audio)
+	- [Biology](#biology)
 	- [Compression](#compression)
 	- [Concurrency](#concurrency)
 	- [Containers](#containers)
@@ -111,6 +112,12 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Tonic](https://github.com/TonicAudio/Tonic) - Easy and efficient audio synthesis in C++. [Unlicense]
 * [Vorbis](http://xiph.org/vorbis/) - Ogg Vorbis is a fully open, non-proprietary, patent-and-royalty-free, general-purpose compressed audio format. [BSD]
 
+## Biology
+*Bioinformatics, Genomics, Biotech*
+
+* [Vcflib](https://github.com/ekg/vcflib) - a C++ library for parsing and manipulating VCF files. [MIT]
+* [Wham](https://github.com/jewmanchue/wham) - Structural variants (SVs) in Genomes by directly applying association tests to BAM files. 
+	
 ## Compression
 *Compression and Archiving Libraries*
 
