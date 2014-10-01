@@ -268,6 +268,8 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 
 * [Log4cpp](http://log4cpp.sourceforge.net/) - A library of C++ classes for flexible logging to files, syslog, IDSA and other destinations. [LGPL]
 * [templog](http://www.templog.org/) - A very small and lightweight C++ library which you can use to add logging to your C++ applications. [Boost]
+* [easyloggingpp](https://github.com/easylogging/easyloggingpp) - Single header only C++ logging library. [MIT] [website](http://easylogging.org/)
+* [boost.Log](http://www.boost.org/doc/libs/1_56_0/libs/log/doc/html/index.html) - Boost.Log was designed to be very modular and extensible [Boost]
 
 ## Machine Learning
 
