@@ -82,7 +82,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Qt](http://qt-project.org/) - A cross-platform application and UI framework. [LGPL]
 * [Reason](http://code.google.com/p/reason/) - A cross platform framework designed to bring the ease of use of Java, .Net, or Python to developers who require the performance and strength of C++. [GPLv2]
 * [ROOT](http://root.cern.ch) - A set of OO frameworks with all the functionality needed to handle and analyze large amounts of data in a very efficient way. Used at CERN. [LGPL]
-* [STLport](http://www.stlport.org/) - An exemplary version of STL.
+* [STLport](http://www.stlport.org/) - An exemplary version of STL. [Free]
 * [STXXL](http://stxxl.sourceforge.net/) - Standard Template Library for Extra Large Data Sets. [Boost]
 * [Ultimate++](http://www.ultimatepp.org/) - A C++ cross-platform rapid application development framework. [BSD]
 * [Windows Template Library](http://sourceforge.net/projects/wtl/) - A C++ library for developing Windows applications and UI components. [Public]
@@ -161,7 +161,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [LibTomCrypt](https://github.com/libtom/libtomcrypt) - A fairly comprehensive, modular and portable cryptographic toolkit. [WTFPL]
 * [libsodium](https://github.com/jedisct1/libsodium) - P(ortable|ackageable) NaCl-based crypto library, opinionated and easy to use. [ISC]
 * [OpenSSL](http://www.openssl.org/) - A robust, commercial-grade, full-featured, and Open Source cryptography library. [Apache]
-* [Tiny AES128 in C](https://github.com/kokke/tiny-AES128-C) - A small and portable implementation of the AES128 ECB encryption algorithm implemented in C.
+* [Tiny AES128 in C](https://github.com/kokke/tiny-AES128-C) - A small and portable implementation of the AES128 ECB encryption algorithm implemented in C. [PublicDomain]
 
 ## Database
 *Database Libraries, SQL Servers, ODBC Drivers, and Tools*
@@ -238,6 +238,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [MagickWnd](http://www.imagemagick.org/script/api.php) - ImageMagick program interfaces for C. [Apache 2.0]
 * [OpenCV](http://opencv.org/) - Open source computer vision. [BSD]
 * [tesseract-ocr](https://code.google.com/p/tesseract-ocr/) - An OCR engine. [Apache 2.0]
+* [VIGRA](https://github.com/ukoethe/vigra) - a generic C++ computer vision library for image analysis. [MIT X11]
 * [VTK](http://www.vtk.org/) - Open-source, freely available software system for 3D computer graphics, image processing and visualization. [BSD]
 
 ## Internationalization
@@ -255,9 +256,9 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [JSON++](https://github.com/hjiang/jsonxx) - :star: 130+ - A JSON parser in C++. [MIT]
 * [json-parser](https://github.com/udp/json-parser) - Very low footprint JSON parser written in portable ANSI C. [BSD]
 * [json11](https://github.com/dropbox/json11) - :star: 290+ - A tiny JSON library for C++11. [MIT]
-* [jute](https://github.com/amir-s/jute) - Very simple C++ JSON Parser.
+* [jute](https://github.com/amir-s/jute) - Very simple C++ JSON Parser. [PublicDomain]
 * [libjson](https://github.com/vincenthz/libjson) - :star: 95 - A JSON parser and printer library in C. easy to integrate with any model. [LGPL]
-* [libjson](http://sourceforge.net/projects/libjson/) - Lightweight JSON library.
+* [libjson](http://sourceforge.net/projects/libjson/) - Lightweight JSON library. [?]
 * [PicoJSON](https://github.com/kazuho/picojson) - :star: 170+ - A header-file-only, JSON parser serializer in C++. [BSD]
 * [qt-json](https://github.com/gaudecker/qt-json) - :star: 120+ - A simple class for parsing JSON data into a QVariant hierarchy and vice versa. [GPLv3]
 * [QJson](https://github.com/flavio/qjson) - :star: 70+ - QJson is a qt-based library that maps JSON data to QVariant objects. [LGPLv2]
@@ -268,6 +269,8 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 
 * [Log4cpp](http://log4cpp.sourceforge.net/) - A library of C++ classes for flexible logging to files, syslog, IDSA and other destinations. [LGPL]
 * [templog](http://www.templog.org/) - A very small and lightweight C++ library which you can use to add logging to your C++ applications. [Boost]
+* [easyloggingpp](https://github.com/easylogging/easyloggingpp) - Single header only C++ logging library. [MIT] [website](http://easylogging.org/)
+* [boost.Log](http://www.boost.org/doc/libs/1_56_0/libs/log/doc/html/index.html) - Boost.Log was designed to be very modular and extensible [Boost]
 
 ## Machine Learning
 
