@@ -482,7 +482,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 # Resources
 *Various resources, such as books, websites, and articles for improving your C++ development skills and knowledge.*
 
-## Api-Design
+## API Design
 
 * [Beautiful Native Libraries](http://lucumr.pocoo.org/2013/8/18/beautiful-native-libraries/)
 * [Designing Qt-Style C++ APIs](http://doc.qt.digia.com/qq/qq13-apis.html)
@@ -508,6 +508,10 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [google-styleguide](http://code.google.com/p/google-styleguide/) - Style guides for Google-originated open-source projects.
 * [Google C++ Style Guide](http://google-styleguide.googlecode.com/svn/trunk/cppguide.xml)
 * [GNU Coding Standard](http://www.gnu.org/prep/standards/standards.html)
+
+## Talks
+
+* [Quick game development with C++11/C++14](https://github.com/SuperV1234/cppcon2014) - CppCon 2014 talk by vittorio romeo.
 
 ## Videos
 *Fantastic C/C++ related videos.*
