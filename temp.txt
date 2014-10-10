@@ -50,6 +50,14 @@ http://www.cs.fsu.edu/~engelen/soap.html
 http://www.qt.io/
 https://github.com/broadinstitute/gamgee
 
+http://www.reddit.com/r/programming/
+https://www.reddit.com/r/cprog/
+https://game-development.zeef.com/ellison.leao
+
+http://www.digilife.be/quickreferences/qrc/c%20reference%20card%20(ansi)%202.2.pdf
+http://cpprocks.com/regex-cheatsheet/
+http://isocpp.org/blog/2012/12/c11-a-cheat-sheet-alex-sinyakov
+
 ====================
 
 http://www.efytimes.com/e1/fullnews.asp?edid=117053
