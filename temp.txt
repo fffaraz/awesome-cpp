@@ -35,6 +35,23 @@ https://github.com/CopernicaMarketingSoftware
 
 ====================
 
+https://github.com/robbinfan/claire-protorpc
+https://github.com/chen3feng/typhoon-blade - Buildsystem
+http://industriousone.com/premake
+http://glm.g-truc.net/0.9.5/index.html - Math
+https://github.com/paulhodge/EASTL
+https://code.google.com/p/distcc/
+http://omniorb.sourceforge.net/
+http://www.h323plus.org/
+http://ufmod.sourceforge.net/
+https://github.com/almalk454/wGUI
+https://code.google.com/p/google-glog/
+http://www.cs.fsu.edu/~engelen/soap.html
+http://www.qt.io/
+https://github.com/broadinstitute/gamgee
+
+====================
+
 http://www.efytimes.com/e1/fullnews.asp?edid=117053
 
 http://scripts.mit.edu/~6.270/contestants/workshops/awesomec.pdf
