@@ -115,6 +115,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 ## Biology
 *Bioinformatics, Genomics, Biotech*
 
+* [SeqAn](http://www.seqan.de/) - algorithms and data structures for the analysis of sequences with the focus on biological data. [BSD/3-clause]
 * [Vcflib](https://github.com/ekg/vcflib) - a C++ library for parsing and manipulating VCF files. [MIT]
 * [Wham](https://github.com/jewmanchue/wham) - Structural variants (SVs) in Genomes by directly applying association tests to BAM files. 
 	
