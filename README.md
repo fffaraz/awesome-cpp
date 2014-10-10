@@ -314,7 +314,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [net_skeleton](https://github.com/cesanta/net_skeleton) - TCP client/server library for C/C++. [GPLv2]
 * [nope.c](https://github.com/riolet/nope.c) - A C language-based ultra-light software platform for scalable server-side and networking applications. Think node.js for C programmers. [GPLv2]
 * [Onion](https://github.com/davidmoreno/onion) - HTTP server library in C designed to be lightweight and easy to use. [Apache2/GPLv2]
-* [POCO](http://pocoproject.org/) - C++ class libraries and frameworks for building network- and internet-based applications that run on desktop, server, mobile and embedded systems. [Boost]
+* [POCO](https://github.com/pocoproject) :star: - C++ class libraries and frameworks for building network- and internet-based applications that run on desktop, server, mobile and embedded systems. [Boost] [website](http://pocoproject.org/)
 * [Tufão](https://github.com/vinipsmaker/tufao) - An asynchronous web framework for C++ built on top of Qt. [LGPLv2]
 * [WebSocket++](https://github.com/zaphoyd/websocketpp) - C++/Boost Asio based websocket client/server library. [BSD]
 * [ZeroMQ](http://zeromq.org/) - High-speed, modular asynchronous communication library. [LGPL]
@@ -399,7 +399,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [cxx-prettyprint](https://github.com/louisdx/cxx-prettyprint) - A pretty printing library for C++ containers. [Boost]
 * [DynaPDF](http://www.dynaforms.com/) - An easy-to-use PDF generation library. [Commercial]
 * [googlemock](http://code.google.com/p/googlemock/) - A library for writing and using C++ mock classes. [BSD]
-* [HTTP Parser](https://github.com/joyent/http-parser) - A http request/response parser for C. [MIT]
+* [HTTP Parser](https://github.com/joyent/http-parser) :star: - A http request/response parser for C. [MIT]
 * [libcpuid](https://github.com/anrieff/libcpuid) - A small C library for x86 CPU detection and feature extraction. [BSD]
 * [libevil](https://github.com/avati/libevil) - The Evil License Manager. [GPLv3]
 * [libusb](http://www.libusb.org/) - A universal USB library which allows for portable access to USB devices. [LGPLv2]
