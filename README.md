@@ -64,11 +64,11 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 
 * [Apache C++ Standard Library](http://stdcxx.apache.org/) - A collection of algorithms, containers, iterators, and other fundamental components. [Apache2]
 * [ASL](http://stlab.adobe.com/) - Adobe Source Libraries provides peer-reviewed and portable C++ source libraries. [MIT]
-* [Boost](https://github.com/boostorg) - A large collection of generic C++ libraries. [Boost] [website](http://www.boost.org/)
+* [Boost](https://github.com/boostorg) :star: - A large collection of generic C++ libraries. [Boost] [website](http://www.boost.org/)
 * [BDE](https://github.com/bloomberg/bde) - The BDE Development Environment from Bloomberg Labs. [MIT]
 * [Cinder](http://libcinder.org/) - A community-developed, free and open source library for professional-quality creative coding. [BSD]
 * [Cxxomfort](http://ryan.gulix.cl/fossil.cgi/cxxomfort/) - A small, header-only library that backports to C++03 some of the nifty C++11 goodies. [MIT]
-* [Dlib](http://dlib.net/) - A general purpose cross-platform C++ library designed using contract programming and modern C++ techniques. [Boost]
+* [Dlib](http://dlib.net/) :star: - A general purpose cross-platform C++ library designed using contract programming and modern C++ techniques. [Boost]
 * [EASTL](https://github.com/paulhodge/EASTL) - Public part of EA-STL. [BSD]
 * [ffead-cpp](https://github.com/sumeetchhetri/ffead-cpp) - Framework for Enterprise Application Development. [Apache2]
 * [Folly](https://github.com/facebook/folly) - An open-source C++ library developed and used at Facebook. [Apache2]
@@ -79,7 +79,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Loki](http://loki-lib.sourceforge.net/) - A C++ library of designs, containing flexible implementations of common design patterns and idioms. [MIT]
 * [MiLi](https://code.google.com/p/mili/) - Minimal headers-only C++ Library. [Boost]
 * [openFrameworks](http://www.openframeworks.cc/) - An open source C++ toolkit for creative coding. [MIT]
-* [Qt](http://qt-project.org/) - A cross-platform application and UI framework. [LGPL]
+* [Qt](http://qt-project.org/) :star: - A cross-platform application and UI framework. [LGPL]
 * [Reason](http://code.google.com/p/reason/) - A cross platform framework designed to bring the ease of use of Java, .Net, or Python to developers who require the performance and strength of C++. [GPLv2]
 * [ROOT](http://root.cern.ch) - A set of OO frameworks with all the functionality needed to handle and analyze large amounts of data in a very efficient way. Used at CERN. [LGPL]
 * [STLport](http://www.stlport.org/) - An exemplary version of STL. [Free]
@@ -249,21 +249,21 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 
 ## JSON
 
-* [frozen](https://github.com/cesanta/frozen) - :star: 20+ - JSON parser and generator for C/C++. [GPL & GPLv2]
-* [Jansson](https://github.com/akheron/jansson) - :star: 650+ - C library for encoding, decoding and manipulating JSON data. [MIT]
-* [jbson](https://github.com/chrismanning/jbson) - :star: 10 - jbson is a library for building & iterating BSON data, and JSON documents in C++14. [Boost]
-* [JeayeSON](https://github.com/jeaye/jeayeson) - :star: 20+ - A very sane (header only) C++ JSON library. [BSD]
-* [JSON++](https://github.com/hjiang/jsonxx) - :star: 130+ - A JSON parser in C++. [MIT]
+* [frozen](https://github.com/cesanta/frozen) - JSON parser and generator for C/C++. [GPL & GPLv2]
+* [Jansson](https://github.com/akheron/jansson) - C library for encoding, decoding and manipulating JSON data. [MIT]
+* [jbson](https://github.com/chrismanning/jbson) - jbson is a library for building & iterating BSON data, and JSON documents in C++14. [Boost]
+* [JeayeSON](https://github.com/jeaye/jeayeson) - A very sane (header only) C++ JSON library. [BSD]
+* [JSON++](https://github.com/hjiang/jsonxx) - A JSON parser in C++. [MIT]
 * [json-parser](https://github.com/udp/json-parser) - Very low footprint JSON parser written in portable ANSI C. [BSD]
-* [json11](https://github.com/dropbox/json11) - :star: 290+ - A tiny JSON library for C++11. [MIT]
+* [json11](https://github.com/dropbox/json11) - A tiny JSON library for C++11. [MIT]
 * [jute](https://github.com/amir-s/jute) - Very simple C++ JSON Parser. [PublicDomain]
-* [libjson](https://github.com/vincenthz/libjson) - :star: 95 - A JSON parser and printer library in C. easy to integrate with any model. [LGPL]
+* [libjson](https://github.com/vincenthz/libjson) - A JSON parser and printer library in C. easy to integrate with any model. [LGPL]
 * [libjson](http://sourceforge.net/projects/libjson/) - Lightweight JSON library. [?]
-* [PicoJSON](https://github.com/kazuho/picojson) - :star: 170+ - A header-file-only, JSON parser serializer in C++. [BSD]
-* [qt-json](https://github.com/gaudecker/qt-json) - :star: 120+ - A simple class for parsing JSON data into a QVariant hierarchy and vice versa. [GPLv3]
-* [QJson](https://github.com/flavio/qjson) - :star: 70+ - QJson is a qt-based library that maps JSON data to QVariant objects. [LGPLv2]
-* [RapidJSON](https://github.com/miloyip/rapidjson) - :star: 170+ - A fast JSON parser/generator for C++ with both SAX/DOM style API. [MIT]
-* [YAJL](https://github.com/lloyd/yajl) - :star: 1,100+ - A fast streaming JSON parsing library in C. [ISC]
+* [PicoJSON](https://github.com/kazuho/picojson) - A header-file-only, JSON parser serializer in C++. [BSD]
+* [qt-json](https://github.com/gaudecker/qt-json) - A simple class for parsing JSON data into a QVariant hierarchy and vice versa. [GPLv3]
+* [QJson](https://github.com/flavio/qjson) - A qt-based library that maps JSON data to QVariant objects. [LGPLv2]
+* [RapidJSON](https://github.com/miloyip/rapidjson) - A fast JSON parser/generator for C++ with both SAX/DOM style API. [MIT]
+* [YAJL](https://github.com/lloyd/yajl) :star: - A fast streaming JSON parsing library in C. [ISC]
 
 ## Logging
 
@@ -529,9 +529,9 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 ## Websites
 *Useful C/C++ related websites.*
 
+* [Standard C++](http://isocpp.org/) :star: - News, Status & Discussion about Standard C++.
 * [C++ reference](http://cppreference.com/) - C++98, C++03, C++11, C++14 reference.
 * [cplusplus.com](http://www.cplusplus.com/) - The C++ Resources Network.
-* [Standard C++](http://isocpp.org/) - News, Status & Discussion about Standard C++.
 
 ## Weblogs
 *Useful C/C++ related weblogs.*
