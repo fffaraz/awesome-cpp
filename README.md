@@ -289,6 +289,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [CGal](http://www.cgal.org/) - Collection of efficient and reliable geometric algorithms. [LGPL&GPL]
 * [cml](http://cmldev.net/) - free C++ math library for games and graphics. [Boost]
 * [Eigen](http://eigen.tuxfamily.org/) - A high-level C++ library of template headers for linear algebra, matrix and vector operations, numerical solvers and related algorithms. [MPL2]
+* [GMP](https://gmplib.org/) - A C/C++ library for arbitrary precision arithmetic, operating on signed integers, rational numbers, and floating-point numbers.  [GMP]  
 
 ## Multimedia
 
