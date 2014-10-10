@@ -42,7 +42,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 	- [Buildsystem](#buildsystem)
 	- [Static Code Analysis](#static-code-analysis)
 - [Resources](#resources)
-   - [API-Design](#apidesign)
+	- [API Design](#api-design)
 	- [Articles](#articles)
 	- [Books](#books)
 	- [Coding Style](#coding-style)
@@ -266,10 +266,10 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 
 ## Logging
 
+* [Boost.Log](http://www.boost.org/doc/libs/1_56_0/libs/log/doc/html/index.html) - Designed to be very modular and extensible. [Boost]
+* [easyloggingpp](https://github.com/easylogging/easyloggingpp) - Single header only C++ logging library. [MIT] [website](http://easylogging.org/)
 * [Log4cpp](http://log4cpp.sourceforge.net/) - A library of C++ classes for flexible logging to files, syslog, IDSA and other destinations. [LGPL]
 * [templog](http://www.templog.org/) - A very small and lightweight C++ library which you can use to add logging to your C++ applications. [Boost]
-* [easyloggingpp](https://github.com/easylogging/easyloggingpp) - Single header only C++ logging library. [MIT] [website](http://easylogging.org/)
-* [boost.Log](http://www.boost.org/doc/libs/1_56_0/libs/log/doc/html/index.html) - Boost.Log was designed to be very modular and extensible [Boost]
 
 ## Machine Learning
 
@@ -289,7 +289,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [CGal](http://www.cgal.org/) - Collection of efficient and reliable geometric algorithms. [LGPL&GPL]
 * [cml](http://cmldev.net/) - free C++ math library for games and graphics. [Boost]
 * [Eigen](http://eigen.tuxfamily.org/) - A high-level C++ library of template headers for linear algebra, matrix and vector operations, numerical solvers and related algorithms. [MPL2]
-* [GMP](https://gmplib.org/) - A C/C++ library for arbitrary precision arithmetic, operating on signed integers, rational numbers, and floating-point numbers.  [LGPLv3 and GPLv2]  
+* [GMP](https://gmplib.org/) - A C/C++ library for arbitrary precision arithmetic, operating on signed integers, rational numbers, and floating-point numbers. [LGPLv3 and GPLv2]  
 
 ## Multimedia
 
@@ -512,7 +512,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 
 ## Talks
 
-* [Quick game development with C++11/C++14](https://github.com/SuperV1234/cppcon2014) - CppCon 2014 talk by vittorio romeo.
+* [Quick game development with C++11/C++14](https://github.com/SuperV1234/cppcon2014) - CppCon 2014 talk by Vittorio Romeo.
 
 ## Videos
 *Fantastic C/C++ related videos.*
@@ -520,10 +520,10 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Awesome C Programming Tutorials in Hi Def [HD]](https://www.youtube.com/playlist?list=PLCB9F975ECF01953C) - A collection of detailed C Programming Language Tutorials for Beginners and New Programmers.
 * [C++](https://www.youtube.com/playlist?list=PL2F919ADECA5E39A6) - by VoidRealms.
 * [C++ Qt Programming](https://www.youtube.com/playlist?list=PL2D1942A4688E9D63) - by VoidRealms.
-* [C++ Programming Tutorials Playlist](https://www.youtube.com/playlist?list=PLAE85DE8440AA6B83) - thenewboston Official Buckys C++ Programming Tutorials Playlist.
+* [C++ Programming Tutorials Playlist](https://www.youtube.com/playlist?list=PLAE85DE8440AA6B83) - TheNewBoston Official Buckys C++ Programming Tutorials Playlist.
 * [C++ Programming Tutorials from thenewboston](https://www.youtube.com/playlist?list=PLF541C2C1F671AEF6) - These are all of thenewboston's C++ programming tutorials.
 * [C++ GUI with Qt Playlist](https://www.youtube.com/playlist?list=PLD0D54219E5F2544D) - Official Playlist for thenewboston C++ GUI with Qt tutorials.
-* [C Programming Tutorials](https://www.youtube.com/playlist?list=PL78280D6BE6F05D34) - All of thenewboston's C programming tutorials are right here.
+* [C Programming Tutorials](https://www.youtube.com/playlist?list=PL78280D6BE6F05D34) - All of TheNewBoston's C programming tutorials are right here.
 
 ## Websites
 *Useful C/C++ related websites.*
@@ -549,14 +549,14 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 # Other Awesome Lists
 *Other amazingly awesome lists*
 
-* [lists](https://github.com/jnv/lists) - List of (awesome) lists curated on GitHub
+* [lists](https://github.com/jnv/lists) - List of (awesome) lists curated on GitHub.
 * [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness.
 * [awesome](https://github.com/sindresorhus/awesome) - A curated list of awesome lists.
-* [free-programming-books](https://github.com/vhf/free-programming-books) - List of Freely Available Programming Books
+* [free-programming-books](https://github.com/vhf/free-programming-books) - List of Freely Available Programming Books.
 * [papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 * [awesome-php](https://github.com/ziadoz/awesome-php) - Awesome PHP libraries, resources and shiny things.
 * [awesome-python](https://github.com/vinta/awesome-python) - Awesome Python frameworks, libraries and software.
-* [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - Awesome open source sysadmin resources
+* [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - Awesome open source sysadmin resources.
 * [awesome-talks](https://github.com/JanVanRyswyck/awesome-talks) - A lot of screencasts, recordings of user group gatherings and conference talks.
 * [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
 * [ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
