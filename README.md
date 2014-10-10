@@ -537,6 +537,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 *Useful C/C++ related weblogs.*
 
 * [Coding For Speed](http://codingforspeed.com/) - Coding For Speed DOT COM, Less Execution Time.
+* [Eric Niebler](http://ericniebler.com/)
 * [Sticky Bits](http://blog.feabhas.com/)
 * [Paul Fultz II's Blog](http://pfultz2.com/blog/)
 
