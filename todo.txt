@@ -35,6 +35,8 @@ https://github.com/CopernicaMarketingSoftware
 
 ====================
 
+https://github.com/ellisonleao/magictools
+
 https://github.com/robbinfan/claire-protorpc
 https://github.com/chen3feng/typhoon-blade - Buildsystem
 http://industriousone.com/premake
