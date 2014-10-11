@@ -537,6 +537,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [CppCon](http://cppcon.org/) - The C++ Conference.
 * [C++ reference](http://cppreference.com/) - C++98, C++03, C++11, C++14 reference.
 * [cplusplus.com](http://www.cplusplus.com/) - The C++ Resources Network.
+* [Meeting C++](http://meetingcpp.com/)
 
 ## Weblogs
 *Useful C/C++ related weblogs.*
