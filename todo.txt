@@ -61,6 +61,12 @@ http://isocpp.org/blog/2012/12/c11-a-cheat-sheet-alex-sinyakov
 https://github.com/Tuplanolla/cheat
 https://github.com/vgvassilev/cling
 
+https://github.com/BVLC/caffe
+https://github.com/Yelp/MOE
+https://github.com/cocos2d/cocos2d-x
+https://github.com/ideawu/ssdb
+https://github.com/cms-sw/cmssw
+
 ====================
 
 http://www.efytimes.com/e1/fullnews.asp?edid=117053
