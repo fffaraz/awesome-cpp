@@ -233,7 +233,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Boost.GIL](http://www.boost.org/doc/libs/1_56_0/libs/gil/doc/index.html) - Generic Image Library.
 * [CImg](http://cimg.sourceforge.net/) - A small, open source, C++ toolkit for image processing. [Own LGPL or GPL]
 * [CxImage](http://www.codeproject.com/Articles/1300/CxImage) - A C++ class to load, save, display, transform BMP, JPEG, GIF, PNG, TIFF, MNG, ICO, PCX, TGA, WMF, WBMP, JBG, J2K images. [zlib]
-* [FreeImage](http://freeimage.sourceforge.net/) - An open source library that supports popular graphics image formats and others as needed by today's multimedia applications. [GPLv2 or GPLv3] 
+* [FreeImage](http://freeimage.sourceforge.net/) - An open source library that supports popular graphics image formats and others as needed by today's multimedia applications. [GPLv2 or GPLv3]
 * [GDCM](http://gdcm.sourceforge.net/wiki/index.php/Main_Page) - Grassroots DICOM library.
 * [ITK](http://www.itk.org/) - An open-source, cross-platform system for image analysis. [Apache 2.0 from ITK 4.0]
 * [Magick++](http://www.imagemagick.org/script/api.php) - ImageMagick program interfaces for C++. [Apache 2.0]
@@ -292,7 +292,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [CGal](http://www.cgal.org/) - Collection of efficient and reliable geometric algorithms. [LGPL&GPL]
 * [cml](http://cmldev.net/) - free C++ math library for games and graphics. [Boost]
 * [Eigen](http://eigen.tuxfamily.org/) - A high-level C++ library of template headers for linear algebra, matrix and vector operations, numerical solvers and related algorithms. [MPL2]
-* [GMP](https://gmplib.org/) - A C/C++ library for arbitrary precision arithmetic, operating on signed integers, rational numbers, and floating-point numbers. [LGPLv3 and GPLv2]  
+* [GMP](https://gmplib.org/) - A C/C++ library for arbitrary precision arithmetic, operating on signed integers, rational numbers, and floating-point numbers. [LGPLv3 and GPLv2]
 
 ## Multimedia
 
@@ -301,7 +301,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [libVLC](https://wiki.videolan.org/LibVLC) - libVLC (VLC SDK) media framework. [GPL]
 * [QtAv](https://github.com/wang-bin/QtAV) - A multimedia playback framework based on Qt and FFmpeg to write a player easily. [LGPL] [website](http://wang-bin.github.io/QtAV/)
 * [SDL](http://www.libsdl.org/) :star: - Simple DirectMedia Layer. [zlib]
-* [SFML](http://www.sfml-dev.org/) :star: - Simple and Fast Multimedia Library.[zlib]
+* [SFML](http://www.sfml-dev.org/) :star: - Simple and Fast Multimedia Library. [zlib]
 
 ## Networking
 
@@ -350,7 +350,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 
 * [Cap'n Proto](http://kentonv.github.io/capnproto/) - Fast data interchange format and capability-based RPC system. [MIT]
 * [cereal](https://github.com/USCiLab/cereal) - A C++11 library for serialization. [BSD]
-* [FlatBuffers](https://github.com/google/flatbuffers) -  A Memory efficient serialization library. [Apache2]
+* [FlatBuffers](https://github.com/google/flatbuffers) - A Memory efficient serialization library. [Apache2]
 * [MessagePack](https://github.com/msgpack/msgpack-c) - Efficient binary serialization format "like JSON" for C/C++. [Apache2] [website](http://msgpack.org/)
 * [protobuf](http://code.google.com/p/protobuf/) - Protocol Buffers - Google's data interchange format. [BSD]
 * [protobuf-c](https://github.com/protobuf-c/protobuf-c) - Protocol Buffers implementation in C. [BSD]
