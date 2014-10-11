@@ -123,6 +123,7 @@ https://github.com/mosra/magnum
 https://github.com/imvu-open/istatd
 https://github.com/bytefish/libfacerec
 https://github.com/esnme/ultramemcache
+https://github.com/simonask/fatso
 
 ====================
 
