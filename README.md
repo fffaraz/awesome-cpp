@@ -1,5 +1,5 @@
 # Awesome C/C++
-A curated list of awesome C/C++ frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
+A curated list of awesome C/C++ frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. This awesome collection is also available on [Cpp.ZEEF.com](https://cpp.zeef.com/faraz.fallahi)
 
 - [Awesome C/C++](#awesome-cpp)
 	- [Standard Libraries](#standard-libraries)
