@@ -58,6 +58,9 @@ http://www.digilife.be/quickreferences/qrc/c%20reference%20card%20(ansi)%202.2.p
 http://cpprocks.com/regex-cheatsheet/
 http://isocpp.org/blog/2012/12/c11-a-cheat-sheet-alex-sinyakov
 
+https://github.com/Tuplanolla/cheat
+https://github.com/vgvassilev/cling
+
 ====================
 
 http://www.efytimes.com/e1/fullnews.asp?edid=117053
