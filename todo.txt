@@ -57,6 +57,7 @@ https://www.reddit.com/r/cprog/
 https://game-development.zeef.com/ellison.leao
 
 http://www.digilife.be/quickreferences/qrc/c%20reference%20card%20(ansi)%202.2.pdf
+http://www.dreamincode.net/downloads/ref_sheets/cpp_reference_sheet.pdf
 http://cpprocks.com/regex-cheatsheet/
 http://isocpp.org/blog/2012/12/c11-a-cheat-sheet-alex-sinyakov
 
