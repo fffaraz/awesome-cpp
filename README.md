@@ -233,7 +233,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 
 * [Boost.GIL](http://www.boost.org/doc/libs/1_56_0/libs/gil/doc/index.html) - Generic Image Library.
 * [CImg](http://cimg.sourceforge.net/) - A small, open source, C++ toolkit for image processing. [Own LGPL or GPL]
-* [CxImage](http://www.codeproject.com/Articles/1300/CxImage) - A C++ class to load, save, display, transform BMP, JPEG, GIF, PNG, TIFF, MNG, ICO, PCX, TGA, WMF, WBMP, JBG, J2K images. [zlib]
+* [CxImage](http://www.xdp.it/cximage.htm) - An image processing and conversion library to load, save, display, transform BMP, JPEG, GIF, PNG, TIFF, MNG, ICO, PCX, TGA, WMF, WBMP, JBG, J2K images. [zlib]
 * [FreeImage](http://freeimage.sourceforge.net/) - An open source library that supports popular graphics image formats and others as needed by today's multimedia applications. [GPLv2 or GPLv3]
 * [GDCM](http://gdcm.sourceforge.net/wiki/index.php/Main_Page) - Grassroots DICOM library.
 * [ITK](http://www.itk.org/) - An open-source, cross-platform system for image analysis. [Apache 2.0 from ITK 4.0]
