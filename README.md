@@ -40,7 +40,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 	- [Online Compiler](#online-compiler)
 	- [Debugger](#debugger)
 	- [Integrated Development Environment](#integrated-development-environment)
-	- [Buildsystem](#buildsystem)
+	- [Build Systems](#build-systems)
 	- [Static Code Analysis](#static-code-analysis)
 - [Resources](#resources)
 	- [API Design](#api-design)
@@ -116,9 +116,9 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 ## Biology
 *Bioinformatics, Genomics, Biotech*
 
-* [libsequence](http://molpopgen.github.io/libsequence/) - a C++ library for representing and analyzing population genetics data. [GPL]
-* [SeqAn](http://www.seqan.de/) - algorithms and data structures for the analysis of sequences with the focus on biological data. [BSD/3-clause]
-* [Vcflib](https://github.com/ekg/vcflib) - a C++ library for parsing and manipulating VCF files. [MIT]
+* [libsequence](http://molpopgen.github.io/libsequence/) - A C++ library for representing and analyzing population genetics data. [GPL]
+* [SeqAn](http://www.seqan.de/) - Algorithms and data structures for the analysis of sequences with the focus on biological data. [BSD/3-clause]
+* [Vcflib](https://github.com/ekg/vcflib) - A C++ library for parsing and manipulating VCF files. [MIT]
 * [Wham](https://github.com/jewmanchue/wham) - Structural variants (SVs) in Genomes by directly applying association tests to BAM files. 
 	
 ## Compression
@@ -241,7 +241,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [MagickWnd](http://www.imagemagick.org/script/api.php) - ImageMagick program interfaces for C. [Apache 2.0]
 * [OpenCV](http://opencv.org/) :star: - Open source computer vision. [BSD]
 * [tesseract-ocr](https://code.google.com/p/tesseract-ocr/) - An OCR engine. [Apache 2.0]
-* [VIGRA](https://github.com/ukoethe/vigra) - a generic C++ computer vision library for image analysis. [MIT X11]
+* [VIGRA](https://github.com/ukoethe/vigra) - A generic C++ computer vision library for image analysis. [MIT X11]
 * [VTK](http://www.vtk.org/) - Open-source, freely available software system for 3D computer graphics, image processing and visualization. [BSD]
 
 ## Internationalization
@@ -338,7 +338,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 
 * [MOOS-IvP](http://moos-ivp.org) - A set of open source C++ modules for providing autonomy on robotic platforms, in particular autonomous marine vehicles.
 * [MRPT](http://www.mrpt.org/) - Mobile Robot Programming Toolkit. [BSD]
-* [PCL](https://github.com/PointCloudLibrary/pcl) - Point Cloud Library is a standalone, large scale, open project for 2D/3D image and point cloud processing [BSD] (website)[http://www.pointclouds.org/]
+* [PCL](https://github.com/PointCloudLibrary/pcl) - Point Cloud Library is a standalone, large scale, open project for 2D/3D image and point cloud processing [BSD] [website](http://www.pointclouds.org/)
 * [Robotics Library (RL)](http://www.roboticslibrary.org/) - A self-contained C++ library for robot kinematics, motion planning and control. [BSD]
 * [RobWork](http://www.robwork.dk/jrobwork/) - A collection of C++ libraries for simulation and control of robot systems. [Apache2]
 * [ROS](http://wiki.ros.org/) - Robot Operating System provides libraries and tools to help software developers create robot applications. [BSD]
@@ -352,7 +352,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [ChaiScript](https://github.com/ChaiScript/ChaiScript/) - An easy to use embedded scripting language for C++. [BSD] [website](http://chaiscript.com/)
 * [Lua](http://www.lua.org/) - A minimal and fast scripting engine for configuration files and basic application scripting. [MIT]
 * [luacxx](https://github.com/dafrito/luacxx) - C++11 API for creating Lua bindings. [MIT]
-* [SWIG](http://www.swig.org/) - a wrapper/interface Generator that let you link your c++ code to Javascript, Perl, PHP, Python, Tcl and Ruby. [GPL/Output not licensed]
+* [SWIG](http://www.swig.org/) - A wrapper/interface Generator that let you link your c++ code to Javascript, Perl, PHP, Python, Tcl and Ruby. [GPL/Output not licensed]
 * [V7](https://github.com/cesanta/v7) - An embedded JavaScript engine. [GPLv2]
 * [V8](http://code.google.com/p/v8/) - A fast JavaScript engine by Google that can be embedded into any C++ application. [BSD]
 
@@ -378,7 +378,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 ## Virtual Machines
 
 * [CarpVM](https://github.com/tekknolagi/carp) - "interesting" VM in C. Let's see how this goes. [GPLv3]
-* [MicroPython](https://github.com/micropython/micropython) - aims to put an implementation of Python 3.x on a microcontroller. [MIT]
+* [MicroPython](https://github.com/micropython/micropython) - Aims to put an implementation of Python 3.x on a microcontroller. [MIT]
 * [TinyVM](https://github.com/jakogut/tinyvm) - A small, fast, lightweight virtual machine written in pure ANSI C. [MIT]
 
 ## Web Application Framework
@@ -481,11 +481,11 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Xcode](https://developer.apple.com/xcode/) - Developed by Apple.
 * [YouCompleteMe](https://valloric.github.io/YouCompleteMe/) - YouCompleteMe is a fast, as-you-type, fuzzy-search code completion engine for Vim.
 
-## Buildsystem
+## Build Systems
 
-* [FASTBuild](http://www.fastbuild.org/docs/home.html) - high performance, open-source build system supporting highly scalable compilation, caching and network distribution.
-* [tundra](https://github.com/deplinenoise/tundra) - high-performance code build system designed to give the best possible incremental build times even for very large software projects.
-* [tup](http://gittup.org/tup/) - file-based build system that monitors in the background for changed files.
+* [FASTBuild](http://www.fastbuild.org/docs/home.html) - High performance, open-source build system supporting highly scalable compilation, caching and network distribution.
+* [tundra](https://github.com/deplinenoise/tundra) - High-performance code build system designed to give the best possible incremental build times even for very large software projects.
+* [tup](http://gittup.org/tup/) - File-based build system that monitors in the background for changed files.
 
 ## Static Code Analysis
 *List of tools for improving quality and reducing defects by code analysis*
