@@ -72,6 +72,8 @@ https://github.com/cms-sw/cmssw
 
 http://tclap.sourceforge.net/
 
+http://sourceforge.net/projects/libcrn/
+
 ====================
 
 http://www.efytimes.com/e1/fullnews.asp?edid=117053
