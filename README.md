@@ -401,6 +401,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [casacore](https://code.google.com/p/casacore/) - A set of c++ core libraries derived from aips++. [LGPL]
 * [cxx-prettyprint](https://github.com/louisdx/cxx-prettyprint) - A pretty printing library for C++ containers. [Boost]
 * [DynaPDF](http://www.dynaforms.com/) - An easy-to-use PDF generation library. [Commercial]
+* [gcc-poison](https://github.com/leafsr/gcc-poison) - A simple header file for developers to ban unsafe C/C++ functions from applications.
 * [googlemock](http://code.google.com/p/googlemock/) - A library for writing and using C++ mock classes. [BSD]
 * [HTTP Parser](https://github.com/joyent/http-parser) :star: - A http request/response parser for C. [MIT]
 * [libcpuid](https://github.com/anrieff/libcpuid) - A small C library for x86 CPU detection and feature extraction. [BSD]
