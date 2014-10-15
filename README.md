@@ -181,8 +181,10 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 ## Debug
 *Debugging Libraries, Memory Leak and Resource Leak Detection, Unit Testing*
 
+* [Boost.Test](http://www.boost.org/doc/libs/master/libs/test/doc/html/index.html) - Boost Test Library. [Boost]
 * [Catch](https://github.com/philsquared/Catch) - A modern, C++-native, header-only, framework for unit-tests, TDD and BDD. [Boost]
 * [CppUnit](http://www.freedesktop.org/wiki/Software/cppunit/) - C++ port of JUnit. [LGPLv2]
+* [CTest](http://www.cmake.org/cmake/help/v2.8.8/ctest.html) - The CMake test driver program. [BSD]
 * [googletest](http://code.google.com/p/googletest/) - Google C++ Testing Framework. [BSD]
 * [ig-debugheap](https://github.com/deplinenoise/ig-debugheap) - Multiplatform debug heap useful for tracking down memory errors. [BSD]
 * [libtap](https://github.com/zorgnax/libtap) - Write tests in C. [GPLv2]
@@ -191,8 +193,6 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [minUnit](http://www.jera.com/techinfo/jtns/jtn002.html) - A minimal unit testing framework for C written using only 2 macros. [PublicDomain]
 * [Remotery](https://github.com/Celtoys/Remotery) - Single C File Profiler with Web Viewer. [Apache2]
 * [UnitTest++](http://unittest-cpp.sourceforge.net/) - A lightweight unit testing framework for C++. [MIT/X Consortium license]
-* [CTest](http://www.cmake.org/cmake/help/v2.8.8/ctest.html) - The CMake test driver program. [BSD]
-* [Boost.Test](http://www.boost.org/doc/libs/master/libs/test/doc/html/index.html) - Boost Test Library. [Boost]
 
 ## Game Engine
 
@@ -470,34 +470,34 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 ## Integrated Development Environment
 *List of C/C++ nominal IDEs.*
 
-* [CLion](http://www.jetbrains.com/clion/) - Cross-platform C/C++ IDE from JetBrains. In pre-release/early access stadium.
 * [AppCode](http://www.jetbrains.com/objc/) - an IDE for Objective-C, C, C++, and JavaScript development built on JetBrains’ IntelliJ IDEA platform.
+* [CLion](http://www.jetbrains.com/clion/) - Cross-platform C/C++ IDE from JetBrains. In pre-release/early access stadium.
 * [Code::Blocks](http://www.codeblocks.org/) - A free C, C++ and Fortran IDE.
 * [CodeLite](http://codelite.org/) - Another cross-plaform, free C/C++ IDE. [GPLv2 with an exception for plugins]
 * [Dev-C++](http://sourceforge.net/projects/orwelldevcpp/) - A portable C/C++/C++11 IDE.
 * [Eclipse CDT](http://www.eclipse.org/cdt/) - A fully functional C and C++ IDE based on the Eclipse platform.
 * [Geany](http://www.geany.org/) - Small, fast, cross-platform IDE. [GPL]
 * [IBM VisualAge](http://www-03.ibm.com/software/products/en/visgen) - A family of computer integrated development environments from IBM.
+* [Irony-mode](https://github.com/Sarcasm/irony-mode) - A C/C++ minor mode for Emacs powered by libclang.
 * [KDevelop](https://www.kdevelop.org/) - A free, open source IDE.
 * [Microsoft Visual Studio](http://www.visualstudio.com/) - An IDE from Microsoft.
 * [NetBeans](https://netbeans.org/) - An IDE for developing primarily with Java, but also with other languages, in particular PHP, C/C++, and HTML5.
 * [Qt Creator](http://qt-project.org/) :star: - A cross-platform C++, JavaScript and QML IDE which is part of the SDK for Qt.
+* [rtags](https://github.com/Andersbakken/rtags) - A c/c++ client/server indexer with for integration with emacs based on clang.
 * [Xcode](https://developer.apple.com/xcode/) - Developed by Apple.
 * [YouCompleteMe](https://valloric.github.io/YouCompleteMe/) - YouCompleteMe is a fast, as-you-type, fuzzy-search code completion engine for Vim.
-* [rtags](https://github.com/Andersbakken/rtags) - A c/c++ client/server indexer with for integration with emacs based on clang.
-* [irony-mode](https://github.com/Sarcasm/irony-mode) - A C/C++ minor mode for Emacs powered by libclang.
 
 ## Build Systems
 
+* [Bear](https://github.com/rizsotto/Bear) - A tool to generate compilation database for clang tooling.
+* [Biicode](https://www.biicode.com/) - Simple, file-based dependency manager.
+* [FASTBuild](http://www.fastbuild.org/docs/home.html) - High performance, open-source build system supporting highly scalable compilation, caching and network distribution.
 * [CMake](http://www.cmake.org/) - Cross-platform free and open-source software for managing the build process of software using a compiler-independent method. [BSD]
+* [CPM](https://github.com/iauns/cpm) - A C++ Package Manager based on CMake and Git.
 * [Ninja](http://martine.github.io/ninja/) - A small build system with a focus on speed.
 * [Scons](http://www.scons.org/) - A software construction tool configured with Python scipt.
-* [biicode](https://www.biicode.com/) - Simple, file-based dependency manager
-* [FASTBuild](http://www.fastbuild.org/docs/home.html) - High performance, open-source build system supporting highly scalable compilation, caching and network distribution.
 * [tundra](https://github.com/deplinenoise/tundra) - High-performance code build system designed to give the best possible incremental build times even for very large software projects.
 * [tup](http://gittup.org/tup/) - File-based build system that monitors in the background for changed files.
-* [Bear](https://github.com/rizsotto/Bear) - A tool to generate compilation database for clang tooling.
-* [CPM](https://github.com/iauns/cpm) - A C++ Package Manager based on CMake and Git.
 
 ## Static Code Analysis
 *List of tools for improving quality and reducing defects by code analysis*
