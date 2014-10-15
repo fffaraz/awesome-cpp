@@ -161,9 +161,17 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 *Cryptography and Encryption Libraries*
 
 * [Bcrypt](http://bcrypt.sourceforge.net/) - A cross platform file encryption utility. Encrypted files are portable across all supported operating systems and processors. 
+* [BeeCrypt]()
+* [Botan](http://botan.randombit.net/) - A crypto library for C++. [BSD-2]
 * [Crypto++](http://www.cryptopp.com/) - A free C++ class library of cryptographic schemes. [Boost]
-* [LibTomCrypt](https://github.com/libtom/libtomcrypt) - A fairly comprehensive, modular and portable cryptographic toolkit. [WTFPL]
+* [GnuPG](https://www.gnupg.org/) - A complete and free implementation of the OpenPGP standard. [GPL]
+* [GnuTLS](http://www.gnutls.org/) - A secure communications library implementing the SSL, TLS and DTLS protocols. [LGPLv2.1]
+* [Libgcrypt](http://www.gnu.org/software/libgcrypt/)
+* [libmcrypt]()
+* [LibreSSL](http://www.libressl.org/) - A free version of the SSL/TLS protocol forked from OpenSSL in 2014. [?]
 * [libsodium](https://github.com/jedisct1/libsodium) - P(ortable|ackageable) NaCl-based crypto library, opinionated and easy to use. [ISC]
+* [LibTomCrypt](https://github.com/libtom/libtomcrypt) - A fairly comprehensive, modular and portable cryptographic toolkit. [WTFPL]
+* [Nettle](http://www.lysator.liu.se/~nisse/nettle/) - A low-level cryptographic library. [LGPL]
 * [OpenSSL](http://www.openssl.org/) - A robust, commercial-grade, full-featured, and Open Source cryptography library. [Apache]
 * [Tiny AES128 in C](https://github.com/kokke/tiny-AES128-C) - A small and portable implementation of the AES128 ECB encryption algorithm implemented in C. [PublicDomain]
 
