@@ -97,6 +97,16 @@ http://blogs.msdn.com/b/nativeconcurrency/
 
 ====================
 
+http://en.wikipedia.org/wiki/Comparison_of_TLS_implementations
+
+http://en.wikipedia.org/wiki/Cryptlib
+http://en.wikipedia.org/wiki/MatrixSSL
+http://en.wikipedia.org/wiki/PolarSSL
+http://en.wikipedia.org/wiki/CyaSSL
+http://en.wikipedia.org/wiki/GnuTLS
+
+====================
+
 https://github.com/mozilla/mozjpeg
 https://github.com/tinfoilboy/Explodable
 https://github.com/thrust/thrust
