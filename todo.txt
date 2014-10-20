@@ -78,6 +78,8 @@ http://sourceforge.net/projects/libcrn/
 
 http://glm.g-truc.net/
 
+http://www.shoup.net/ntl/
+
 ====================
 
 http://www.efytimes.com/e1/fullnews.asp?edid=117053
