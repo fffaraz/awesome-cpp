@@ -33,6 +33,8 @@ https://github.com/psi-im/libpsi
 
 https://github.com/CopernicaMarketingSoftware
 
+http://www.swig.org/
+
 QUIC & UDT
 
 ====================
