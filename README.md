@@ -130,7 +130,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [KArchive](https://projects.kde.org/projects/frameworks/karchive) - A library for creating, reading, writing and manipulating file archives like zip and tar. It also provides transparent compression and decompression of data, using formats like gzip, via a subclass of QIODevice. [LGPL]
 * [LZ4](https://code.google.com/p/lz4/) - Extremely Fast Compression algorithm. [BSD]
 * [LZHAM](https://code.google.com/p/lzham/) - Lossless data compression library with a compression ratio similar to LZMA but with much faster decompression. [BSD]
-* [LZMA](http://www.7-zip.org/sdk.html) :star: - The default and general compression method of 7z format. [LGPL]
+* [LZMA](http://www.7-zip.org/sdk.html) :star: - The default and general compression method of 7z format. [PublicDomain]
 * [LZMAT](http://www.matcode.com/lzmat.htm) - An extremely fast real-time lossless data compression library. [GPL]
 * [miniz](https://code.google.com/p/miniz/) - Single C source file Deflate/Inflate compression library with zlib-compatible API, ZIP archive reading/writing, PNG writing. [Unlicense]
 * [Minizip](https://github.com/nmoinvaz/minizip) - Zlib with latest bug fixes that supports PKWARE disk spanning, AES encryption, and IO buffering. [zlib]
