@@ -1,0 +1,7 @@
+http://libcxx.llvm.org/
+http://www.ijg.org/
+http://sourceforge.net/projects/libjpeg-turbo/
+http://libpng.org/
+http://www.math.sci.hiroshima-u.ac.jp/~m-mat/MT/MT2002/emt19937ar.html
+https://code.google.com/p/sfntly/
+http://www.netlib.org/fdlibm/
