@@ -469,6 +469,9 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Compiler Explorer](http://gcc.godbolt.org/) - An interactive compiler with assembly output available.
 * [CompileOnline](http://www.compileonline.com/compile_cpp11_online.php) - Compile and Execute C++ online on Linux.
 * [Ideone](http://ideone.com/) - An online compiler and debugging tool which allows you to compile source code and execute it online in more than 60 programming languages.
+* [Rextester](http://rextester.com/runcode) - Online compiler which provides several compilers(Clang, GCC, MSVC) and several editors.
+* [Rise4Fun](http://webcompiler.cloudapp.net/) - Online Visual C++ compiler.
+* [Wandbox](http://melpon.org/wandbox/) - An online Clang/GCC compiler with Boost available.
 
 ## Debugger
 *List of C/C++ debuggers*
