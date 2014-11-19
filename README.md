@@ -437,8 +437,9 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [PCRE](http://pcre.org/) - A regular expression C library inspired by the regular expression capabilities in Perl. [BSD]
 * [Remote Call Framework](http://www.deltavsoft.com/) - Inter-process communication framework for C++. [GPLv2/Commercial]
 * [Scintilla](http://scintilla.org/) - A free source code editing component. [MIT]
-* [Serial Communication Library](https://github.com/wjwwood/serial) - Cross-platform, Serial Port library written in C++. [MIT]
 * [SDS](https://github.com/antirez/sds) - Simple Dynamic Strings library for C. [BSD]
+* [Serial Communication Library](https://github.com/wjwwood/serial) - Cross-platform, Serial Port library written in C++. [MIT]
+* [sigslot](http://sigslot.sourceforge.net/) - C++ Signal/Slot Library.
 * [SLDR](https://github.com/cesanta/sldr) - Super Light DNS Resolver. [GPLv2/Commercial]
 * [SLRE](https://github.com/cesanta/slre) - Super Light Regular Expression library. [GPLv2/Commercial]
 * [Stage](https://github.com/rtv/Stage) - Mobile robot simulator. [GPLv2]
