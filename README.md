@@ -86,6 +86,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [STLport](http://www.stlport.org/) - An exemplary version of STL. [Free]
 * [STXXL](http://stxxl.sourceforge.net/) - Standard Template Library for Extra Large Data Sets. [Boost]
 * [Ultimate++](http://www.ultimatepp.org/) - A C++ cross-platform rapid application development framework. [BSD]
+* [uSTL](http://msharov.github.io/ustl/) - The small STL library. [MIT]
 * [Windows Template Library](http://sourceforge.net/projects/wtl/) - A C++ library for developing Windows applications and UI components. [Public]
 * [Yomm11](https://github.com/jll63/yomm11) - Open multi-methods for C++11. [Boost]
 
