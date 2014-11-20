@@ -428,6 +428,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 *Useful libraries or tools that don't fit in the categories above or maybe just not categorised yet*
 
 * [Better String](http://bstring.sourceforge.net) - An alternative to the string library for C which is more functional and does not have buffer overflow overrun problems. Also includes a C++ wrapper. [BSD, GPLv2]
+* [Boost.Signals](http://www.boost.org/doc/libs/1_56_0/doc/html/signals.html) - An implementation of a managed signals and slots system. [Boost]
 * [C++ Format](https://github.com/cppformat/cppformat) - Small, safe and fast formatting library for C++. [BSD]
 * [casacore](https://code.google.com/p/casacore/) - A set of c++ core libraries derived from aips++. [LGPL]
 * [CppVerbalExpressions](https://github.com/VerbalExpressions/CppVerbalExpressions) - C++ regular expressions made easy. [MIT]
@@ -436,6 +437,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [gcc-poison](https://github.com/leafsr/gcc-poison) - A simple header file for developers to ban unsafe C/C++ functions from applications.
 * [googlemock](http://code.google.com/p/googlemock/) - A library for writing and using C++ mock classes. [BSD]
 * [HTTP Parser](https://github.com/joyent/http-parser) :star: - A http request/response parser for C. [MIT]
+* [libsigc++](http://libsigc.sourceforge.net/) - A typesafe callback system for standard C++. [LGPL]
 * [libcpuid](https://github.com/anrieff/libcpuid) - A small C library for x86 CPU detection and feature extraction. [BSD]
 * [libevil](https://github.com/avati/libevil) - The Evil License Manager. [GPLv3]
 * [libusb](http://www.libusb.org/) - A universal USB library which allows for portable access to USB devices. [LGPLv2]
