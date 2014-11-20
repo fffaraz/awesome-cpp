@@ -1,0 +1,9 @@
+https://www.youtube.com/watch?v=mVbDzTM21BQ
+
+http://en.wikibooks.org/wiki/Optimizing_C%2B%2B/Code_optimization
+http://en.wikibooks.org/wiki/Optimizing_C++/Code_optimization/Faster_operations
+
+https://mattmccutchen.net/bigint/
+https://code.google.com/p/infint/
+http://cpp-bigint.sourceforge.net/
+https://gmplib.org/
