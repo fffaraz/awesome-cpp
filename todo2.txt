@@ -5,3 +5,8 @@ http://libpng.org/
 http://www.math.sci.hiroshima-u.ac.jp/~m-mat/MT/MT2002/emt19937ar.html
 https://code.google.com/p/sfntly/
 http://www.netlib.org/fdlibm/
+
+-------------------------------------
+https://github.com/arrayfire/arrayfire
+https://github.com/google/flatbuffers
+https://github.com/google/protobuf
