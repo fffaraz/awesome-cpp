@@ -432,6 +432,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [C++ Format](https://github.com/cppformat/cppformat) - Small, safe and fast formatting library for C++. [BSD]
 * [casacore](https://code.google.com/p/casacore/) - A set of c++ core libraries derived from aips++. [LGPL]
 * [CppVerbalExpressions](https://github.com/VerbalExpressions/CppVerbalExpressions) - C++ regular expressions made easy. [MIT]
+* [QtVerbalExpressions](https://github.com/VerbalExpressions/QtVerbalExpressions) - This Qt lib is based off of the C++ VerbalExpressions library. [MIT]
 * [cxx-prettyprint](https://github.com/louisdx/cxx-prettyprint) - A pretty printing library for C++ containers. [Boost]
 * [DynaPDF](http://www.dynaforms.com/) - An easy-to-use PDF generation library. [Commercial]
 * [gcc-poison](https://github.com/leafsr/gcc-poison) - A simple header file for developers to ban unsafe C/C++ functions from applications.
@@ -443,7 +444,6 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [libusb](http://www.libusb.org/) - A universal USB library which allows for portable access to USB devices. [LGPLv2]
 * [PCRE](http://pcre.org/) - A regular expression C library inspired by the regular expression capabilities in Perl. [BSD]
 * [PHP-CPP](https://github.com/CopernicaMarketingSoftware/PHP-CPP) - A library to build PHP extensions with C++. [Apache2] [website](http://www.php-cpp.com/)
-* [QtVerbalExpressions](https://github.com/VerbalExpressions/QtVerbalExpressions) - This Qt lib is based off of the C++ VerbalExpressions library. [MIT]
 * [Remote Call Framework](http://www.deltavsoft.com/) - Inter-process communication framework for C++. [GPLv2/Commercial]
 * [Scintilla](http://scintilla.org/) - A free source code editing component. [MIT]
 * [SDS](https://github.com/antirez/sds) - Simple Dynamic Strings library for C. [BSD]
