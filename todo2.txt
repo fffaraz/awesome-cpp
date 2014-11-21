@@ -10,3 +10,7 @@ http://www.netlib.org/fdlibm/
 https://github.com/arrayfire/arrayfire
 https://github.com/google/flatbuffers
 https://github.com/google/protobuf
+
+-------------------------------------
+http://en.wikipedia.org/wiki/Category:C%2B%2B_libraries
+http://en.wikipedia.org/wiki/List_of_C%2B%2B_template_libraries
