@@ -14,3 +14,8 @@ https://github.com/google/protobuf
 -------------------------------------
 http://en.wikipedia.org/wiki/Category:C%2B%2B_libraries
 http://en.wikipedia.org/wiki/List_of_C%2B%2B_template_libraries
+
+-------------------------------------
+http://www.csie.ntu.edu.tw/~cjlin/liblinear/
+http://www.csie.ntu.edu.tw/~cjlin/libsvmtools/
+
