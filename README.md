@@ -101,7 +101,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Boost.Asio](http://think-async.com/) - A cross-platform C++ library for network and low-level I/O programming. [Boost]
 * [libev](http://libev.schmorp.de/) - A full-featured and high-performance event loop that is loosely modelled after libevent, but without its limitations and bugs. [BSD and GPL]
 * [libevent](http://libevent.org/) - An event notification library. [BSD]
-* [libuv](https://github.com/joyent/libuv) - Cross-platform asychronous I/O. [BSD]
+* [libuv](https://github.com/libuv/libuv) - Cross-platform asychronous I/O. [BSD]
 
 ## Audio
 *Audio, Sound, Music, Digitized Voice Libraries*
