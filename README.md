@@ -590,6 +590,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [CppCon](http://cppcon.org/) - The C++ Conference.
 * [C++ reference](http://cppreference.com/) - C++98, C++03, C++11, C++14 reference.
 * [cplusplus.com](http://www.cplusplus.com/) - The C++ Resources Network.
+* [C++ FQA Lite](http://yosefk.com/c++fqa/) - C++ frequently questioned answers.
 * [Guru of the Week](http://www.gotw.ca/gotw/) - a regular series of C++ programming problems created and written by Herb Sutter.
 * [Meeting C++](http://meetingcpp.com/)
 
