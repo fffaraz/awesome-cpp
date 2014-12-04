@@ -26,6 +26,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 	- [Multimedia](#multimedia)
 	- [Networking](#networking)
 	- [Physics](#physics)
+	- [Remote Procedure Call](#remote-procedure-call)
 	- [Robotics](#robotics)
 	- [Scientific Computing](#scientific-computing)
 	- [Scripting](#scripting)
@@ -355,6 +356,14 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [ofxBox2d](https://github.com/vanderlin/ofxBox2d) - openFrameworks wrapper for Box2D. [BSD-like]
 * [Simbody](https://github.com/simbody/simbody) - High-performance C++ multibody dynamics/physics library for simulating articulated biomechanical and mechanical systems like vehicles, robots, and the human skeleton. [Apache2]
 
+## Remote Procedure Call
+* [Cap'n Proto](http://kentonv.github.io/capnproto/) - Fast data interchange format and capability-based RPC system. [MIT]
+* [libjson-rpc-cpp](https://github.com/cinemast/libjson-rpc-cpp) - JSON-RPC framework for C++ servers and clients. [MIT]
+* [simple-rpc-cpp](https://code.google.com/p/simple-rpc-cpp/) - A simple RPC wrapper generator to C/C++ functions. [BSD]
+* [Thrift](https://thrift.apache.org/) - Efficient cross-language IPC/RPC, works between C++, Java, Python, PHP, C#, and many more other languages. Originally developer by Twitter. [Apache2]
+* [xmlrpc-c](http://xmlrpc-c.sourceforge.net/) - A lightweight RPC library based on XML and HTTP. [BSD]
+* [ZeroMQ](http://zeromq.org/) - High-speed, modular asynchronous communication library. [LGPL]
+
 ## Robotics
 
 * [MOOS-IvP](http://moos-ivp.org) - A set of open source C++ modules for providing autonomy on robotic platforms, in particular autonomous marine vehicles.
@@ -379,14 +388,12 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 
 ## Serialization
 
-* [Cap'n Proto](http://kentonv.github.io/capnproto/) - Fast data interchange format and capability-based RPC system. [MIT]
 * [cereal](https://github.com/USCiLab/cereal) - A C++11 library for serialization. [BSD]
 * [FlatBuffers](https://github.com/google/flatbuffers) - A Memory efficient serialization library. [Apache2]
 * [MessagePack](https://github.com/msgpack/msgpack-c) - Efficient binary serialization format "like JSON" for C/C++. [Apache2] [website](http://msgpack.org/)
 * [protobuf](http://code.google.com/p/protobuf/) - Protocol Buffers - Google's data interchange format. [BSD]
 * [protobuf-c](https://github.com/protobuf-c/protobuf-c) - Protocol Buffers implementation in C. [BSD]
 * [SimpleBinaryEncoding](https://github.com/real-logic/simple-binary-encoding) - encoding and decoding application messages in binary format for low-latency applications. [Apache2]
-* [Thrift](https://thrift.apache.org/) - Efficient cross-language IPC/RPC, works between C++, Java, Python, PHP, C#, and many more other languages. Originally developer by Twitter. [Apache2]
 
 ## Video
 
