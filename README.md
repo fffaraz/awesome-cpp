@@ -209,7 +209,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 ## Game Engine
 
 * [Cocos2d-x](http://www.cocos2d-x.org/) - A multi-platform framework for building 2d games, interactive books, demos and other graphical applications. [Commercial?]
-* [delta3d](http://sourceforge.net/projects/delta3d/) - A open source robust simulation platform. [LGPLv2] 
+* [delta3d](http://sourceforge.net/projects/delta3d/) - An open source robust simulation platform. [LGPLv2] 
 * [Grit](http://gritengine.com/) - Community project to build a free game engine for implementing open world 3D games. [MIT]
 * [Irrlicht](http://irrlicht.sourceforge.net/) - An open source high performance realtime 3D engine written in C++. [zlib]
 * [Polycode](http://polycode.org/) - Open-Source Framework for creating games in C++ (with Lua bindings). [MIT]
@@ -590,6 +590,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [CppCon](http://cppcon.org/) - The C++ Conference.
 * [C++ reference](http://cppreference.com/) - C++98, C++03, C++11, C++14 reference.
 * [cplusplus.com](http://www.cplusplus.com/) - The C++ Resources Network.
+* [Guru of the Week](http://www.gotw.ca/gotw/) - a regular series of C++ programming problems created and written by Herb Sutter.
 * [Meeting C++](http://meetingcpp.com/)
 
 ## Weblogs
