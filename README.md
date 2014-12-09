@@ -627,7 +627,8 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [awesome](https://github.com/sindresorhus/awesome) - A curated list of awesome lists.
 * [free-programming-books](https://github.com/vhf/free-programming-books) - List of Freely Available Programming Books.
 * [papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
-* [awesome-nodejs](https://github.com/vndmtrx/awesome-nodejs)
+* [awesome-algorithms](https://github.com/tayllan/awesome-algorithms) - A curated list of awesome places to learn and/or practice algorithms.
+* [awesome-nodejs](https://github.com/vndmtrx/awesome-nodejs) - A curated list of delightful Node.js packages and resources.
 * [awesome-php](https://github.com/ziadoz/awesome-php) - Awesome PHP libraries, resources and shiny things.
 * [awesome-python](https://github.com/vinta/awesome-python) - Awesome Python frameworks, libraries and software.
 * [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - Awesome open source sysadmin resources.
