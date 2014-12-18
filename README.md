@@ -569,10 +569,9 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 ## Books
 *Fantastic C/C++ related books.*
 
-* [List of free C/C++ Books](https://github.com/fffaraz/awesome-cpp/blob/master/books.md)
+* [List of Free C/C++ Books](https://github.com/fffaraz/awesome-cpp/blob/master/books.md)
 * [Free C Books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#c) - vhf/free-programming-books/C.
 * [Free C++ Books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#c-1) - vhf/free-programming-books/C++.
-* [The Definitive C++ Book Guide and List](http://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list) - A collection of quality books and an approximate skill level.
 
 ## Coding Style
 
