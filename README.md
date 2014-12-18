@@ -65,6 +65,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 *C++ generic frameworks and libraries.*
 
 * [Apache C++ Standard Library](http://stdcxx.apache.org/) - A collection of algorithms, containers, iterators, and other fundamental components. [Apache2]
+* [APR](http://apr.apache.org/) - Apache Portable Runtime. Another library of cross-platform utility functions. [Apache2]
 * [ASL](http://stlab.adobe.com/) - Adobe Source Libraries provides peer-reviewed and portable C++ source libraries. [MIT]
 * [Boost](https://github.com/boostorg) :star: - A large collection of generic C++ libraries. [Boost] [website](http://www.boost.org/)
 * [BDE](https://github.com/bloomberg/bde) - The BDE Development Environment from Bloomberg Labs. [MIT]
@@ -376,6 +377,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [ROS](http://wiki.ros.org/) - Robot Operating System provides libraries and tools to help software developers create robot applications. [BSD]
 
 ## Scientific Computing
+
 * [FFTW](http://www.fftw.org/) - A C library for computing the DFT in one or more dimensions. [GPL]
 * [GSL](http://www.gnu.org/software/gsl/) - GNU scientific library. [GPL]
 
@@ -448,9 +450,11 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [gcc-poison](https://github.com/leafsr/gcc-poison) - A simple header file for developers to ban unsafe C/C++ functions from applications.
 * [googlemock](http://code.google.com/p/googlemock/) - A library for writing and using C++ mock classes. [BSD]
 * [HTTP Parser](https://github.com/joyent/http-parser) :star: - A http request/response parser for C. [MIT]
+* [Klib](https://github.com/attractivechaos/klib) - Small and lightweight implementations of common algorithms and data structures. [MIT]
 * [libsigc++](http://libsigc.sourceforge.net/) - A typesafe callback system for standard C++. [LGPL]
 * [libcpuid](https://github.com/anrieff/libcpuid) - A small C library for x86 CPU detection and feature extraction. [BSD]
 * [libevil](https://github.com/avati/libevil) - The Evil License Manager. [GPLv3]
+* [libnih](https://github.com/keybuk/libnih) - A lightweight library of C functions and structures. [GPL2.1]
 * [libusb](http://www.libusb.org/) - A universal USB library which allows for portable access to USB devices. [LGPLv2]
 * [PCRE](http://pcre.org/) - A regular expression C library inspired by the regular expression capabilities in Perl. [BSD]
 * [PHP-CPP](https://github.com/CopernicaMarketingSoftware/PHP-CPP) - A library to build PHP extensions with C++. [Apache2] [website](http://www.php-cpp.com/)
@@ -462,6 +466,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [SLDR](https://github.com/cesanta/sldr) - Super Light DNS Resolver. [GPLv2/Commercial]
 * [SLRE](https://github.com/cesanta/slre) - Super Light Regular Expression library. [GPLv2/Commercial]
 * [Stage](https://github.com/rtv/Stage) - Mobile robot simulator. [GPLv2]
+* [stb](https://github.com/nothings/stb) - A range of single-file libraries for C/C++. [Public domain]
 * [VarTypes](https://code.google.com/p/vartypes/) - A feature-rich, object-oriented framework for managing variables in C++ / Qt4. [LGPL]
 * [ZBar](http://zbar.sourceforge.net/) - A barcode scanner library, which allows to scan photos/images/video streams for barcodes and return their value. [LGPLv2]
 * [ZXing](https://github.com/zxing/zxing/) - An open-source, multi-format 1D/2D barcode image processing library implemented in Java, with ports to other languages. [Apache]
@@ -472,8 +477,9 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 ## Compiler
 *List of C/C++ compilers*
 
-* [Clang](http://clang.llvm.org/) - Developed by Apple.
-* [GCC](https://gcc.gnu.org/) - GNU Compiler Collection.
+* [Clang](http://clang.llvm.org/) - A C compiler for LLVM. Supports C11. Developed by Apple. [NCSA]
+* [GCC](https://gcc.gnu.org/) - GNU Compiler Collection. Supports C11 and OpenMP. [GNU GPL3]
+* [PCC][http://pcc.ludd.ltu.se/] - A very old C compiler. Supports C99.
 * [Intel C++ Compiler](https://software.intel.com/en-us/c-compilers) - Developed by Intel.
 * [LLVM](http://llvm.org/) - Collection of modular and reusable compiler and toolchain technologies.
 * [Microsoft Visual C++](http://msdn.microsoft.com/en-us/vstudio/hh386302.aspx) - MSVC, developed by Microsoft.
@@ -504,6 +510,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 ## Integrated Development Environment
 *List of C/C++ nominal IDEs.*
 
+* [Anjuta DevStudio](http://anjuta.org/) - The GNOME IDE. [GPL3]
 * [AppCode](http://www.jetbrains.com/objc/) - an IDE for Objective-C, C, C++, and JavaScript development built on JetBrains’ IntelliJ IDEA platform.
 * [CLion](http://www.jetbrains.com/clion/) - Cross-platform C/C++ IDE from JetBrains. In pre-release/early access stadium.
 * [Code::Blocks](http://www.codeblocks.org/) - A free C, C++ and Fortran IDE.
@@ -562,7 +569,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 ## Books
 *Fantastic C/C++ related books.*
 
-* [The C++ Annotations](http://cppannotations.sourceforge.net/annotations/html/) - An in-depth guide on C++, intended for people with a good knowledge of C who want to make the transition to C++.
+* [List of free C/C++ Books](https://github.com/fffaraz/awesome-cpp/blob/master/books.md)
 * [Free C Books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#c) - vhf/free-programming-books/C.
 * [Free C++ Books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#c-1) - vhf/free-programming-books/C++.
 * [The Definitive C++ Book Guide and List](http://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list) - A collection of quality books and an approximate skill level.

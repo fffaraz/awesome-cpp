@@ -9,6 +9,25 @@
 
 * [Fruit](https://github.com/google/fruit) - A dependency injection framework for C++.
 
+* [MariaDB](https://mariadb.com/) - A robust, scalable and reliable SQL server, designed to be a drop-in replacement for MySQL. [BSD]
+* [PostgreSQL]() - A powerful object-relational database system. [PostgreSQL licence]
+* [Redis]() - An advanced key-value store. [3-clause BSD].
+* [SQLite]() - A self-contained, serverless, zero-configuration, transactional SQL database engine with a C interface. [Public domain]
+* [UnQLite]() - A self-contained, serverless, zero-configuration, transactional NoSQL engine with a C interface. [FreeBSD]
+
+https://www.enlightenment.org/p.php?p=about/efl
+https://github.com/stefanct/sglib
+https://bitbucket.org/zserge/jsmn/wiki/Home
+
+
+http://www.catb.org/esr/structure-packing/
+http://books.cat-v.org/computer-science/c-programming-language/The.C.Programming.Language.2nd.Edition.pdf
+https://graphics.stanford.edu/~seander/bithacks.html
+http://faculty.euc.ac.cy/scharalambous/csc131/books/C%20book%201.pdf
+http://www.planetpdf.com/codecuts/pdfs/ooc.pdf
+http://www.codeproject.com/Articles/6154/Writing-Efficient-C-and-C-Code-Optimization
+
+
 ====================
 
 All libs in:
