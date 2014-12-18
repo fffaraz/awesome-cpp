@@ -20,7 +20,6 @@
 
 ## C++
 
-* [C++ Annotations](http://cppannotations.sourceforge.net/annotations/html/) - An in-depth guide on C++, intended for people with a good knowledge of C who want to make the transition to C++.
 * [C++ Annotations](http://cppannotations.sourceforge.net/) 
 * [C++ Cookbook](http://staff.ppu.edu/dkhalid/O'Reilly%20-%20C++%20Cookbook%20%282007%29.pdf) (PDF)
 * [C++ GUI Programming With Qt 3](http://www.computer-books.us/cpp_0010.php)
