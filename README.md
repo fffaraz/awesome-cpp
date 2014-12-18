@@ -479,7 +479,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 
 * [Clang](http://clang.llvm.org/) - A C compiler for LLVM. Supports C11. Developed by Apple. [NCSA]
 * [GCC](https://gcc.gnu.org/) - GNU Compiler Collection. Supports C11 and OpenMP. [GNU GPL3]
-* [PCC][http://pcc.ludd.ltu.se/] - A very old C compiler. Supports C99.
+* [PCC](http://pcc.ludd.ltu.se/) - A very old C compiler. Supports C99.
 * [Intel C++ Compiler](https://software.intel.com/en-us/c-compilers) - Developed by Intel.
 * [LLVM](http://llvm.org/) - Collection of modular and reusable compiler and toolchain technologies.
 * [Microsoft Visual C++](http://msdn.microsoft.com/en-us/vstudio/hh386302.aspx) - MSVC, developed by Microsoft.
