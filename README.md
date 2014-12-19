@@ -300,6 +300,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 
 * [Caffe](https://github.com/BVLC/caffe) - A fast framework for neural networks. [BSD]
 * [CCV](https://github.com/liuliu/ccv) - C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library. [BSD]
+* [Minerva](https://github.com/minerva-developers/minerva) - A fast and flexible system for deep learning. [Apache2]
 * [mlpack](http://www.mlpack.org/) - A scalable c++ machine learning library. [LGPLv3]
 * [OpenCV](https://github.com/Itseez/opencv) :star: - Open Source Computer Vision Library. [BSD] [website](http://opencv.org/)
 * [Recommender](https://github.com/GHamrouni/Recommender) - C library for product recommendations/suggestions using collaborative filtering (CF). [BSD]
