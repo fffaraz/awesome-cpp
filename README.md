@@ -270,6 +270,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 
 ## JSON
 
+* [Boost.PropertyTree](http://www.boost.org/doc/libs/1_55_0/doc/html/property_tree.html) - A property tree parser/generator that can be used to parse XML/JSON/INI/Info files. [Boost]
 * [frozen](https://github.com/cesanta/frozen) - JSON parser and generator for C/C++. [GPL & GPLv2]
 * [Jansson](https://github.com/akheron/jansson) - C library for encoding, decoding and manipulating JSON data. [MIT]
 * [jbson](https://github.com/chrismanning/jbson) - jbson is a library for building & iterating BSON data, and JSON documents in C++14. [Boost]
@@ -428,6 +429,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 ## XML
 *XML is crap. Really. There are no excuses. XML is nasty to parse for humans, and it's a disaster to parse even for computers. There's just no reason for that horrible crap to exist. - Linus Torvalds*
 
+* [Boost.PropertyTree](http://www.boost.org/doc/libs/1_55_0/doc/html/property_tree.html) - A property tree parser/generator that can be used to parse XML/JSON/INI/Info files. [Boost]
 * [Expat](http://www.libexpat.org/) - An XML parser library written in C. [MIT]
 * [Libxml2](http://xmlsoft.org/) - The XML C parser and toolkit of Gnome. [MIT]
 * [libxml++](http://libxmlplusplus.sourceforge.net/) - An XML Parser for C++. [LGPLv2]
@@ -636,6 +638,8 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [awesome](https://github.com/sindresorhus/awesome) - A curated list of awesome lists.
 * [free-programming-books](https://github.com/vhf/free-programming-books) - List of Freely Available Programming Books.
 * [papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
+* [awesome-algorithms](https://github.com/tayllan/awesome-algorithms) - A curated list of awesome places to learn and/or practice algorithms.
+* [awesome-nodejs](https://github.com/vndmtrx/awesome-nodejs) - A curated list of delightful Node.js packages and resources.
 * [awesome-php](https://github.com/ziadoz/awesome-php) - Awesome PHP libraries, resources and shiny things.
 * [awesome-python](https://github.com/vinta/awesome-python) - Awesome Python frameworks, libraries and software.
 * [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - Awesome open source sysadmin resources.
