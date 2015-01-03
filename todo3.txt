@@ -7,3 +7,5 @@ https://mattmccutchen.net/bigint/
 https://code.google.com/p/infint/
 http://cpp-bigint.sourceforge.net/
 https://gmplib.org/
+
+https://github.com/RuntimeCompiledCPlusPlus/RuntimeCompiledCPlusPlus
