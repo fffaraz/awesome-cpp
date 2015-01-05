@@ -284,6 +284,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [jute](https://github.com/amir-s/jute) - Very simple C++ JSON Parser. [PublicDomain]
 * [libjson](https://github.com/vincenthz/libjson) - A JSON parser and printer library in C. easy to integrate with any model. [LGPL]
 * [libjson](http://sourceforge.net/projects/libjson/) - Lightweight JSON library. [?]
+* [LIBUCL](https://github.com/vstakhov/libucl) :star: - Universal configuration library parser [?]
 * [PicoJSON](https://github.com/kazuho/picojson) - A header-file-only, JSON parser serializer in C++. [BSD]
 * [qt-json](https://github.com/gaudecker/qt-json) - A simple class for parsing JSON data into a QVariant hierarchy and vice versa. [GPLv3]
 * [QJson](https://github.com/flavio/qjson) - A qt-based library that maps JSON data to QVariant objects. [LGPL2]
