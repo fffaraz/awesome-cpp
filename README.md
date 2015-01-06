@@ -366,6 +366,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Apache Thrift](https://thrift.apache.org/) - Efficient cross-language IPC/RPC, works between C++, Java, Python, PHP, C#, and many more other languages. Originally developed by Twitter. [Apache2]
 * [Cap'n Proto](http://kentonv.github.io/capnproto/) - Fast data interchange format and capability-based RPC system. [MIT]
 * [libjson-rpc-cpp](https://github.com/cinemast/libjson-rpc-cpp) - JSON-RPC framework for C++ servers and clients. [MIT]
+* [nanomsg](http://nanomsg.org/) - A socket library that provides several common communication patterns. [MIT/X11]
 * [simple-rpc-cpp](https://code.google.com/p/simple-rpc-cpp/) - A simple RPC wrapper generator to C/C++ functions. [BSD]
 * [xmlrpc-c](http://xmlrpc-c.sourceforge.net/) - A lightweight RPC library based on XML and HTTP. [BSD]
 * [ZeroMQ](http://zeromq.org/) - High-speed, modular asynchronous communication library. [LGPL]
