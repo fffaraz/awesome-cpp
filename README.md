@@ -287,6 +287,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Jansson](https://github.com/akheron/jansson) - C library for encoding, decoding and manipulating JSON data. [MIT]
 * [jbson](https://github.com/chrismanning/jbson) - jbson is a library for building & iterating BSON data, and JSON documents in C++14. [Boost]
 * [JeayeSON](https://github.com/jeaye/jeayeson) - A very sane (header only) C++ JSON library. [BSD]
+* [json](https://github.com/nlohmann/json) - JSON for Modern C++. [MIT]
 * [JSON++](https://github.com/hjiang/jsonxx) - A JSON parser in C++. [MIT]
 * [JsonCpp](https://github.com/open-source-parsers/jsoncpp) - A C++ library for interacting with JSON. [MIT]
 * [json-parser](https://github.com/udp/json-parser) - Very low footprint JSON parser written in portable ANSI C. [BSD]
