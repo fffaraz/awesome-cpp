@@ -19,6 +19,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 	- [Graphics](#graphics)
 	- [Image Processing](#image-processing)
 	- [Internationalization](#internationalization)
+	- [Inter-process communication](#inter-process-communication)
 	- [JSON](#json)
 	- [Logging](#logging)
 	- [Machine Learning](#machine-learning)
@@ -26,7 +27,6 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 	- [Multimedia](#multimedia)
 	- [Networking](#networking)
 	- [Physics](#physics)
-	- [Remote Procedure Call](#remote-procedure-call)
 	- [Robotics](#robotics)
 	- [Scientific Computing](#scientific-computing)
 	- [Scripting](#scripting)
@@ -270,6 +270,16 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [IBM ICU](http://site.icu-project.org/) - A set of C/C++ and Java libraries providing Unicode and Globalization support. [ICU]
 * [libiconv](http://www.gnu.org/software/libiconv/) - An encoding conversion library between different character encodings. [GPL]
 
+## Inter-process communication
+
+* [Apache Thrift](https://thrift.apache.org/) - Efficient cross-language IPC/RPC, works between C++, Java, Python, PHP, C#, and many more other languages. Originally developed by Twitter. [Apache2]
+* [Cap'n Proto](http://kentonv.github.io/capnproto/) - Fast data interchange format and capability-based RPC system. [MIT]
+* [libjson-rpc-cpp](https://github.com/cinemast/libjson-rpc-cpp) - JSON-RPC framework for C++ servers and clients. [MIT]
+* [nanomsg](https://github.com/nanomsg/nanomsg) - A simple high-performance implementation of several "scalability protocols". [MIT] [website](http://nanomsg.org/)
+* [simple-rpc-cpp](https://code.google.com/p/simple-rpc-cpp/) - A simple RPC wrapper generator to C/C++ functions. [BSD]
+* [xmlrpc-c](http://xmlrpc-c.sourceforge.net/) - A lightweight RPC library based on XML and HTTP. [BSD]
+* [ZeroMQ](http://zeromq.org/) - High-speed, modular asynchronous communication library. [LGPL]
+
 ## JSON
 
 * [Boost.PropertyTree](http://www.boost.org/doc/libs/1_55_0/doc/html/property_tree.html) - A property tree parser/generator that can be used to parse XML/JSON/INI/Info files. [Boost]
@@ -343,7 +353,6 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [libjingle](https://code.google.com/p/libjingle/) - Google talk voice and P2P interoperability library. [BSD]
 * [Mongoose](https://github.com/cesanta/mongoose) - Extremely lightweight webserver. [GPL2]
 * [Muduo](https://github.com/chenshuo/muduo) - A C++ non-blocking network library for multi-threaded server in Linux. [BSD]
-* [nanomsg](https://github.com/nanomsg/nanomsg) - A simple high-performance implementation of several "scalability protocols". [MIT] [website](http://nanomsg.org/)
 * [net_skeleton](https://github.com/cesanta/net_skeleton) - TCP client/server library for C/C++. [GPL2]
 * [nope.c](https://github.com/riolet/nope.c) - A C language-based ultra-light software platform for scalable server-side and networking applications. Think node.js for C programmers. [GPL2]
 * [Onion](https://github.com/davidmoreno/onion) - HTTP server library in C designed to be lightweight and easy to use. [Apache2/GPL2]
@@ -352,7 +361,6 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [RakNet](https://github.com/OculusVR/RakNet) - A cross platform, open source, C++ networking engine for game programmers. [BSD]
 * [Tufão](https://github.com/vinipsmaker/tufao) - An asynchronous web framework for C++ built on top of Qt. [LGPL2]
 * [WebSocket++](https://github.com/zaphoyd/websocketpp) - C++/Boost Asio based websocket client/server library. [BSD]
-* [ZeroMQ](http://zeromq.org/) - High-speed, modular asynchronous communication library. [LGPL]
 
 ## Physics
 *Dynamics simulation engines*
@@ -365,15 +373,6 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [ODE](http://www.ode.org/) - Open Dynamics Engine - An open source, high performance library for simulating rigid body dynamics. [BSD&LGPL]
 * [ofxBox2d](https://github.com/vanderlin/ofxBox2d) - openFrameworks wrapper for Box2D. [BSD-like]
 * [Simbody](https://github.com/simbody/simbody) - High-performance C++ multibody dynamics/physics library for simulating articulated biomechanical and mechanical systems like vehicles, robots, and the human skeleton. [Apache2]
-
-## Remote Procedure Call
-
-* [Apache Thrift](https://thrift.apache.org/) - Efficient cross-language IPC/RPC, works between C++, Java, Python, PHP, C#, and many more other languages. Originally developed by Twitter. [Apache2]
-* [Cap'n Proto](http://kentonv.github.io/capnproto/) - Fast data interchange format and capability-based RPC system. [MIT]
-* [libjson-rpc-cpp](https://github.com/cinemast/libjson-rpc-cpp) - JSON-RPC framework for C++ servers and clients. [MIT]
-* [simple-rpc-cpp](https://code.google.com/p/simple-rpc-cpp/) - A simple RPC wrapper generator to C/C++ functions. [BSD]
-* [xmlrpc-c](http://xmlrpc-c.sourceforge.net/) - A lightweight RPC library based on XML and HTTP. [BSD]
-* [ZeroMQ](http://zeromq.org/) - High-speed, modular asynchronous communication library. [LGPL]
 
 ## Robotics
 
