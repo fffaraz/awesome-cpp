@@ -193,6 +193,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [MySQL++](http://www.tangentsoft.net/mysql++/) - A C++ wrapper for MySQL's C API. [LGPL]
 * [RocksDB](https://github.com/facebook/rocksdb) - Embedded key-value store for fast storage from facebook. [BSD]
 * [SQLite](http://www.sqlite.org/) - A completely embedded, full-featured relational database in a few 100k that you can include right into your project. [PublicDomain]
+* [sqlite_modern_cpp](https://github.com/aminroosta/sqlite_modern_cpp): Modern C++11, all in one file. [MIT]
 
 ## Debug
 *Debugging Libraries, Memory Leak and Resource Leak Detection, Unit Testing*
