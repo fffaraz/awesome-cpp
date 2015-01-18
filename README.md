@@ -648,9 +648,6 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [awesome-algorithms](https://github.com/tayllan/awesome-algorithms) - A curated list of awesome places to learn and/or practice algorithms.
 * [awesome-talks](https://github.com/JanVanRyswyck/awesome-talks) - A lot of screencasts, recordings of user group gatherings and conference talks.
 * [Projects](https://github.com/karan/Projects) - A list of practical projects that anyone can solve in any programming language.
-* [cheatsheets.org](http://www.cheatsheets.org/) - The largest collection of reference cards for developers.
-* [cheat-sheets.org](http://www.cheat-sheets.org/) - All cheat sheets, round-ups, quick reference cards, quick reference guides and quick reference sheets in one page.
-* [thefreecountry.com](http://www.thefreecountry.com/) - A collection of free programming resources, free webmasters' resources, free security resources and free utilities.
 
 # Contributing
 Please see [CONTRIBUTING](https://github.com/fffaraz/awesome-cpp/blob/master/CONTRIBUTING.md) for details.
