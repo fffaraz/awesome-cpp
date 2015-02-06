@@ -182,7 +182,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Tiny AES128 in C](https://github.com/kokke/tiny-AES128-C) - A small and portable implementation of the AES128 ECB encryption algorithm implemented in C. [PublicDomain]
 
 ## CUI
-*Console User Interface*
+*Console User Interface, Command Line Interface, CLI*
 
  * [Boost.Program_options](http://www.boost.org/doc/libs/1_57_0/doc/html/program_options.html) - A library to obtain program options via conventional methods such as command line and config file. [Boost]
  * [gflags](http://code.google.com/p/gflags/?redir=1) - Commandline flags module for C++. [BSD]
