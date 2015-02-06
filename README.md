@@ -12,6 +12,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 	- [Concurrency](#concurrency)
 	- [Containers](#containers)
 	- [Cryptography](#cryptography)
+	- [CUI](#cui)
 	- [Database](#database)
 	- [Debug](#debug)
 	- [Game Engine](#game-engine)
@@ -179,6 +180,12 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [OpenSSL](http://www.openssl.org/) - A robust, commercial-grade, full-featured, and Open Source cryptography library. [Apache]
 * [retter](https://github.com/MaciejCzyzewski/retter) - A collection of hash functions, ciphers, tools, libraries, and materials related to cryptography.
 * [Tiny AES128 in C](https://github.com/kokke/tiny-AES128-C) - A small and portable implementation of the AES128 ECB encryption algorithm implemented in C. [PublicDomain]
+
+## CUI
+*Libraries for building CUI applications*
+
+ * [Boost.Program_options](http://www.boost.org/doc/libs/1_57_0/doc/html/program_options.html) - A library to obtain program options via conventional methods such as command line and config file. [Boost]
+ * [gflags](http://code.google.com/p/gflags/?redir=1) - Commandline flags module for C++. [BSD]
 
 ## Database
 *Database Libraries, SQL Servers, ODBC Drivers, and Tools*
