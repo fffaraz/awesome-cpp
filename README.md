@@ -182,10 +182,11 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Tiny AES128 in C](https://github.com/kokke/tiny-AES128-C) - A small and portable implementation of the AES128 ECB encryption algorithm implemented in C. [PublicDomain]
 
 ## CUI
-*Libraries for building CUI applications*
+*Console User Interface*
 
  * [Boost.Program_options](http://www.boost.org/doc/libs/1_57_0/doc/html/program_options.html) - A library to obtain program options via conventional methods such as command line and config file. [Boost]
  * [gflags](http://code.google.com/p/gflags/?redir=1) - Commandline flags module for C++. [BSD]
+ * [Ncurses](http://invisible-island.net/ncurses/) - A terminal user interfaces. [MIT]
 
 ## Database
 *Database Libraries, SQL Servers, ODBC Drivers, and Tools*
@@ -236,7 +237,6 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [imgui](https://github.com/ocornut/imgui) - Immediate Mode Graphical User Interface with minimal dependencies. [MIT]
 * [libRocket](http://librocket.com/) - libRocket is a C++ HTML/CSS game interface middleware. [MIT]
 * [MyGUI](http://mygui.info/) - Fast, flexible and simple GUI. [MIT]
-* [Ncurses](http://invisible-island.net/ncurses/) - A terminal user interfaces. [MIT]
 * [QCustomPlot](http://qcustomplot.com/) - Qt plotting widget without further dependencies. [GPLv3]
 * [Qwt](http://qwt.sourceforge.net/) - Qt Widgets for Technical Applications. [Own based on LGPL]
 * [QwtPlot3D](http://qwtplot3d.sourceforge.net/) - A feature-rich Qt/OpenGL-based C++ programming library, providing essentially a bunch of 3D-widgets. [zlib]
