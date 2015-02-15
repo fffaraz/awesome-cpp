@@ -8,11 +8,11 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 	- [Asynchronous Event Loop](#asynchronous-event-loop)
 	- [Audio](#audio)
 	- [Biology](#biology)
+	- [CLI](#cli)
 	- [Compression](#compression)
 	- [Concurrency](#concurrency)
 	- [Containers](#containers)
 	- [Cryptography](#cryptography)
-	- [CUI](#cui)
 	- [Database](#database)
 	- [Debug](#debug)
 	- [Game Engine](#game-engine)
@@ -123,7 +123,14 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [libsequence](http://molpopgen.github.io/libsequence/) - A C++ library for representing and analyzing population genetics data. [GPL]
 * [SeqAn](http://www.seqan.de/) - Algorithms and data structures for the analysis of sequences with the focus on biological data. [BSD/3-clause]
 * [Vcflib](https://github.com/ekg/vcflib) - A C++ library for parsing and manipulating VCF files. [MIT]
-* [Wham](https://github.com/jewmanchue/wham) - Structural variants (SVs) in Genomes by directly applying association tests to BAM files. 
+* [Wham](https://github.com/jewmanchue/wham) - Structural variants (SVs) in Genomes by directly applying association tests to BAM files. [MIT]
+
+## CLI
+*Console/Terminal User Interface, Command Line Interface*
+
+ * [Boost.Program_options](http://www.boost.org/doc/libs/1_57_0/doc/html/program_options.html) - A library to obtain program options via conventional methods such as command line and config file. [Boost]
+ * [gflags](http://code.google.com/p/gflags/?redir=1) - Commandline flags module for C++. [BSD]
+ * [Ncurses](http://invisible-island.net/ncurses/) - A terminal user interfaces. [MIT]
 	
 ## Compression
 *Compression and Archiving Libraries*
@@ -180,13 +187,6 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [OpenSSL](http://www.openssl.org/) - A robust, commercial-grade, full-featured, and Open Source cryptography library. [Apache]
 * [retter](https://github.com/MaciejCzyzewski/retter) - A collection of hash functions, ciphers, tools, libraries, and materials related to cryptography.
 * [Tiny AES128 in C](https://github.com/kokke/tiny-AES128-C) - A small and portable implementation of the AES128 ECB encryption algorithm implemented in C. [PublicDomain]
-
-## CUI
-*Console User Interface, Command Line Interface, CLI*
-
- * [Boost.Program_options](http://www.boost.org/doc/libs/1_57_0/doc/html/program_options.html) - A library to obtain program options via conventional methods such as command line and config file. [Boost]
- * [gflags](http://code.google.com/p/gflags/?redir=1) - Commandline flags module for C++. [BSD]
- * [Ncurses](http://invisible-island.net/ncurses/) - A terminal user interfaces. [MIT]
 
 ## Database
 *Database Libraries, SQL Servers, ODBC Drivers, and Tools*
