@@ -497,6 +497,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 ## Compiler
 *List of C/C++ compilers*
 
+* [8cc](https://github.com/rui314/8cc) - A Small C Compiler.
 * [Clang](http://clang.llvm.org/) - A C compiler for LLVM. Supports C11. Developed by Apple. [NCSA]
 * [GCC](https://gcc.gnu.org/) - GNU Compiler Collection. Supports C11 and OpenMP. [GNU GPL3]
 * [PCC](http://pcc.ludd.ltu.se/) - A very old C compiler. Supports C99.
