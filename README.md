@@ -260,7 +260,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Ogre 3D](http://www.ogre3d.org/) :zap: - A scene-oriented, real-time, flexible 3D rendering engine (as opposed to a game engine) written in C++. [MIT]
 * [OpenSceneGraph](http://www.openscenegraph.org/) - An open source high performance 3D graphics toolkit. [OSGPL]
 * [Panda3D](http://www.panda3d.org/) - A framework for 3D rendering and game development for Python and C++. [BSD]
-* [Skia](https://github.com/google/skia) - A complete 2D graphic library for drawing Text, Geometries, and Images. [bSD] [webpage](https://sites.google.com/site/skiadocs/home)
+* [Skia](https://github.com/google/skia) - A complete 2D graphic library for drawing Text, Geometries, and Images. [BSD] [webpage](https://sites.google.com/site/skiadocs/home)
 * [urho3d](https://github.com/urho3d/Urho3D) - Cross-platform rendering and game engine. [Many different, mostly MIT]
 
 ## Image Processing
@@ -271,6 +271,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [FreeImage](http://freeimage.sourceforge.net/) - An open source library that supports popular graphics image formats and others as needed by today's multimedia applications. [GPL2 or GPL3]
 * [GDCM](http://gdcm.sourceforge.net/wiki/index.php/Main_Page) - Grassroots DICOM library.
 * [ITK](http://www.itk.org/) - An open-source, cross-platform system for image analysis. [Apache 2.0 from ITK 4.0]
+* [libvips](https://github.com/jcupitt/libvips) - A fast image processing library with low memory needs. [LGPL] [website](http://www.vips.ecs.soton.ac.uk/)
 * [Magick++](http://www.imagemagick.org/script/api.php) - ImageMagick program interfaces for C++. [Apache 2.0]
 * [MagickWnd](http://www.imagemagick.org/script/api.php) - ImageMagick program interfaces for C. [Apache 2.0]
 * [OpenCV](http://opencv.org/) :zap: - Open source computer vision. [BSD]
