@@ -226,6 +226,8 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Grit](http://gritengine.com/) - Community project to build a free game engine for implementing open world 3D games. [MIT]
 * [Irrlicht](http://irrlicht.sourceforge.net/) - A high performance realtime 3D engine written in C++. [zlib]
 * [Polycode](https://github.com/ivansafrin/Polycode) - A cross-platform framework for creative code in C++ (with Lua bindings). [MIT] [website](http://polycode.org/)
+* [Torque2D](https://github.com/GarageGames/Torque2D) - An open-source and cross-platform C++ engine built for 2D game development. [MIT] [website](https://www.garagegames.com/products/torque-2d)
+* [Torque3D](https://github.com/GarageGames/Torque3D) - An open-source C++ engine built for 3D game development. [MIT] [website](https://www.garagegames.com/products/torque-3d)
 
 ## GUI
 *Graphic User Interface*
