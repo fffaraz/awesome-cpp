@@ -226,6 +226,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Grit](http://gritengine.com/) - Community project to build a free game engine for implementing open world 3D games. [MIT]
 * [Irrlicht](http://irrlicht.sourceforge.net/) - A high performance realtime 3D engine written in C++. [zlib]
 * [Polycode](https://github.com/ivansafrin/Polycode) - A cross-platform framework for creative code in C++ (with Lua bindings). [MIT] [website](http://polycode.org/)
+* [GamePlay](https://github.com/gameplay3d/GamePlay) - A cross-platform native C++ game framework for creating 2D/3D mobile and desktop games.[Apache2]
 
 ## GUI
 *Graphic User Interface*
