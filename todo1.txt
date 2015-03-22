@@ -229,7 +229,6 @@ https://github.com/oclint/oclint
 
 https://github.com/TTimo/doom3.gpl
 https://github.com/phusion/passenger
-https://github.com/GarageGames/Torque3D
 https://github.com/id-Software/DOOM-3-BFG
 https://github.com/ideawu/ssdb
 https://github.com/OpenNI/OpenNI
