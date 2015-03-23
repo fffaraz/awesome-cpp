@@ -132,6 +132,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
  * [Boost.Program_options](http://www.boost.org/doc/libs/1_57_0/doc/html/program_options.html) - A library to obtain program options via conventional methods such as command line and config file. [Boost]
  * [gflags](http://code.google.com/p/gflags/?redir=1) - Commandline flags module for C++. [BSD]
  * [Ncurses](http://invisible-island.net/ncurses/) - A terminal user interfaces. [MIT]
+ * [termbox](https://github.com/nsf/termbox) - A C library for writing text-based user interfaces. [BSD]
 	
 ## Compression
 *Compression and Archiving Libraries*
