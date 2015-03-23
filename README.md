@@ -224,6 +224,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 ## Game Engine
 
 * [Allegro](http://alleg.sourceforge.net) - A cross-platform library mainly aimed for video games and multimedia programming. [zlib]
+* [Atomic Game Engine](http://www.atomicgameengine.com) - A cross-platform 2D/3D game engine, full C++ source hosted on GitHub. [Commercial]
 * [Cocos2d-x](http://www.cocos2d-x.org/) - A multi-platform framework for building 2d games, interactive books, demos and other graphical applications. [Commercial?]
 * [delta3d](http://sourceforge.net/projects/delta3d/) - A robust simulation platform. [LGPL2]
 * [GamePlay](https://github.com/gameplay3d/GamePlay) - A cross-platform native C++ game framework for creating 2D/3D mobile and desktop games. [Apache2]
