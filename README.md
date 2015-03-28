@@ -667,6 +667,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness.
 * [awesome](https://github.com/sindresorhus/awesome) - A curated list of awesome lists.
 * [Awesome C](https://github.com/kozross/awesome-c) - A curated list of awesome C frameworks, libraries, resources and other shiny things.
+* [Awesome C/C++](http://getawesomeness.com/get/cpp) - getAwesomeness() mirror.
 * [free-programming-books](https://github.com/vhf/free-programming-books) - List of Freely Available Programming Books.
 * [papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 * [awesome-algorithms](https://github.com/tayllan/awesome-algorithms) - A curated list of awesome places to learn and/or practice algorithms.
