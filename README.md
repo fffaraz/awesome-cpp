@@ -110,6 +110,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 ## Audio
 *Audio, Sound, Music, Digitized Voice Libraries*
 
+* [BASS](http://www.un4seen.com/) - C/C++ crossplatform audio library. [Free for non-commercial/Commercial]
 * [FMOD](http://www.fmod.org/) - An easy to use crossplatform audio engine and audio content creation tool for games. [Free for non-commercial/Commercial]
 * [Maximilian](https://github.com/micknoise/Maximilian) - C++ Audio and Music DSP Library. [MIT]
 * [OpenAL](http://www.openal.org/) - Open Audio Library - A crossplatform audio API. [BSD/LGPL/Commercial]
