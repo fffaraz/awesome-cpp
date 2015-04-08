@@ -15,7 +15,6 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 	- [Cryptography](#cryptography)
 	- [Database](#database)
 	- [Debug](#debug)
-	- [Finance](#finance)
 	- [Game Engine](#game-engine)
 	- [GUI](#gui)
 	- [Graphics](#graphics)
@@ -223,9 +222,6 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Remotery](https://github.com/Celtoys/Remotery) - Single C File Profiler with Web Viewer. [Apache2]
 * [UnitTest++](http://unittest-cpp.sourceforge.net/) - A lightweight unit testing framework for C++. [MIT/X Consortium license]
 
-## Finance
-* [QuantLib](http://quantlib.org/index.shtml) - A free/open-source library for quantitative finance. [Modified BSD]
-
 ## Game Engine
 
 * [Allegro](http://alleg.sourceforge.net) - A cross-platform library mainly aimed for video games and multimedia programming. [zlib]
@@ -358,6 +354,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Eigen](http://eigen.tuxfamily.org/) - A high-level C++ library of template headers for linear algebra, matrix and vector operations, numerical solvers and related algorithms. [MPL2]
 * [GMTL](http://ggt.sourceforge.net/) - Graphics Math Template Library is a collection of tools implementing Graphics primitives in generalized ways. [GPL2]
 * [GMP](https://gmplib.org/) - A C/C++ library for arbitrary precision arithmetic, operating on signed integers, rational numbers, and floating-point numbers. [LGPL3 & GPL2]
+* [QuantLib](http://quantlib.org/index.shtml) - A free/open-source library for quantitative finance. [Modified BSD]
 
 ## Multimedia
 
