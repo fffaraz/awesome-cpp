@@ -15,6 +15,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 	- [Cryptography](#cryptography)
 	- [Database](#database)
 	- [Debug](#debug)
+	- [Finance](#finance)
 	- [Game Engine](#game-engine)
 	- [GUI](#gui)
 	- [Graphics](#graphics)
@@ -221,6 +222,9 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [minUnit](http://www.jera.com/techinfo/jtns/jtn002.html) - A minimal unit testing framework for C written using only 2 macros. [PublicDomain]
 * [Remotery](https://github.com/Celtoys/Remotery) - Single C File Profiler with Web Viewer. [Apache2]
 * [UnitTest++](http://unittest-cpp.sourceforge.net/) - A lightweight unit testing framework for C++. [MIT/X Consortium license]
+
+## Finance
+* [QuantLib](http://quantlib.org/index.shtml) - A free/open-source library for quantitative finance [BSD]
 
 ## Game Engine
 
