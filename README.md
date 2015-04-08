@@ -224,7 +224,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [UnitTest++](http://unittest-cpp.sourceforge.net/) - A lightweight unit testing framework for C++. [MIT/X Consortium license]
 
 ## Finance
-* [QuantLib](http://quantlib.org/index.shtml) - A free/open-source library for quantitative finance [BSD]
+* [QuantLib](http://quantlib.org/index.shtml) - A free/open-source library for quantitative finance. [Modified BSD]
 
 ## Game Engine
 
