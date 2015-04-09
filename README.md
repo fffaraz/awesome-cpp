@@ -523,6 +523,11 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Oracle Solaris Studio](http://www.oracle.com/technetwork/server-storage/solarisstudio/overview/index.html) - C, C++ and Fortran compiler for SPARC and x86. Supports C++11. Available on Linux and Solaris. [OTN Developer License]
 * [TCC](http://bellard.org/tcc/) - Tiny C Compiler. [LGPL]
 
+## Dependency Managers
+*List of online C/C++ deps managers*
+
+* [Biicode](https://www.biicode.com/) - Simple, file-based dependency manager.
+
 ## Online Compiler
 *List of online C/C++ compilers*
 
@@ -568,7 +573,6 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 ## Build Systems
 
 * [Bear](https://github.com/rizsotto/Bear) - A tool to generate compilation database for clang tooling.
-* [Biicode](https://www.biicode.com/) - Simple, file-based dependency manager.
 * [CMake](http://www.cmake.org/) - Cross-platform free and open-source software for managing the build process of software using a compiler-independent method. [BSD]
 * [CPM](https://github.com/iauns/cpm) - A C++ Package Manager based on CMake and Git.
 * [FASTBuild](http://www.fastbuild.org/docs/home.html) - High performance, open-source build system supporting highly scalable compilation, caching and network distribution.
