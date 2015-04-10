@@ -572,6 +572,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [CMake](http://www.cmake.org/) - Cross-platform free and open-source software for managing the build process of software using a compiler-independent method. [BSD]
 * [CPM](https://github.com/iauns/cpm) - A C++ Package Manager based on CMake and Git.
 * [FASTBuild](http://www.fastbuild.org/docs/home.html) - High performance, open-source build system supporting highly scalable compilation, caching and network distribution.
+* [Meson](http://www.mesonbuild.com) - A fast, easy-to-use multiplatform build system and dependency manager. [Apache2]
 * [Ninja](http://martine.github.io/ninja/) - A small build system with a focus on speed.
 * [Scons](http://www.scons.org/) - A software construction tool configured with Python scipt.
 * [tundra](https://github.com/deplinenoise/tundra) - High-performance code build system designed to give the best possible incremental build times even for very large software projects.
