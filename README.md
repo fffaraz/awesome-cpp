@@ -51,6 +51,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 	- [Coding Style](#coding-style)
 	- [Videos](#videos)
 	- [Websites](#websites)
+	- [Man Pages](#man-pages)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
 
@@ -648,6 +649,11 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [C++ FQA Lite](http://yosefk.com/c++fqa/) - C++ frequently questioned answers.
 * [Guru of the Week](http://www.gotw.ca/gotw/) - A regular series of C++ programming problems created and written by Herb Sutter.
 * [Meeting C++](http://meetingcpp.com/)
+
+## Man pages
+*Manual pages relating to C/C++ for POSIX-based systems.*
+
+* [stdman](https://github.com/jeaye/stdman) Formatted C++11/14 stdlib man pages (from cppreference).
 
 ## Weblogs
 *Useful C/C++ related weblogs.*
