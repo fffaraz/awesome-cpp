@@ -5,6 +5,7 @@ var getFileData = function(url) {
       "Accept": "application/vnd.github.v3.raw"
     }
   }).done(function(data) {
+    data = data.replace(/(\(#\w+)-/g, "$1").replace(/(\(#\w+)-/g, "$1");
     var converter = new Showdown.converter();
     var html = converter.makeHtml(data);
     $("#content").html(html)
