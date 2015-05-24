@@ -613,6 +613,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Free C Books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#c) - vhf/free-programming-books/C.
 * [Free C++ Books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#c-1) - vhf/free-programming-books/C++.
 * [6 Free eBooks On C++ Game Programming](http://www.efytimes.com/e1/fullnews.asp?edid=120435) - Learn how to create graphics And video games in C++.
+* [cppbestpractices](https://github.com/lefticus/cppbestpractices) - Collaborative Collection of C++ Best Practices.
 
 ## Coding Style
 
