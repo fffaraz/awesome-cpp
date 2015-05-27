@@ -84,7 +84,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Loki](http://loki-lib.sourceforge.net/) - A C++ library of designs, containing flexible implementations of common design patterns and idioms. [MIT]
 * [MiLi](https://code.google.com/p/mili/) - Minimal headers-only C++ Library. [Boost]
 * [OpenFrameworks]() - A cross platform open source toolkit for creative coding in C++. [MIT] [website](http://www.openframeworks.cc/)
-* [Qt](https://qt.io/) :zap: - A cross-platform application and UI framework. [LGPL]
+* [Qt](http://qt.io/) :zap: - A cross-platform application and UI framework. [LGPL]
 * [Reason](http://code.google.com/p/reason/) - A cross platform framework designed to bring the ease of use of Java, .Net, or Python to developers who require the performance and strength of C++. [GPL2]
 * [ROOT](http://root.cern.ch) - A set of OO frameworks with all the functionality needed to handle and analyze large amounts of data in a very efficient way. Used at CERN. [LGPL]
 * [STLport](http://www.stlport.org/) - An exemplary version of STL. [Free]
