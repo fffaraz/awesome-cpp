@@ -213,6 +213,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [CMocka](https://cmocka.org/) - unit testing framework for C with support for mock objects. [Apache2]
 * [CppUnit](http://www.freedesktop.org/wiki/Software/cppunit/) - C++ port of JUnit. [LGPL2]
 * [CTest](http://www.cmake.org/cmake/help/v2.8.8/ctest.html) - The CMake test driver program. [BSD]
+* [googlemock](http://code.google.com/p/googlemock/) - A library for writing and using C++ mock classes. [BSD]
 * [googletest](http://code.google.com/p/googletest/) - Google C++ Testing Framework. [BSD]
 * [ig-debugheap](https://github.com/deplinenoise/ig-debugheap) - Multiplatform debug heap useful for tracking down memory errors. [BSD]
 * [libtap](https://github.com/zorgnax/libtap) - Write tests in C. [GPL2]
@@ -484,7 +485,6 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [cxx-prettyprint](https://github.com/louisdx/cxx-prettyprint) - A pretty printing library for C++ containers. [Boost]
 * [DynaPDF](http://www.dynaforms.com/) - An easy-to-use PDF generation library. [Commercial]
 * [gcc-poison](https://github.com/leafsr/gcc-poison) - A simple header file for developers to ban unsafe C/C++ functions from applications.
-* [googlemock](http://code.google.com/p/googlemock/) - A library for writing and using C++ mock classes. [BSD]
 * [HTTP Parser](https://github.com/joyent/http-parser) :zap: - A http request/response parser for C. [MIT]
 * [Klib](https://github.com/attractivechaos/klib) - Small and lightweight implementations of common algorithms and data structures. [MIT]
 * [libsigc++](http://libsigc.sourceforge.net/) - A typesafe callback system for standard C++. [LGPL]
