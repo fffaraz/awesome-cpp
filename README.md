@@ -221,6 +221,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [microprofile](https://bitbucket.org/jonasmeyer/microprofile/overview) - Profiler with web-view for multiple platforms. [PublicDomain]
 * [minUnit](http://www.jera.com/techinfo/jtns/jtn002.html) - A minimal unit testing framework for C written using only 2 macros. [PublicDomain]
 * [Remotery](https://github.com/Celtoys/Remotery) - Single C File Profiler with Web Viewer. [Apache2]
+* [uniassert](https://github.com/2gis/uniassert) - Collection of useful macros for assumption checks. [zlib]
 * [UnitTest++](http://unittest-cpp.sourceforge.net/) - A lightweight unit testing framework for C++. [MIT/X Consortium license]
 
 ## Game Engine
