@@ -666,6 +666,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Sticky Bits](http://blog.feabhas.com/)
 * [Paul Fultz II's Blog](http://pfultz2.com/blog/)
 * [ridiculousfish](http://ridiculousfish.com/blog/posts/will-it-optimize.html) - Will It Optimize?
+* [Embedded in Academia](http://blog.regehr.org/)
 
 ## Other Awesome Projects
 *Collection of useful codes, snippets, ...*
