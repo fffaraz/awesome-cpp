@@ -656,6 +656,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Guru of the Week](http://www.gotw.ca/gotw/) - A regular series of C++ programming problems created and written by Herb Sutter.
 * [Meeting C++](http://meetingcpp.com/)
 * [C++ Quiz](http://q.viva64.com/) - C++ quiz in which you propose to find errors in code fragments of open source projects.
+* [Udemy C++ Courses and Tutorials](https://www.udemy.com/topic/C-plus-plus-tutorials/)
 
 ## Weblogs
 *Useful C/C++ related weblogs.*
