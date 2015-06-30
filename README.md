@@ -198,9 +198,9 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Hiredis](https://github.com/redis/hiredis) - A minimalistic C client library for the Redis database. [BSD]
 * [LevelDB](https://github.com/google/leveldb) - A fast key-value storage library. [BSD]
 * [LMDB](http://symas.com/mdb/) - Very fast embedded key/value store with full ACID semantics. [OpenLDAP]
-* [MongoDB C Driver](https://github.com/mongodb/mongo-c-driver) - MongoDB client library for C. [Apache version 2.0]
-* [MongoDB C++ Driver](https://github.com/mongodb/mongo-cxx-driver) - C++ driver for MongoDB. [Apache version 2.0]
-* [MongoDB Libbson](https://github.com/mongodb/libbson) - A BSON utility library. [Apache version 2.0]
+* [MongoDB C Driver](https://github.com/mongodb/mongo-c-driver) - MongoDB client library for C. [Apache2]
+* [MongoDB C++ Driver](https://github.com/mongodb/mongo-cxx-driver) - C++ driver for MongoDB. [Apache2]
+* [MongoDB Libbson](https://github.com/mongodb/libbson) - A BSON utility library. [Apache2]
 * [MySQL++](http://www.tangentsoft.net/mysql++/) - A C++ wrapper for MySQL's C API. [LGPL]
 * [RocksDB](https://github.com/facebook/rocksdb) - Embedded key-value store for fast storage from facebook. [BSD]
 * [SQLite](http://www.sqlite.org/) - A completely embedded, full-featured relational database in a few 100k that you can include right into your project. [PublicDomain]
@@ -210,7 +210,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 
 * [Boost.Test](http://www.boost.org/doc/libs/master/libs/test/doc/html/index.html) - Boost Test Library. [Boost]
 * [Catch](https://github.com/philsquared/Catch) - A modern, C++-native, header-only, framework for unit-tests, TDD and BDD. [Boost]
-* [Celero](https://github.com/DigitalInBlue/Celero) - C++ Benchmarking Framework. [Apache 2.0]
+* [Celero](https://github.com/DigitalInBlue/Celero) - C++ Benchmarking Framework. [Apache2]
 * [CMocka](https://cmocka.org/) - unit testing framework for C with support for mock objects. [Apache2]
 * [CppUnit](http://www.freedesktop.org/wiki/Software/cppunit/) - C++ port of JUnit. [LGPL2]
 * [CTest](http://www.cmake.org/cmake/help/v2.8.8/ctest.html) - The CMake test driver program. [BSD]
@@ -274,12 +274,12 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [CxImage](http://www.xdp.it/cximage.htm) - An image processing and conversion library to load, save, display, transform BMP, JPEG, GIF, PNG, TIFF, MNG, ICO, PCX, TGA, WMF, WBMP, JBG, J2K images. [zlib]
 * [FreeImage](http://freeimage.sourceforge.net/) - An open source library that supports popular graphics image formats and others as needed by today's multimedia applications. [GPL2 or GPL3]
 * [GDCM](http://gdcm.sourceforge.net/wiki/index.php/Main_Page) - Grassroots DICOM library.
-* [ITK](http://www.itk.org/) - An open-source, cross-platform system for image analysis. [Apache 2.0 from ITK 4.0]
+* [ITK](http://www.itk.org/) - An open-source, cross-platform system for image analysis. [Apache2 from ITK 4.0]
 * [libvips](https://github.com/jcupitt/libvips) - A fast image processing library with low memory needs. [LGPL] [website](http://www.vips.ecs.soton.ac.uk/)
-* [Magick++](http://www.imagemagick.org/script/api.php) - ImageMagick program interfaces for C++. [Apache 2.0]
-* [MagickWnd](http://www.imagemagick.org/script/api.php) - ImageMagick program interfaces for C. [Apache 2.0]
+* [Magick++](http://www.imagemagick.org/script/api.php) - ImageMagick program interfaces for C++. [Apache2]
+* [MagickWnd](http://www.imagemagick.org/script/api.php) - ImageMagick program interfaces for C. [Apache2]
 * [OpenCV](http://opencv.org/) :zap: - Open source computer vision. [BSD]
-* [tesseract-ocr](https://code.google.com/p/tesseract-ocr/) - An OCR engine. [Apache 2.0]
+* [tesseract-ocr](https://code.google.com/p/tesseract-ocr/) - An OCR engine. [Apache2]
 * [Video++](https://github.com/matt-42/vpp) - A C++14 high performance video and image processing library. [MIT]
 * [VIGRA](https://github.com/ukoethe/vigra) - A generic C++ computer vision library for image analysis. [MIT X11]
 * [VTK](http://www.vtk.org/) - Open-source, freely available software system for 3D computer graphics, image processing and visualization. [BSD]
@@ -332,7 +332,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [easyloggingpp](https://github.com/easylogging/easyloggingpp) - Single header only C++ logging library. [MIT] [website](http://easylogging.org/)
 * [G3log](https://bitbucket.org/KjellKod/g3log) - Asynchronous logger with Dynamic Sinks. [PublicDomain]
 * [Log4cpp](http://log4cpp.sourceforge.net/) - A library of C++ classes for flexible logging to files, syslog, IDSA and other destinations. [LGPL]
-* [log4cplus](https://github.com/log4cplus/log4cplus) - A simple to use C++ logging API providing thread-safe, flexible, and arbitrarily granular control over log management and configuration. [BSD & Apache 2.0]
+* [log4cplus](https://github.com/log4cplus/log4cplus) - A simple to use C++ logging API providing thread-safe, flexible, and arbitrarily granular control over log management and configuration. [BSD & Apache2]
 * [spdlog](https://github.com/gabime/spdlog) - Super fast, header only, C++ logging library.
 * [templog](http://www.templog.org/) - A very small and lightweight C++ library which you can use to add logging to your C++ applications. [Boost]
 
