@@ -8,6 +8,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 	- [Asynchronous Event Loop](#asynchronous-event-loop)
 	- [Audio](#audio)
 	- [Biology](#biology)
+	- [BitTorrent](#bittorrent)
 	- [CLI](#cli)
 	- [Compression](#compression)
 	- [Concurrency](#concurrency)
@@ -126,6 +127,11 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [SeqAn](http://www.seqan.de/) - Algorithms and data structures for the analysis of sequences with the focus on biological data. [BSD/3-clause]
 * [Vcflib](https://github.com/ekg/vcflib) - A C++ library for parsing and manipulating VCF files. [MIT]
 * [Wham](https://github.com/jewmanchue/wham) - Structural variants (SVs) in Genomes by directly applying association tests to BAM files. [MIT]
+
+## BitTorrent
+
+* [libtorrent](https://github.com/arvidn/libtorrent) - An efficient feature complete C++ bittorrent implementation.
+* [libutp](https://github.com/bittorrent/libutp) - uTorrent Transport Protocol library.
 
 ## CLI
 *Console/Terminal User Interface, Command Line Interface*
