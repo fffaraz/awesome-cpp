@@ -130,8 +130,10 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 
 ## BitTorrent
 
-* [libtorrent](https://github.com/arvidn/libtorrent) - An efficient feature complete C++ bittorrent implementation.
-* [libutp](https://github.com/bittorrent/libutp) - uTorrent Transport Protocol library.
+* [jech/dht](https://github.com/jech/dht) - BitTorrent DHT library in C. [MIT]
+* [libtorrent](https://github.com/arvidn/libtorrent) (a.k.a. libtorrent-rasterbar) - An efficient feature complete C++ bittorrent implementation. [BSD]
+* [LibTorrent](https://github.com/rakshasa/libtorrent) (a.k.a. libtorrent-rakshasa) - BitTorrent library. [GPL]
+* [libutp](https://github.com/bittorrent/libutp) - uTorrent Transport Protocol library. [MIT]
 
 ## CLI
 *Console/Terminal User Interface, Command Line Interface*
