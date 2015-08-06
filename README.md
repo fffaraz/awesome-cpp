@@ -45,7 +45,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 	- [Integrated Development Environment](#integrated-development-environment)
 	- [Build Systems](#build-systems)
 	- [Static Code Analysis](#static-code-analysis)
-	- [Coding Style](#coding-style)
+	- [Coding Style Tools](#coding-style-tools)
 - [Resources](#resources)
 	- [API Design](#api-design)
 	- [Articles](#articles)
@@ -620,7 +620,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Clang Static Analyzer](http://clang-analyzer.llvm.org/index.html) - A source code analysis tool that finds bugs in C, C++, and Objective-C programs.
 * [List of tools for static code analysis](http://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis#C.2FC.2B.2B) - A list of tools for static code analysis from Wikipedia.
 
-## Coding Style
+## Coding Style Tools
 
 * [ClangFormat](http://clang.llvm.org/docs/ClangFormat.html) - A tool to format C/C++/Obj-C code.
 * [Clang-Tidy](http://clang.llvm.org/extra/clang-tidy.html) - Clang-based C++ linter tool.
