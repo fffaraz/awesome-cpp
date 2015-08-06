@@ -130,8 +130,10 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 
 ## BitTorrent
 
-* [libtorrent](https://github.com/arvidn/libtorrent) - An efficient feature complete C++ bittorrent implementation.
-* [libutp](https://github.com/bittorrent/libutp) - uTorrent Transport Protocol library.
+* [jech/dht](https://github.com/jech/dht) - BitTorrent DHT library in C. [MIT]
+* [libtorrent](https://github.com/arvidn/libtorrent) (a.k.a. libtorrent-rasterbar) - An efficient feature complete C++ bittorrent implementation. [BSD]
+* [LibTorrent](https://github.com/rakshasa/libtorrent) (a.k.a. libtorrent-rakshasa) - BitTorrent library. [GPL]
+* [libutp](https://github.com/bittorrent/libutp) - uTorrent Transport Protocol library. [MIT]
 
 ## CLI
 *Console/Terminal User Interface, Command Line Interface*
@@ -345,9 +347,11 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 
 * [Boost.Log](http://www.boost.org/doc/libs/1_56_0/libs/log/doc/html/index.html) - Designed to be very modular and extensible. [Boost]
 * [easyloggingpp](https://github.com/easylogging/easyloggingpp) - Single header only C++ logging library. [MIT] [website](http://easylogging.org/)
-* [G3log](https://bitbucket.org/KjellKod/g3log) - Asynchronous logger with Dynamic Sinks. [PublicDomain]
+* [G3log](https://github.com/KjellKod/g3log) - Asynchronous logger with Dynamic Sinks. [PublicDomain]
 * [Log4cpp](http://log4cpp.sourceforge.net/) - A library of C++ classes for flexible logging to files, syslog, IDSA and other destinations. [LGPL]
 * [log4cplus](https://github.com/log4cplus/log4cplus) - A simple to use C++ logging API providing thread-safe, flexible, and arbitrarily granular control over log management and configuration. [BSD & Apache2]
+* [plog](https://github.com/SergiusTheBest/plog) - Portable and simple C++ logging library. [MPL2]
+* [reckless](https://github.com/mattiasflodin/reckless) - Low-latency, high-throughput, asynchronous logging library for C++. [MIT]
 * [spdlog](https://github.com/gabime/spdlog) - Super fast, header only, C++ logging library.
 * [templog](http://www.templog.org/) - A very small and lightweight C++ library which you can use to add logging to your C++ applications. [Boost]
 
