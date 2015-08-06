@@ -373,6 +373,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Apophenia](https://github.com/b-k/apophenia) - A C library for statistical and scientific computing [GPL2]
 * [Armadillo](http://arma.sourceforge.net/) - A high quality C++ linear algebra library, aiming towards a good balance between speed and ease of use. The syntax (API) is deliberately similar to Matlab. [MPL2]
 * [blaze](https://code.google.com/p/blaze-lib/) - high-performance C++ math library for dense and sparse arithmetic. [BSD]
+* [Boost.Multiprecision](http://www.boost.org/doc/libs/master/libs/multiprecision/doc/html/index.html) - provides higher-range/precision integer, rational and floating-point types in C++, header-only or with GMP/MPFR/LibTomMath backends. [Boost]
 * [ceres-solver](http://ceres-solver.org/) - C++ library for modeling and solving large complicated nonlinear least squares problems from google. [BSD]
 * [CGal](http://www.cgal.org/) - Collection of efficient and reliable geometric algorithms. [LGPL&GPL]
 * [cml](http://cmldev.net/) - free C++ math library for games and graphics. [Boost]
@@ -381,6 +382,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [GMTL](http://ggt.sourceforge.net/) - Graphics Math Template Library is a collection of tools implementing Graphics primitives in generalized ways. [GPL2]
 * [GMP](https://gmplib.org/) - A C/C++ library for arbitrary precision arithmetic, operating on signed integers, rational numbers, and floating-point numbers. [LGPL3 & GPL2]
 * [MIRACL](https://github.com/CertiVox/MIRACL) - A Multiprecision Integer and Rational Arithmetic Cryptographic Library. [AGPL]
+* [LibTomMath](https://github.com/libtom/libtommath) - A free open source portable number theoretic multiple-precision integer library written entirely in C. [PublicDomain & WTFPL] [website](http://www.libtom.net/)
 * [QuantLib](https://github.com/lballabio/quantlib) - A free/open-source library for quantitative finance. [Modified BSD] [website](http://quantlib.org/)
 
 ## Multimedia
