@@ -143,7 +143,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
  * [gflags](http://code.google.com/p/gflags/?redir=1) - Commandline flags module for C++. [BSD]
  * [Ncurses](http://invisible-island.net/ncurses/) - A terminal user interfaces. [MIT]
  * [termbox](https://github.com/nsf/termbox) - A C library for writing text-based user interfaces. [BSD]
-	
+
 ## Compression
 *Compression and Archiving Libraries*
 
@@ -185,7 +185,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 ## Cryptography
 *Cryptography and Encryption Libraries*
 
-* [Bcrypt](http://bcrypt.sourceforge.net/) - A cross platform file encryption utility. Encrypted files are portable across all supported operating systems and processors. 
+* [Bcrypt](http://bcrypt.sourceforge.net/) - A cross platform file encryption utility. Encrypted files are portable across all supported operating systems and processors.
 * [BeeCrypt]()
 * [Botan](http://botan.randombit.net/) - A crypto library for C++. [BSD-2]
 * [Crypto++](http://www.cryptopp.com/) - A free C++ class library of cryptographic schemes. [Boost]
@@ -252,7 +252,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 ## GUI
 *Graphic User Interface*
 
-* [CEGUI](http://cegui.org.uk/) - Flexible, cross-platform GUI library. 
+* [CEGUI](http://cegui.org.uk/) - Flexible, cross-platform GUI library.
 * [FLTK](http://www.fltk.org/index.php) - Fast, light, cross-platform C++ GUI toolkit. [GPL2]
 * [GTK+](http://www.gtk.org/) - A multi-platform toolkit for creating graphical user interfaces. [LGPL]
 * [gtkmm](http://www.gtkmm.org/en/) - The official C++ interface for the popular GUI library GTK+. [LGPL]
