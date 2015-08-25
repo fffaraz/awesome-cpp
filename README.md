@@ -617,6 +617,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [FASTBuild](http://www.fastbuild.org/docs/home.html) - High performance, open-source build system supporting highly scalable compilation, caching and network distribution.
 * [Ninja](http://martine.github.io/ninja/) - A small build system with a focus on speed.
 * [Scons](http://www.scons.org/) - A software construction tool configured with Python scipt.
+* [Sconsolidator](http://www.sconsolidator.com/) - Scons build system integration for Eclipse CDT.
 * [tundra](https://github.com/deplinenoise/tundra) - High-performance code build system designed to give the best possible incremental build times even for very large software projects.
 * [tup](http://gittup.org/tup/) - File-based build system that monitors in the background for changed files.
 * [Premake](http://industriousone.com/premake) - A tool configured with lua scipt to generate project files for Visual Studio, GNU Make, Xcode, Code::Blocks, and more across Windows, Mac OS X, and Linux.
