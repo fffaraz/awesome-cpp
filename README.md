@@ -68,7 +68,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 ## Frameworks
 *C++ generic frameworks and libraries.*
 
-* [Apache C++ Standard Library](http://stdcxx.apache.org/) - A collection of algorithms, containers, iterators, and other fundamental components. [Apache2]
+* [Apache C++ Standard Library](http://stdcxx.apache.org/) - STDCXX, A collection of algorithms, containers, iterators, and other fundamental components. [retired] [Apache2]
 * [APR](http://apr.apache.org/) - Apache Portable Runtime. Another library of cross-platform utility functions. [Apache2]
 * [ASL](http://stlab.adobe.com/) - Adobe Source Libraries provides peer-reviewed and portable C++ source libraries. [MIT]
 * [Boost](https://github.com/boostorg) :zap: - A large collection of generic C++ libraries. [Boost] [website](http://www.boost.org/)
