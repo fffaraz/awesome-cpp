@@ -582,6 +582,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Comparison of debuggers](http://en.wikipedia.org/wiki/Comparison_of_debuggers) - A list of Debuggers from Wikipedia.
 * [GDB](https://www.gnu.org/software/gdb) - GNU Debugger.
 * [LLDB](http://lldb.llvm.org/) - The LLDB Debugger.
+* [Metashell](https://metashell.readthedocs.org) - An interactive template metaprogramming shell which includes the MDB metadebugger.
 * [Valgrind](http://valgrind.org/) - A tool for memory debugging, memory leak detection, and profiling.
 * [x64_dbg](http://x64dbg.com/) - An open-source x64/x32 debugger for windows.
 
