@@ -667,6 +667,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 
 ## Coding Style
 
+* [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines) - "Official" set of C++ guidelines, reviewed by the author of C++.
 * [C++ Dos and Don'ts](http://www.chromium.org/developers/coding-style/cpp-dos-and-donts) - The Chromium Projects > For Developers > Coding Style > C++ Dos and Don'ts.
 * [google-styleguide](http://code.google.com/p/google-styleguide/) - Style guides for Google-originated open-source projects.
 * [Google C++ Style Guide](http://google-styleguide.googlecode.com/svn/trunk/cppguide.xml)
