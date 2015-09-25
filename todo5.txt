@@ -2,4 +2,6 @@ https://github.com/isocpp/CppCoreGuidelines
 https://github.com/Microsoft/GSL
 https://github.com/scylladb/seastar
 https://github.com/google/brotli
+https://github.com/google/zopfli
 https://github.com/google/styleguide
+https://github.com/WhisperSystems/libaxolotl-c
