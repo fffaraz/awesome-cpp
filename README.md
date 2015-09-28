@@ -650,6 +650,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 ## Articles
 *Fantastic C/C++ related articles.*
 
+* [CppCon 2015 Speaker Materials](https://github.com/CppCon/CppCon2015) - Speaker materials from CppCon 2015.
 * [CppCon 2014 Speaker Materials](https://github.com/CppCon/CppCon2014) - Speaker materials from CppCon 2014.
 * [C++Now 2015 Presentations](https://github.com/boostcon/cppnow_presentations_2015) - Presentation materials presented at C++Now 2015.
 * [C++Now 2014 Presentations](https://github.com/boostcon/cppnow_presentations_2014) - Presentation materials presented at C++Now 2014.
