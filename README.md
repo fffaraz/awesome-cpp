@@ -737,6 +737,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Awesome C](https://github.com/kozross/awesome-c) - A curated list of awesome C frameworks, libraries, resources.
 * [Awesome C/C++](http://getawesomeness.com/get/cpp) - getAwesomeness() mirror.
 * [free-programming-books](https://github.com/vhf/free-programming-books) - List of Freely Available Programming Books.
+* [Inqlude](http://inqlude.org/) - The Qt library archive.
 * [papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 * [awesome-algorithms](https://github.com/tayllan/awesome-algorithms) - A curated list of awesome places to learn and/or practice algorithms.
 * [awesome-talks](https://github.com/JanVanRyswyck/awesome-talks) - A lot of screencasts, recordings of user group gatherings and conference talks.
