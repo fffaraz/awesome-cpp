@@ -390,6 +390,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [MIRACL](https://github.com/CertiVox/MIRACL) - A Multiprecision Integer and Rational Arithmetic Cryptographic Library. [AGPL]
 * [LibTomMath](https://github.com/libtom/libtommath) - A free open source portable number theoretic multiple-precision integer library written entirely in C. [PublicDomain & WTFPL] [website](http://www.libtom.net/)
 * [QuantLib](https://github.com/lballabio/quantlib) - A free/open-source library for quantitative finance. [Modified BSD] [website](http://quantlib.org/)
+* [Lepton](https://simtk.org/home/lepton) - A small C++ library for parsing, evaluating, differentiating, and analyzing mathematical expressions. 
 
 ## Multimedia
 
