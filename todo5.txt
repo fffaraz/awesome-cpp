@@ -1,4 +1,5 @@
 https://github.com/isocpp/CppCoreGuidelines
+https://github.com/lefticus/cppbestpractices
 https://github.com/Microsoft/GSL
 https://github.com/scylladb/seastar
 https://github.com/google/brotli
