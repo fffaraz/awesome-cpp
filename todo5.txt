@@ -6,3 +6,5 @@ https://github.com/google/brotli
 https://github.com/google/zopfli
 https://github.com/google/styleguide
 https://github.com/WhisperSystems/libaxolotl-c
+
+http://gameprogrammingpatterns.com/
