@@ -451,6 +451,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 
 * [FFTW](http://www.fftw.org/) - A C library for computing the DFT in one or more dimensions. [GPL]
 * [GSL](http://www.gnu.org/software/gsl/) - GNU scientific library. [GPL]
+* [HypergraphLib](https://github.com/alex-87/HyperGraphLib) - A C++ Hypergraph modelisation Library with some algorithms. [GPL] [website](http://alex-87.github.io/HyperGraphLib/)
 
 ## Scripting
 
