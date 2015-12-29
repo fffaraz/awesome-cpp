@@ -72,7 +72,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [APR](http://apr.apache.org/) - Apache Portable Runtime. Another library of cross-platform utility functions. [Apache2]
 * [ASL](http://stlab.adobe.com/) - Adobe Source Libraries provides peer-reviewed and portable C++ source libraries. [MIT]
 * [Boost](https://github.com/boostorg) :zap: - A large collection of generic C++ libraries. [Boost] [website](http://www.boost.org/)
-* [BDE](https://github.com/bloomberg/bde) - The BDE Development Environment from Bloomberg Labs. [MIT]
+* [BDE](https://github.com/bloomberg/bde) - The BDE Development Environment from Bloomberg Labs. [Apache2]
 * [Cinder](https://libcinder.org/) - A community-developed, free and open source library for professional-quality creative coding. [BSD]
 * [Cxxomfort](http://ryan.gulix.cl/fossil.cgi/cxxomfort/) - A small, header-only library that backports to C++03 some of the nifty C++11 goodies. [MIT]
 * [Dlib](http://dlib.net/) :zap: - A general purpose cross-platform C++ library designed using contract programming and modern C++ techniques. [Boost]
