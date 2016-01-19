@@ -100,7 +100,6 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 
 * [btsk](https://github.com/aigamedev/btsk) - Game Behavior Tree Starter Kit. [zlib]
 * [Evolving Objects](http://eodev.sourceforge.net/) - A template-based, ANSI-C++ evolutionary computation library which helps you to write your own stochastic optimization algorithms insanely fast. [LGPL]
-* [Neu](https://github.com/andrometa/neu) - A C++ 11 framework, collection of programming languages, and multipurpose software system designed for: the creation of artificial intelligence applications. [BSD]
 
 ## Asynchronous Event Loop
 
