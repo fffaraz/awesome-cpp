@@ -31,6 +31,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 	- [Networking](#networking)
 	- [PDF](#pdf)
 	- [Physics](#physics)
+	- [Reflection](#reflection)
 	- [Regular Expression](#regular-expression)
 	- [Robotics](#robotics)
 	- [Scientific Computing](#scientific-computing)
@@ -648,6 +649,15 @@ array expressions, inspired by NumPy syntax. [BSD 3-clause] [website](http://qua
 * [PhysX](https://github.com/NVIDIAGameWorks/PhysX-3.4) - An open-source realtime physics engine middleware SDK developed by Nvidia as a part of Nvidia GameWorks software suite. [BSD-3-Clause] 
 * [Project Chrono](https://github.com/projectchrono/chrono) - An open source multi-physics simulation engine. [BSD-3-Clause] [website](https://projectchrono.org/)
 * [Simbody](https://github.com/simbody/simbody) - High-performance C++ multibody dynamics/physics library for simulating articulated biomechanical and mechanical systems like vehicles, robots, and the human skeleton. [Apache2]
+
+## Reflection
+
+* [Better Enums](https://github.com/aantron/better-enums) - Reflective enums (to string, iteration). Single header. [BSD] [website](http://aantron.github.io/better-enums/)
+* [clReflect](https://bitbucket.org/dwilliamson/clreflect) - C++ Reflection using clang. [MIT]
+* [CPFG](https://github.com/cpgf/cpgf) - A C++03 library for reflection, callback and script binding. [Apache2] [website](http://www.cpgf.org/)
+* [CPP-Reflection](https://github.com/AustinBrunkhorst/CPP-Reflection) - C++ Reflection using clang. [MIT]
+* [Ponder](https://github.com/billyquith/ponder) - A C++11 library for reflection. [MIT]
+* [RTTR](https://github.com/rttrorg/rttr) - A C++11 library for reflection. [MIT] [website](http://www.rttr.org)
 
 ## Regular Expression
 
