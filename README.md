@@ -172,6 +172,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Bolt](https://github.com/HSA-Libraries/Bolt) - A C++ template library optimized for GPUs. [Apache2]
 * [C++React](https://github.com/schlangster/cpp.react) - A reactive programming library for C++11. [Boost]
 * [Intel TBB](https://www.threadingbuildingblocks.org/) - Intel® Threading Building Blocks. [GPL2 with runtime exception]
+* [junction](https://github.com/preshing/junction) - A library of concurrent data structures in C++. [BSD]
 * [Libclsph](https://github.com/libclsph/libclsph) - An OpenCL based GPU accelerated SPH fluid simulation library. [MIT]
 * [OpenCL](https://www.khronos.org/opencl/) - The open standard for parallel programming of heterogeneous systems.
 * [OpenMP](http://openmp.org/) - The OpenMP API.
