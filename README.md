@@ -552,6 +552,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [sigslot](http://sigslot.sourceforge.net/) - C++ Signal/Slot Library. [PublicDomain]
 * [SLDR](https://github.com/cesanta/sldr) - Super Light DNS Resolver. [GPL2/Commercial]
 * [SLRE](https://github.com/cesanta/slre) - Super Light Regexp engine for C/C++. [GPL2/Commercial]
+* [Smart Enum](https://github.com/krabicezpapundeklu/smart_enum) - "to_string", "from_string" and more for your enums. [Boost License]
 * [Stage](https://github.com/rtv/Stage) - Mobile robot simulator. [GPL2]
 * [stb](https://github.com/nothings/stb) - A range of single-file libraries for C/C++. [PublicDomain]
 * [ub-canaries](https://github.com/regehr/ub-canaries) - A collection of C/C++ programs that try to get compilers to exploit undefined behavior.
