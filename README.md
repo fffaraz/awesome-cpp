@@ -361,6 +361,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 
 ## Logging
 
+* [Blackhole](https://github.com/3Hren/blackhole) - Header only attribute-based logging framework, which is designed to be fast, modular and highly customizable. [MIT]
 * [Boost.Log](http://www.boost.org/doc/libs/1_56_0/libs/log/doc/html/index.html) - Designed to be very modular and extensible. [Boost]
 * [easyloggingpp](https://github.com/easylogging/easyloggingpp) - Single header only C++ logging library. [MIT] [website](http://easylogging.org/)
 * [G3log](https://github.com/KjellKod/g3log) - Asynchronous logger with Dynamic Sinks. [PublicDomain]
