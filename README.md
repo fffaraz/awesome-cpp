@@ -444,6 +444,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [ODE](http://www.ode.org/) - Open Dynamics Engine - An open source, high performance library for simulating rigid body dynamics. [BSD&LGPL]
 * [ofxBox2d](https://github.com/vanderlin/ofxBox2d) - openFrameworks wrapper for Box2D. [BSD-like]
 * [Simbody](https://github.com/simbody/simbody) - High-performance C++ multibody dynamics/physics library for simulating articulated biomechanical and mechanical systems like vehicles, robots, and the human skeleton. [Apache2]
+* [sofa](http://www.iausofa.org/) - The International Astronomical Union's SOFA service has the task of establishing and maintaining an accessible and authoritative set of algorithms and procedures that implement standard models used in fundamental astronomy. [[SOFA](http://www.iausofa.org/tandc.html)]
 
 ## Robotics
 
