@@ -178,6 +178,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Libclsph](https://github.com/libclsph/libclsph) - An OpenCL based GPU accelerated SPH fluid simulation library. [MIT]
 * [OpenCL](https://www.khronos.org/opencl/) - The open standard for parallel programming of heterogeneous systems.
 * [OpenMP](http://openmp.org/) - The OpenMP API.
+* [SObjectizer](https://github.com/eao197/so-5-5) - In-process message dispatching framework that implements Actor Model, Publish-Subscribe Model and CSP-like channels.
 * [Thrust](http://thrust.github.io/) - A parallel algorithms library which resembles the C++ Standard Template Library (STL). [Apache2]
 * [HPX](https://github.com/STEllAR-GROUP/hpx/) - A general purpose C++ runtime system for parallel and distributed applications of any scale. [Boost]
 * [VexCL](https://github.com/ddemidov/vexcl) - A C++ vector expression template library for OpenCL/CUDA. [MIT]
@@ -631,7 +632,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Biicode](https://www.biicode.com/) - Simple, file-based dependency manager.
 * [CMake](https://cmake.org/) - Cross-platform free and open-source software for managing the build process of software using a compiler-independent method. [BSD]
 * [CPM](https://github.com/iauns/cpm) - A C++ Package Manager based on CMake and Git.
-* [FASTBuild](http://www.fastbuild.org/docs/home.html) - High performance, open-source build system supporting highly scalable compilation, caching and network distribution.  
+* [FASTBuild](http://www.fastbuild.org/docs/home.html) - High performance, open-source build system supporting highly scalable compilation, caching and network distribution.
 * [MesonBuild](http://mesonbuild.com) - An open source build system meant to be both extremely fast, and, even more importantly, as user friendly as possible.
 * [Ninja](http://martine.github.io/ninja/) - A small build system with a focus on speed.
 * [Scons](http://www.scons.org/) - A software construction tool configured with Python scipt.
