@@ -223,6 +223,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [redis3m](https://github.com/luca3m/redis3m) - Wrapper of hiredis with clean C++ interface, supporting sentinel and ready to use patterns. [Apache2]
 * [RocksDB](https://github.com/facebook/rocksdb) - Embedded key-value store for fast storage from facebook. [BSD]
 * [SQLite](http://www.sqlite.org/) - A completely embedded, full-featured relational database in a few 100k that you can include right into your project. [PublicDomain]
+* [upscaledb](https://upscaledb.com) - An embedded "typed" key/value store with a built-in query interface. [GPLv3]
 
 ## Debug
 *Debugging Libraries, Memory Leak and Resource Leak Detection, Unit Testing*
