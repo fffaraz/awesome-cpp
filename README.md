@@ -761,6 +761,6 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [awesome-talks](https://github.com/JanVanRyswyck/awesome-talks) - A lot of screencasts, recordings of user group gatherings and conference talks.
 * [Projects](https://github.com/karan/Projects) - A list of practical projects that anyone can solve in any programming language.
 * [Awesome interview questions](https://github.com/MaximAbramchuck/awesome-interviews) - A list of lists of interview questions for the most popular technologies, including C/C++.
-
+* [STB header only libs](https://github.com/nothings/stb/blob/master/docs/other_libs.md) - Single-file public-domain/open source libraries with minimal dependencies
 # Contributing
 Please see [CONTRIBUTING](https://github.com/fffaraz/awesome-cpp/blob/master/CONTRIBUTING.md) for details.
