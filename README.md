@@ -100,6 +100,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 
 * [btsk](https://github.com/aigamedev/btsk) - Game Behavior Tree Starter Kit. [zlib]
 * [Evolving Objects](http://eodev.sourceforge.net/) - A template-based, ANSI-C++ evolutionary computation library which helps you to write your own stochastic optimization algorithms insanely fast. [LGPL]
+* [SimpleAI](https://github.com/mgerhardy/simpleai) - C++11 Behavior Tree based ai lib with remote debugging. [MIT]
 * [TensorFlow](https://github.com/tensorflow/tensorflow) - An open source software library for numerical computation using data flow graphs [Apache]
 
 ## Asynchronous Event Loop
