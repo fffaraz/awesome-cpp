@@ -27,6 +27,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 	- [Machine Learning](#machine-learning)
 	- [Math](#math)
 	- [Multimedia](#multimedia)
+	- [Natural Language Processing](#natural-language-processing)
 	- [Networking](#networking)
 	- [Physics](#physics)
 	- [Robotics](#robotics)
@@ -412,6 +413,11 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [QtAv](https://github.com/wang-bin/QtAV) - A multimedia playback framework based on Qt and FFmpeg to write a player easily. [LGPL] [website](http://wang-bin.github.io/QtAV/)
 * [SDL](http://www.libsdl.org/) :zap: - Simple DirectMedia Layer. [zlib]
 * [SFML](http://www.sfml-dev.org/) :zap: - Simple and Fast Multimedia Library. [zlib]
+
+## Natural Language Processing
+*Libraries for working with human languages.*
+
+* [cppjieba](https://github.com/yanyiwu/cppjieba) - This is a C++ implementation of [jieba](https://github.com/fxsjy/jieba) which a Chinese word splitting algorithm. [MIT]
 
 ## Networking
 
