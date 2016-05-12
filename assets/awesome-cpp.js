@@ -6,7 +6,7 @@ var getFileData = function(url) {
     }
   }).done(function(data) {
     data = data.replace(/(\(#\w+)-/g, "$1").replace(/(\(#\w+)-/g, "$1");
-    data = data.replace(':zap:', '<img class="emoji" title=":zap:" alt=":zap:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/26a1.png" height="20" width="20" align="absmiddle">');
+    data = data.replace(/:zap:/g, '<img class="emoji" title=":zap:" alt=":zap:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/26a1.png" height="20" width="20" align="absmiddle">');
     var converter = new Showdown.converter();
     var html = converter.makeHtml(data);
     $("#content").html(html)
