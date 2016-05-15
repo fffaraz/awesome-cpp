@@ -665,7 +665,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 ## API Design
 
 * [Beautiful Native Libraries](http://lucumr.pocoo.org/2013/8/18/beautiful-native-libraries/)
-* [Designing Qt-Style C++ APIs](http://doc.qt.digia.com/qq/qq13-apis.html)
+* [Designing Qt-Style C++ APIs](https://doc.qt.io/archives/qq/qq13-apis.html)
 
 ## Articles
 *Fantastic C/C++ related articles.*
