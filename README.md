@@ -230,6 +230,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 
 * [benchmark](https://github.com/google/benchmark) - Google provided small microbenchmark support library. [Apache2]
 * [Boost.Test](http://www.boost.org/doc/libs/master/libs/test/doc/html/index.html) - Boost Test Library. [Boost]
+* [doctest](https://github.com/onqtam/doctest) - The lightest feature rich C++ single header testing framework. [MIT]
 * [Catch](https://github.com/philsquared/Catch) - A modern, C++-native, header-only, framework for unit-tests, TDD and BDD. [Boost]
 * [Celero](https://github.com/DigitalInBlue/Celero) - C++ Benchmarking Framework. [Apache2]
 * [CUTE](http://cute-test.com) - C++ Unit Testing Easier. [LGPL3]
