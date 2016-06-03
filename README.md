@@ -472,6 +472,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [SWIG](http://www.swig.org/) - A wrapper/interface Generator that let you link your c++ code to Javascript, Perl, PHP, Python, Tcl and Ruby. [GPL/Output not licensed]
 * [V7](https://github.com/cesanta/v7) - An embedded JavaScript engine. [GPL2]
 * [V8](http://code.google.com/p/v8/) - A fast JavaScript engine by Google that can be embedded into any C++ application. [BSD]
+* [ChakraCore](https://github.com/Microsoft/ChakraCore) -A JavaScript engine by Microsoft that can be embedded into nodejs. [MIT]
 
 ## Serialization
 
@@ -572,8 +573,8 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 
 * [8cc](https://github.com/rui314/8cc) - A Small C Compiler.
 * [c](https://github.com/ryanmjacobs/c) - Compile and execute C "scripts" in one go! [MIT]
-* [Clang](http://clang.llvm.org/) - A C compiler for LLVM. Supports C11. Developed by Apple. [NCSA]
-* [GCC](https://gcc.gnu.org/) - GNU Compiler Collection. Supports C11 and OpenMP. [GNU GPL3]
+* [Clang](http://clang.llvm.org/) - A C compiler for LLVM. Supports C++11/14/1z C11. Developed by LLVM Team. [NCSA]
+* [GCC](https://gcc.gnu.org/) - GNU Compiler Collection. Supports C++11/14/1z C11 and OpenMP. [GNU GPL3]
 * [PCC](http://pcc.ludd.ltu.se/) - A very old C compiler. Supports C99.
 * [Intel C++ Compiler](https://software.intel.com/en-us/c-compilers) - Developed by Intel.
 * [LLVM](http://llvm.org/) - Collection of modular and reusable compiler and toolchain technologies.
