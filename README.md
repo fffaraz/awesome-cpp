@@ -506,6 +506,8 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Kore](https://kore.io/) - ultra fast and flexible web server / framework for web applications developed in C. [ISC]
 * [libOnion](http://www.coralbits.com/libonion/) - lightweight library to help you create webservers in C programming language. [LGPLv3]
 * [QDjango](https://github.com/jlaine/qdjango/) - A web framework written in C++ and built on top of the Qt library. Where possible it tries to follow django's API, hence its name. [LGPL]
+* [Simple-Web-Server](https://github.com/eidheim/Simple-Web-Server) - A simple, fast, multithreaded, cross platform web server and client library implemented using C++11 and Boost.Asio. [MIT]
+* [Simple-WebSocet-Server](https://github.com/eidheim/Simple-WebSocket-Server) - A simple, fast, multithreaded, cross platform WebSocket server and client library implemented using C++11, Boost.Asio and OpenSSL. [MIT]
 * [Wt](http://www.webtoolkit.eu/wt) - A C++ library for developing web applications. [GPL/Commercial]
 
 ## XML
