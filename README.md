@@ -416,7 +416,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [libVLC](https://wiki.videolan.org/LibVLC) - libVLC (VLC SDK) media framework. [GPL]
 * [QtAv](https://github.com/wang-bin/QtAV) - A multimedia playback framework based on Qt and FFmpeg to write a player easily. [LGPL] [website](http://wang-bin.github.io/QtAV/)
 * [SDL](http://www.libsdl.org/) :zap: - Simple DirectMedia Layer. [zlib]
-* [SFML](http://www.sfml-dev.org/) :zap: - Simple and Fast Multimedia Library. [zlib]
+* [SFML](https://github.com/SFML/SFML) :zap: - Simple and Fast Multimedia Library. [zlib] [website](http://www.sfml-dev.org/)
 
 ## Networking
 
