@@ -206,6 +206,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [LibreSSL](http://www.libressl.org/) - A free version of the SSL/TLS protocol forked from OpenSSL in 2014. [?]
 * [libsodium](https://github.com/jedisct1/libsodium) - P(ortable|ackageable) NaCl-based crypto library, opinionated and easy to use. [ISC]
 * [LibTomCrypt](https://github.com/libtom/libtomcrypt) - A fairly comprehensive, modular and portable cryptographic toolkit. [WTFPL]
+* [mbedTLS](https://github.com/ARMmbed/mbedtls) - Tiny crypto suite aimed at embedded development, previously known as PolarSSL. [Apache2]
 * [Nettle](http://www.lysator.liu.se/~nisse/nettle/) - A low-level cryptographic library. [LGPL]
 * [OpenSSL](https://github.com/openssl/openssl) - A robust, commercial-grade, full-featured, and Open Source cryptography library. [Apache] [websire](http://www.openssl.org/)
 * [retter](https://github.com/MaciejCzyzewski/retter) - A collection of hash functions, ciphers, tools, libraries, and materials related to cryptography.
