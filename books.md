@@ -17,6 +17,14 @@
 * [The New C Standard - An Annotated Reference](http://www.knosof.co.uk/cbook/cbook.html)
 * [TONC GBA Programming - Game Boy Advance Development](http://www.coranac.com/tonc/text/toc.htm)
 * [Using C on the UNIX System - David A. Curry](http://www.bitsinthewind.com/about-dac/publications/using-c-on-the-unix-system)
+* [The Linux Command Line : A Complete Introduction](https://www.amazon.com/Linux-Command-Line-Complete-Introduction/dp/1593273894)
+* [Advanced Programming in Unix Environment](https://www.amazon.ca/Advanced-Programming-UNIX-Environment-3rd/dp/0321637739)
+* [Understanding the Linux Kernel](http://gauss.ececs.uc.edu/Courses/c4022/code/memory/understanding.pdf)
+* [Linux Device Drivers](https://www.amazon.com/Linux-Device-Drivers-Jonathan-Corbet/dp/0596005903)
+* [Unix Network Programming](https://www.amazon.com/UNIX-Network-Programming-Richard-Stevens/dp/0139498761)
+
+
+
 
 ## C++
 
@@ -39,4 +47,5 @@
 * [The Boost C++ libraries](http://en.highscore.de/cpp/boost)
 * [The Rook's Guide to C++](http://rooksguide.org/2013/11/26/version-1-0-is-out/) (PDF)
 * [Thinking in C++, Second Edition, Vol. 1.](http://www.mindviewinc.com/downloads/TICPP-2nd-ed-Vol-one.zip) [(Vol. 2)](http://www.mindviewinc.com/downloads/TICPP-2nd-ed-Vol-two.zip) - Bruce Eckel
+* [C++ Concurrency in Action : Practical Multithreading](https://www.google.ca/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwiMo-zGlqTNAhVBwWMKHSE5AakQFggjMAE&url=http%3A%2F%2Fwww.bogotobogo.com%2Fcplusplus%2Ffiles%2FCplusplusConcurrencyInAction_PracticalMultithreading.pdf&usg=AFQjCNEsVCOZKuNzutHTbO9zTCXjq2Y8Ew)
 * Also see: [The Definitive C++ Book Guide and List](http://stackoverflow.com/q/388242/511601)
