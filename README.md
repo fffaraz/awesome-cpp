@@ -182,6 +182,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Libclsph](https://github.com/libclsph/libclsph) - An OpenCL based GPU accelerated SPH fluid simulation library. [MIT]
 * [OpenCL](https://www.khronos.org/opencl/) - The open standard for parallel programming of heterogeneous systems.
 * [OpenMP](http://openmp.org/) - The OpenMP API.
+* [SObjectizer](https://github.com/eao197/so-5-5) - In-process message dispatching framework that implements Actor Model, Publish-Subscribe Model and CSP-like channels.
 * [Thrust](http://thrust.github.io/) - A parallel algorithms library which resembles the C++ Standard Template Library (STL). [Apache2]
 * [HPX](https://github.com/STEllAR-GROUP/hpx/) - A general purpose C++ runtime system for parallel and distributed applications of any scale. [Boost]
 * [VexCL](https://github.com/ddemidov/vexcl) - A C++ vector expression template library for OpenCL/CUDA. [MIT]
