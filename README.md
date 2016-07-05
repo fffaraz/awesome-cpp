@@ -29,6 +29,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 	- [Multimedia](#multimedia)
 	- [Networking](#networking)
 	- [Physics](#physics)
+	- [Reflection](#reflection)
 	- [Robotics](#robotics)
 	- [Scientific Computing](#scientific-computing)
 	- [Scripting](#scripting)
@@ -454,6 +455,11 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [ODE](http://www.ode.org/) - Open Dynamics Engine - An open source, high performance library for simulating rigid body dynamics. [BSD&LGPL]
 * [ofxBox2d](https://github.com/vanderlin/ofxBox2d) - openFrameworks wrapper for Box2D. [BSD-like]
 * [Simbody](https://github.com/simbody/simbody) - High-performance C++ multibody dynamics/physics library for simulating articulated biomechanical and mechanical systems like vehicles, robots, and the human skeleton. [Apache2]
+
+## Reflection
+
+* [Ponder](http://billyquith.github.io/ponder/) - Reflection allows a program to inspect its own type data at runtime. [MIT]
+* [RTTR](http://www.rttr.org/) - RTTR is a C++ library which enables the programmer to use reflection in its application. [MIT]
 
 ## Robotics
 
