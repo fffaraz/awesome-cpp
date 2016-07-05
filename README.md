@@ -144,6 +144,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [OpenAL](http://www.openal.org/) - Open Audio Library - A crossplatform audio API. [BSD/LGPL/Commercial]
 * [miniaudio](https://github.com/dr-soft/miniaudio) - Single file audio playback and capture library. [Unlicense]
 * [Opus](http://opus-codec.org/) - A totally open, royalty-free, highly versatile audio codec. [BSD]
+* [PortAudio](http://www.portaudio.com/) - PortAudio is a free, cross-platform, open-source, audio I/O library. [MIT]
 * [SELA](https://github.com/sahaRatul/sela) - SimplE Lossless Audio. [MIT]
 * [SoLoud](https://github.com/jarikomppa/soloud) - Easy, portable audio engine for games. [zlib]
 * [Speex](http://www.speex.org/) - A free codec for free speech. Obsoleted by Opus. [BSD]
