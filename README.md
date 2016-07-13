@@ -505,6 +505,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 
 ## Web Application Framework
 
+* [Autobahn|Cpp](http://autobahn.ws/cpp/) - A C++ library that implements the Web Application Messaging Protocol (WAMP) for creating C++ components communicating with a WAMP router via Unix pipes. [Boost Software License]
 * [Civetweb](https://github.com/civetweb/civetweb) - Provides easy to use, powerful, C/C++ embeddable web server with optional CGI, SSL and Lua support. [MIT]
 * [CppCMS](http://cppcms.com/) - A Free High Performance Web Development Framework (not a CMS). [LGPLv3]
 * [Crow](https://github.com/ipkn/crow) - Crow is C++ micro web framework (inspired by Python Flask). [BSD]
