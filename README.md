@@ -723,6 +723,8 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [C++ GUI with Qt Playlist](https://www.youtube.com/playlist?list=PLD0D54219E5F2544D) - Official Playlist for thenewboston C++ GUI with Qt tutorials.
 * [C Programming Tutorials](https://www.youtube.com/playlist?list=PL78280D6BE6F05D34) - All of TheNewBoston's C programming tutorials are right here.
 * [Bo Qian's playlist](https://www.youtube.com/user/BoQianTheProgrammer/playlists) - Boost Library, C++ Standard Library, Modern C++, Advanced C++, Advanced STL, ...
+* [Pluralsight C++ Courses](https://www.pluralsight.com/browse/software-development/c-plus)- The ever growing list of C++ offerings from Pluralsight.
+* [Pluralsight Qt Framework Courses](https://www.pluralsight.com/search?q=qt&categories=all) Mostly C++ courses on the Qt framework but a couple on Maya and Python snuck in there too. 
 
 ## Websites
 *Useful C/C++ related websites.*
