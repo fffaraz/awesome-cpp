@@ -246,3 +246,5 @@ https://github.com/clMathLibraries/clFFT
 https://github.com/simsong/tcpflow
 https://github.com/stealth/sshttp
 https://github.com/munificent/game-programming-patterns
+
+https://github.com/json-c/json-c
