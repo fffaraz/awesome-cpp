@@ -708,6 +708,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 
 ## Project Templates
 
+* [cmake-init](https://github.com/cginternals/cmake-init) - CMake, cross-platform
 * [NewProggie/Cpp-Project-Template](https://github.com/NewProggie/Cpp-Project-Template) - CMake, Googletest, LCOV, Doxygen, Jenkins + Travis
 * [opatry/cpp-cmake-template](https://github.com/opatry/cpp-cmake-template) - CMake
 * [Barthelemy/CppProjectTemplate](https://github.com/Barthelemy/CppProjectTemplate) - CMake, Boost, Doxygen, multiproject
