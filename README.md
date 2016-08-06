@@ -51,6 +51,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 	- [Articles](#articles)
 	- [Books](#books)
 	- [Coding Style](#coding-style)
+	- [Project Templates](#project-templates)
 	- [Videos](#videos)
 	- [Websites](#websites)
 - [Other Awesome Lists](#other-awesome-lists)
@@ -704,6 +705,18 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [GNU Coding Standard](http://www.gnu.org/prep/standards/standards.html)
 * [Linux kernel coding style](https://www.kernel.org/doc/Documentation/CodingStyle)
 * [LLVM Coding Standards](http://llvm.org/docs/CodingStandards.html)
+
+## Project Templates
+
+* [NewProggie/Cpp-Project-Template](https://github.com/NewProggie/Cpp-Project-Template) - CMake, Googletest, LCOV, Doxygen, Jenkins + Travis
+* [opatry/cpp-cmake-template](https://github.com/opatry/cpp-cmake-template) - CMake
+* [Barthelemy/CppProjectTemplate](https://github.com/Barthelemy/CppProjectTemplate) - CMake, Boost, Doxygen, multiproject
+* [puppetlabs/cpp-project-template](https://github.com/puppetlabs/cpp-project-template) - CMake, Boost
+* [adairdavid/cpp-project-template](https://github.com/adairdavid/cpp-project-template) - CMake, GTest, GMock
+* [cppbase](https://github.com/kartikkumar/cppbase) - CMake, Catch, CPack, Doxygen, Travis, Coveralls
+* [borlox/CppTemplate](https://github.com/borlox/CppTemplate) - Make (minimal)
+* [duckie/cpp_project_template](https://github.com/duckie/cpp_project_template) - CMake, gcov, lcov, clang-format, Doxygen
+* [mbwk/c-cxx-project-templates](https://github.com/mbwk/c-cxx-project-templates) - CMake, Make (minimal)
 
 ## Talks
 
