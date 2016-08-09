@@ -185,6 +185,9 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Thrust](http://thrust.github.io/) - A parallel algorithms library which resembles the C++ Standard Template Library (STL). [Apache2]
 * [HPX](https://github.com/STEllAR-GROUP/hpx/) - A general purpose C++ runtime system for parallel and distributed applications of any scale. [Boost]
 * [VexCL](https://github.com/ddemidov/vexcl) - A C++ vector expression template library for OpenCL/CUDA. [MIT]
+* [Nccl](https://github.com/NVIDIA/nccl) - Optimized primitives for collective multi-GPU communication. [Copyright (c) 2015, NVIDIA CORPORATION. All rights reserved]
+* [cub](https://github.com/NVlabs/cub) - CUB provides state-of-the-art, reusable software components for every layer of the CUDA programming mode. [Copyright (c) 2010-2011, Duane Merrill.  All rights reserved. Copyright (c) 2011-2016, NVIDIA CORPORATION.  All rights reserved.]
+* [moderngpu](https://github.com/moderngpu/moderngpu) - moderngpu is a productivity library for general-purpose computing on GPUs. It is a header-only C++ library written for CUDA. The unique value of the library is in its accelerated primitives for solving irregularly parallel problems. [ Copyright (c) 2016, Sean Baxter All rights reserved.]
 
 ## Containers
 
