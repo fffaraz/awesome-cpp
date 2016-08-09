@@ -174,20 +174,20 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Boost.Compute](https://github.com/boostorg/compute) - A C++ GPU Computing Library for OpenCL. [Boost]
 * [Bolt](https://github.com/HSA-Libraries/Bolt) - A C++ template library optimized for GPUs. [Apache2]
 * [ck](https://github.com/concurrencykit/ck) - Concurrency primitives, safe memory reclamation mechanisms and non-blocking data structures. [BSD]
+* [cub](https://github.com/NVlabs/cub) - CUB provides state-of-the-art, reusable software components for every layer of the CUDA programming mode. [Copyright, NVIDIA CORPORATION.]
 * [C++React](https://github.com/schlangster/cpp.react) - A reactive programming library for C++11. [Boost]
 * [Intel TBB](https://www.threadingbuildingblocks.org/) - Intel® Threading Building Blocks. [GPL2 with runtime exception]
 * [junction](https://github.com/preshing/junction) - A library of concurrent data structures in C++. [BSD]
 * [libcds](https://github.com/khizmax/libcds) - A C++ library of Concurrent Data Structures. [BSD]
 * [Libclsph](https://github.com/libclsph/libclsph) - An OpenCL based GPU accelerated SPH fluid simulation library. [MIT]
+* [moderngpu](https://github.com/moderngpu/moderngpu) - moderngpu is a productivity library for general-purpose computing on GPUs. It is a header-only C++ library written for CUDA. The unique value of the library is in its accelerated primitives for solving irregularly parallel problems. [Copyright, Sean Baxter]
+* [Nccl](https://github.com/NVIDIA/nccl) - Optimized primitives for collective multi-GPU communication. [Copyright, NVIDIA CORPORATION]
 * [OpenCL](https://www.khronos.org/opencl/) - The open standard for parallel programming of heterogeneous systems.
 * [OpenMP](http://openmp.org/) - The OpenMP API.
 * [RaftLib](http://raftlib.io/) - The RaftLib C++ library, streaming/dataflow concurrency via C++ iostream-like operators [Apache2]
 * [Thrust](http://thrust.github.io/) - A parallel algorithms library which resembles the C++ Standard Template Library (STL). [Apache2]
 * [HPX](https://github.com/STEllAR-GROUP/hpx/) - A general purpose C++ runtime system for parallel and distributed applications of any scale. [Boost]
 * [VexCL](https://github.com/ddemidov/vexcl) - A C++ vector expression template library for OpenCL/CUDA. [MIT]
-* [Nccl](https://github.com/NVIDIA/nccl) - Optimized primitives for collective multi-GPU communication. [Copyright (c) 2015, NVIDIA CORPORATION. All rights reserved]
-* [cub](https://github.com/NVlabs/cub) - CUB provides state-of-the-art, reusable software components for every layer of the CUDA programming mode. [Copyright (c) 2010-2011, Duane Merrill.  All rights reserved. Copyright (c) 2011-2016, NVIDIA CORPORATION.  All rights reserved.]
-* [moderngpu](https://github.com/moderngpu/moderngpu) - moderngpu is a productivity library for general-purpose computing on GPUs. It is a header-only C++ library written for CUDA. The unique value of the library is in its accelerated primitives for solving irregularly parallel problems. [ Copyright (c) 2016, Sean Baxter All rights reserved.]
 
 ## Containers
 
