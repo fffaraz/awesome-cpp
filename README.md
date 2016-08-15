@@ -649,11 +649,11 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [FASTBuild](http://www.fastbuild.org/docs/home.html) - High performance, open-source build system supporting highly scalable compilation, caching and network distribution.
 * [MesonBuild](http://mesonbuild.com) - An open source build system meant to be both extremely fast, and, even more importantly, as user friendly as possible.
 * [Ninja](http://martine.github.io/ninja/) - A small build system with a focus on speed.
-* [Scons](http://www.scons.org/) - A software construction tool configured with Python scipt.
+* [Scons](http://www.scons.org/) - A software construction tool configured with a Python script.
 * [Sconsolidator](http://www.sconsolidator.com/) - Scons build system integration for Eclipse CDT.
 * [tundra](https://github.com/deplinenoise/tundra) - High-performance code build system designed to give the best possible incremental build times even for very large software projects.
 * [tup](http://gittup.org/tup/) - File-based build system that monitors in the background for changed files.
-* [Premake](http://premake.github.io) - A tool configured with lua scipt to generate project files for Visual Studio, GNU Make, Xcode, Code::Blocks, and more across Windows, Mac OS X, and Linux.
+* [Premake](http://premake.github.io) - A tool configured with a Lua script to generate project files for Visual Studio, GNU Make, Xcode, Code::Blocks, and more across Windows, Mac OS X, and Linux.
 
 ## Static Code Analysis
 *List of tools for improving quality and reducing defects by code analysis*
