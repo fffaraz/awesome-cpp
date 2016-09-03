@@ -27,8 +27,7 @@ http://faculty.euc.ac.cy/scharalambous/csc131/books/C%20book%201.pdf
 http://www.planetpdf.com/codecuts/pdfs/ooc.pdf
 http://www.codeproject.com/Articles/6154/Writing-Efficient-C-and-C-Code-Optimization
 
-
-====================
+---
 
 All libs in:
 https://github.com/Alexpux/MINGW-packages
@@ -56,7 +55,7 @@ http://www.swig.org/
 
 QUIC & UDT
 
-====================
+----------------------------------------
 
 https://github.com/ellisonleao/magictools
 
@@ -101,7 +100,7 @@ http://glm.g-truc.net/
 
 http://www.shoup.net/ntl/
 
-====================
+----------------------------------------
 
 http://www.efytimes.com/e1/fullnews.asp?edid=117053
 http://www.efytimes.com/e1/fullnews.asp?edid=123439
@@ -123,7 +122,7 @@ http://en.wikiversity.org/wiki/Introduction_to_C++
 
 http://blogs.msdn.com/b/nativeconcurrency/
 
-====================
+----------------------------------------
 
 http://en.wikipedia.org/wiki/Comparison_of_TLS_implementations
 
@@ -133,7 +132,7 @@ http://en.wikipedia.org/wiki/PolarSSL
 http://en.wikipedia.org/wiki/CyaSSL
 http://en.wikipedia.org/wiki/GnuTLS
 
-====================
+----------------------------------------
 
 https://github.com/mozilla/mozjpeg
 https://github.com/tinfoilboy/Explodable
@@ -149,7 +148,7 @@ https://github.com/m-ou-se/moggle
 
 https://github.com/Hawstein/cracking-the-coding-interview
 
-====================
+----------------------------------------
 
 "libc++" C++ Standard Library
 http://libcxx.llvm.org/
@@ -179,7 +178,7 @@ https://github.com/bytefish/libfacerec
 https://github.com/esnme/ultramemcache
 https://github.com/simonask/fatso
 
-====================
+----------------------------------------
 
 https://github.com/Kosta-Github/http-cpp
 https://github.com/adafruit/Adafruit-GFX-Library
@@ -223,7 +222,7 @@ https://github.com/juj/MathGeoLib
 https://github.com/watashi/AlgoSolution
 https://github.com/marioyc/Online-Judge-Solutions
 
-====================
+----------------------------------------
 
 https://github.com/oclint/oclint
 
@@ -248,3 +247,73 @@ https://github.com/stealth/sshttp
 https://github.com/munificent/game-programming-patterns
 
 https://github.com/json-c/json-c
+
+----------------------------------------
+
+http://libcxx.llvm.org/
+http://www.ijg.org/
+http://sourceforge.net/projects/libjpeg-turbo/
+http://libpng.org/
+http://www.math.sci.hiroshima-u.ac.jp/~m-mat/MT/MT2002/emt19937ar.html
+https://code.google.com/p/sfntly/
+http://www.netlib.org/fdlibm/
+
+----------------------------------------
+
+https://github.com/arrayfire/arrayfire
+https://github.com/google/flatbuffers
+https://github.com/google/protobuf
+
+----------------------------------------
+
+http://en.wikipedia.org/wiki/Category:C%2B%2B_libraries
+http://en.wikipedia.org/wiki/List_of_C%2B%2B_template_libraries
+
+----------------------------------------
+
+http://www.csie.ntu.edu.tw/~cjlin/liblinear/
+http://www.csie.ntu.edu.tw/~cjlin/libsvmtools/
+
+----------------------------------------
+
+https://cryptocoding.net/index.php/Coding_rules#Clean_memory_of_secret_data
+
+----------------------------------------
+
+https://www.youtube.com/watch?v=mVbDzTM21BQ
+
+http://en.wikibooks.org/wiki/Optimizing_C%2B%2B/Code_optimization
+http://en.wikibooks.org/wiki/Optimizing_C++/Code_optimization/Faster_operations
+
+https://mattmccutchen.net/bigint/
+https://code.google.com/p/infint/
+http://cpp-bigint.sourceforge.net/
+https://gmplib.org/
+
+https://github.com/RuntimeCompiledCPlusPlus/RuntimeCompiledCPlusPlus
+
+----------------------------------------
+
+http://channel9.msdn.com/Series/C9-Lectures-Stephan-T-Lavavej-Core-C-
+http://channel9.msdn.com/Series/C9-Lectures-Stephan-T-Lavavej-Standard-Template-Library-STL-
+https://www.youtube.com/user/handmadeheroarchive/videos
+https://www.youtube.com/playlist?list=PL3R9mYgM4NVw4m0PTXBzQZBV2DzCt92Sp
+
+----------------------------------------
+
+https://github.com/isocpp/CppCoreGuidelines
+https://github.com/lefticus/cppbestpractices
+https://github.com/dbohdan/compilers-targeting-c
+https://github.com/Microsoft/GSL
+https://github.com/scylladb/seastar
+https://github.com/google/brotli
+https://github.com/google/zopfli
+https://github.com/google/styleguide
+https://github.com/WhisperSystems/libaxolotl-c
+
+http://gameprogrammingpatterns.com/
+
+https://github.com/bagder/c-ares
+
+http://www.yeppp.info/
+
