@@ -256,7 +256,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [libtap](https://github.com/zorgnax/libtap) - Write tests in C. [GPL2]
 * [MemTrack](http://www.almostinfinite.com/memtrack.html) - Tracking memory allocations in C++.
 * [microprofile](https://bitbucket.org/jonasmeyer/microprofile/overview) - Profiler with web-view for multiple platforms. [PublicDomain]
-* [minUnit](http://www.jera.com/techinfo/jtns/jtn002.html) - A minimal unit testing framework for C written using only 2 macros. [PublicDomain]
+* [MinUnit](https://github.com/siu/minunit) - A minimal unit testing framework for C/C++ self-contained in a single header file. [MIT]
 * [Mockator](http://www.mockator.com) - Eclipse CDT plug-in for C++ Seams and Mock Objects.
 * [Remotery](https://github.com/Celtoys/Remotery) - Single C File Profiler with Web Viewer. [Apache2]
 * [UnitTest++](https://github.com/unittest-cpp/unittest-cpp) - A lightweight unit testing framework for C++. [MIT/X Consortium license]
