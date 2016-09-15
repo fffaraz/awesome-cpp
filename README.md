@@ -166,7 +166,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [miniz](https://code.google.com/p/miniz/) - Single C source file Deflate/Inflate compression library with zlib-compatible API, ZIP archive reading/writing, PNG writing. [Unlicense]
 * [Minizip](https://github.com/nmoinvaz/minizip) - Zlib with latest bug fixes that supports PKWARE disk spanning, AES encryption, and IO buffering. [zlib]
 * [smaz](https://github.com/antirez/smaz) - Small strings compression library. [BSD]
-* [Snappy](https://code.google.com/p/snappy/) - A fast compressor/decompressor. [BSD]
+* [Snappy](https://google.github.io/snappy/) - A fast compressor/decompressor. [BSD]
 * [ZLib](http://zlib.net/) - A very compact compression library for data streams. [zlib]
 * [zlib-ng](https://github.com/Dead2/zlib-ng) - zlib for the "next generation" systems. Drop-In replacement with some serious optimizations. [zlib]
 * [zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm. Developed by Facebook. [BSD]
