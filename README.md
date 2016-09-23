@@ -546,6 +546,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Better String](http://bstring.sourceforge.net) - An alternative to the string library for C which is more functional and does not have buffer overflow overrun problems. Also includes a C++ wrapper. [BSD, GPL2]
 * [Boost.Signals](http://www.boost.org/doc/libs/1_56_0/doc/html/signals.html) - An implementation of a managed signals and slots system. [Boost]
 * [C++ Format](https://github.com/cppformat/cppformat) - Small, safe and fast formatting library for C++. [BSD]
+* [CallableTraits](https://github.com/badair/callable_traits) - Traits and metafunctions for callable types. [Boost]
 * [FastFormat](http://www.fastformat.org) - Fast, Safe C++ Formatting inspired by log4j and Pantheios [Simplified BSD]
 * [casacore](https://code.google.com/p/casacore/) - A set of c++ core libraries derived from aips++. [LGPL]
 * [CppVerbalExpressions](https://github.com/VerbalExpressions/CppVerbalExpressions) - C++ regular expressions made easy. [MIT]
