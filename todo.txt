@@ -319,4 +319,5 @@ http://www.yeppp.info/
 
 https://github.com/AnthonyCalandra/modern-cpp-features
 
+https://github.com/nothings/single_file_libs
 
