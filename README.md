@@ -653,7 +653,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Bear](https://github.com/rizsotto/Bear) - A tool to generate compilation database for clang tooling.
 * [CMake](https://cmake.org/) - Cross-platform free and open-source software for managing the build process of software using a compiler-independent method. [BSD]
 * [C++ Archive Network](https://cppan.org/) - Cross-platform C++ Dependency Manager with a lot of packages available.
-* [Conan](https://conan.io/) - C/C++ Package Manager.
+* [Conan](https://conan.io/) - C/C++ Package Manager, open sourced. [MIT]
 * [CPM](https://github.com/iauns/cpm) - A C++ Package Manager based on CMake and Git.
 * [FASTBuild](http://www.fastbuild.org/docs/home.html) - High performance, open-source build system supporting highly scalable compilation, caching and network distribution.
 * [MesonBuild](http://mesonbuild.com) - An open source build system meant to be both extremely fast, and, even more importantly, as user friendly as possible.
