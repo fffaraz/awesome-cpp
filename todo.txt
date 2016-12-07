@@ -321,3 +321,6 @@ https://github.com/AnthonyCalandra/modern-cpp-features
 
 https://github.com/nothings/single_file_libs
 
+A simple Minecraft clone written in C using modern OpenGL (shaders).
+https://github.com/fogleman/Craft 
+
