@@ -12,7 +12,6 @@
 * [MariaDB](https://mariadb.com/) - A robust, scalable and reliable SQL server, designed to be a drop-in replacement for MySQL. [BSD]
 * [PostgreSQL]() - A powerful object-relational database system. [PostgreSQL licence]
 * [Redis]() - An advanced key-value store. [3-clause BSD].
-* [SQLite]() - A self-contained, serverless, zero-configuration, transactional SQL database engine with a C interface. [Public domain]
 * [UnQLite]() - A self-contained, serverless, zero-configuration, transactional NoSQL engine with a C interface. [FreeBSD]
 
 https://www.enlightenment.org/p.php?p=about/efl
@@ -63,7 +62,6 @@ https://github.com/robbinfan/claire-protorpc
 https://github.com/chen3feng/typhoon-blade - Buildsystem
 http://industriousone.com/premake
 http://glm.g-truc.net/0.9.5/index.html - Math
-https://github.com/paulhodge/EASTL
 https://code.google.com/p/distcc/
 http://omniorb.sourceforge.net/
 http://www.h323plus.org/
@@ -86,7 +84,6 @@ http://isocpp.org/blog/2012/12/c11-a-cheat-sheet-alex-sinyakov
 https://github.com/Tuplanolla/cheat
 https://github.com/vgvassilev/cling
 
-https://github.com/BVLC/caffe
 https://github.com/Yelp/MOE
 https://github.com/cocos2d/cocos2d-x
 https://github.com/ideawu/ssdb
@@ -137,7 +134,6 @@ http://en.wikipedia.org/wiki/GnuTLS
 https://github.com/mozilla/mozjpeg
 https://github.com/tinfoilboy/Explodable
 https://github.com/thrust/thrust
-https://github.com/chenshuo/muduo
 https://github.com/shaih/HElib
 https://github.com/philsquared/Catch
 https://github.com/jlnr/gosu
@@ -308,7 +304,6 @@ https://github.com/Microsoft/GSL
 https://github.com/scylladb/seastar
 https://github.com/google/brotli
 https://github.com/google/zopfli
-https://github.com/google/styleguide
 https://github.com/WhisperSystems/libaxolotl-c
 
 http://gameprogrammingpatterns.com/
