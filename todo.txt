@@ -326,3 +326,7 @@ https://github.com/fogleman/Craft
 https://github.com/agauniyal/rang
 
 https://github.com/tomtom-international/cpp-dependencies
+
+https://github.com/moderngpu/moderngpu
+https://github.com/inkooboo/thread-pool-cpp
+
