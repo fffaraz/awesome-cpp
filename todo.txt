@@ -14,6 +14,8 @@
 * [Redis]() - An advanced key-value store. [3-clause BSD].
 * [UnQLite]() - A self-contained, serverless, zero-configuration, transactional NoSQL engine with a C interface. [FreeBSD]
 
+http://www.cs.colorado.edu/~main/cs1300/doc/bgi/
+
 https://www.enlightenment.org/p.php?p=about/efl
 https://github.com/stefanct/sglib
 https://bitbucket.org/zserge/jsmn/wiki/Home
