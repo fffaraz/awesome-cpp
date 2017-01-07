@@ -334,3 +334,17 @@ https://github.com/inkooboo/thread-pool-cpp
 
 http://www-304.ibm.com/webapp/set2/sas/f/lopdiags/sdklop.html
 
+https://en.wikipedia.org/wiki/Integrated_Performance_Primitives
+https://en.wikipedia.org/wiki/Threading_Building_Blocks
+https://en.wikipedia.org/wiki/Intel_Parallel_Building_Blocks
+https://en.wikipedia.org/wiki/Intel_Array_Building_Blocks
+https://en.wikipedia.org/wiki/Cilk
+https://en.wikipedia.org/wiki/Concurrent_Collections
+https://en.wikipedia.org/wiki/Intel_Parallel_Studio
+https://en.wikipedia.org/wiki/Parallel_Patterns_Library
+https://en.wikipedia.org/wiki/Parallel_Extensions#Task_Parallel_Library
+https://en.wikipedia.org/wiki/OpenMP
+https://en.wikipedia.org/wiki/Math_Kernel_Library
+https://en.wikipedia.org/wiki/VTune
+https://en.wikipedia.org/wiki/List_of_performance_analysis_tools
+
