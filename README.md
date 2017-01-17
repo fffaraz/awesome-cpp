@@ -672,6 +672,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 *List of tools for improving quality and reducing defects by code analysis*
 
 * [Cppcheck](http://cppcheck.sourceforge.net/) - A tool for static C/C++ code analysis. - [source](https://github.com/danmar/cppcheck)
+* [PVS-Studio](http://www.viva64.com/en/pvs-studio/) - A tool for bug detection in the source code of programs, written in C, C++ and C#.
 * [include-what-you-use](https://code.google.com/p/include-what-you-use/) - A tool for use with clang to analyze includes in C and C++ source files.
 * [Infer](https://github.com/facebook/infer) - A static analyzer for Java, C and Objective-C. [BSD]
 * [OCLint](http://oclint.org/) - A static source code analysis tool to improve quality and reduce defects for C, C++ and Objective-C. - [source](https://github.com/oclint/oclint)
