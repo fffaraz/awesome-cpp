@@ -421,6 +421,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [MIRACL](https://github.com/CertiVox/MIRACL) - A Multiprecision Integer and Rational Arithmetic Cryptographic Library. [AGPL]
 * [muparser](http://beltoforion.de/article.php?a=muparser) - muParser is an extensible high performance math expression parser library written in C++. [MIT]
 * [NT2](https://github.com/jfalcou/nt2) - A SIMD-optimized numerical template library that provides an interface with MATLAB-like syntax. [Boost]
+* [libfixmath](https://github.com/PetteriAimonen/libfixmath) - A Cross Platform Fixed Point (Q16.16) Maths Library. [MIT]
 * [LibTomMath](https://github.com/libtom/libtommath) - A free open source portable number theoretic multiple-precision integer library written entirely in C. [PublicDomain & WTFPL] [website](http://www.libtom.net/)
 * [QuantLib](https://github.com/lballabio/quantlib) - A free/open-source library for quantitative finance. [Modified BSD] [website](http://quantlib.org/)
 * [Vc](https://github.com/VcDevel/Vc) - SIMD Vector Classes for C++. [BSD]
