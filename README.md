@@ -722,7 +722,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [google-styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects.
 * [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
 * [GNU Coding Standard](http://www.gnu.org/prep/standards/standards.html)
-* [Linux kernel coding style](https://www.kernel.org/doc/Documentation/CodingStyle)
+* [Linux kernel coding style](https://www.kernel.org/doc/Documentation/process/coding-style.rst)
 * [LLVM Coding Standards](http://llvm.org/docs/CodingStandards.html)
 
 ## Talks
