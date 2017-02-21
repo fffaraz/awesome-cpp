@@ -390,6 +390,8 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [reckless](https://github.com/mattiasflodin/reckless) - Low-latency, high-throughput, asynchronous logging library for C++. [MIT]
 * [spdlog](https://github.com/gabime/spdlog) - Super fast, header only, C++ logging library.
 * [templog](http://www.templog.org/) - A very small and lightweight C++ library which you can use to add logging to your C++ applications. [Boost]
+* [Log4cplus](https://github.com/log4cplus/log4cplus) - log4cplus is a simple to use C++ logging API providing thread-safe,
+flexible, and arbitrarily granular control over log management and configuration.  It is modeled after the Java log4j API.[Apache 2.0 && BSD]
 
 ## Machine Learning
 
