@@ -46,6 +46,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 	- [Build Systems](#build-systems)
 	- [Static Code Analysis](#static-code-analysis)
 	- [Coding Style Tools](#coding-style-tools)
+	- [Build scripts for mobile environements](#build-scripts-for-mobile-environments)
 - [Resources](#resources)
 	- [API Design](#api-design)
 	- [Articles](#articles)
@@ -686,6 +687,11 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [ClangFormat](http://clang.llvm.org/docs/ClangFormat.html) - A tool to format C/C++/Obj-C code.
 * [Clang-Tidy](http://clang.llvm.org/extra/clang-tidy.html) - Clang-based C++ linter tool.
 * [Uncrustify](https://github.com/bengardner/uncrustify) - Code beautifier.
+
+
+## Build Scripts Targeting Mobile Environments
+* [awesome-cpp-mobile](https://github.com/davidandreoletti/awesome-cpp-mobile) - A curated list of build scripts to compile C/C++ libraries for mobile environments
+
 
 # Resources
 *Various resources, such as books, websites, and articles for improving your C++ development skills and knowledge.*
