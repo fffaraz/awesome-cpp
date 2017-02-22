@@ -193,6 +193,8 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Thrust](http://thrust.github.io/) - A parallel algorithms library which resembles the C++ Standard Template Library (STL). [Apache2]
 * [HPX](https://github.com/STEllAR-GROUP/hpx/) - A general purpose C++ runtime system for parallel and distributed applications of any scale. [Boost]
 * [VexCL](https://github.com/ddemidov/vexcl) - A C++ vector expression template library for OpenCL/CUDA. [MIT]
+* [libcds](https://github.com/khizmax/libcds) - A C++ library of Concurrent Data Structures.
+* [ck](https://github.com/concurrencykit/ck) - Concurrency primitives, safe memory reclamation mechanisms and non-blocking (including lock-free) data structures designed to aid in the research, design and implementation of high performance concurrent systems.
 
 ## Containers
 
