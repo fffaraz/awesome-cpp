@@ -181,7 +181,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [ck](https://github.com/concurrencykit/ck) - Concurrency primitives, safe memory reclamation mechanisms and non-blocking data structures. [BSD]
 * [CUB](https://github.com/NVlabs/cub) - CUB provides state-of-the-art, reusable software components for every layer of the CUDA programming mode. [New BSD]
 * [C++React](https://github.com/schlangster/cpp.react) - A reactive programming library for C++11. [Boost]
-* [Intel TBB](https://www.threadingbuildingblocks.org/) - Intel® Threading Building Blocks. [GPL2 with runtime exception]
+* [Intel TBB](https://www.threadingbuildingblocks.org/) - Intel® Threading Building Blocks. [Apache2]
 * [junction](https://github.com/preshing/junction) - A library of concurrent data structures in C++. [BSD]
 * [libcds](https://github.com/khizmax/libcds) - A C++ library of Concurrent Data Structures. [BSD]
 * [Libclsph](https://github.com/libclsph/libclsph) - An OpenCL based GPU accelerated SPH fluid simulation library. [MIT]
