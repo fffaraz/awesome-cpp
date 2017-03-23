@@ -34,6 +34,7 @@
 * [Learn C++.](http://www.learncpp.com/) (PDF, Online)
 * [Matters Computational: Ideas, Algorithms, Source Code, by Jorg Arndt](http://www.jjj.de/fxt/fxtbook.pdf) (PDF)
 * [Open Data Structures (In C++)](http://opendatastructures.org/ods-cpp.pdf) (PDF)
+* [Programming Techniques in C++](https://github.com/rishirajsurti/Programming-Techniques-in-Cpp)
 * [Software Design Using C++](http://cis.stvincent.edu/html/tutorials/swd/) - Br. David Carlson and Br. Isidore Minerd
 * [Software optimization resources by Agner Fog](http://www.agner.org/optimize/)
 * [The Boost C++ libraries](http://en.highscore.de/cpp/boost)
