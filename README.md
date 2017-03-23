@@ -237,6 +237,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [MySQL++](http://www.tangentsoft.net/mysql++/) - A C++ wrapper for MySQL's C API. [LGPL]
 * [redis3m](https://github.com/luca3m/redis3m) - Wrapper of hiredis with clean C++ interface, supporting sentinel and ready to use patterns. [Apache2]
 * [RocksDB](https://github.com/facebook/rocksdb) - Embedded key-value store for fast storage from facebook. [BSD]
+* [SQLAPI++](http://www.sqlapi.com/) - A C++ library for accessing various SQL databases, uses native APIs. [Commercial]
 * [SQLite](http://www.sqlite.org/) - A completely embedded, full-featured relational database in a few 100k that you can include right into your project. [PublicDomain]
 * [upscaledb](https://upscaledb.com) - An embedded "typed" key/value store with a built-in query interface. [GPLv3]
 
@@ -522,6 +523,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 
 ## Web Application Framework
 
+* [Autobahn|Cpp](http://autobahn.ws/cpp/) - A C++ library that implements the Web Application Messaging Protocol (WAMP) for creating C++ components communicating with a WAMP router via Unix pipes. [Boost Software License]
 * [Civetweb](https://github.com/civetweb/civetweb) - Provides easy to use, powerful, C/C++ embeddable web server with optional CGI, SSL and Lua support. [MIT]
 * [CppCMS](http://cppcms.com/) - A Free High Performance Web Development Framework (not a CMS). [LGPLv3]
 * [Crow](https://github.com/ipkn/crow) - Crow is C++ micro web framework (inspired by Python Flask). [BSD]
