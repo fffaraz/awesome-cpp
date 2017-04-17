@@ -586,6 +586,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [SLRE](https://github.com/cesanta/slre) - Super Light Regexp engine for C/C++. [GPL2/Commercial]
 * [Stage](https://github.com/rtv/Stage) - Mobile robot simulator. [GPL2]
 * [stb](https://github.com/nothings/stb) - A range of single-file libraries for C/C++. [PublicDomain]
+* [tweeny](https://github.com/mobius3/tweeny) - A header only interpolation library with 30+ easing functions.
 * [ub-canaries](https://github.com/regehr/ub-canaries) - A collection of C/C++ programs that try to get compilers to exploit undefined behavior.
 * [VarTypes](https://code.google.com/p/vartypes/) - A feature-rich, object-oriented framework for managing variables in C++ / Qt4. [LGPL]
 * [ZBar](http://zbar.sourceforge.net/) - A barcode scanner library, which allows to scan photos/images/video streams for barcodes and return their value. [LGPL2]
