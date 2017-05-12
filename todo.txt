@@ -348,3 +348,13 @@ https://en.wikipedia.org/wiki/Math_Kernel_Library
 https://en.wikipedia.org/wiki/VTune
 https://en.wikipedia.org/wiki/List_of_performance_analysis_tools
 
+------------------------------------------------------------------------
+Torrent:
+https://github.com/libragnar/ragnar
+https://github.com/Rudde/mktorrent
+https://github.com/hrkfdn/hrktorrent
+https://github.com/rakshasa/rtorrent
+https://github.com/svn2github/libtorrent-rasterbar
+https://github.com/svn2github/libtorrent-rasterbar-trunk
+https://github.com/qbittorrent/qBittorrent
+https://github.com/svn2github/libtorrent-trunk
