@@ -358,3 +358,4 @@ https://github.com/svn2github/libtorrent-rasterbar
 https://github.com/svn2github/libtorrent-rasterbar-trunk
 https://github.com/qbittorrent/qBittorrent
 https://github.com/svn2github/libtorrent-trunk
+http://sourceforge.net/projects/libtorrent/files/libtorrent/
