@@ -240,8 +240,8 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [RocksDB](https://github.com/facebook/rocksdb) - Embedded key-value store for fast storage from facebook. [BSD]
 * [SimDB](https://github.com/LiveAsynchronousVisualizedArchitecture/simdb) - High performance, shared memory, lock free, cross platform, single file, minimal dependencies, C++11 key-value store [Apache2]
 * [SQLite](http://www.sqlite.org/) - A completely embedded, full-featured relational database in a few 100k that you can include right into your project. [PublicDomain]
+* [sqlite_modern_cpp](https://github.com/aminroosta/sqlite_modern_cpp) - Header only C++14 wrapper around sqlite library. [MIT]
 * [upscaledb](https://upscaledb.com) - An embedded "typed" key/value store with a built-in query interface. [GPLv3]
-* [sqlite_modern_cpp](https://github.com/aminroosta/sqlite_modern_cpp): Modern C++14, header only. [MIT]
 
 ## Debug
 *Debugging Libraries, Memory Leak and Resource Leak Detection, Unit Testing*
