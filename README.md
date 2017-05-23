@@ -570,6 +570,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [DynaPDF](http://www.dynaforms.com/) - An easy-to-use PDF generation library. [Commercial]
 * [gcc-poison](https://github.com/leafsr/gcc-poison) - A simple header file for developers to ban unsafe C/C++ functions from applications.
 * [HTTP Parser](https://github.com/nodejs/http-parser) :zap: - A http request/response parser for C. [MIT]
+* [Kangaru](https://github.com/gracicot/kangaru) - A dependency injection container for C++11 and C++14. [MIT]
 * [Klib](https://github.com/attractivechaos/klib) - Small and lightweight implementations of common algorithms and data structures. [MIT]
 * [libsigc++](http://libsigc.sourceforge.net/) - A typesafe callback system for standard C++. [LGPL]
 * [libcpuid](https://github.com/anrieff/libcpuid) - A small C library for x86 CPU detection and feature extraction. [BSD]
