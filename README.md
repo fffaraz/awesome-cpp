@@ -206,7 +206,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 *Cryptography and Encryption Libraries*
 
 * [Bcrypt](http://bcrypt.sourceforge.net/) - A cross platform file encryption utility. Encrypted files are portable across all supported operating systems and processors.
-* [BeeCrypt]()
+* [BeeCrypt](http://beecrypt.sourceforge.net/)
 * [Botan](http://botan.randombit.net/) - A crypto library for C++. [BSD-2]
 * [Crypto++](http://www.cryptopp.com/) - A free C++ class library of cryptographic schemes. [Boost]
 * [GnuPG](https://www.gnupg.org/) - A complete and free implementation of the OpenPGP standard. [GPL]
