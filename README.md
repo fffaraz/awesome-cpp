@@ -10,6 +10,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 	- [Biology](#biology)
 	- [BitTorrent](#bittorrent)
 	- [CLI](#cli)
+	- [Collaborative Data Structure](#collaborative-data-structure)
 	- [Compression](#compression)
 	- [Concurrency](#concurrency)
 	- [Containers](#containers)
@@ -151,6 +152,10 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
  * [Ncurses](http://invisible-island.net/ncurses/) - A terminal user interfaces. [MIT]
  * [termbox](https://github.com/nsf/termbox) - A C library for writing text-based user interfaces. [BSD]
 
+## Collaborative Data Structure
+
+ * [Flip] (http://irisate.com/go/flip/) - A  data model library, designed as a framework, real-time collaboration-oriented, transactional, portable and compact. [commercial]
+ 
 ## Compression
 *Compression and Archiving Libraries*
 
