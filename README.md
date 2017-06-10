@@ -678,6 +678,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [tundra](https://github.com/deplinenoise/tundra) - High-performance code build system designed to give the best possible incremental build times even for very large software projects.
 * [tup](http://gittup.org/tup/) - File-based build system that monitors in the background for changed files.
 * [Premake](http://premake.github.io) - A tool configured with a Lua script to generate project files for Visual Studio, GNU Make, Xcode, Code::Blocks, and more across Windows, Mac OS X, and Linux.
+* [Vcpkg](https://github.com/microsoft/vcpkg) - VC++ Packaging Tool for Windows.
 
 ## Static Code Analysis
 *List of tools for improving quality and reducing defects by code analysis*
