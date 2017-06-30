@@ -581,6 +581,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [libusb](http://www.libusb.org/) - A universal USB library which allows for portable access to USB devices. [LGPL2]
 * [Mach7](https://github.com/solodon4/Mach7) - A Pattern-matching library for C++. [BSD]
 * [PCRE](http://pcre.org/) - A regular expression C library inspired by the regular expression capabilities in Perl. [BSD]
+* [pdqsort](https://github.com/orlp/pdqsort) - Pattern-defeating quicksort. [zlib]
 * [RE2](https://github.com/google/re2) - A software library for regular expressions via a finite-state machine using automata theory.
 * [PHP-CPP](https://github.com/CopernicaMarketingSoftware/PHP-CPP) - A library to build PHP extensions with C++. [Apache2] [website](http://www.php-cpp.com/)
 * [Remote Call Framework](http://www.deltavsoft.com/) - Inter-process communication framework for C++. [GPL2/Commercial]
