@@ -593,7 +593,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [SLDR](https://github.com/cesanta/sldr) - Super Light DNS Resolver. [GPL2/Commercial]
 * [SLRE](https://github.com/cesanta/slre) - Super Light Regexp engine for C/C++. [GPL2/Commercial]
 * [Stage](https://github.com/rtv/Stage) - Mobile robot simulator. [GPL2]
-* [stb](https://github.com/nothings/stb) - A range of single-file libraries for C/C++. [PublicDomain]
+* [stb](https://github.com/nothings/stb) :zap: - A range of single-file libraries for C/C++. [PublicDomain]
 * [StrTk](http://www.partow.net/programming/strtk/index.html) - A C++ library consisting of high performance string processing routines. [MIT]
 * [ub-canaries](https://github.com/regehr/ub-canaries) - A collection of C/C++ programs that try to get compilers to exploit undefined behavior.
 * [VarTypes](https://code.google.com/p/vartypes/) - A feature-rich, object-oriented framework for managing variables in C++ / Qt4. [LGPL]
@@ -795,7 +795,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 
 * [lists](https://github.com/jnv/lists) - List of (awesome) lists curated on GitHub.
 * [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness.
-* [awesome](https://github.com/sindresorhus/awesome) - A curated list of awesome lists.
+* [awesome](https://github.com/sindresorhus/awesome) :zap: - A curated list of awesome lists.
 * [C++ links](https://github.com/MattPD/cpplinks) - A categorized list of C++ resources.
 * [Awesome C/C++](https://getawesomeness.herokuapp.com/get/cpp) - getAwesomeness()'s mirror.
 * [Awesome C/C++](https://cpp.libhunt.com/) - LibHunt's mirror.
@@ -808,6 +808,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [awesome-talks](https://github.com/JanVanRyswyck/awesome-talks) - A lot of screencasts, recordings of user group gatherings and conference talks.
 * [Projects](https://github.com/karan/Projects) - A list of practical projects that anyone can solve in any programming language.
 * [Awesome interview questions](https://github.com/MaximAbramchuck/awesome-interviews) - A list of lists of interview questions for the most popular technologies, including C/C++.
+* [nothings/single_file_libs](https://github.com/nothings/single_file_libs) :zap: - List of single-file C/C++ libraries.
 
 # Contributing
 Please see [CONTRIBUTING](https://github.com/fffaraz/awesome-cpp/blob/master/CONTRIBUTING.md) for details.
