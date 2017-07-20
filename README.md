@@ -53,6 +53,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 	- [Coding Style](#coding-style)
 	- [Videos](#videos)
 	- [Websites](#websites)
+	- [Man Pages](#man-pages)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
 
@@ -774,6 +775,11 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [C++ Quiz](http://q.viva64.com/) - C++ quiz in which you propose to find errors in code fragments of open source projects.
 * [Udemy C++ Courses and Tutorials](https://www.udemy.com/topic/C-plus-plus-tutorials/)
 * [C++ Hints](http://cpphints.com/) - Every business day hints about most often C/C++ mistakes and ways to solve them from PVS-Studio Team.
+
+## Man pages
+*Manual pages relating to C/C++ for POSIX-based systems.*
+
+* [stdman](https://github.com/jeaye/stdman) Formatted C++11/14 stdlib man pages (from cppreference).
 
 ## Weblogs
 *Useful C/C++ related weblogs.*
