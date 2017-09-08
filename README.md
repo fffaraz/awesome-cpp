@@ -426,6 +426,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [GLM](https://github.com/g-truc/glm) - Header-only C++ math library that matches and inter-operates with OpenGL's GLSL math. [MIT]
 * [GMTL](http://ggt.sourceforge.net/) - Graphics Math Template Library is a collection of tools implementing Graphics primitives in generalized ways. [GPL2]
 * [GMP](https://gmplib.org/) - A C/C++ library for arbitrary precision arithmetic, operating on signed integers, rational numbers, and floating-point numbers. [LGPL3 & GPL2]
+* [IntX](https://github.com/ron4fun/IntXLib4CPP) - A C++11 port of IntX arbitrary precision Integer library with speed, about O(N * log N) multiplication/division algorithms implementation.
 * [MIRACL](https://github.com/CertiVox/MIRACL) - A Multiprecision Integer and Rational Arithmetic Cryptographic Library. [AGPL]
 * [muparser](http://beltoforion.de/article.php?a=muparser) - muParser is an extensible high performance math expression parser library written in C++. [MIT]
 * [NT2](https://github.com/Mathieu-/nt2) - A SIMD-optimized numerical template library that provides an interface with MATLAB-like syntax. [Boost]
