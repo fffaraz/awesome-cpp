@@ -106,6 +106,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [CNTK](https://github.com/Microsoft/CNTK) - Microsoft Cognitive Toolkit (CNTK), an open source deep-learning toolkit. [Boost]
 * [tiny-dnn](https://github.com/tiny-dnn/tiny-dnn) - A header only, dependency-free deep learning framework in C++11. [BSD]
 * [Veles](https://github.com/Samsung/veles) - Distributed platform for rapid Deep learning application development. [Apache]
+* [Kaldi](https://github.com/kaldi-asr/kaldi) - Toolkit for speech recognition. [Apache] 
 
 ## Asynchronous Event Loop
 
