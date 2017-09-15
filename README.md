@@ -152,6 +152,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
  * [docopt.cpp](https://github.com/docopt/docopt.cpp) - A library to generate option parser from docstring. [MIT/Boost]
  * [gflags](https://gflags.github.io/gflags/) - Commandline flags module for C++. [BSD]
  * [Ncurses](http://invisible-island.net/ncurses/) - A terminal user interfaces. [MIT]
+ * [PDCurses](http://pdcurses.sourceforge.net/) - Public domain curses library with both source code and pre-compiled library available. [PublicDomain]
  * [termbox](https://github.com/nsf/termbox) - A C library for writing text-based user interfaces. [BSD]
 
 ## Compression
@@ -305,7 +306,6 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [QCustomPlot](http://qcustomplot.com/) - Qt plotting widget without further dependencies. [GPLv3]
 * [Qwt](http://qwt.sourceforge.net/) - Qt Widgets for Technical Applications. [Own based on LGPL]
 * [QwtPlot3D](http://qwtplot3d.sourceforge.net/) - A feature-rich Qt/OpenGL-based C++ programming library, providing essentially a bunch of 3D-widgets. [zlib]
-* [PDCurses](http://pdcurses.sourceforge.net/) - Public domain curses library with both source code and pre-compiled library available. [PublicDomain]
 * [Sciter](http://sciter.com/) - Sciter is an embeddable HTML/CSS/scripting engine aimed to be used as an UI layer of modern desktop applications. [Free/Commercial]
 * [wxWidgets](http://wxwidgets.org/) - A C++ library that lets developers create applications for Windows, Mac OS X, Linux and other platforms with a single code base. [Own LGPL]
 
@@ -472,6 +472,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [RakNet](https://github.com/OculusVR/RakNet) - A cross platform, open source, C++ networking engine for game programmers. [BSD]
 * [Silicon](http://siliconframework.org) - A high performance, middleware oriented C++14 http web framework. [MIT]
 * [Tufão](https://github.com/vinipsmaker/tufao) - An asynchronous web framework for C++ built on top of Qt. [LGPL2]
+* [wdt](https://github.com/facebook/wdt) - An embeddedable library (and command line tool) aiming to transfer data between 2 systems as fast as possible over multiple TCP paths. [BSD-3-Clause]
 * [WebSocket++](https://github.com/zaphoyd/websocketpp) - C++/Boost Asio based websocket client/server library. [BSD]
 
 ## Physics
