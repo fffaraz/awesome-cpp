@@ -152,7 +152,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
  * [docopt.cpp](https://github.com/docopt/docopt.cpp) - A library to generate option parser from docstring. [MIT/Boost]
  * [gflags](https://gflags.github.io/gflags/) - Commandline flags module for C++. [BSD]
  * [Ncurses](http://invisible-island.net/ncurses/) - A terminal user interfaces. [MIT]
- * [PDCurses](http://pdcurses.sourceforge.net/) - Public domain curses library with both source code and pre-compiled library available. [PublicDomain]
+ * [PDCurses](https://github.com/wmcbrine/PDCurses) - Public domain curses library with both source code and pre-compiled library available. [PublicDomain]
  * [termbox](https://github.com/nsf/termbox) - A C library for writing text-based user interfaces. [BSD]
 
 ## Compression
@@ -353,7 +353,6 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [IBM ICU](http://site.icu-project.org/) - A set of C/C++ and Java libraries providing Unicode and Globalization support. [ICU]
 * [libiconv](http://www.gnu.org/software/libiconv/) - An encoding conversion library between different character encodings. [GPL]
 * [utf8.h](https://github.com/sheredom/utf8.h) - Single header utf8 string functions for C and C++. [Unlicense]
-
 
 ## Inter-process communication
 
