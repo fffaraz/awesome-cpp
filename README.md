@@ -28,6 +28,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 	- [Math](#math)
 	- [Multimedia](#multimedia)
 	- [Networking](#networking)
+    - [PDF](#pdf)
 	- [Physics](#physics)
 	- [Robotics](#robotics)
 	- [Scientific Computing](#scientific-computing)
@@ -480,6 +481,12 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Tufão](https://github.com/vinipsmaker/tufao) - An asynchronous web framework for C++ built on top of Qt. [LGPL2]
 * [wdt](https://github.com/facebook/wdt) - An embeddedable library (and command line tool) aiming to transfer data between 2 systems as fast as possible over multiple TCP paths. [BSD-3-Clause]
 * [WebSocket++](https://github.com/zaphoyd/websocketpp) - C++/Boost Asio based websocket client/server library. [BSD]
+
+## PDF
+*Libraries for parsing and manipulating PDF documents.*
+
+* [libharu](https://github.com/libharu/libharu) - A free, cross platform, open-sourced software library for generating PDF. [zlib]
+* [MuPDF](https://mupdf.com/) - A lightweight PDF, XPS, and E-book viewer. [AGPL/Commercial]
 
 ## Physics
 *Dynamics simulation engines*
