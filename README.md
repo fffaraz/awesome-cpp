@@ -28,6 +28,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 	- [Math](#math)
 	- [Multimedia](#multimedia)
 	- [Networking](#networking)
+	- [PDF](#pdf)
 	- [Physics](#physics)
 	- [Robotics](#robotics)
 	- [Scientific Computing](#scientific-computing)
@@ -68,6 +69,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 ## Frameworks
 *C++ generic frameworks and libraries.*
 
+* [abseil-cpp](https://github.com/abseil/abseil-cpp) - Abseil C++ Common Libraries. [Apache2]
 * [Apache C++ Standard Library](http://stdcxx.apache.org/) - STDCXX, A collection of algorithms, containers, iterators, and other fundamental components. [retired] [Apache2]
 * [APR](http://apr.apache.org/) - Apache Portable Runtime. Another library of cross-platform utility functions. [Apache2]
 * [ASL](http://stlab.adobe.com/) - Adobe Source Libraries provides peer-reviewed and portable C++ source libraries. [MIT]
@@ -304,6 +306,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [libui](https://github.com/andlabs/libui) - Simple and portable (but not inflexible) GUI library in C that uses the native GUI technologies of each platform it supports. [MIT]
 * [MyGUI](http://mygui.info/) - Fast, flexible and simple GUI. [MIT]
 * [nana](http://nanapro.org/en-us/) - Nana is a cross-platform library for GUI programming in modern C++ style. [Boost]
+* [nuklear](https://github.com/vurtun/nuklear) - A single-header ANSI C gui library. [PublicDomain]
 * [QCustomPlot](http://qcustomplot.com/) - Qt plotting widget without further dependencies. [GPLv3]
 * [Qwt](http://qwt.sourceforge.net/) - Qt Widgets for Technical Applications. [Own based on LGPL]
 * [QwtPlot3D](http://qwtplot3d.sourceforge.net/) - A feature-rich Qt/OpenGL-based C++ programming library, providing essentially a bunch of 3D-widgets. [zlib]
@@ -377,6 +380,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [json](https://github.com/nlohmann/json) :zap: - JSON for Modern C++. [MIT]
 * [JSON++](https://github.com/hjiang/jsonxx) - A JSON parser in C++. [MIT]
 * [json.h](https://github.com/sheredom/json.h) - A simple one header/one source solution to parsing JSON in C and C++. [Unlicense]
+* [json-c](https://github.com/json-c/json-c) - A JSON implementation in C. [MIT]
 * [JsonCpp](https://github.com/open-source-parsers/jsoncpp) - A C++ library for interacting with JSON. [MIT]
 * [json-parser](https://github.com/udp/json-parser) - Very low footprint JSON parser written in portable ANSI C. [BSD]
 * [json11](https://github.com/dropbox/json11) - A tiny JSON library for C++11. [MIT]
@@ -398,6 +402,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Boost.Log](http://www.boost.org/doc/libs/1_56_0/libs/log/doc/html/index.html) - Designed to be very modular and extensible. [Boost]
 * [Easylogging++](https://github.com/easylogging/easyloggingpp) - Single header only, extremely light-weight high performance logging library for C++11 (or higher) applications. [MIT] [website](https://muflihun.github.io/easyloggingpp)
 * [G3log](https://github.com/KjellKod/g3log) - Asynchronous logger with Dynamic Sinks. [PublicDomain]
+* [glog](https://github.com/google/glog) - C++ implementation of the Google logging module.
 * [Log4cpp](http://log4cpp.sourceforge.net/) - A library of C++ classes for flexible logging to files, syslog, IDSA and other destinations. [LGPL]
 * [log4cplus](https://github.com/log4cplus/log4cplus) - A simple to use C++ logging API providing thread-safe, flexible, and arbitrarily granular control over log management and configuration. [BSD & Apache2]
 * [plog](https://github.com/SergiusTheBest/plog) - Portable and simple C++ logging library. [MPL2]
@@ -476,6 +481,12 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Tufão](https://github.com/vinipsmaker/tufao) - An asynchronous web framework for C++ built on top of Qt. [LGPL2]
 * [wdt](https://github.com/facebook/wdt) - An embeddedable library (and command line tool) aiming to transfer data between 2 systems as fast as possible over multiple TCP paths. [BSD-3-Clause]
 * [WebSocket++](https://github.com/zaphoyd/websocketpp) - C++/Boost Asio based websocket client/server library. [BSD]
+
+## PDF
+*Libraries for parsing and manipulating PDF documents.*
+
+* [libharu](https://github.com/libharu/libharu) - A free, cross platform, open-sourced software library for generating PDF. [zlib]
+* [MuPDF](https://mupdf.com/) - A lightweight PDF, XPS, and E-book viewer. [AGPL/Commercial]
 
 ## Physics
 *Dynamics simulation engines*

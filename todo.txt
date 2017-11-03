@@ -62,14 +62,12 @@ https://github.com/ellisonleao/magictools
 
 https://github.com/robbinfan/claire-protorpc
 https://github.com/chen3feng/typhoon-blade - Buildsystem
-http://industriousone.com/premake
 http://glm.g-truc.net/0.9.5/index.html - Math
 https://code.google.com/p/distcc/
 http://omniorb.sourceforge.net/
 http://www.h323plus.org/
 http://ufmod.sourceforge.net/
 https://github.com/almalk454/wGUI
-https://code.google.com/p/google-glog/
 http://www.cs.fsu.edu/~engelen/soap.html
 http://www.qt.io/
 https://github.com/broadinstitute/gamgee
@@ -87,7 +85,6 @@ https://github.com/Tuplanolla/cheat
 https://github.com/vgvassilev/cling
 
 https://github.com/Yelp/MOE
-https://github.com/cocos2d/cocos2d-x
 https://github.com/ideawu/ssdb
 https://github.com/cms-sw/cmssw
 
@@ -137,10 +134,8 @@ https://github.com/mozilla/mozjpeg
 https://github.com/tinfoilboy/Explodable
 https://github.com/thrust/thrust
 https://github.com/shaih/HElib
-https://github.com/philsquared/Catch
 https://github.com/jlnr/gosu
 https://github.com/rakshasa/libtorrent
-https://github.com/bittorrent/libutp
 https://github.com/vinniefalco/DSPFilters
 https://github.com/m-ou-se/moggle
 
@@ -169,7 +164,6 @@ https://github.com/alecthomas/entityx
 https://github.com/chenshuo/recipes
 https://github.com/HeliumProject/Helium
 https://github.com/lballabio/quantlib
-https://github.com/vczh/gac
 https://github.com/mosra/magnum
 https://github.com/imvu-open/istatd
 https://github.com/bytefish/libfacerec
@@ -203,7 +197,6 @@ https://github.com/zeromq/cppzmq
 https://github.com/bytefish/opencv
 https://github.com/treefrogframework/treefrog-framework
 https://github.com/jverkoey/liteqr
-https://github.com/protobuf-c/protobuf-c
 https://github.com/mli/parameter_server
 https://github.com/HSA-Libraries/Bolt
 https://github.com/iauns/cpm
@@ -221,8 +214,6 @@ https://github.com/watashi/AlgoSolution
 https://github.com/marioyc/Online-Judge-Solutions
 
 ----------------------------------------
-
-https://github.com/oclint/oclint
 
 https://github.com/TTimo/doom3.gpl
 https://github.com/phusion/passenger
@@ -243,8 +234,6 @@ https://github.com/clMathLibraries/clFFT
 https://github.com/simsong/tcpflow
 https://github.com/stealth/sshttp
 https://github.com/munificent/game-programming-patterns
-
-https://github.com/json-c/json-c
 
 ----------------------------------------
 
@@ -299,8 +288,6 @@ https://www.youtube.com/playlist?list=PL3R9mYgM4NVw4m0PTXBzQZBV2DzCt92Sp
 
 ----------------------------------------
 
-https://github.com/isocpp/CppCoreGuidelines
-https://github.com/lefticus/cppbestpractices
 https://github.com/dbohdan/compilers-targeting-c
 https://github.com/Microsoft/GSL
 https://github.com/scylladb/seastar
@@ -318,7 +305,6 @@ https://github.com/AnthonyCalandra/modern-cpp-features
 
 https://github.com/nothings/single_file_libs
 https://github.com/vurtun/mmx
-https://github.com/vurtun/nuklear
 https://github.com/richgel999/miniz
 https://github.com/johnezang/pithy
 
