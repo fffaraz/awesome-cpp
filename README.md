@@ -28,7 +28,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 	- [Math](#math)
 	- [Multimedia](#multimedia)
 	- [Networking](#networking)
-    - [PDF](#pdf)
+	- [PDF](#pdf)
 	- [Physics](#physics)
 	- [Robotics](#robotics)
 	- [Scientific Computing](#scientific-computing)
