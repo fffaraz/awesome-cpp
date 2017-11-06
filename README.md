@@ -413,6 +413,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 ## Machine Learning
 
 * [Caffe](https://github.com/BVLC/caffe) - A fast framework for neural networks. [BSD]
+* [Caffe2](https://github.com/caffe2/caffe2) - A lightweight, modular, and scalable deep learning framework. [Apache2] [website](https://caffe2.ai/)
 * [CCV](https://github.com/liuliu/ccv) - C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library. [BSD]
 * [Fido](https://github.com/FidoProject/Fido) - A highly-modular C++ machine learning library for embedded electronics and robotics. [MIT] [website](http://fidoproject.github.io/)
 * [MeTA](https://github.com/meta-toolkit/meta) - A modern C++ data sciences toolkit. [MIT] [website](https://meta-toolkit.org/)
