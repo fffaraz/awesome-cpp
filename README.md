@@ -30,7 +30,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 	- [Networking](#networking)
 	- [PDF](#pdf)
 	- [Physics](#physics)
-    - [Regular Expression](#regular-expression)
+	- [Regular Expression](#regular-expression)
 	- [Robotics](#robotics)
 	- [Scientific Computing](#scientific-computing)
 	- [Scripting](#scripting)
@@ -470,6 +470,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [cpr](https://github.com/whoshuu/cpr) - A modern C++ HTTP requests library with a simple but powerful interface. Modeled after the Python Requests module. [MIT] [website](https://whoshuu.github.io/cpr/)
 * [curlcpp](https://github.com/JosephP91/curlcpp) - An object oriented C++ wrapper for CURL(libcurl). [MIT]
 * [Dyad.c](https://github.com/rxi/dyad) - Asynchronous networking for C. [MIT]
+* [HTTP Parser](https://github.com/nodejs/http-parser) :zap: - A http request/response parser for C. [MIT]
 * [libcurl](http://curl.haxx.se/libcurl/) - Multiprotocol file transfer library. [MIT/X derivate license]
 * [libjingle](https://code.google.com/p/libjingle/) - Google talk voice and P2P interoperability library. [BSD]
 * [libquic](https://github.com/devsisters/libquic) - A QUIC protocol library extracted from Chromium's QUIC Implementation. [BSD]
@@ -606,7 +607,6 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [cxx-prettyprint](https://github.com/louisdx/cxx-prettyprint) - A pretty printing library for C++ containers. [Boost]
 * [DynaPDF](http://www.dynaforms.com/) - An easy-to-use PDF generation library. [Commercial]
 * [gcc-poison](https://github.com/leafsr/gcc-poison) - A simple header file for developers to ban unsafe C/C++ functions from applications.
-* [HTTP Parser](https://github.com/nodejs/http-parser) :zap: - A http request/response parser for C. [MIT]
 * [Kangaru](https://github.com/gracicot/kangaru) - A dependency injection container for C++11 and C++14. [MIT]
 * [Klib](https://github.com/attractivechaos/klib) - Small and lightweight implementations of common algorithms and data structures. [MIT]
 * [libsigc++](http://libsigc.sourceforge.net/) - A typesafe callback system for standard C++. [LGPL]
