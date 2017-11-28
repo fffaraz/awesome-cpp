@@ -153,6 +153,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
  * [Argh!](https://github.com/adishavit/argh) - A minimalist, frustration-free, header-only argument handler. [BSD]
  * [Taywee/args](https://github.com/taywee/args) - A simple header-only C++ argument parser library. [MIT]
  * [Boost.Program_options](http://www.boost.org/doc/libs/1_57_0/doc/html/program_options.html) - A library to obtain program options via conventional methods such as command line and config file. [Boost]
+ * [jarro2783/cxxopts](https://github.com/jarro2783/cxxopts) - Lightweight C++ command line option parser. [MIT]
  * [docopt.cpp](https://github.com/docopt/docopt.cpp) - A library to generate option parser from docstring. [MIT/Boost]
  * [gflags](https://gflags.github.io/gflags/) - Commandline flags module for C++. [BSD]
  * [Ncurses](http://invisible-island.net/ncurses/) - A terminal user interfaces. [MIT]
