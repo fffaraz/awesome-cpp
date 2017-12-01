@@ -714,7 +714,8 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 ## Build Systems
 
 * [Bazel](https:/bazel.build) - A multi-language, fast and scalable build system from Google. [Apache]
-* [Bear](https://github.com/rizsotto/Bear) - A tool to generate compilation database for clang tooling.
+* [Bear](https://github.com/rizsotto/Bear) - A tool to generate compilation database for clang tooling. [GPLv3]
+* [cget](https://github.com/pfultz2/cget) - Cmake package retrieval used to download and install cmake packages. [Boost]
 * [CMake](https://cmake.org/) - Cross-platform free and open-source software for managing the build process of software using a compiler-independent method. [BSD]
 * [C++ Archive Network](https://cppan.org/) - Cross-platform C++ Dependency Manager with a lot of packages available.
 * [Conan](https://conan.io/) - C/C++ Package Manager, open sourced. [MIT]
