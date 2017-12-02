@@ -493,6 +493,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Seasocks](https://github.com/mattgodbolt/seasocks) - Simple, small, C++ embeddable webserver with WebSockets support. [BSD]
 * [Silicon](http://siliconframework.org) - A high performance, middleware oriented C++14 http web framework. [MIT]
 * [Tufão](https://github.com/vinipsmaker/tufao) - An asynchronous web framework for C++ built on top of Qt. [LGPL2]
+* [uWebSockets](https://github.com/uNetworking/uWebSockets) - µWS is one of the most lightweight, efficient & scalable WebSocket & HTTP server implementations available. [Zlib]
 * [wdt](https://github.com/facebook/wdt) - An embeddedable library (and command line tool) aiming to transfer data between 2 systems as fast as possible over multiple TCP paths. [BSD-3-Clause]
 * [WebSocket++](https://github.com/zaphoyd/websocketpp) - C++/Boost Asio based websocket client/server library. [BSD]
 
@@ -549,6 +550,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [libffi](https://github.com/libffi/libffi) - A portable foreign-function interface library. [MIT] [website](https://sourceware.org/libffi/)
 * [Lua](http://www.lua.org/) - A minimal and fast scripting engine for configuration files and basic application scripting. [MIT]
 * [luacxx](https://github.com/dafrito/luacxx) - C++11 API for creating Lua bindings. [MIT]
+* [nbind](https://github.com/charto/nbind) - Magical headers that make your C++ library accessible from JavaScript. [MIT]
 * [pybind11](https://github.com/pybind/pybind11) - Seamless operability between C++11 and Python. [BSD]
 * [SIP](https://riverbankcomputing.com/software/sip/intro) - C/C++ Bindings Generator for Python v2 and v3. [GPL]
 * [SWIG](https://github.com/swig/swig) - A wrapper/interface Generator that let you link your c++ code to Javascript, Perl, PHP, Python, Tcl and Ruby. [GPL/Output not licensed] [website](http://www.swig.org/)
