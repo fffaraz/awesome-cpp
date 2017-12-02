@@ -173,7 +173,6 @@ https://github.com/gwaldron/osgearth
 https://github.com/xiw/stack
 https://github.com/mozy/mordor
 https://github.com/jeremyong/Selene
-https://github.com/cpputest/cpputest
 https://github.com/cppformat/cppformat
 https://github.com/otland/forgottenserver/tree/master/src
 https://github.com/matt-42/iod
