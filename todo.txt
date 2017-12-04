@@ -186,7 +186,6 @@ https://github.com/bytefish/opencv
 https://github.com/jverkoey/liteqr
 https://github.com/mli/parameter_server
 https://github.com/progschj/ThreadPool
-https://github.com/cameron314/readerwriterqueue
 https://github.com/antinucleon/cxxnet
 https://github.com/kylemcdonald/FaceTracker
 https://github.com/miguelmartin75/anax
