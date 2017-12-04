@@ -550,6 +550,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [FFTW](http://www.fftw.org/) - A C library for computing the DFT in one or more dimensions. [GPL]
 * [GSL](http://www.gnu.org/software/gsl/) - GNU scientific library. [GPL]
 * [Trilinos](https://github.com/trilinos/Trilinos) - High performance PDE solvers. [BSD]
+* [Torch](https://github.com/torch/torch7) - A scientific computing framework with wide support for machine learning algorithms that puts GPUs first. [BSD-3-Clause] [website](http://torch.ch/)
 
 ## Scripting
 
