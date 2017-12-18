@@ -786,7 +786,8 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [CppCon 2016 Presentation Materials](https://github.com/CppCon/CppCon2016) - CppCon 2016 Presentation Materials.
 * [CppCon 2015 Presentation Materials](https://github.com/CppCon/CppCon2015) - CppCon 2015 Presentation Materials.
 * [CppCon 2014 Presentation Materials](https://github.com/CppCon/CppCon2014) - CppCon 2014 Presentation Materials.
-* [C++Now 2016 Presentations](https://github.com/brycelelbach/cppnow_presentations_2016) - Presentation materials for C++Now 2016.
+* [C++Now 2017 Presentations](https://github.com/boostcon/cppnow_presentations_2017) - Presentation materials presented at C++Now 2017.
+* [C++Now 2016 Presentations](https://github.com/boostcon/cppnow_presentations_2016) - Presentation materials presented at C++Now 2016.
 * [C++Now 2015 Presentations](https://github.com/boostcon/cppnow_presentations_2015) - Presentation materials presented at C++Now 2015.
 * [C++Now 2014 Presentations](https://github.com/boostcon/cppnow_presentations_2014) - Presentation materials presented at C++Now 2014.
 * [C++Now 2013 Presentations](https://github.com/boostcon/cppnow_presentations_2013) - Presentation materials presented at C++Now 2013.
