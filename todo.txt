@@ -12,8 +12,9 @@
 * [MariaDB](https://mariadb.com/) - A robust, scalable and reliable SQL server, designed to be a drop-in replacement for MySQL. [BSD]
 * [PostgreSQL]() - A powerful object-relational database system. [PostgreSQL licence]
 * [Redis]() - An advanced key-value store. [3-clause BSD].
-* [SQLite]() - A self-contained, serverless, zero-configuration, transactional SQL database engine with a C interface. [Public domain]
 * [UnQLite]() - A self-contained, serverless, zero-configuration, transactional NoSQL engine with a C interface. [FreeBSD]
+
+http://www.cs.colorado.edu/~main/cs1300/doc/bgi/
 
 https://www.enlightenment.org/p.php?p=about/efl
 https://github.com/stefanct/sglib
@@ -27,8 +28,7 @@ http://faculty.euc.ac.cy/scharalambous/csc131/books/C%20book%201.pdf
 http://www.planetpdf.com/codecuts/pdfs/ooc.pdf
 http://www.codeproject.com/Articles/6154/Writing-Efficient-C-and-C-Code-Optimization
 
-
-====================
+---
 
 All libs in:
 https://github.com/Alexpux/MINGW-packages
@@ -50,27 +50,21 @@ https://github.com/psi-im/iris
 https://github.com/psi-im/jdns
 https://github.com/psi-im/libpsi
 
-https://github.com/CopernicaMarketingSoftware
-
-http://www.swig.org/
 
 QUIC & UDT
 
-====================
+----------------------------------------
 
 https://github.com/ellisonleao/magictools
 
 https://github.com/robbinfan/claire-protorpc
 https://github.com/chen3feng/typhoon-blade - Buildsystem
-http://industriousone.com/premake
 http://glm.g-truc.net/0.9.5/index.html - Math
-https://github.com/paulhodge/EASTL
 https://code.google.com/p/distcc/
 http://omniorb.sourceforge.net/
 http://www.h323plus.org/
 http://ufmod.sourceforge.net/
 https://github.com/almalk454/wGUI
-https://code.google.com/p/google-glog/
 http://www.cs.fsu.edu/~engelen/soap.html
 http://www.qt.io/
 https://github.com/broadinstitute/gamgee
@@ -87,13 +81,9 @@ http://isocpp.org/blog/2012/12/c11-a-cheat-sheet-alex-sinyakov
 https://github.com/Tuplanolla/cheat
 https://github.com/vgvassilev/cling
 
-https://github.com/BVLC/caffe
 https://github.com/Yelp/MOE
-https://github.com/cocos2d/cocos2d-x
 https://github.com/ideawu/ssdb
 https://github.com/cms-sw/cmssw
-
-http://tclap.sourceforge.net/
 
 http://sourceforge.net/projects/libcrn/
 
@@ -101,7 +91,7 @@ http://glm.g-truc.net/
 
 http://www.shoup.net/ntl/
 
-====================
+----------------------------------------
 
 http://www.efytimes.com/e1/fullnews.asp?edid=117053
 http://www.efytimes.com/e1/fullnews.asp?edid=123439
@@ -123,7 +113,7 @@ http://en.wikiversity.org/wiki/Introduction_to_C++
 
 http://blogs.msdn.com/b/nativeconcurrency/
 
-====================
+----------------------------------------
 
 http://en.wikipedia.org/wiki/Comparison_of_TLS_implementations
 
@@ -133,23 +123,19 @@ http://en.wikipedia.org/wiki/PolarSSL
 http://en.wikipedia.org/wiki/CyaSSL
 http://en.wikipedia.org/wiki/GnuTLS
 
-====================
+----------------------------------------
 
 https://github.com/mozilla/mozjpeg
 https://github.com/tinfoilboy/Explodable
 https://github.com/thrust/thrust
-https://github.com/chenshuo/muduo
 https://github.com/shaih/HElib
-https://github.com/philsquared/Catch
 https://github.com/jlnr/gosu
-https://github.com/rakshasa/libtorrent
-https://github.com/bittorrent/libutp
 https://github.com/vinniefalco/DSPFilters
 https://github.com/m-ou-se/moggle
 
 https://github.com/Hawstein/cracking-the-coding-interview
 
-====================
+----------------------------------------
 
 "libc++" C++ Standard Library
 http://libcxx.llvm.org/
@@ -161,25 +147,20 @@ https://github.com/blackberry/GamePlay
 https://github.com/apache/thrift
 https://github.com/biometrics/openbr
 https://github.com/MailCore/mailcore2
-https://github.com/zaphoyd/websocketpp
 https://github.com/beark/ftl
 https://github.com/opencog/opencog
-https://github.com/CopernicaMarketingSoftware/PHP-CPP
 https://github.com/GraphChi/graphchi-cpp
 https://github.com/webcoyote/coho
 https://github.com/facebook/fbthrift
 https://github.com/alecthomas/entityx
 https://github.com/chenshuo/recipes
 https://github.com/HeliumProject/Helium
-https://github.com/lballabio/quantlib
-https://github.com/vczh/gac
-https://github.com/mosra/magnum
 https://github.com/imvu-open/istatd
 https://github.com/bytefish/libfacerec
 https://github.com/esnme/ultramemcache
 https://github.com/simonask/fatso
 
-====================
+----------------------------------------
 
 https://github.com/Kosta-Github/http-cpp
 https://github.com/adafruit/Adafruit-GFX-Library
@@ -192,26 +173,19 @@ https://github.com/gwaldron/osgearth
 https://github.com/xiw/stack
 https://github.com/mozy/mordor
 https://github.com/jeremyong/Selene
-https://github.com/cpputest/cpputest
 https://github.com/cppformat/cppformat
 https://github.com/otland/forgottenserver/tree/master/src
 https://github.com/matt-42/iod
 https://github.com/geometer/FBReader
-https://github.com/easylogging/easyloggingpp
 https://github.com/lastfm/libmoost
 https://github.com/jscheiny/Streams
 https://github.com/lemire/FastPFor
 https://github.com/pennyliang/MachineLearning-C---code
 https://github.com/zeromq/cppzmq
 https://github.com/bytefish/opencv
-https://github.com/treefrogframework/treefrog-framework
 https://github.com/jverkoey/liteqr
-https://github.com/protobuf-c/protobuf-c
 https://github.com/mli/parameter_server
-https://github.com/HSA-Libraries/Bolt
-https://github.com/iauns/cpm
 https://github.com/progschj/ThreadPool
-https://github.com/cameron314/readerwriterqueue
 https://github.com/antinucleon/cxxnet
 https://github.com/kylemcdonald/FaceTracker
 https://github.com/miguelmartin75/anax
@@ -223,9 +197,7 @@ https://github.com/juj/MathGeoLib
 https://github.com/watashi/AlgoSolution
 https://github.com/marioyc/Online-Judge-Solutions
 
-====================
-
-https://github.com/oclint/oclint
+----------------------------------------
 
 https://github.com/TTimo/doom3.gpl
 https://github.com/phusion/passenger
@@ -234,10 +206,8 @@ https://github.com/ideawu/ssdb
 https://github.com/OpenNI/OpenNI
 https://github.com/ceph/ceph
 https://github.com/rescrv/HyperDex
-https://github.com/PointCloudLibrary/pcl
 https://github.com/libRocket/libRocket
 https://github.com/bro/bro
-https://github.com/bombela/backward-cpp
 https://github.com/Razor-qt/razor-qt
 https://github.com/ideawu/icomet
 https://github.com/gigablast/open-source-search-engine
@@ -246,3 +216,104 @@ https://github.com/clMathLibraries/clFFT
 https://github.com/simsong/tcpflow
 https://github.com/stealth/sshttp
 https://github.com/munificent/game-programming-patterns
+
+----------------------------------------
+
+http://libcxx.llvm.org/
+http://www.ijg.org/
+http://sourceforge.net/projects/libjpeg-turbo/
+http://libpng.org/
+http://www.math.sci.hiroshima-u.ac.jp/~m-mat/MT/MT2002/emt19937ar.html
+https://code.google.com/p/sfntly/
+http://www.netlib.org/fdlibm/
+
+----------------------------------------
+
+http://en.wikipedia.org/wiki/Category:C%2B%2B_libraries
+http://en.wikipedia.org/wiki/List_of_C%2B%2B_template_libraries
+
+----------------------------------------
+
+http://www.csie.ntu.edu.tw/~cjlin/liblinear/
+http://www.csie.ntu.edu.tw/~cjlin/libsvmtools/
+
+----------------------------------------
+
+https://cryptocoding.net/index.php/Coding_rules#Clean_memory_of_secret_data
+
+----------------------------------------
+
+https://www.youtube.com/watch?v=mVbDzTM21BQ
+
+http://en.wikibooks.org/wiki/Optimizing_C%2B%2B/Code_optimization
+http://en.wikibooks.org/wiki/Optimizing_C++/Code_optimization/Faster_operations
+
+https://mattmccutchen.net/bigint/
+https://code.google.com/p/infint/
+http://cpp-bigint.sourceforge.net/
+
+https://github.com/RuntimeCompiledCPlusPlus/RuntimeCompiledCPlusPlus
+
+----------------------------------------
+
+http://channel9.msdn.com/Series/C9-Lectures-Stephan-T-Lavavej-Core-C-
+http://channel9.msdn.com/Series/C9-Lectures-Stephan-T-Lavavej-Standard-Template-Library-STL-
+https://www.youtube.com/user/handmadeheroarchive/videos
+https://www.youtube.com/playlist?list=PL3R9mYgM4NVw4m0PTXBzQZBV2DzCt92Sp
+
+----------------------------------------
+
+https://github.com/dbohdan/compilers-targeting-c
+https://github.com/Microsoft/GSL
+https://github.com/scylladb/seastar
+https://github.com/google/zopfli
+https://github.com/WhisperSystems/libaxolotl-c
+
+http://gameprogrammingpatterns.com/
+
+https://github.com/bagder/c-ares
+
+http://www.yeppp.info/
+
+https://github.com/AnthonyCalandra/modern-cpp-features
+
+https://github.com/vurtun/mmx
+https://github.com/richgel999/miniz
+https://github.com/johnezang/pithy
+
+A simple Minecraft clone written in C using modern OpenGL (shaders).
+https://github.com/fogleman/Craft
+
+https://github.com/agauniyal/rang
+
+https://github.com/tomtom-international/cpp-dependencies
+
+https://github.com/inkooboo/thread-pool-cpp
+
+http://www-304.ibm.com/webapp/set2/sas/f/lopdiags/sdklop.html
+
+https://en.wikipedia.org/wiki/Integrated_Performance_Primitives
+https://en.wikipedia.org/wiki/Threading_Building_Blocks
+https://en.wikipedia.org/wiki/Intel_Parallel_Building_Blocks
+https://en.wikipedia.org/wiki/Intel_Array_Building_Blocks
+https://en.wikipedia.org/wiki/Cilk
+https://en.wikipedia.org/wiki/Concurrent_Collections
+https://en.wikipedia.org/wiki/Intel_Parallel_Studio
+https://en.wikipedia.org/wiki/Parallel_Patterns_Library
+https://en.wikipedia.org/wiki/Parallel_Extensions#Task_Parallel_Library
+https://en.wikipedia.org/wiki/OpenMP
+https://en.wikipedia.org/wiki/Math_Kernel_Library
+https://en.wikipedia.org/wiki/VTune
+https://en.wikipedia.org/wiki/List_of_performance_analysis_tools
+
+------------------------------------------------------------------------
+Torrent:
+https://github.com/libragnar/ragnar
+https://github.com/Rudde/mktorrent
+https://github.com/hrkfdn/hrktorrent
+https://github.com/rakshasa/rtorrent
+https://github.com/svn2github/libtorrent-rasterbar
+https://github.com/svn2github/libtorrent-rasterbar-trunk
+https://github.com/qbittorrent/qBittorrent
+https://github.com/svn2github/libtorrent-trunk
+http://sourceforge.net/projects/libtorrent/files/libtorrent/
