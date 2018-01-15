@@ -507,6 +507,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [VarTypes](https://code.google.com/p/vartypes/) - A feature-rich, object-oriented framework for managing variables in C++ / Qt4. [LGPL]
 * [ZBar](http://zbar.sourceforge.net/) - A barcode scanner library, which allows to scan photos/images/video streams for barcodes and return their value. [LGPL2]
 * [ZXing](https://github.com/zxing/zxing/) - An open-source, multi-format 1D/2D barcode image processing library implemented in Java, with ports to other languages. [Apache]
+* [cpp-subprocess](https://github.com/arun11299/cpp-subprocess) - A C++11 library(Linux/Mac) that almost works like python subprocess module. [MIT]
 
 # Software
 *Software for creating a development environment.*
