@@ -265,6 +265,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [SQLite](http://www.sqlite.org/) - A completely embedded, full-featured relational database in a few 100k that you can include right into your project. [PublicDomain]
 * [sqlite_modern_cpp](https://github.com/aminroosta/sqlite_modern_cpp) - Header only C++14 wrapper around sqlite library. [MIT]
 * [sqlite_orm](https://github.com/fnc12/sqlite_orm) - SQLite ORM light header only library for modern C++. [BSD-3-Clause]
+* [TileDB](https://github.com/TileDB-Inc/TileDB) - Fast Dense and Sparse Multidimensional Array DBMS. [MIT]
 * [upscaledb](https://upscaledb.com) - An embedded "typed" key/value store with a built-in query interface. [GPLv3]
 
 ## Debug
@@ -557,6 +558,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 
 * [FFTW](http://www.fftw.org/) - A C library for computing the DFT in one or more dimensions. [GPL]
 * [GSL](http://www.gnu.org/software/gsl/) - GNU scientific library. [GPL]
+* [TileDB](https://github.com/TileDB-Inc/TileDB) - Fast Dense and Sparse Multidimensional Array DBMS. [MIT]
 * [Trilinos](https://github.com/trilinos/Trilinos) - High performance PDE solvers. [BSD]
 * [Torch](https://github.com/torch/torch7) - A scientific computing framework with wide support for machine learning algorithms that puts GPUs first. [BSD-3-Clause] [website](http://torch.ch/)
 
