@@ -1,4 +1,4 @@
-# Awesome C/C++
+# Awesome C/C++ [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 A curated list of awesome C/C++ frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 
 - [Awesome C/C++](#awesome-cpp)
