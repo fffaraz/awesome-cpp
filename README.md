@@ -137,6 +137,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Speex](http://www.speex.org/) - A free codec for free speech. Obsoleted by Opus. [BSD]
 * [Tonic](https://github.com/TonicAudio/Tonic) - Easy and efficient audio synthesis in C++. [Unlicense]
 * [Vorbis](http://xiph.org/vorbis/) - Ogg Vorbis is a fully open, non-proprietary, patent-and-royalty-free, general-purpose compressed audio format. [BSD]
+* [minimp3](https://github.com/lieff/minimp3) - Public domain, header-only MP3 decoder with clean-room implementation. [CC0]
 
 ## Biology
 *Bioinformatics, Genomics, Biotech*
