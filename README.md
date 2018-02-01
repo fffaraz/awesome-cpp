@@ -1,7 +1,7 @@
-# Awesome C/C++ [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-A curated list of awesome C/C++ frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
+# Awesome C++ [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 
-- [Awesome C/C++](#awesome-cpp)
+- [Awesome C++](#awesome-cpp)
 	- [Standard Libraries](#standard-libraries)
 	- [Frameworks](#frameworks)
 	- [Artificial Intelligence](#artificial-intelligence)
@@ -292,7 +292,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [libtap](https://github.com/zorgnax/libtap) - Write tests in C. [GPL2]
 * [MemTrack](http://www.almostinfinite.com/memtrack.html) - Tracking memory allocations in C++.
 * [microprofile](https://bitbucket.org/jonasmeyer/microprofile/overview) - Profiler with web-view for multiple platforms. [PublicDomain]
-* [MinUnit](https://github.com/siu/minunit) - A minimal unit testing framework for C/C++ self-contained in a single header file. [MIT]
+* [MinUnit](https://github.com/siu/minunit) - A minimal unit testing framework for C self-contained in a single header file. [MIT]
 * [Mockator](http://www.mockator.com) - Eclipse CDT plug-in for C++ Seams and Mock Objects.
 * [Remotery](https://github.com/Celtoys/Remotery) - Single C File Profiler with Web Viewer. [Apache2]
 * [UnitTest++](https://github.com/unittest-cpp/unittest-cpp) - A lightweight unit testing framework for C++. [MIT/X Consortium license]
@@ -467,7 +467,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [ExprTK](http://www.partow.net/programming/exprtk/) - The C++ Mathematical Expression Toolkit Library (ExprTk) is a simple to use, easy to integrate and extremely efficient run-time mathematical expression parser and evaluation engine. [MIT]
 * [GLM](https://github.com/g-truc/glm) - Header-only C++ math library that matches and inter-operates with OpenGL's GLSL math. [MIT]
 * [GMTL](http://ggt.sourceforge.net/) - Graphics Math Template Library is a collection of tools implementing Graphics primitives in generalized ways. [GPL2]
-* [GMP](https://gmplib.org/) - A C/C++ library for arbitrary precision arithmetic, operating on signed integers, rational numbers, and floating-point numbers. [LGPL3 & GPL2]
+* [GMP](https://gmplib.org/) - A C library for arbitrary precision arithmetic, operating on signed integers, rational numbers, and floating-point numbers. [LGPL3 & GPL2]
 * [MIRACL](https://github.com/CertiVox/MIRACL) - A Multiprecision Integer and Rational Arithmetic Cryptographic Library. [AGPL]
 * [muparser](http://beltoforion.de/article.php?a=muparser) - muParser is an extensible high performance math expression parser library written in C++. [MIT]
 * [NT2](https://github.com/Mathieu-/nt2) - A SIMD-optimized numerical template library that provides an interface with MATLAB-like syntax. [Boost]
@@ -580,7 +580,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [luacxx](https://github.com/dafrito/luacxx) - C++11 API for creating Lua bindings. [MIT]
 * [nbind](https://github.com/charto/nbind) - Magical headers that make your C++ library accessible from JavaScript. [MIT]
 * [pybind11](https://github.com/pybind/pybind11) - Seamless operability between C++11 and Python. [BSD]
-* [SIP](https://riverbankcomputing.com/software/sip/intro) - C/C++ Bindings Generator for Python v2 and v3. [GPL]
+* [SIP](https://riverbankcomputing.com/software/sip/intro) - C or C++ Bindings Generator for Python v2 and v3. [GPL]
 * [SWIG](https://github.com/swig/swig) - A wrapper/interface Generator that let you link your c++ code to Javascript, Perl, PHP, Python, Tcl and Ruby. [GPL/Output not licensed] [website](http://www.swig.org/)
 * [V7](https://github.com/cesanta/v7) - An embedded JavaScript engine. [GPL2]
 * [V8](http://code.google.com/p/v8/) - A fast JavaScript engine by Google that can be embedded into any C++ application. [BSD]
@@ -591,7 +591,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [cereal](https://github.com/USCiLab/cereal) - A C++11 library for serialization. [BSD]
 * [cppcodec](https://github.com/tplgy/cppcodec) - Header-only C++11 library to encode/decode base64, base32 and hex with consistent, flexible API. [MIT]
 * [FlatBuffers](https://github.com/google/flatbuffers) - A Memory efficient serialization library. [Apache2]
-* [MessagePack](https://github.com/msgpack/msgpack-c) - Efficient binary serialization format "like JSON" for C/C++. [Apache2] [website](http://msgpack.org/)
+* [MessagePack](https://github.com/msgpack/msgpack-c) - Efficient binary serialization format "like JSON" for C and C++. [Apache2] [website](http://msgpack.org/)
 * [protobuf](https://github.com/google/protobuf) - Protocol Buffers - Google's data interchange format. [BSD]
 * [protobuf-c](https://github.com/protobuf-c/protobuf-c) - Protocol Buffers implementation in C. [BSD]
 * [SimpleBinaryEncoding](https://github.com/real-logic/simple-binary-encoding) - encoding and decoding application messages in binary format for low-latency applications. [Apache2]
@@ -685,7 +685,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 *Software for creating a development environment.*
 
 ## Compiler
-*List of C/C++ compilers*
+*List of C or C++ compilers*
 
 * [8cc](https://github.com/rui314/8cc) - A Small C Compiler.
 * [c](https://github.com/ryanmjacobs/c) - Compile and execute C "scripts" in one go! [MIT]
@@ -700,7 +700,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [TCC](http://bellard.org/tcc/) - Tiny C Compiler. [LGPL]
 
 ## Online Compiler
-*List of online C/C++ compilers*
+*List of online C or C++ compilers*
 
 * [codepad](http://codepad.org/) - An online compiler/interpreter, and a simple collaboration tool.
 * [CodeTwist](http://codetwist.com/) - A simple online compiler/interpreter, where you can paste your C, C++ or Java code and execute it online and see results.
@@ -713,7 +713,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Wandbox](http://melpon.org/wandbox/) - An online Clang/GCC compiler with Boost available.
 
 ## Debugger
-*List of C/C++ debuggers*
+*List of C or C++ debuggers*
 
 * [Comparison of debuggers](https://en.wikipedia.org/wiki/Comparison_of_debuggers) - A list of Debuggers from Wikipedia.
 * [GDB](https://www.gnu.org/software/gdb/) - GNU Debugger.
@@ -723,14 +723,14 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [x64dbg](http://x64dbg.com/) - An open-source x64/x32 debugger for windows.
 
 ## Integrated Development Environment
-*List of C/C++ nominal IDEs.*
+*List of C or C++ nominal IDEs.*
 
 * [Anjuta DevStudio](http://anjuta.org/) - The GNOME IDE. [GPL3]
 * [AppCode](http://www.jetbrains.com/objc/) - an IDE for Objective-C, C, C++, and JavaScript development built on JetBrains’ IntelliJ IDEA platform.
-* [Cevelop](https://www.cevelop.com) - Cross-platform C/C++ IDE based on Eclipse CDT with additional plug-ins.
-* [CLion](http://www.jetbrains.com/clion/) - Cross-platform C/C++ IDE from JetBrains.
+* [Cevelop](https://www.cevelop.com) - Cross-platform C and C++ IDE based on Eclipse CDT with additional plug-ins.
+* [CLion](http://www.jetbrains.com/clion/) - Cross-platform C and C++ IDE from JetBrains.
 * [Code::Blocks](http://www.codeblocks.org/) - A free C, C++ and Fortran IDE.
-* [CodeLite](http://codelite.org/) - Another cross-plaform, free C/C++ IDE. [GPL2 with an exception for plugins]
+* [CodeLite](http://codelite.org/) - Another cross-plaform, free C and C++ IDE. [GPL2 with an exception for plugins]
 * [color_coded](https://github.com/jeaye/color_coded) - A vim plugin for libclang-based highlighting. [MIT]
 * [Dev-C++](http://sourceforge.net/projects/orwelldevcpp/) - A portable C/C++/C++11 IDE.
 * [Eclipse CDT](http://www.eclipse.org/cdt/) - A fully functional C and C++ IDE based on the Eclipse platform.
@@ -795,7 +795,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Designing Qt-Style C++ APIs](https://doc.qt.io/archives/qq/qq13-apis.html)
 
 ## Articles
-*Fantastic C/C++ related articles.*
+*Fantastic C++ related articles.*
 
 * [CppCon 2017 Presentation Materials](https://github.com/CppCon/CppCon2017) - CppCon 2017 Presentation Materials.
 * [CppCon 2016 Presentation Materials](https://github.com/CppCon/CppCon2016) - CppCon 2016 Presentation Materials.
@@ -809,9 +809,9 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [C++Now 2012 Presentations](https://github.com/boostcon/cppnow_presentations_2012) - Presentation materials presented at C++Now 2012.
 
 ## Books
-*Fantastic C/C++ related books.*
+*Fantastic C or C++ related books.*
 
-* [List of Free C/C++ Books](https://github.com/fffaraz/awesome-cpp/blob/master/books.md)
+* [List of Free C or C++ Books](https://github.com/fffaraz/awesome-cpp/blob/master/books.md)
 * [Free C Books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#c) - vhf/free-programming-books/C.
 * [Free C++ Books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#c-1) - vhf/free-programming-books/C++.
 * [cppbestpractices](https://github.com/lefticus/cppbestpractices) - Collaborative Collection of C++ Best Practices.
@@ -833,9 +833,9 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Presentation on Hana for C++Now 2015](https://github.com/ldionne/hana-cppnow-2015)
 
 ## Videos
-*Fantastic C/C++ related videos.*
+*Fantastic C or C++ related videos.*
 
-* [List of C/C++ YouTube Videos](https://github.com/fffaraz/awesome-cpp/blob/master/videos.md)
+* [List of C or C++ YouTube Videos](https://github.com/fffaraz/awesome-cpp/blob/master/videos.md)
 * [Awesome C Programming Tutorials in Hi Def [HD]](https://www.youtube.com/playlist?list=PLCB9F975ECF01953C) - A collection of detailed C Programming Language Tutorials for Beginners and New Programmers.
 * [C++](https://www.youtube.com/playlist?list=PL2F919ADECA5E39A6) - by VoidRealms.
 * [C++ Qt Programming](https://www.youtube.com/playlist?list=PL2D1942A4688E9D63) - by VoidRealms.
@@ -846,7 +846,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Bo Qian's playlist](https://www.youtube.com/user/BoQianTheProgrammer/playlists) - Boost Library, C++ Standard Library, Modern C++, Advanced C++, Advanced STL, ...
 
 ## Websites
-*Useful C/C++ related websites.*
+*Useful C or C++ related websites.*
 
 * [Standard C++](https://isocpp.org/) :zap: - News, Status & Discussion about Standard C++.
 * [CppCon](http://cppcon.org/) - The C++ Conference.
@@ -859,11 +859,11 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Meeting C++](http://meetingcpp.com/)
 * [C++ Quiz](http://q.viva64.com/) - C++ quiz in which you propose to find errors in code fragments of open source projects.
 * [Udemy C++ Courses and Tutorials](https://www.udemy.com/topic/C-plus-plus-tutorials/)
-* [C++ Hints](http://cpphints.com/) - Every business day hints about most often C/C++ mistakes and ways to solve them from PVS-Studio Team.
+* [C++ Hints](http://cpphints.com/) - Every business day hints about most often C++ mistakes and ways to solve them from PVS-Studio Team.
 * [C++ tutorial](https://hackr.io/tutorials/learn-c-plus-plus) - A user ranked online tutorial bank site displaying multiple courses to learn C++ from.
 
 ## Weblogs
-*Useful C/C++ related weblogs.*
+*Useful C or C++ related weblogs.*
 
 * [Coding For Speed](https://codingforspeed.com/) - Coding For Speed DOT COM, Less Execution Time.
 * [Eric Niebler](http://ericniebler.com/)
@@ -877,7 +877,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 
 * [algorithms](https://github.com/xtaci/algorithms) - Algorithms & Data Structures in C++.
 * [c-algorithms](https://github.com/fragglet/c-algorithms) - C algorithms library.
-* [C/C++ Awesome Pack](https://github.com/JunianNet/CppAwesomePack) - Contains some awesome c++ codes, packed in one.
+* [C++ Awesome Pack](https://github.com/JunianNet/CppAwesomePack) - Contains some awesome c++ codes, packed in one.
 
 # Other Awesome Lists
 *Other amazingly awesome lists*
@@ -886,8 +886,8 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness.
 * [awesome](https://github.com/sindresorhus/awesome) :zap: - A curated list of awesome lists.
 * [C++ links](https://github.com/MattPD/cpplinks) - A categorized list of C++ resources.
-* [Awesome C/C++](https://getawesomeness.herokuapp.com/get/cpp) - getAwesomeness()'s mirror.
-* [Awesome C/C++](https://cpp.libhunt.com/) - LibHunt's mirror.
+* [Awesome C++](https://getawesomeness.herokuapp.com/get/cpp) - getAwesomeness()'s mirror.
+* [Awesome C++](https://cpp.libhunt.com/) - LibHunt's mirror.
 * [Awesome C](https://notabug.org/koz.ross/awesome-c) 1
 * [Awesome C](https://github.com/aleksandar-todorovic/awesome-c) 2
 * [AwesomePerfCpp](https://github.com/fenbf/AwesomePerfCpp) - A curated list of awesome C/C++ performance optimization resources.
@@ -897,7 +897,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [awesome-algorithms](https://github.com/tayllan/awesome-algorithms) - A curated list of awesome places to learn and/or practice algorithms.
 * [awesome-talks](https://github.com/JanVanRyswyck/awesome-talks) - A lot of screencasts, recordings of user group gatherings and conference talks.
 * [Projects](https://github.com/karan/Projects) - A list of practical projects that anyone can solve in any programming language.
-* [Awesome interview questions](https://github.com/MaximAbramchuck/awesome-interviews) - A list of lists of interview questions for the most popular technologies, including C/C++.
+* [Awesome interview questions](https://github.com/MaximAbramchuck/awesome-interviews) - A list of lists of interview questions for the most popular technologies, including C and C++.
 * [nothings/single_file_libs](https://github.com/nothings/single_file_libs) :zap: - List of single-file C/C++ libraries.
 
 # Contributing
