@@ -269,6 +269,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [sqlite_orm](https://github.com/fnc12/sqlite_orm) - SQLite ORM light header only library for modern C++. [BSD-3-Clause]
 * [TileDB](https://github.com/TileDB-Inc/TileDB) - Fast Dense and Sparse Multidimensional Array DBMS. [MIT] [website](https://tiledb.io/)
 * [upscaledb](https://upscaledb.com) - An embedded "typed" key/value store with a built-in query interface. [GPLv3]
+* [sqlite_orm](https://github.com/fnc12/sqlite_orm) - A powerful and header only ORM for sqlite for C++14
 
 ## Debug
 *Debugging Libraries, Memory Leak and Resource Leak Detection, Unit Testing*
