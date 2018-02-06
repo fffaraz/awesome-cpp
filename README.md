@@ -253,6 +253,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *Database Libraries, SQL Servers, ODBC Drivers, and Tools*
 
 * [hiberlite](https://github.com/paulftw/hiberlite) - C++ Object-relational mapping for sqlite3. [BSD]
+* [sqlite_orm](https://github.com/fnc12/sqlite_orm) - Powerful SQLite ORM light header only library for modern C++. [BSD]
 * [Hiredis](https://github.com/redis/hiredis) - A minimalistic C client library for the Redis database. [BSD]
 * [LevelDB](https://github.com/google/leveldb) - A fast key-value storage library written at Google that provides an ordered mapping from string keys to string values. [BSD]
 * [LMDB](http://symas.com/mdb/) - Very fast embedded key/value store with full ACID semantics. [OpenLDAP]
