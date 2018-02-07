@@ -554,7 +554,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [MRPT](http://www.mrpt.org/) - Mobile Robot Programming Toolkit. [BSD]
 * [PCL](https://github.com/PointCloudLibrary/pcl) - Point Cloud Library is a standalone, large scale, open project for 2D/3D image and point cloud processing [BSD] [website](http://www.pointclouds.org/)
 * [Robotics Library (RL)](http://www.roboticslibrary.org/) - A self-contained C++ library for robot kinematics, motion planning and control. [BSD]
-* [RobWork](http://www.robwork.dk/jrobwork/) - A collection of C++ libraries for simulation and control of robot systems. [Apache2]
+* [RobWork](http://www.robwork.dk/apidoc/nightly/rw/index.html) - A collection of C++ libraries for simulation and control of robot systems. [Apache2]
 * [ROS](http://wiki.ros.org/) - Robot Operating System provides libraries and tools to help software developers create robot applications. [BSD]
 
 ## Scientific Computing
