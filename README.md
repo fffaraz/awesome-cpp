@@ -880,7 +880,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 * [algorithms](https://github.com/xtaci/algorithms) - Algorithms & Data Structures in C++.
 * [c-algorithms](https://github.com/fragglet/c-algorithms) - C algorithms library.
-* [C++ Awesome Pack](https://github.com/JunianNet/CppAwesomePack) - Contains some awesome c++ codes, packed in one.
+* [C++ Awesome Pack](https://github.com/juniandotnet/cpp-awesome-pack) - Contains some awesome c++ codes, packed in one.
 
 # Other Awesome Lists
 *Other amazingly awesome lists*
