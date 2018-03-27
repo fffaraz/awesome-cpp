@@ -277,6 +277,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 ## Debug
 *Debugging Libraries, Memory Leak and Resource Leak Detection, Unit Testing*
 
+* [cut](https://github.com/horance-liu/cut) - Cut(C++ Unified Test Framework) is a simple xUnit implements in modern C++11. [MIT]
 * [backward-cpp](https://github.com/bombela/backward-cpp) - A beautiful stack trace pretty printer for C++. [MIT]
 * [benchmark](https://github.com/google/benchmark) - Google provided small microbenchmark support library. [Apache2]
 * [Boost.Test](http://www.boost.org/doc/libs/master/libs/test/doc/html/index.html) - Boost Test Library. [Boost]
