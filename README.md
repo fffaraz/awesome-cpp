@@ -610,7 +610,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ## Sorting
 
-* [Timsort](https://github.com/gfx/cpp-TimSort) - A templated stable sorting function which outperforms quicksort-based algorithms for reversed or semi-sorted data. [MIT]
+* [Timsort](https://github.com/gfx/cpp-TimSort) - A templated stable sorting function which outperforms quicksort-based algorithms including std::sort, for reversed or semi-sorted data. [MIT]
 
 ## Video
 
