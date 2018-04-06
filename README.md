@@ -223,11 +223,16 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ## Containers
 
+* [Colony](http://www.plflib.org/colony.htm) - An unordered "bag"-style container which outperforms std containers in high-modification scenarios while maintaining permanent pointers to non-erased elements regardless of insertion/erasure. [zLib]
 * [C++ B-tree](https://code.google.com/p/cpp-btree/) - A template library that implements ordered in-memory containers based on a B-tree data structure. [Apache2]
 * [Hashmaps](https://github.com/goossaert/hashmap) - Implementation of open addressing hash table algorithms in C++. [MIT]
 * [Hopscotch map](https://github.com/Tessil/hopscotch-map) - A fast header-only hash map which uses hopscotch hashing for collisions resolution. [MIT]
 * [LSHBOX](https://github.com/RSIA-LIESMARS-WHU/LSHBOX) - A c++ toolbox of locality-sensitive hashing (LSH), provides several popular LSH algorithms, also support Python and MATLAB. [GPL]
+* [plf::list](http://www.plflib.org/list.htm) - A std::list implementation which removes range splicing in order to enable cache-friendlier structure, yielding significant performance gains. [zLib]
+* [plf::stack](http://www.plflib.org/stack.htm) - A replacement container for the std::stack container adaptor, with better performance than any std container in a stack context. [zLib]
+* [ring_span lite](https://github.com/martinmoene/ring-span-lite) - A simplified implementation of Guy Davidson & Arthur O'dwyer's ring_span - a circular buffer view. [zLib]
 * [sparsepp](https://github.com/greg7mdp/sparsepp) - A fast, memory efficient hash map for C++. [BSD 3-clause]
+
 
 ## Cryptography
 *Cryptography and Encryption Libraries*
@@ -299,6 +304,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [microprofile](https://bitbucket.org/jonasmeyer/microprofile/overview) - Profiler with web-view for multiple platforms. [PublicDomain]
 * [MinUnit](https://github.com/siu/minunit) - A minimal unit testing framework for C self-contained in a single header file. [MIT]
 * [Mockator](http://www.mockator.com) - Eclipse CDT plug-in for C++ Seams and Mock Objects.
+* [Nanotimer](http://www.plflib.org/nanotimer.htm) - Lowest-overhead cross-platform microsecond-precision simple timer class for benchmarking. [zLib]
 * [Remotery](https://github.com/Celtoys/Remotery) - Single C File Profiler with Web Viewer. [Apache2]
 * [UnitTest++](https://github.com/unittest-cpp/unittest-cpp) - A lightweight unit testing framework for C++. [MIT/X Consortium license]
 * [utest.h](https://github.com/sheredom/utest.h) - Single header unit testing framework for C and C++. [Unlicense]
