@@ -35,6 +35,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 	- [Scientific Computing](#scientific-computing)
 	- [Scripting](#scripting)
 	- [Serialization](#serialization)
+	- [Sorting](#sorting)
 	- [Video](#video)
 	- [Virtual Machines](#virtual-machines)
 	- [Web Application Framework](#web-application-framework)
@@ -230,9 +231,8 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [LSHBOX](https://github.com/RSIA-LIESMARS-WHU/LSHBOX) - A c++ toolbox of locality-sensitive hashing (LSH), provides several popular LSH algorithms, also support Python and MATLAB. [GPL]
 * [plf::list](https://github.com/mattreecebentley/plf_list) - A std::list implementation which removes range splicing in order to enable cache-friendlier structure, yielding significant performance gains. [zLib] [website](http://www.plflib.org/list.htm)
 * [plf::stack](https://github.com/mattreecebentley/plf_stack) - A replacement container for the std::stack container adaptor, with better performance than any std container in a stack context. [zLib] [website](http://www.plflib.org/stack.htm)
-* [ring_span lite](https://github.com/martinmoene/ring-span-lite) - A simplified implementation of Guy Davidson & Arthur O'dwyer's ring_span - a circular buffer view. [MIT]
+* [ring_span lite](https://github.com/martinmoene/ring-span-lite) - A simplified implementation of Arthur O'Dwyer's ring_span implementation ie. a circular buffer view. [MIT]
 * [sparsepp](https://github.com/greg7mdp/sparsepp) - A fast, memory efficient hash map for C++. [BSD 3-clause]
-
 
 ## Cryptography
 *Cryptography and Encryption Libraries*
