@@ -316,6 +316,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Allegro](http://liballeg.org/) - A cross-platform library mainly aimed for video games and multimedia programming. [zlib]
 * [Cocos2d-x](http://www.cocos2d-x.org/) - A multi-platform framework for building 2d games, interactive books, demos and other graphical applications. [MIT]
 * [delta3d](http://sourceforge.net/projects/delta3d/) - A robust simulation platform. [LGPL2]
+* [EnTT](https://github.com/skypjack/entt) - Gaming meets modern C++. [MIT]
 * [GamePlay](https://github.com/gameplay3d/GamePlay) - A cross-platform native C++ game framework for creating 2D/3D mobile and desktop games. [Apache2]
 * [Godot](https://github.com/godotengine/godot) - A fully featured, open source, MIT licensed, game engine. [MIT]
 * [Grit](http://www.gritengine.com/) - Community project to build a free game engine for implementing open world 3D games. [MIT]
