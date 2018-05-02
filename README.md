@@ -613,6 +613,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [protobuf](https://github.com/google/protobuf) - Protocol Buffers - Google's data interchange format. [BSD]
 * [protobuf-c](https://github.com/protobuf-c/protobuf-c) - Protocol Buffers implementation in C. [BSD]
 * [SimpleBinaryEncoding](https://github.com/real-logic/simple-binary-encoding) - encoding and decoding application messages in binary format for low-latency applications. [Apache2]
+* [blob_tree](https://github.com/dicroce/blob_tree) - serialize / deserialize tree like heirarchies of blobs. [MIT]
 
 ## Sorting
 
