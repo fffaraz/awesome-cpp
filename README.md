@@ -97,6 +97,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [ROOT](https://root.cern.ch/) - A set of OO frameworks with all the functionality needed to handle and analyze large amounts of data in a very efficient way. Used at CERN. [LGPL]
 * [STLport](http://www.stlport.org/) - An exemplary version of STL. [Free]
 * [STXXL](http://stxxl.sourceforge.net/) - Standard Template Library for Extra Large Data Sets. [Boost]
+* [Switch](https://github.com/gammasoft71/Switch) :floppy_disk: - Native C++ port of .Net Framework on Windows, macOS, Linux, iOS and android. [MIT] [Switch website](https://gammasoft71.wixsite.com/Switch)
 * [tbox](https://github.com/tboox/tbox) - A glib-like multi-platform c library. [Apache2] [website](http://tboox.org/)
 * [Ultimate++](http://www.ultimatepp.org/) - A C++ cross-platform rapid application development framework. [BSD]
 * [uSTL](http://msharov.github.io/ustl/) - The small STL library. [MIT]
