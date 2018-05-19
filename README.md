@@ -166,6 +166,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
  * [jarro2783/cxxopts](https://github.com/jarro2783/cxxopts) - Lightweight C++ command line option parser. [MIT]
  * [docopt.cpp](https://github.com/docopt/docopt.cpp) - A library to generate option parser from docstring. [MIT/Boost]
  * [gflags](https://gflags.github.io/gflags/) - Commandline flags module for C++. [BSD]
+ * [libconfini](https://madmurphy.github.io/libconfini/) - A C library to parse configuration files [GPL]
  * [Ncurses](http://invisible-island.net/ncurses/) - A terminal user interfaces. [MIT]
  * [PDCurses](https://github.com/wmcbrine/PDCurses) - Public domain curses library with both source code and pre-compiled library available. [PublicDomain]
  * [replxx](https://github.com/AmokHuginnsson/replxx) - A readline and libedit replacement that supports UTF-8, syntax highlighting, hints, works on Unix and Windows. [BSD]
