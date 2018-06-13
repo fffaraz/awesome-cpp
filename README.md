@@ -773,7 +773,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ## Build Systems
 
-* [Bazel](https:/bazel.build) - A multi-language, fast and scalable build system from Google. [Apache]
+* [Bazel](https://bazel.build) - A multi-language, fast and scalable build system from Google. [Apache]
 * [Bear](https://github.com/rizsotto/Bear) - A tool to generate compilation database for clang tooling. [GPLv3]
 * [cget](https://github.com/pfultz2/cget) - Cmake package retrieval used to download and install cmake packages. [Boost]
 * [clib](https://github.com/clibs/clib) - Package manager for the C programming language. [MIT]
