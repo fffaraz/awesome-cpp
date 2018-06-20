@@ -314,6 +314,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 ## Game Engine
 
 * [Allegro](http://liballeg.org/) - A cross-platform library mainly aimed for video games and multimedia programming. [zlib]
+* [Banshee 3D](https://github.com/BearishSun/BansheeEngine) - Modern C++14 game engine with Vulkan support, fully featured editor and C# scripting. [LGPL3/Commercial]
 * [Cocos2d-x](http://www.cocos2d-x.org/) - A multi-platform framework for building 2d games, interactive books, demos and other graphical applications. [MIT]
 * [delta3d](http://sourceforge.net/projects/delta3d/) - A robust simulation platform. [LGPL2]
 * [EnTT](https://github.com/skypjack/entt) - Gaming meets modern C++. [MIT]
