@@ -725,6 +725,11 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Oracle Solaris Studio](http://www.oracle.com/technetwork/server-storage/solarisstudio/overview/index.html) - C, C++ and Fortran compiler for SPARC and x86. Supports C++11. Available on Linux and Solaris. [OTN Developer License]
 * [TCC](http://bellard.org/tcc/) - Tiny C Compiler. [LGPL]
 
+## Complete Environments
+*List of integrated environments to speedup the development*
+
+* [docker-cpp-env](https://hub.docker.com/r/madduci/docker-cpp-env/) - A Docker Image based on Alpine Linux, with gcc, cmake, cppcheck and conan [MIT]
+
 ## Online Compiler
 *List of online C or C++ compilers*
 
