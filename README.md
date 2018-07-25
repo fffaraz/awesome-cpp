@@ -14,6 +14,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 	- [Concurrency](#concurrency)
 	- [Containers](#containers)
 	- [Cryptography](#cryptography)
+	- [CSV](#csv)
 	- [Database](#database)
 	- [Debug](#debug)
 	- [Game Engine](#game-engine)
