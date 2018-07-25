@@ -259,6 +259,10 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Tiny AES in C](https://github.com/kokke/tiny-AES-c) - Small portable AES128/192/256 in C. [PublicDomain]
 * [Themis](https://github.com/cossacklabs/themis) - crypto library for painless data security, providing symmetric and asymmetric encryption, secure sockets with forward secrecy, for mobile and server platforms. [Apache2]
 
+## CSV
+
+* [Vince's CSV Parser](https://github.com/vincentlaucsb/csv-parser) - A fast, self-contained, streaming C++17 CSV parser with optional type-casting and statistics. [MIT]
+
 ## Database
 *Database Libraries, SQL Servers, ODBC Drivers, and Tools*
 
