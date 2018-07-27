@@ -140,6 +140,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Tonic](https://github.com/TonicAudio/Tonic) - Easy and efficient audio synthesis in C++. [Unlicense]
 * [Vorbis](http://xiph.org/vorbis/) - Ogg Vorbis is a fully open, non-proprietary, patent-and-royalty-free, general-purpose compressed audio format. [BSD]
 * [minimp3](https://github.com/lieff/minimp3) - Public domain, header-only MP3 decoder with clean-room implementation. [CC0]
+* [JUCE](https://github.com/WeAreROLI/JUCE) - Cross-platform C++ framework which includes audio and GUI. [Free for non-commercial/Commercial]
 
 ## Biology
 *Bioinformatics, Genomics, Biotech*
