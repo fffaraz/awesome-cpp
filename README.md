@@ -390,6 +390,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [DCMTK](http://dicom.offis.de/dcmtk.php.en) - DICOM Toolkit.
 * [GDCM](http://gdcm.sourceforge.net/wiki/index.php/Main_Page) - Grassroots DICOM library.
 * [ITK](http://www.itk.org/) - An open-source, cross-platform system for image analysis. [Apache2 from ITK 4.0]
+* [libgoimg](https://github.com/sugoiuguu/libgoimg) - A modular library with a lot of parallelisms between Go's image and color packages. [MIT]
 * [libvips](https://github.com/jcupitt/libvips) - A fast image processing library with low memory needs. [LGPL] [website](http://www.vips.ecs.soton.ac.uk/)
 * [Magick++](http://www.imagemagick.org/script/api.php) - ImageMagick program interfaces for C++. [Apache2]
 * [MagickWnd](http://www.imagemagick.org/script/api.php) - ImageMagick program interfaces for C. [Apache2]
