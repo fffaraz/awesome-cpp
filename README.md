@@ -617,6 +617,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 ## Serialization
 
 * [cereal](https://github.com/USCiLab/cereal) - A C++11 library for serialization. [BSD]
+* [cppbor](https://github.com/rantydave/cppbor) - A C++17 implementation of cbor (uses variants). [BSD]
 * [cppcodec](https://github.com/tplgy/cppcodec) - Header-only C++11 library to encode/decode base64, base32 and hex with consistent, flexible API. [MIT]
 * [FlatBuffers](https://github.com/google/flatbuffers) - A Memory efficient serialization library. [Apache2]
 * [MessagePack](https://github.com/msgpack/msgpack-c) - Efficient binary serialization format "like JSON" for C and C++. [Apache2] [website](http://msgpack.org/)
