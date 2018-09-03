@@ -54,6 +54,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 	- [Articles](#articles)
 	- [Books](#books)
 	- [Coding Style](#coding-style)
+	- [Talks](#talks)
 	- [Videos](#videos)
 	- [Websites](#websites)
 - [Other Awesome Lists](#other-awesome-lists)
