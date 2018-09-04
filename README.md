@@ -81,6 +81,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Cxxomfort](http://ryan.gulix.cl/fossil.cgi/cxxomfort/) - A small, header-only library that backports to C++03 some of the nifty C++11 goodies. [MIT]
 * [Dlib](https://github.com/davisking/dlib) :zap: - A general purpose cross-platform C++ library designed using contract programming and modern C++ techniques. [Boost] [website](http://dlib.net/)
 * [EASTL](https://github.com/electronicarts/EASTL) - Electronic Arts Standard Template Library. [BSD]
+* [ETL](https://github.com/ETLCPP/etl) - Embedded Template Library. [MIT]
 * [ffead-cpp](https://github.com/sumeetchhetri/ffead-cpp) - Framework for Enterprise Application Development. [Apache2]
 * [Folly](https://github.com/facebook/folly) - An open-source C++ library developed and used at Facebook. [Apache2]
 * [FunctionalPlus](https://github.com/Dobiasd/FunctionalPlus) - Functional Programming Library for C++. Write concise and readable C++ code. [MIT]
