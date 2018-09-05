@@ -54,6 +54,8 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 	- [Articles](#articles)
 	- [Books](#books)
 	- [Coding Style](#coding-style)
+	- [Podcasts](#podcasts)
+	- [Talks](#talks)
 	- [Videos](#videos)
 	- [Websites](#websites)
 - [Other Awesome Lists](#other-awesome-lists)
@@ -871,6 +873,10 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [GNU Coding Standard](http://www.gnu.org/prep/standards/standards.html)
 * [Linux kernel coding style](https://www.kernel.org/doc/Documentation/process/coding-style.rst)
 * [LLVM Coding Standards](http://llvm.org/docs/CodingStandards.html)
+
+## Podcasts
+
+* [CppCast](http://cppcast.com) - The first podcast by C++ developers for C++ developers.
 
 ## Talks
 
