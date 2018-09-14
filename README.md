@@ -715,6 +715,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [semver.c](https://github.com/h2non/semver.c) - A semver parser and render in ANSI C. [MIT]
 * [Serial Communication Library](https://github.com/wjwwood/serial) - Cross-platform, Serial Port library written in C++. [MIT]
 * [sigslot](http://sigslot.sourceforge.net/) - C++ Signal/Slot Library. [PublicDomain]
+* [SimpleSignal](https://github.com/larspensjo/SimpleSignal) - High performance C++11 signals. [PublicDomain]
 * [Stage](https://github.com/rtv/Stage) - Mobile robot simulator. [GPL2]
 * [stdman](https://github.com/jeaye/stdman) Formatted C++11/14 stdlib man pages (from cppreference). [MIT]
 * [stb](https://github.com/nothings/stb) :zap: - A range of single-file libraries for C/C++. [PublicDomain]
