@@ -168,7 +168,6 @@ https://github.com/lsegal/my_toy_compiler
 https://github.com/openexr/openexr
 https://github.com/google/snappy
 https://github.com/spesmilo/libbitcoin
-https://github.com/Amanieu/asyncplusplus
 https://github.com/gwaldron/osgearth
 https://github.com/xiw/stack
 https://github.com/mozy/mordor
