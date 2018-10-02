@@ -568,6 +568,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [libharu](https://github.com/libharu/libharu) - A free, cross platform, open-sourced software library for generating PDF. [zlib]
 * [MuPDF](https://mupdf.com/) - A lightweight PDF, XPS, and E-book viewer. [AGPL/Commercial]
 * [Poppler](https://poppler.freedesktop.org/) - Open-source multi-backend PDF rendering library based on the xpdf-3.0 code base. [GPLv2/GPLv3]
+* [Xpdf](https://www.xpdfreader.com/) - Xpdf is a free PDF viewer and toolkit, including a text extractor, image converter, HTML converter, and more. [GPL v2/GPL v3]
 
 ## Physics
 *Dynamics simulation engines*
