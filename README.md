@@ -26,6 +26,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 	- [Logging](#logging)
 	- [Machine Learning](#machine-learning)
 	- [Math](#math)
+	- [Memory Allocation](#memory-allocation)
 	- [Multimedia](#multimedia)
 	- [Networking](#networking)
 	- [PDF](#pdf)
@@ -519,6 +520,12 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Vc](https://github.com/VcDevel/Vc) - SIMD Vector Classes for C++. [BSD]
 * [Versor](http://versor.mat.ucsb.edu/) - A (fast) Generic C++ library for Geometric Algebras, including Euclidean, Projective, Conformal, Spacetime (etc).
 * [Wykobi](http://www.wykobi.com/) - A C++ library of efficient, robust and simple to use C++ 2D/3D oriented computational geometry routines. [MIT]
+
+## Memory Allocation
+
+* [Hoard](https://github.com/emeryberger/Hoard) - Fast, Scalable, and Memory-efficient Malloc for Linux, Windows, and Mac. [GPL, commercial] [website](http://hoard.org/)
+* [jemalloc](https://github.com/jemalloc/jemalloc) - General purpose malloc(3) implementation that emphasizes fragmentation avoidance and scalable concurrency support. [BSD] [website](http://jemalloc.net/)
+
 
 ## Multimedia
 
