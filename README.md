@@ -629,6 +629,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [JavaCpp](https://github.com/bytedeco/javacpp) - The missing bridge between Java and native C++. [Apache2]
 * [libffi](https://github.com/libffi/libffi) - A portable foreign-function interface library. [MIT] [website](https://sourceware.org/libffi/)
 * [Lua](http://www.lua.org/) - A minimal and fast scripting engine for configuration files and basic application scripting. [MIT]
+* [LuaBridge](https://github.com/vinniefalco/LuaBridge) - A lightweight, dependency-free library for binding Lua to C++. [MIT]
 * [luacxx](https://github.com/dafrito/luacxx) - C++11 API for creating Lua bindings. [MIT]
 * [nbind](https://github.com/charto/nbind) - Magical headers that make your C++ library accessible from JavaScript. [MIT]
 * [pybind11](https://github.com/pybind/pybind11) - Seamless operability between C++11 and Python. [BSD]
