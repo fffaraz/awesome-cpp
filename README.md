@@ -688,6 +688,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Expat](http://www.libexpat.org/) - An XML parser library written in C. [MIT]
 * [Libxml2](http://xmlsoft.org/) - The XML C parser and toolkit of Gnome. [MIT]
 * [libxml++](http://libxmlplusplus.sourceforge.net/) - An XML Parser for C++. [LGPL2]
+* [Mini-XML](https://github.com/michaelrsweet/mxml) - A small XML parsing library written in ANSI C. [LGPL2 with exceptions]
 * [PugiXML](http://pugixml.org/) - A light-weight, simple and fast XML parser for C++ with XPath support. [MIT]
 * [RapidXml](http://rapidxml.sourceforge.net/) - An attempt to create the fastest XML parser possible, while retaining useability, portability and reasonable W3C compatibility. [Boost]
 * [TinyXML](http://sourceforge.net/projects/tinyxml/) - A simple, small, minimal, C++ XML parser that can be easily integrating into other programs. [zlib]
