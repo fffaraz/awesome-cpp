@@ -151,6 +151,7 @@ https://github.com/beark/ftl
 https://github.com/opencog/opencog
 https://github.com/GraphChi/graphchi-cpp
 https://github.com/webcoyote/coho
+https://github.com/superkd37/cppworks
 https://github.com/facebook/fbthrift
 https://github.com/alecthomas/entityx
 https://github.com/chenshuo/recipes
