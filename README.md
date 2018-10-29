@@ -541,6 +541,7 @@ array expressions, inspired by NumPy syntax. [BSD 3-clause] [website](http://qua
 * [QtAv](https://github.com/wang-bin/QtAV) - A multimedia playback framework based on Qt and FFmpeg to write a player easily. [LGPL] [website](http://wang-bin.github.io/QtAV/)
 * [SDL](http://www.libsdl.org/) :zap: - Simple DirectMedia Layer. [zlib]
 * [SFML](https://github.com/SFML/SFML) :zap: - Simple and Fast Multimedia Library. [zlib] [website](http://www.sfml-dev.org/)
+* [TagLib](https://github.com/taglib/taglib) - A library for reading and editing the metadata of several popular audio formats. [LGPL/MPL] [website](https://taglib.org/)
 
 ## Networking
 
