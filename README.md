@@ -839,6 +839,7 @@ array expressions, inspired by NumPy syntax. [BSD 3-clause] [website](http://qua
 * [Premake](http://premake.github.io) - A tool configured with a Lua script to generate project files for Visual Studio, GNU Make, Xcode, Code::Blocks, and more across Windows, Mac OS X, and Linux.
 * [Vcpkg](https://github.com/microsoft/vcpkg) - VC++ Packaging Tool for Windows.
 * [waf](https://github.com/waf-project/waf) - Python-based framework for configuring, compiling and installing applications. [BSD] [website](https://waf.io/)
+* [XMake](https://xmake.io/) - A C/C++ cross-platform build utility based on Lua. [Apache]
 
 ## Static Code Analysis
 *List of tools for improving quality and reducing defects by code analysis*
