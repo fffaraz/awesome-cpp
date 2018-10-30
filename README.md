@@ -431,7 +431,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [gRPC](https://github.com/grpc/grpc) - A high performance, open source, general-purpose RPC framework. [BSD] [website](http://www.grpc.io/)
 * [libjson-rpc-cpp](https://github.com/cinemast/libjson-rpc-cpp) - JSON-RPC framework for C++ servers and clients. [MIT]
 * [nanomsg](https://github.com/nanomsg/nanomsg) - A simple high-performance implementation of several "scalability protocols". [MIT] [website](http://nanomsg.org/)
-* [nng](https://github.com/nanomsg/nng) - nanomsg-next-generation, a light-weight brokerless messaging library. [MIT] [website](https://nanomsg.github.io/nng/) 
+* [nng](https://github.com/nanomsg/nng) - nanomsg-next-generation, a light-weight brokerless messaging library. [MIT] [website](https://nanomsg.github.io/nng/)
 * [simple-rpc-cpp](https://github.com/pearu/simple-rpc-cpp) - A simple RPC wrapper generator to C/C++ functions. [BSD]
 * [WAMP](http://wamp.ws/) - Provides RPC and pub/sub messaging patterns. (various implementations, various languages)
 * [xmlrpc-c](http://xmlrpc-c.sourceforge.net/) - A lightweight RPC library based on XML and HTTP. [BSD]
@@ -523,7 +523,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Vc](https://github.com/VcDevel/Vc) - SIMD Vector Classes for C++. [BSD]
 * [Versor](http://versor.mat.ucsb.edu/) - A (fast) Generic C++ library for Geometric Algebras, including Euclidean, Projective, Conformal, Spacetime (etc).
 * [Wykobi](http://www.wykobi.com/) - A C++ library of efficient, robust and simple to use C++ 2D/3D oriented computational geometry routines. [MIT]
-* [xtensor](https://github.com/QuantStack/xtensor) - A C++14 library for numerical analysis with multi-dimensional 
+* [xtensor](https://github.com/QuantStack/xtensor) - A C++14 library for numerical analysis with multi-dimensional
 array expressions, inspired by NumPy syntax. [BSD 3-clause] [website](http://quantstack.net/xtensor)
 
 ## Memory Allocation
@@ -833,7 +833,7 @@ array expressions, inspired by NumPy syntax. [BSD 3-clause] [website](http://qua
 * [Ninja](https://ninja-build.org/) - A small build system with a focus on speed.
 * [Scons](http://www.scons.org/) - A software construction tool configured with a Python script.
 * [Sconsolidator](http://www.sconsolidator.com/) - Scons build system integration for Eclipse CDT.
-* [Spack](https://spack.io/) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers. [LGPLv2.1]
+* [Spack](https://spack.io/) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers. [Apache-2.0/MIT]
 * [tundra](https://github.com/deplinenoise/tundra) - High-performance code build system designed to give the best possible incremental build times even for very large software projects.
 * [tup](http://gittup.org/tup/) - File-based build system that monitors in the background for changed files.
 * [Premake](http://premake.github.io) - A tool configured with a Lua script to generate project files for Visual Studio, GNU Make, Xcode, Code::Blocks, and more across Windows, Mac OS X, and Linux.
