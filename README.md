@@ -659,6 +659,7 @@ array expressions, inspired by NumPy syntax. [BSD 3-clause] [website](http://qua
 * [protobuf](https://github.com/google/protobuf) - Protocol Buffers - Google's data interchange format. [BSD]
 * [protobuf-c](https://github.com/protobuf-c/protobuf-c) - Protocol Buffers implementation in C. [BSD]
 * [SimpleBinaryEncoding](https://github.com/real-logic/simple-binary-encoding) - encoding and decoding application messages in binary format for low-latency applications. [Apache2]
+* [upb](https://github.com/google/upb) - A small protobuf implementation in C. [BSD]
 * [YAS](https://github.com/niXman/yas) - Very fast **Y**et **A**nother **S**erialization library supports the binary/text/json formats. [Boost]
 
 ## Sorting
