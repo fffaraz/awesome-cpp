@@ -641,6 +641,7 @@ array expressions, inspired by NumPy syntax. [BSD 3-clause] [website](http://qua
 * [nbind](https://github.com/charto/nbind) - Magical headers that make your C++ library accessible from JavaScript. [MIT]
 * [pybind11](https://github.com/pybind/pybind11) - Seamless operability between C++11 and Python. [BSD]
 * [SIP](https://riverbankcomputing.com/software/sip/intro) - C or C++ Bindings Generator for Python v2 and v3. [GPL]
+* [sol2](https://github.com/ThePhD/sol2) - A C++ <-> Lua API wrapper with advanced features and top notch performance. [MIT]
 * [SWIG](https://github.com/swig/swig) - A wrapper/interface Generator that let you link your c++ code to Javascript, Perl, PHP, Python, Tcl and Ruby. [GPL/Output not licensed] [website](http://www.swig.org/)
 * [V7](https://github.com/cesanta/v7) - An embedded JavaScript engine. [GPL2]
 * [V8](http://code.google.com/p/v8/) - A fast JavaScript engine by Google that can be embedded into any C++ application. [BSD]
