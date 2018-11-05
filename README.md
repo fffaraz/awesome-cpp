@@ -175,6 +175,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
  * [docopt.cpp](https://github.com/docopt/docopt.cpp) - A library to generate option parser from docstring. [MIT/Boost]
  * [gflags](https://gflags.github.io/gflags/) - Commandline flags module for C++. [BSD]
  * [linenoise](https://github.com/antirez/linenoise) - A small self-contained alternative to readline and libedit. [BSD-2-Clause]
+ * [linenoise-ng](https://github.com/arangodb/linenoise-ng) - A small, portable GNU readline replacement for Linux, Windows and MacOS which is capable of handling UTF-8 characters. [BSD]
  * [Ncurses](http://invisible-island.net/ncurses/) - A terminal user interfaces. [MIT]
  * [PDCurses](https://github.com/wmcbrine/PDCurses) - Public domain curses library with both source code and pre-compiled library available. [PublicDomain]
  * [replxx](https://github.com/AmokHuginnsson/replxx) - A readline and libedit replacement that supports UTF-8, syntax highlighting, hints, works on Unix and Windows. [BSD]
