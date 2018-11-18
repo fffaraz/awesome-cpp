@@ -594,6 +594,7 @@ array expressions, inspired by NumPy syntax. [BSD 3-clause] [website](http://qua
 * [PoDoFo](http://podofo.sourceforge.net/) - A library to work with the PDF file format. [LGPL]
 * [Poppler](https://poppler.freedesktop.org/) - Open-source multi-backend PDF rendering library based on the xpdf-3.0 code base. [GPLv2/GPLv3]
 * [Xpdf](https://www.xpdfreader.com/) - Xpdf is a free PDF viewer and toolkit, including a text extractor, image converter, HTML converter, and more. [GPL v2/GPL v3]
+* [DynaPDF](http://www.dynaforms.com/) - An easy-to-use PDF generation library. [Commercial]
 
 ## Physics
 *Dynamics simulation engines*
@@ -732,7 +733,6 @@ array expressions, inspired by NumPy syntax. [BSD 3-clause] [website](http://qua
 * [QtVerbalExpressions](https://github.com/VerbalExpressions/QtVerbalExpressions) - This Qt lib is based off of the C++ VerbalExpressions library. [MIT]
 * [c-smart-pointers](https://github.com/Snaipe/libcsptr) - Smart pointers for the (GNU) C programming language. [MIT]
 * [cxx-prettyprint](https://github.com/louisdx/cxx-prettyprint) - A pretty printing library for C++ containers. [Boost]
-* [DynaPDF](http://www.dynaforms.com/) - An easy-to-use PDF generation library. [Commercial]
 * [gcc-poison](https://github.com/leafsr/gcc-poison) - A simple header file for developers to ban unsafe C/C++ functions from applications.
 * [Kangaru](https://github.com/gracicot/kangaru) - A dependency injection container for C++11 and C++14. [MIT]
 * [Klib](https://github.com/attractivechaos/klib) - Small and lightweight implementations of common algorithms and data structures. [MIT]
