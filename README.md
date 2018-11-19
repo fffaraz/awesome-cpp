@@ -378,6 +378,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ## Graphics
 
+* [assimp](https://github.com/assimp/assimp) - Open Asset Import Library (assimp) is a cross-platform 3D model import library which aims to provide a common API for different 3D asset file formats. [BSD-3-Clause] [website](http://www.assimp.org)
 * [bgfx](https://github.com/bkaradzic/bgfx) - A cross-platform rendering library. [BSD]
 * [bs::framework](https://github.com/GameFoundry/bsf) - Modern C++14 library for the development of real-time graphical applications. [MIT]
 * [Cairo](http://www.cairographics.org/) - A 2D graphics library with support for multiple output devices. [LGPL2 or Mozilla MPL]
