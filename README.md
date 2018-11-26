@@ -877,6 +877,7 @@ array expressions, inspired by NumPy syntax. [BSD 3-clause] [website](http://qua
 
 ## Coding Style Tools
 
+* [Artistic Style](http://astyle.sourceforge.net/) - A tool to format C/C++/C#/Obj-C/Java code. Also known as astyle.
 * [ClangFormat](http://clang.llvm.org/docs/ClangFormat.html) - A tool to format C/C++/Obj-C code.
 * [Clang-Tidy](http://clang.llvm.org/extra/clang-tidy.html) - Clang-based C++ linter tool.
 * [Uncrustify](https://github.com/bengardner/uncrustify) - Code beautifier.
