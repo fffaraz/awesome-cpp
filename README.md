@@ -129,6 +129,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [libev](http://libev.schmorp.de/) - A full-featured and high-performance event loop that is loosely modelled after libevent, but without its limitations and bugs. [BSD and GPL]
 * [libevent](http://libevent.org/) - An event notification library. [BSD]
 * [libuv](https://github.com/libuv/libuv) - Cross-platform asychronous I/O. [BSD]
+* [promise-cpp](https://github.com/xhawk18/promise-cpp) -  Header only library that implements Promise/A+ standard. [MIT]
 * [uvw](https://github.com/skypjack/uvw) - C++ wrapper for libuv. [MIT]
 
 ## Audio
