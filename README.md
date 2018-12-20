@@ -420,6 +420,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [OpenCV](http://opencv.org/) :zap: - Open source computer vision. [BSD]
 * [OpenEXR](http://www.openexr.com/) - Cross-platform library for high dynamic range imaging. [Modified BSDF]
 * [OpenImageIO](https://github.com/OpenImageIO/oiio) - Powerful image and texture wrangling library with support for a wide number of common lossy and RAW formats. [Modified BSD]
+* [Simd](https://github.com/ermig1979/Simd) - C++ image processing library with using of SIMD: SSE, SSE2, SSE3, SSSE3, SSE4.1, SSE4.2, AVX, AVX2, AVX-512, VMX(Altivec) and VSX(Power7), NEON for ARM. [MIT]
 * [stb-image](https://github.com/nothings/stb/blob/master/stb_image.h) - STB single-header image loading library. [Public Domain]
 * [tesseract-ocr](https://github.com/tesseract-ocr) - An OCR engine. [Apache2]
 * [TinyEXIF](https://github.com/cdcseacave/TinyEXIF) - Tiny ISO-compliant C++ EXIF and XMP parsing library for JPEG. [MIT]
