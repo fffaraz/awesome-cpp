@@ -132,6 +132,9 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [libevent](http://libevent.org/) - An event notification library. [BSD]
 * [libuv](https://github.com/libuv/libuv) - Cross-platform asychronous I/O. [BSD]
 * [uvw](https://github.com/skypjack/uvw) - C++ wrapper for libuv. [MIT]
+* [wangle](https://github.com/facebook/wangle/) - 
+Wangle is a framework providing a set of common client/server abstractions for building services in a consistent, modular, and composable way. [Apache 2.0]
+
 
 ## Audio
 *Audio, Sound, Music, Digitized Voice Libraries*
