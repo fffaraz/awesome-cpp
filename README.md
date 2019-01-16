@@ -771,7 +771,7 @@ array expressions, inspired by NumPy syntax. [BSD 3-clause] [website](http://qua
 * [libcpuid](https://github.com/anrieff/libcpuid) - A small C library for x86 CPU detection and feature extraction. [BSD]
 * [libevil](https://github.com/avati/libevil) - The Evil License Manager. [GPLv3]
 * [libnih](https://github.com/keybuk/libnih) - A lightweight library of C functions and structures. [GPL2.1]
-* [libusb](http://www.libusb.org/) - A universal USB library which allows for portable access to USB devices. [LGPL2]
+* [libusb](https://libusb.info/) - A universal USB library which allows for portable access to USB devices. [LGPL2]
 * [Mach7](https://github.com/solodon4/Mach7) - A Pattern-matching library for C++. [BSD]
 * [meta](https://github.com/skypjack/meta) - Header-only, non-intrusive and macro-free runtime reflection system in C++. [MIT]
 * [PEGTL](https://github.com/ColinH/PEGTL) - The Parsing Expression Grammar Template Library, a C++11 parser library. [MIT]
