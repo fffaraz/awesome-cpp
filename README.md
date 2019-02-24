@@ -641,6 +641,7 @@ array expressions, inspired by NumPy syntax. [BSD 3-clause] [website](http://qua
 
 * [CppVerbalExpressions](https://github.com/VerbalExpressions/CppVerbalExpressions) - C++ regular expressions made easy. [MIT]
 * [CTRE](https://github.com/hanickadot/compile-time-regular-expressions) - A Compile time PCRE (almost) compatible regular expression matcher. [MIT]
+* [Oniguruma](https://github.com/kkos/oniguruma) - A modern and flexible regular expressions library that supports a variety of character encodings. [BSD]
 * [PCRE](http://pcre.org/) - A regular expression C library inspired by the regular expression capabilities in Perl. [BSD]
 * [RE2](https://github.com/google/re2) - A software library for regular expressions via a finite-state machine using automata theory. [BSD-3-Clause]
 * [SLRE](https://github.com/cesanta/slre) - Super Light Regexp engine for C/C++. [GPLv2/Commercial]
