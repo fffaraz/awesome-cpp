@@ -200,7 +200,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [LZHAM](https://code.google.com/p/lzham/) - Lossless data compression library with a compression ratio similar to LZMA but with much faster decompression. [BSD]
 * [LZMA](http://www.7-zip.org/sdk.html) :zap: - The default and general compression method of 7z format. [PublicDomain]
 * [LZMAT](http://www.matcode.com/lzmat.htm) - An extremely fast real-time lossless data compression library. [GPL]
-* [miniz](https://code.google.com/p/miniz/) - Single C source file Deflate/Inflate compression library with zlib-compatible API, ZIP archive reading/writing, PNG writing. [Unlicense]
+* [miniz](https://github.com/richgel999/miniz) - Single C source file Deflate/Inflate compression library with zlib-compatible API, ZIP archive reading/writing, PNG writing. [MIT]
 * [Minizip](https://github.com/nmoinvaz/minizip) - Zlib with latest bug fixes that supports PKWARE disk spanning, AES encryption, and IO buffering. [zlib]
 * [smaz](https://github.com/antirez/smaz) - Small strings compression library. [BSD]
 * [Snappy](https://google.github.io/snappy/) - A fast compressor/decompressor. [BSD]
