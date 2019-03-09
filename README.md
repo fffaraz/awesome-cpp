@@ -487,6 +487,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [sajson](https://github.com/chadaustin/sajson) - Lightweight, extremely high-performance JSON parser for C++11. [MIT]
 * [ujson](https://bitbucket.org/awangk/ujson) - µjson is a a small, C++11, UTF-8, JSON library. [MIT]
 * [YAJL](https://github.com/lloyd/yajl) - A fast streaming JSON parsing library in C. [ISC]
+* [x2struct](https://github.com/xyz347/x2struct) - Convert between json/bson/xml/libconfig and c++ object. [Apache2]
 
 ## Logging
 
