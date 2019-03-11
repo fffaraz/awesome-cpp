@@ -1008,6 +1008,14 @@ array expressions, inspired by NumPy syntax. [BSD 3-clause] [website](http://qua
 * [Paul Fultz II's Blog](http://pfultz2.com/blog/)
 * [ridiculousfish](http://ridiculousfish.com/blog/posts/will-it-optimize.html) - Will It Optimize?
 * [Embedded in Academia](http://blog.regehr.org/)
+* [Simplify C++](https://arne-mertz.de/)
+* [Fluent C++](https://www.fluentcpp.com/) 
+* [Bartek's Coding Blog](https://www.bfilipek.com/?m=1)
+* [Kenny Kerr](https://kennykerr.ca/articles/)
+* [Sutter’s Mill](https://herbsutter.com/gotw/)
+* [thoughts on cpp](https://thoughts-on-cpp.com/)
+* [Vorbrodt's C++ Blog](https://vorbrodt.blog/)
+* [foonathan::blog()](https://foonathan.net/index.html)
 
 ## Other Awesome Projects
 *Collection of useful codes, snippets, ...*
