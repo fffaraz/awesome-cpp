@@ -607,6 +607,7 @@ array expressions, inspired by NumPy syntax. [BSD 3-clause] [website](http://qua
 * [POCO](https://github.com/pocoproject) :zap: - C++ class libraries and frameworks for building network- and internet-based applications that run on desktop, server, mobile and embedded systems. [Boost] [website](http://pocoproject.org/)
 * [Proxygen](https://github.com/facebook/proxygen) - Facebook's collection of C++ HTTP libraries including an easy to use HTTP server. [BSD]
 * [RakNet](https://github.com/OculusVR/RakNet) - A cross platform, open source, C++ networking engine for game programmers. [BSD]
+* [restclient-cpp](https://github.com/mrtazz/restclient-cpp) - Simple REST client for C++. It wraps libcurl for HTTP requests. [MIT]
 * [Seasocks](https://github.com/mattgodbolt/seasocks) - Simple, small, C++ embeddable webserver with WebSockets support. [BSD]
 * [Silicon](http://siliconframework.org) - A high performance, middleware oriented C++14 http web framework. [MIT]
 * [Tufão](https://github.com/vinipsmaker/tufao) - An asynchronous web framework for C++ built on top of Qt. [LGPL2]
