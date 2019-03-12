@@ -891,7 +891,7 @@ array expressions, inspired by NumPy syntax. [BSD 3-clause] [website](http://qua
 * [tundra](https://github.com/deplinenoise/tundra) - High-performance code build system designed to give the best possible incremental build times even for very large software projects.
 * [tup](http://gittup.org/tup/) - File-based build system that monitors in the background for changed files.
 * [Premake](http://premake.github.io) - A tool configured with a Lua script to generate project files for Visual Studio, GNU Make, Xcode, Code::Blocks, and more across Windows, Mac OS X, and Linux.
-* [Vcpkg](https://github.com/microsoft/vcpkg) - VC++ Packaging Tool for Windows.
+* [Vcpkg](https://github.com/microsoft/vcpkg) - C++ library manager for Windows, Linux, and MacOS. [MIT]
 * [waf](https://github.com/waf-project/waf) - Python-based framework for configuring, compiling and installing applications. [BSD] [website](https://waf.io/)
 * [XMake](https://xmake.io/) - A C/C++ cross-platform build utility based on Lua. [Apache]
 
