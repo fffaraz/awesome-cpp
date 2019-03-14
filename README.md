@@ -963,6 +963,7 @@ array expressions, inspired by NumPy syntax. [BSD 3-clause] [website](http://qua
 ## Podcasts
 
 * [CppCast](http://cppcast.com) - The first podcast by C++ developers for C++ developers.
+* [CppChat](cpp.chat) - A (sometimes) weekly look at what's going on in the world of C++ chatting with a guest from the community.
 
 ## Talks
 
