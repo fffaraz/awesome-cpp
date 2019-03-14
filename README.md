@@ -1024,6 +1024,7 @@ array expressions, inspired by NumPy syntax. [BSD 3-clause] [website](http://qua
 * [algorithms](https://github.com/xtaci/algorithms) - Algorithms & Data Structures in C++.
 * [c-algorithms](https://github.com/fragglet/c-algorithms) - C algorithms library.
 * [C++ Awesome Pack](https://github.com/juniandotnet/cpp-awesome-pack) - Contains some awesome c++ codes, packed in one.
+* [30 Seconds of C++](https://github.com/Bhupesh-V/30-seconds-of-cpp)
 
 # Other Awesome Lists
 *Other amazingly awesome lists*
