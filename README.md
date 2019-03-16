@@ -223,6 +223,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [CUB](https://github.com/NVlabs/cub) - CUB provides state-of-the-art, reusable software components for every layer of the CUDA programming mode. [New BSD]
 * [cupla](https://github.com/ComputationalRadiationPhysics/cupla) - C++ API to run CUDA/C++ on OpenMP, Threads, TBB, ... through Alpaka. [LGPLv3+]
 * [C++React](https://github.com/schlangster/cpp.react) - A reactive programming library for C++11. [Boost]
+* [EasyCL](https://github.com/architector1324/EasyCL) - An OpenCL based lightweight c++ computing library. [GPLv3]
 * [Intel Parallel STL](https://github.com/intel/parallelstl) - Intel® implementation of C++17 STL for C++11 and above. [Apache2]
 * [Intel TBB](https://www.threadingbuildingblocks.org/) - Intel® Threading Building Blocks. [Apache2]
 * [junction](https://github.com/preshing/junction) - A library of concurrent data structures in C++. [BSD]
