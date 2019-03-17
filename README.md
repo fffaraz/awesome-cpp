@@ -615,6 +615,7 @@ array expressions, inspired by NumPy syntax. [BSD 3-clause] [website](http://qua
 * [Seasocks](https://github.com/mattgodbolt/seasocks) - Simple, small, C++ embeddable webserver with WebSockets support. [BSD]
 * [Silicon](http://siliconframework.org) - A high performance, middleware oriented C++14 http web framework. [MIT]
 * [Tufão](https://github.com/vinipsmaker/tufao) - An asynchronous web framework for C++ built on top of Qt. [LGPL2]
+* [uriparser](https://github.com/uriparser/uriparser) - Strictly RFC 3986 compliant URI parsing and handling library. [BSD-3-Clause]
 * [uWebSockets](https://github.com/uNetworking/uWebSockets) - µWS is one of the most lightweight, efficient & scalable WebSocket & HTTP server implementations available. [Zlib]
 * [Wangle](https://github.com/facebook/wangle) - A client/server application framework to build asynchronous, event-driven modern C++ services. [Apache-2.0]
 * [wdt](https://github.com/facebook/wdt) - An embeddedable library (and command line tool) aiming to transfer data between 2 systems as fast as possible over multiple TCP paths. [BSD-3-Clause]
