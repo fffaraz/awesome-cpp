@@ -793,7 +793,7 @@ array expressions, inspired by NumPy syntax. [BSD 3-clause] [website](http://qua
 * [libusb](https://libusb.info/) - A universal USB library which allows for portable access to USB devices. [LGPL2]
 * [Mach7](https://github.com/solodon4/Mach7) - A Pattern-matching library for C++. [BSD]
 * [meta](https://github.com/skypjack/meta) - Header-only, non-intrusive and macro-free runtime reflection system in C++. [MIT]
-* [Nameof](https://github.com/Neargye/nameof) - Nameof operator for modern C++. [MIT]
+* [Nameof](https://github.com/Neargye/nameof) - A header only C++17 library provides nameof macros and functions to obtain the simple name of variable, type, function, macro and enum. [MIT]
 * [PEGTL](https://github.com/ColinH/PEGTL) - The Parsing Expression Grammar Template Library, a C++11 parser library. [MIT]
 * [PHP-CPP](https://github.com/CopernicaMarketingSoftware/PHP-CPP) - A library to build PHP extensions with C++. [Apache2] [website](http://www.php-cpp.com/)
 * [Remote Call Framework](http://www.deltavsoft.com/) - Inter-process communication framework for C++. [GPL2/Commercial]
