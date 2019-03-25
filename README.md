@@ -462,7 +462,6 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [simple-rpc-cpp](https://github.com/pearu/simple-rpc-cpp) - A simple RPC wrapper generator to C/C++ functions. [BSD]
 * [WAMP](http://wamp.ws/) - Provides RPC and pub/sub messaging patterns. (various implementations, various languages)
 * [xmlrpc-c](http://xmlrpc-c.sourceforge.net/) - A lightweight RPC library based on XML and HTTP. [BSD]
-* [ZeroMQ](http://zeromq.org/) - High-speed, modular asynchronous communication library. [LGPL]
 
 ## JSON
 
@@ -592,6 +591,7 @@ array expressions, inspired by NumPy syntax. [BSD 3-clause] [website](http://qua
 * [cpp-httplib](https://github.com/yhirose/cpp-httplib) - A single file C++11 header-only HTTP/HTTPS sever library. [MIT]
 * [cpp-netlib](http://cpp-netlib.org/) - A collection of open-source libraries for high level network programming. [Boost]
 * [cpp-netlib/uri](https://github.com/cpp-netlib/uri) - URI parser/builder library for C++, compatible with RFC 3986 and RFC 3987. [BSL-1.0]
+* [ZeroMQ](http://zeromq.org/bindings:cpp) - High-speed, modular asynchronous communication library. [LGPL]
 * [cpr](https://github.com/whoshuu/cpr) - A modern C++ HTTP requests library with a simple but powerful interface. Modeled after the Python Requests module. [MIT] [website](https://whoshuu.github.io/cpr/)
 * [curlcpp](https://github.com/JosephP91/curlcpp) - An object oriented C++ wrapper for CURL(libcurl). [MIT]
 * [Dyad.c](https://github.com/rxi/dyad) - Asynchronous networking for C. [MIT]
