@@ -607,6 +607,7 @@ array expressions, inspired by NumPy syntax. [BSD 3-clause] [website](http://qua
 * [libquic](https://github.com/devsisters/libquic) - A QUIC protocol library extracted from Chromium's QUIC Implementation. [BSD]
 * [libwebsockets](https://github.com/warmcat/libwebsockets) - A lightweight pure C WebSocket implementation that provides both client and server libraries. [LGPL2.1 + static link exception] [website](https://libwebsockets.org/)
 * [Mongoose](https://github.com/cesanta/mongoose) - Extremely lightweight webserver. [GPL2]
+* [MQTT-C](https://github.com/LiamBindle/MQTT-C) - A portable MQTT C client for embedded systems and PCs alike. [MIT] [website](https://liambindle.ca/MQTT-C)
 * [Muduo](https://github.com/chenshuo/muduo) - A C++ non-blocking network library for multi-threaded server in Linux. [BSD]
 * [nghttp2](https://github.com/nghttp2/nghttp2) - HTTP/2 C Library. [MIT] [website](https://nghttp2.org/)
 * [Onion](https://github.com/davidmoreno/onion) - HTTP server library in C designed to be lightweight and easy to use. [Apache2/GPL2]
