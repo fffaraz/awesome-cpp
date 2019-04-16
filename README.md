@@ -665,6 +665,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [CPFG](https://github.com/cpgf/cpgf) - A C++03 library for reflection, callback and script binding. [Apache2] [website](http://www.cpgf.org/)
 * [CPP-Reflection](https://github.com/AustinBrunkhorst/CPP-Reflection) - C++ Reflection using clang. [MIT]
 * [Magic Enum](https://github.com/Neargye/magic_enum) - Header-only C++17 library provides static reflection for enums (to string, from string, iteration), work with any enum type without any macro or boilerplate code. [MIT]
+* [meta](https://github.com/skypjack/meta) - Header-only, non-intrusive and macro-free runtime reflection system in C++. [MIT]
 * [Nameof](https://github.com/Neargye/nameof) - Header-only C++17 library provides nameof macros and functions to obtain the simple name of variable, type, function, macro, and enum. [MIT]
 * [Ponder](https://github.com/billyquith/ponder) - A C++11 library for reflection. [MIT]
 * [RTTR](https://github.com/rttrorg/rttr) - A C++11 library for reflection. [MIT] [website](http://www.rttr.org)
@@ -813,7 +814,6 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [libnih](https://github.com/keybuk/libnih) - A lightweight library of C functions and structures. [GPL2.1]
 * [libusb](https://libusb.info/) - A universal USB library which allows for portable access to USB devices. [LGPL2]
 * [Mach7](https://github.com/solodon4/Mach7) - A Pattern-matching library for C++. [BSD]
-* [meta](https://github.com/skypjack/meta) - Header-only, non-intrusive and macro-free runtime reflection system in C++. [MIT]
 * [mio](https://github.com/mandreyel/mio) - Cross-platform C++11 header-only library for memory mapped file IO. [MIT]
 * [PEGTL](https://github.com/ColinH/PEGTL) - The Parsing Expression Grammar Template Library, a C++11 parser library. [MIT]
 * [PHP-CPP](https://github.com/CopernicaMarketingSoftware/PHP-CPP) - A library to build PHP extensions with C++. [Apache2] [website](http://www.php-cpp.com/)
