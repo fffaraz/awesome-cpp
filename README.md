@@ -345,7 +345,9 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [VLD](http://vld.codeplex.com/) - Visual Leak Detector. A free, robust, open-source memory leak detection system for Visual C++.
 
 ## Electronic system-level (ESL) synthesis
+
 * [ParC](http://parallel.cc/cgi-bin/bfx.cgi/index1.html) - extensions to C++ for ESL
+* [VisualHDL](http://sysprogs.com/legacy/visualhdl/) - an integrated development environment (IDE) rapid design for FPGAs
 
 ## Game Engine
 
