@@ -823,7 +823,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [libusb](https://libusb.info/) - A universal USB library which allows for portable access to USB devices. [LGPL2]
 * [Mach7](https://github.com/solodon4/Mach7) - A Pattern-matching library for C++. [BSD]
 * [mio](https://github.com/mandreyel/mio) - Cross-platform C++11 header-only library for memory mapped file IO. [MIT]
-* [PEGTL](https://github.com/ColinH/PEGTL) - The Parsing Expression Grammar Template Library, a C++11 parser library. [MIT]
+* [PEGTL](https://github.com/taocpp/PEGTL) - The Parsing Expression Grammar Template Library. [MIT]
 * [Remote Call Framework](http://www.deltavsoft.com/) - Inter-process communication framework for C++. [GPL2/Commercial]
 * [Scintilla](http://scintilla.org/) - A free source code editing component. [MIT]
 * [SDS](https://github.com/antirez/sds) - Simple Dynamic Strings library for C. [BSD]
