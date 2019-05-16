@@ -1076,6 +1076,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Awesome C++](https://cpp.libhunt.com/) - LibHunt's mirror.
 * [Awesome C](https://notabug.org/koz.ross/awesome-c) 1
 * [Awesome C](https://github.com/aleksandar-todorovic/awesome-c) 2
+* [Awesome Modern C++](https://github.com/rigtorp/awesome-modern-cpp) - A collection of resources on modern C++.
 * [AwesomePerfCpp](https://github.com/fenbf/AwesomePerfCpp) - A curated list of awesome C/C++ performance optimization resources.
 * [free-programming-books](https://github.com/vhf/free-programming-books) - List of Freely Available Programming Books.
 * [Inqlude](http://inqlude.org/) - The Qt library archive.
