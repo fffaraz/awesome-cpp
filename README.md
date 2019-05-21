@@ -14,6 +14,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 	- [Concurrency](#concurrency)
 	- [Containers](#containers)
 	- [Cryptography](#cryptography)
+	- [CSV](#csv)
 	- [Database](#database)
 	- [Debug](#debug)
 	- [Game Engine](#game-engine)
@@ -286,6 +287,10 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Tink](https://github.com/google/tink) - A multi-language, cross-platform library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse. [Apache-2.0]
 * [Tiny AES in C](https://github.com/kokke/tiny-AES-c) - Small portable AES128/192/256 in C. [PublicDomain]
 * [Themis](https://github.com/cossacklabs/themis) - crypto library for painless data security, providing symmetric and asymmetric encryption, secure sockets with forward secrecy, for mobile and server platforms. [Apache2]
+
+## CSV
+
+* [Vince's CSV Parser](https://github.com/vincentlaucsb/csv-parser) - A fast, self-contained, streaming C++17 CSV parser with optional type-casting and statistics. [MIT]
 
 ## Database
 *Database Libraries, SQL Servers, ODBC Drivers, and Tools*
