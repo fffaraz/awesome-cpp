@@ -578,6 +578,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 ## Memory Allocation
 
 * [Boehm GC](https://github.com/ivmai/bdwgc) - Conservative garbage collector for C and C++. [similar to X11] [website](http://www.hboehm.info/gc/)
+* [C Smart Pointers](https://github.com/Snaipe/libcsptr) - Smart pointers for the (GNU) C programming language. [MIT]
 * [Hoard](https://github.com/emeryberger/Hoard) - Fast, Scalable, and Memory-efficient Malloc for Linux, Windows, and Mac. [GPL, commercial] [website](http://hoard.org/)
 * [jemalloc](https://github.com/jemalloc/jemalloc) - General purpose malloc(3) implementation that emphasizes fragmentation avoidance and scalable concurrency support. [BSD] [website](http://jemalloc.net/)
 * [memory](https://github.com/foonathan/memory) - STL compatible C++ memory allocator library. [ZLib]
@@ -819,7 +820,6 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [FastFormat](http://www.fastformat.org) - Fast, Safe C++ Formatting inspired by log4j and Pantheios [Simplified BSD]
 * [casacore](https://code.google.com/p/casacore/) - A set of c++ core libraries derived from aips++. [LGPL]
 * [QtVerbalExpressions](https://github.com/VerbalExpressions/QtVerbalExpressions) - This Qt lib is based off of the C++ VerbalExpressions library. [MIT]
-* [c-smart-pointers](https://github.com/Snaipe/libcsptr) - Smart pointers for the (GNU) C programming language. [MIT]
 * [cxx-prettyprint](https://github.com/louisdx/cxx-prettyprint) - A pretty printing library for C++ containers. [Boost]
 * [icecream-cpp](https://github.com/renatoGarcia/icecream-cpp) - A small printing library for debugging purposes. [MIT]
 * [gcc-poison](https://github.com/leafsr/gcc-poison) - A simple header file for developers to ban unsafe C/C++ functions from applications.
