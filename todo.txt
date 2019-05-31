@@ -85,8 +85,6 @@ https://github.com/cms-sw/cmssw
 
 http://sourceforge.net/projects/libcrn/
 
-http://glm.g-truc.net/
-
 http://www.shoup.net/ntl/
 
 ----------------------------------------
@@ -116,15 +114,12 @@ http://en.wikipedia.org/wiki/Comparison_of_TLS_implementations
 
 http://en.wikipedia.org/wiki/Cryptlib
 http://en.wikipedia.org/wiki/MatrixSSL
-http://en.wikipedia.org/wiki/PolarSSL
 http://en.wikipedia.org/wiki/CyaSSL
-http://en.wikipedia.org/wiki/GnuTLS
 
 ----------------------------------------
 
 https://github.com/mozilla/mozjpeg
 https://github.com/tinfoilboy/Explodable
-https://github.com/thrust/thrust
 https://github.com/shaih/HElib
 https://github.com/jlnr/gosu
 https://github.com/vinniefalco/DSPFilters
