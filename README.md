@@ -590,6 +590,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [jemalloc](https://github.com/jemalloc/jemalloc) - General purpose malloc(3) implementation that emphasizes fragmentation avoidance and scalable concurrency support. [BSD] [website](http://jemalloc.net/)
 * [memory](https://github.com/foonathan/memory) - STL compatible C++ memory allocator library. [ZLib]
 * [memory-allocators](https://github.com/mtrebi/memory-allocators) - Custom memory allocators to improve the performance of dynamic memory allocation. [MIT]
+* [mimalloc](https://github.com/microsoft/mimalloc) - A compact general purpose allocator with excellent performance. [MIT]
 
 ## Multimedia
 
