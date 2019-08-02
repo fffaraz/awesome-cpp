@@ -17,6 +17,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 	- [CSV](#csv)
 	- [Database](#database)
 	- [Debug](#debug)
+	- [Electronic system-level (ESL) synthesis](#esl)
 	- [Game Engine](#game-engine)
 	- [GUI](#gui)
 	- [Graphics](#graphics)
@@ -359,6 +360,11 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Unity](https://github.com/ThrowTheSwitch/Unity) - Simple Unit Testing for C. [MIT]
 * [utest.h](https://github.com/sheredom/utest.h) - Single header unit testing framework for C and C++. [Unlicense]
 * [VLD](http://vld.codeplex.com/) - Visual Leak Detector. A free, robust, open-source memory leak detection system for Visual C++.
+
+## Electronic system-level (ESL) synthesis
+
+* [ParC](http://parallel.cc/cgi-bin/bfx.cgi/index1.html) - extensions to C++ for ESL
+* [VisualHDL](http://sysprogs.com/legacy/visualhdl/) - an integrated development environment (IDE) rapid design for FPGAs
 
 ## Game Engine
 
