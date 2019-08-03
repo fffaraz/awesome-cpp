@@ -17,6 +17,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 	- [CSV](#csv)
 	- [Database](#database)
 	- [Debug](#debug)
+    - [Font](#font)
 	- [Game Engine](#game-engine)
 	- [GUI](#gui)
 	- [Graphics](#graphics)
@@ -359,6 +360,13 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Unity](https://github.com/ThrowTheSwitch/Unity) - Simple Unit Testing for C. [MIT]
 * [utest.h](https://github.com/sheredom/utest.h) - Single header unit testing framework for C and C++. [Unlicense]
 * [VLD](http://vld.codeplex.com/) - Visual Leak Detector. A free, robust, open-source memory leak detection system for Visual C++.
+
+## Font
+*Libraries for parsing and manipulating font files.*
+
+* [Fontconfig](https://gitlab.freedesktop.org/fontconfig/fontconfig) - Font configuration and customization library. [MIT] [website](https://www.freedesktop.org/wiki/Software/fontconfig/)
+* [FreeType](https://www.freetype.org/) - FreeType is a freely available software library to render fonts. [FTL & GPLv2]
+* [otfcc](https://github.com/caryll/otfcc) - A C library and utility used for parsing and writing OpenType font files. [Apache-2.0]
 
 ## Game Engine
 
