@@ -12,12 +12,13 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 	- [CLI](#cli)
 	- [Compression](#compression)
 	- [Concurrency](#concurrency)
+	- [Configuration](#configuration)
 	- [Containers](#containers)
 	- [Cryptography](#cryptography)
 	- [CSV](#csv)
 	- [Database](#database)
 	- [Debug](#debug)
-    - [Font](#font)
+	- [Font](#font)
 	- [Game Engine](#game-engine)
 	- [GUI](#gui)
 	- [Graphics](#graphics)
@@ -251,6 +252,14 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [HPX](https://github.com/STEllAR-GROUP/hpx/) - A general purpose C++ runtime system for parallel and distributed applications of any scale. [Boost]
 * [VexCL](https://github.com/ddemidov/vexcl) - A C++ vector expression template library for OpenCL/CUDA. [MIT]
 * [Quantum](https://github.com/bloomberg/quantum) - A powerful C++ coroutine dispatcher framework built on top of [boost::coroutines2](https://www.boost.org/doc/libs/1_65_0/libs/coroutine2/doc/html/index.html).
+
+## Configuration
+*Configuration files, INI files*
+
+* [inih](https://github.com/benhoyt/inih) - Simple .INI file parser in C, good for embedded systems. [BSD-3-Clause]
+* [iniparser](https://github.com/ndevilla/iniparser) - INI file parser. [MIT]
+* [libconfuse](https://github.com/martinh/libconfuse) - Small configuration file parser library for C. [ISC]
+* [simpleini](https://github.com/brofield/simpleini) - Cross-platform C++ library providing a simple API to read and write INI-style configuration files. [MIT]
 
 ## Containers
 
