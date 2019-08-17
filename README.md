@@ -163,6 +163,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [BioC++](http://biocpp.sourceforge.net/) - C++ Computational Libraries for Bioinformatics. [BSD]
 * [Chaste](http://www.cs.ox.ac.uk/chaste/) - An open source C++ library for the computational simulation of mathematical models developed for physiology and biology. [BSD]
 * [libsequence](http://molpopgen.github.io/libsequence/) - A C++ library for representing and analyzing population genetics data. [GPL]
+* [PhysiCell](https://github.com/MathCancer/PhysiCell) - Framework for building agent-based multicellular models in 3-D tissue environments. [BSD/3-clause]
 * [SeqAn](http://www.seqan.de/) - Algorithms and data structures for the analysis of sequences with the focus on biological data. [BSD/3-clause]
 * [Vcflib](https://github.com/ekg/vcflib) - A C++ library for parsing and manipulating VCF files. [MIT]
 * [Wham](https://github.com/zeeev/wham) - Structural variants (SVs) in Genomes by directly applying association tests to BAM files. [MIT]
