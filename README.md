@@ -567,6 +567,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [PCRE](http://pcre.org/) - A regular expression C library inspired by the regular expression capabilities in Perl. [BSD]
 * [RE2](https://github.com/google/re2) - A software library for regular expressions via a finite-state machine using automata theory. [BSD-3-Clause]
 * [SLRE](https://github.com/cesanta/slre) - Super Light Regexp engine for C/C++. [GPLv2/Commercial]
+* [SRL-CPP](https://github.com/ron4fun/SRL-CPP) - It is a Simple Regex Language builder library written in C++11 that provides an easy to use interface for constructing both simple and complex regex expressions. [MIT]
 
 ## Robotics
 
