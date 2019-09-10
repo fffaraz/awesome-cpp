@@ -722,6 +722,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [CPFG](https://github.com/cpgf/cpgf) - A C++03 library for reflection, callback and script binding. [Apache2] [website](http://www.cpgf.org/)
 * [CPP-Reflection](https://github.com/AustinBrunkhorst/CPP-Reflection) - C++ Reflection using clang. [MIT]
 * [Magic Enum](https://github.com/Neargye/magic_enum) - Header-only C++17 library provides static reflection for enums (to string, from string, iteration), work with any enum type without any macro or boilerplate code. [MIT]
+* [magic_get](https://github.com/apolukhin/magic_get) - std::tuple like methods for user defined types without any macro or boilerplate code. [Boost]
 * [meta](https://github.com/skypjack/meta) - Header-only, non-intrusive and macro-free runtime reflection system in C++. [MIT]
 * [Nameof](https://github.com/Neargye/nameof) - Header-only C++17 library provides nameof macros and functions to obtain the simple name of variable, type, function, macro, and enum. [MIT]
 * [Ponder](https://github.com/billyquith/ponder) - A C++11 library for reflection. [MIT]
