@@ -658,7 +658,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [evpp](https://github.com/Qihoo360/evpp) - C++ high performance networking with TCP/UDP/HTTP protocols. [BSD]
 * [H2O](https://github.com/h2o/h2o) - An optimized HTTP server with support for HTTP/1.x and HTTP/2. It can also be used as a library. [MIT]
 * [HTTP Parser](https://github.com/nodejs/http-parser) :zap: - A http request/response parser for C. [MIT]
-* [KCP](https://github.com/skywind3000/kcp/blob/master/README.en.md) - A Fast and Reliable ARQ Protocol, which reduce average latency by 40%. [MIT]
+* [KCP](https://github.com/skywind3000/kcp/blob/master/README.en.md) - A fast and reliable ARQ protocol, which reduce average latency by 40%. [MIT]
 * [libcurl](http://curl.haxx.se/libcurl/) - Multiprotocol file transfer library. [MIT/X derivate license]
 * [libhttpserver](https://github.com/etr/libhttpserver) - C++ library for creating an embedded Rest HTTP server (and more). [LGPL2.1]
 * [Libmicrohttpd](http://www.gnu.org/software/libmicrohttpd/) - GNU libmicrohttpd is a small C library that is supposed to make it easy to run an HTTP server as part of another application. [LGPL v2.1+]
