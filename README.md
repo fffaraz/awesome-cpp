@@ -1010,7 +1010,6 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [ClangFormat](http://clang.llvm.org/docs/ClangFormat.html) - A tool to format C/C++/Obj-C code.
 * [Clang-Tidy](http://clang.llvm.org/extra/clang-tidy.html) - Clang-based C++ linter tool.
 * [EditorConfig](https://editorconfig.org/) - EditorConfig helps maintain consistent coding styles across different editors and IDEs.
-* [Prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter. [website](https://prettier.io/)
 * [Uncrustify](https://github.com/uncrustify/uncrustify) - Code beautifier.
 
 # Resources
