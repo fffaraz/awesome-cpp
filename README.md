@@ -1009,6 +1009,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Linticator](http://linticator.com) - Eclipse CDT integration of Pc-/FlexeLint.
 * [IKOS](https://github.com/NASA-SW-VnV/ikos) - Static analyzer for C/C++ based on the theory of Abstract Interpretation. [NOSA 1.3]
 * [List of tools for static code analysis](https://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis#C.2FC.2B.2B) - A list of tools for static code analysis from Wikipedia.
+* [SmartDec Scanner](https://smartdecscanner.com/) - SAST tool which is capable of identifying vulnerabilities and undocumented features. The analyzer scans the source code and executables without debug info (i.e. binaries). Supports 31 programming languages, including C, C++, C#, and Objective-C.
 
 ## Coding Style Tools
 
