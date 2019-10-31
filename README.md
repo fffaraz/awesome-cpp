@@ -256,6 +256,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [HPX](https://github.com/STEllAR-GROUP/hpx/) - A general purpose C++ runtime system for parallel and distributed applications of any scale. [Boost]
 * [VexCL](https://github.com/ddemidov/vexcl) - A C++ vector expression template library for OpenCL/CUDA. [MIT]
 * [Quantum](https://github.com/bloomberg/quantum) - A powerful C++ coroutine dispatcher framework built on top of [boost::coroutines2](https://www.boost.org/doc/libs/1_65_0/libs/coroutine2/doc/html/index.html).
+* [STAPL](http://parasol-lab.gitlab.io/stapl-home/) - A standard library for modern parallel high-performance C++. [BSD]
 
 ## Configuration
 *Configuration files, INI files*
