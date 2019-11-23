@@ -10,6 +10,5 @@ Please ensure your pull request adheres to the following guidelines:
 * Order projects alphabetically within each category.
 * Check your spelling and grammar.
 * New categories, or improvements to the existing categorisation are welcome.
-* Use Proper commit message in order to stay listed for our awesome contributors.
 
 Thank you for your suggestions!
