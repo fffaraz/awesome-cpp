@@ -65,7 +65,6 @@ http://www.h323plus.org/
 http://ufmod.sourceforge.net/
 https://github.com/almalk454/wGUI
 http://www.cs.fsu.edu/~engelen/soap.html
-http://www.qt.io/
 https://github.com/broadinstitute/gamgee
 
 http://www.reddit.com/r/programming/
@@ -86,8 +85,6 @@ https://github.com/cms-sw/cmssw
 
 http://sourceforge.net/projects/libcrn/
 
-http://glm.g-truc.net/
-
 http://www.shoup.net/ntl/
 
 ----------------------------------------
@@ -101,7 +98,6 @@ Oracle Template Library
 http://otl.sourceforge.net/
 
 Intel Parallel Building Blocks
-Intel Threading Building Blocks
 Intel Array Building Blocks
 Intel Cilk Plus
 
@@ -118,15 +114,12 @@ http://en.wikipedia.org/wiki/Comparison_of_TLS_implementations
 
 http://en.wikipedia.org/wiki/Cryptlib
 http://en.wikipedia.org/wiki/MatrixSSL
-http://en.wikipedia.org/wiki/PolarSSL
 http://en.wikipedia.org/wiki/CyaSSL
-http://en.wikipedia.org/wiki/GnuTLS
 
 ----------------------------------------
 
 https://github.com/mozilla/mozjpeg
 https://github.com/tinfoilboy/Explodable
-https://github.com/thrust/thrust
 https://github.com/shaih/HElib
 https://github.com/jlnr/gosu
 https://github.com/vinniefalco/DSPFilters
@@ -165,7 +158,6 @@ https://github.com/Kosta-Github/http-cpp
 https://github.com/adafruit/Adafruit-GFX-Library
 https://github.com/lsegal/my_toy_compiler
 https://github.com/openexr/openexr
-https://github.com/google/snappy
 https://github.com/spesmilo/libbitcoin
 https://github.com/gwaldron/osgearth
 https://github.com/xiw/stack
@@ -232,7 +224,6 @@ http://en.wikipedia.org/wiki/List_of_C%2B%2B_template_libraries
 ----------------------------------------
 
 http://www.csie.ntu.edu.tw/~cjlin/liblinear/
-http://www.csie.ntu.edu.tw/~cjlin/libsvmtools/
 
 ----------------------------------------
 
@@ -268,14 +259,11 @@ https://github.com/WhisperSystems/libaxolotl-c
 
 http://gameprogrammingpatterns.com/
 
-https://github.com/bagder/c-ares
-
 http://www.yeppp.info/
 
 https://github.com/AnthonyCalandra/modern-cpp-features
 
 https://github.com/vurtun/mmx
-https://github.com/richgel999/miniz
 https://github.com/johnezang/pithy
 
 A simple Minecraft clone written in C using modern OpenGL (shaders).
@@ -290,7 +278,6 @@ https://github.com/inkooboo/thread-pool-cpp
 http://www-304.ibm.com/webapp/set2/sas/f/lopdiags/sdklop.html
 
 https://en.wikipedia.org/wiki/Integrated_Performance_Primitives
-https://en.wikipedia.org/wiki/Threading_Building_Blocks
 https://en.wikipedia.org/wiki/Intel_Parallel_Building_Blocks
 https://en.wikipedia.org/wiki/Intel_Array_Building_Blocks
 https://en.wikipedia.org/wiki/Cilk

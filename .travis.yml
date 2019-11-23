@@ -1,3 +1,3 @@
 language: ruby
 before_script: gem install awesome_bot
-script: awesome_bot -f README.md, books.md, minor.md, videos.md --allow-redirect --skip-save-results
+script: awesome_bot -f README.md, books.md, minor.md, videos.md --allow-dupe --allow-redirect --allow-ssl -w libwebsockets --skip-save-results
