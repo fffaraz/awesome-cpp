@@ -249,6 +249,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [NCCL](https://github.com/NVIDIA/nccl) - Optimized primitives for collective multi-GPU communication. [BSD]
 * [OpenCL](https://www.khronos.org/opencl/) - The open standard for parallel programming of heterogeneous systems.
 * [OpenMP](http://openmp.org/) - The OpenMP API.
+* [SObjectizer](https://github.com/Stiffstream/sobjectizer) - A tool for simplification of the development of complex multi-threaded applications in C++ by using Actor-, Publish-Subscribe and CSP models. [BSD-3-Clause]
 * [RaftLib](http://raftlib.io/) - The RaftLib C++ library, streaming/dataflow concurrency via C++ iostream-like operators [Apache2]
 * [readerwriterqueue](https://github.com/cameron314/readerwriterqueue) - A fast single-producer, single-consumer lock-free queue for C++. [BSD]
 * [Thrust](http://thrust.github.io/) - A parallel algorithms library which resembles the C++ Standard Template Library (STL). [Apache2]
