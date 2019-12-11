@@ -9,6 +9,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 	- [Audio](#audio)
 	- [Biology](#biology)
 	- [BitTorrent](#bittorrent)
+	- [Chemistry](#chemistry)
 	- [CLI](#cli)
 	- [Compression](#compression)
 	- [Concurrency](#concurrency)
@@ -175,6 +176,11 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [libtorrent](https://github.com/arvidn/libtorrent) (a.k.a. libtorrent-rasterbar) - An efficient feature complete C++ bittorrent implementation. [BSD]
 * [LibTorrent](https://github.com/rakshasa/libtorrent) (a.k.a. libtorrent-rakshasa) - BitTorrent library. [GPL]
 * [libutp](https://github.com/bittorrent/libutp) - uTorrent Transport Protocol library. [MIT]
+
+## Chemistry
+*Chemistry, Geochemistry, Biochemistry*
+
+* [Reaktoro](https://github.com/reaktoro/reaktoro) - A computational framework in C++ and Python for modeling chemically reactive systems. [LGPL] [website](https://reaktoro.org)
 
 ## CLI
 *Console/Terminal User Interface, Command Line Interface*
@@ -586,6 +592,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 * [Apophenia](https://github.com/b-k/apophenia) - A C library for statistical and scientific computing [GPL2]
 * [Armadillo](https://gitlab.com/conradsnicta/armadillo-code) - Fast C++ library for linear algebra & scientific computing. [Apache2] [website](http://arma.sourceforge.net/)
+* [autodiff](https://github.com/autodiff/autodiff) - A modern, fast and expressive C++ library for automatic differentiation. [MIT] [website](https://autodiff.github.io)
 * [blaze](https://bitbucket.org/blaze-lib/blaze) - high-performance C++ math library for dense and sparse arithmetic. [BSD]
 * [Boost.Multiprecision](http://www.boost.org/doc/libs/master/libs/multiprecision/doc/html/index.html) - provides higher-range/precision integer, rational and floating-point types in C++, header-only or with GMP/MPFR/LibTomMath backends. [Boost]
 * [ceres-solver](http://ceres-solver.org/) - C++ library for modeling and solving large complicated nonlinear least squares problems from google. [BSD]
