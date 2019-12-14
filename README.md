@@ -194,6 +194,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
  * [jarro2783/cxxopts](https://github.com/jarro2783/cxxopts) - Lightweight C++ command line option parser. [MIT]
  * [docopt.cpp](https://github.com/docopt/docopt.cpp) - A library to generate option parser from docstring. [MIT/Boost]
  * [gflags](https://gflags.github.io/gflags/) - Commandline flags module for C++. [BSD]
+ * [indicators](https://github.com/p-ranav/indicators/) - Activity indicators for Modern C++. [MIT]
  * [linenoise](https://github.com/antirez/linenoise) - A small self-contained alternative to readline and libedit. [BSD-2-Clause]
  * [linenoise-ng](https://github.com/arangodb/linenoise-ng) - A small, portable GNU readline replacement for Linux, Windows and MacOS which is capable of handling UTF-8 characters. [BSD]
  * [Lyra](https://github.com/bfgroup/Lyra) - A simple to use, composable, command line parser for C++ 11 and beyond. [Boost]
