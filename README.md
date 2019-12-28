@@ -1081,6 +1081,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [CppCon Talks](https://www.youtube.com/user/CppCon/videos) :zap: - The C++ conference.
 * [Quick game development with C++11/C++14](https://github.com/SuperV1234/cppcon2014) - CppCon 2014 talk by Vittorio Romeo.
 * [Presentation on Hana for C++Now 2015](https://github.com/ldionne/hana-cppnow-2015)
+* [Meeting Cpp](https://www.youtube.com/user/MeetingCPP/videos) - Meeting C++ Youtube Channel
 
 ## Videos
 *Fantastic C or C++ related videos.*
