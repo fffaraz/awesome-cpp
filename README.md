@@ -201,6 +201,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
  * [Ncurses](http://invisible-island.net/ncurses/) - A terminal user interface. [MIT]
  * [PDCurses](https://github.com/wmcbrine/PDCurses) - Public domain curses library with both source code and pre-compiled library available. [PublicDomain]
  * [replxx](https://github.com/AmokHuginnsson/replxx) - A readline and libedit replacement that supports UTF-8, syntax highlighting, hints, works on Unix and Windows. [BSD]
+ * [tabulate](https://github.com/p-ranav/tabulate) - Table Maker for Modern C++ [MIT]
  * [TCLAP](http://tclap.sourceforge.net) - A mature, stable and feature-rich library for defining and accessing command line arguments in ANSI C++. [MIT]
  * [termbox](https://github.com/nsf/termbox) - A C library for writing text-based user interfaces. [MIT]
 
