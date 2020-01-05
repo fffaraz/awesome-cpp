@@ -160,6 +160,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Verovio](https://github.com/rism-ch/verovio) - Verovio is a fast and lightweight music notation engraving library. [LGPL] [website](https://www.verovio.org)
 * [Wav2Letter++](https://github.com/facebookresearch/wav2letter/) - Public domain, a fast open source speech processing toolkit written entirely in C++ and uses the ArrayFire tensor library and the flashlight machine learning library for maximum efficiency [BSD]
 * [LAME](https://lame.sourceforge.io/index.php) - LAME is a high quality MPEG Audio Layer III (MP3) encoder licensed under the LGPL. [LGPL]
+* [Superpowered](https://superpowered.com/) - Superpowered Audio SDK is the leading C++ Audio Library featuring low-power, real-time latency and cross-platform audio players, audio decoders, Fx (effects), audio I/O, streaming, music analysis, spatialization, mixing and more. [Freemium](https://superpowered.com/licensing)
 
 ## Biology
 *Bioinformatics, Genomics, Biotech*
