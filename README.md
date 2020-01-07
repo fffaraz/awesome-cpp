@@ -154,6 +154,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [SELA](https://github.com/sahaRatul/sela) - SimplE Lossless Audio. [MIT]
 * [SoLoud](https://github.com/jarikomppa/soloud) - Easy, portable audio engine for games. [zlib]
 * [Speex](http://www.speex.org/) - A free codec for free speech. Obsoleted by Opus. [BSD]
+* [Superpowered](https://superpowered.com/) - Superpowered Audio SDK is the leading C++ Audio Library featuring low-power, real-time latency and cross-platform audio players, audio decoders, Fx (effects), audio I/O, streaming, music analysis, spatialization, mixing and more. [Free for non-commercial/Commercial]
 * [Tonic](https://github.com/TonicAudio/Tonic) - Easy and efficient audio synthesis in C++. [Unlicense]
 * [Vorbis](http://xiph.org/vorbis/) - Ogg Vorbis is a fully open, non-proprietary, patent-and-royalty-free, general-purpose compressed audio format. [BSD]
 * [minimp3](https://github.com/lieff/minimp3) - Public domain, header-only MP3 decoder with clean-room implementation. [CC0]
