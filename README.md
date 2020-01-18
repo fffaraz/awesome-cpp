@@ -854,6 +854,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [QDjango](https://github.com/jlaine/qdjango/) - A web framework written in C++ and built on top of the Qt library. Where possible it tries to follow django's API, hence its name. [LGPL]
 * [TreeFrog Framework](https://github.com/treefrogframework/treefrog-framework) - High-speed and full-stack web application framework based on C++ and Qt, which supports HTTP and WebSocket protocol (with O/R mapping). [BSD] [website](http://www.treefrogframework.org/)
 * [Wt](http://www.webtoolkit.eu/wt) - A C++ library for developing web applications. [GPL/Commercial]
+* [cpp-jwt](https://github.com/arun11299/cpp-jwt) - A C++14 library for working with JSON Web Tokens. [MIT]
 
 ## XML
 *XML is crap. Really. There are no excuses. XML is nasty to parse for humans, and it's a disaster to parse even for computers. There's just no reason for that horrible crap to exist. - Linus Torvalds*
@@ -913,6 +914,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [VarTypes](https://code.google.com/p/vartypes/) - A feature-rich, object-oriented framework for managing variables in C++ / Qt4. [LGPL]
 * [ZBar](http://zbar.sourceforge.net/) - A barcode scanner library, which allows to scan photos/images/video streams for barcodes and return their value. [LGPL2]
 * [ZXing](https://github.com/zxing/zxing/) - An open-source, multi-format 1D/2D barcode image processing library implemented in Java, with ports to other languages. [Apache]
+* [cpp-subprocess](https://github.com/arun11299/cpp-subprocess) - A C++11 library(Linux/Mac) that almost works like python subprocess module. [MIT]
 
 # Software
 *Software for creating a development environment.*
