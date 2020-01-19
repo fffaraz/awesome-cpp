@@ -726,8 +726,9 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [ofxBox2d](https://github.com/vanderlin/ofxBox2d) - openFrameworks wrapper for Box2D. [BSD-like]
 * [PhysX](https://github.com/NVIDIAGameWorks/PhysX-3.4) - An open-source realtime physics engine middleware SDK developed by Nvidia as a part of Nvidia GameWorks software suite. [BSD-3-Clause] 
 * [Project Chrono](https://github.com/projectchrono/chrono) - An open source multi-physics simulation engine. [BSD-3-Clause] [website](https://projectchrono.org/)
-* [Simbody](https://github.com/simbody/simbody) - High-performance C++ multibody dynamics/physics library for simulating articulated biomechanical and mechanical systems like vehicles, robots, and the human skeleton. [Apache2]
 * [Quantum++](https://github.com/vsoftco/qpp) - A modern C++11 quantum computing library. [MIT]
+* [Simbody](https://github.com/simbody/simbody) - High-performance C++ multibody dynamics/physics library for simulating articulated biomechanical and mechanical systems like vehicles, robots, and the human skeleton. [Apache2]
+* [SOFA](https://github.com/sofa-framework/sofa) - SOFA is an open-source framework targeting at real-time simulation, with an emphasis on medical simulation. [LGPL] [website](https://www.sofa-framework.org)
 
 ## Reflection
 
