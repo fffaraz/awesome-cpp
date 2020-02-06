@@ -181,7 +181,10 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 ## Chemistry
 *Chemistry, Geochemistry, Biochemistry*
 
+* [d-SEAMS](https://github.com/d-SEAMS/seams-core) - A molecular dynamics trajectory analysis engine in C++ and Lua with Nix. It is an acronym for Deferred Structural Elucidation Analysis for Molecular Simulations. [GPL] [website](https://dseams.info)
+* [gromacs](https://github.com/gromacs/gromacs) - A message-passing parallel molecular dynamics implementation. [GPL] [website](http://gromacs.org)
 * [Reaktoro](https://github.com/reaktoro/reaktoro) - A computational framework in C++ and Python for modeling chemically reactive systems. [LGPL] [website](https://reaktoro.org)
+* [LAMMPS](https://github.com/lammps/lammps) - A classical molecular dynamics code with a focus on materials modeling. It's an acronym for Large-scale Atomic/Molecular Massively Parallel Simulator. [GPL] [website](https://lammps.sandia.gov/)
 
 ## CLI
 *Console/Terminal User Interface, Command Line Interface*
