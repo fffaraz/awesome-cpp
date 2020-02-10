@@ -95,6 +95,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [FunctionalPlus](https://github.com/Dobiasd/FunctionalPlus) - Functional Programming Library for C++. Write concise and readable C++ code. [MIT]
 * [GLib](https://wiki.gnome.org/Projects/GLib) - GLib provides the core application building blocks for libraries and applications written in C. [LGPL]
 * [JUCE](https://github.com/julianstorer/JUCE) - An all-encompassing C++ class library for developing cross-platform software. [Core-Module: ISC, Rest: GPL2/GPL3/Commercial] [website](http://www.juce.com/)
+* [Kigs framework](https://github.com/assoria/kigs) - A free and open source C++ modular multi-purpose cross platform framework. [MIT] [website](https://kigs-framework.org/)
 * [libPhenom](https://github.com/facebook/libphenom) - libPhenom is an eventing framework for building high performance and high scalability systems in C. [Apache2]
 * [LibSourcey](https://github.com/sourcey/libsourcey) - C++11 evented IO for real-time video streaming and high performance networking applications. [LGPL]
 * [LibU](https://github.com/koanlogic/libu) - A multiplatform utility library written in C. [BSD]
