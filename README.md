@@ -278,6 +278,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [libconfig](https://github.com/hyperrealm/libconfig) - C, C++ library for processing structured configuration files. [LGPL-2.1] [website](https://hyperrealm.github.io/libconfig/)
 * [libconfuse](https://github.com/martinh/libconfuse) - Small configuration file parser library for C. [ISC]
 * [simpleini](https://github.com/brofield/simpleini) - Cross-platform C++ library providing a simple API to read and write INI-style configuration files. [MIT]
+* [toml++](https://github.com/marzer/tomlplusplus) - Header-only TOML parser and serializer for C++17 and later. [MIT] [website](https://marzer.github.io/tomlplusplus/)
 
 ## Containers
 
