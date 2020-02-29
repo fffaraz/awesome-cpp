@@ -248,6 +248,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [cupla](https://github.com/ComputationalRadiationPhysics/cupla) - C++ API to run CUDA/C++ on OpenMP, Threads, TBB, ... through Alpaka. [LGPLv3+]
 * [C++React](https://github.com/schlangster/cpp.react) - A reactive programming library for C++11. [Boost]
 * [FiberTaskingLib](https://github.com/RichieSams/FiberTaskingLib) - Task-based multi-threading library that supports task graphs with arbitrary dependencies. [Apache]
+* [GrPPI](https://github.com/arcosuc3m/grppi) - Generic Reusable Parallel Patterns Interface (GrPPI) is an open source generic and reusable parallel pattern programming interface developed at University Carlos III of Madrid. Basically, GrPPI accommodates a layer between developers and existing parallel programming frameworks targeted to multi-core processors, such as ISO C++ Threads, OpenMP , Intel TBB, and FastFlow. To achieve this goal, the interface leverages modern C++ features, meta-programming concepts, and generic programming to act as switch between those frameworks.
 * [Intel Games Task Scheduler](https://github.com/GameTechDev/GTS-GamesTaskScheduler) - A task scheduling framework designed for the needs of game developers. [MIT]
 * [Intel Parallel STL](https://github.com/intel/parallelstl) - Intel® implementation of C++17 STL for C++11 and above. [Apache2]
 * [Intel TBB](https://www.threadingbuildingblocks.org/) - Intel® Threading Building Blocks. [Apache2]
