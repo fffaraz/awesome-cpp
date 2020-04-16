@@ -532,6 +532,8 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [WAMP](http://wamp.ws/) - Provides RPC and pub/sub messaging patterns. (various implementations, various languages)
 * [xmlrpc-c](http://xmlrpc-c.sourceforge.net/) - A lightweight RPC library based on XML and HTTP. [BSD]
 
+* [cpp_rpc_ipc_librarys](https://gitlab.com/Andryski/cpp_rpc_ipc_librarys) - Сomparison table ipc/rpc librarys [AS IS]
+
 ## JSON
 
 * [Boost.PropertyTree](http://www.boost.org/doc/libs/1_55_0/doc/html/property_tree.html) - A property tree parser/generator that can be used to parse XML/JSON/INI/Info files. [Boost]
