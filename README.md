@@ -270,6 +270,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Quantum](https://github.com/bloomberg/quantum) - A powerful C++ coroutine dispatcher framework built on top of [boost::coroutines2](https://www.boost.org/doc/libs/1_65_0/libs/coroutine2/doc/html/index.html).
 * [RaftLib](http://raftlib.io/) - The RaftLib C++ library, streaming/dataflow concurrency via C++ iostream-like operators [Apache2]
 * [readerwriterqueue](https://github.com/cameron314/readerwriterqueue) - A fast single-producer, single-consumer lock-free queue for C++. [BSD]
+* [stdgpu](https://github.com/stotko/stdgpu) - Efficient STL-like Data Structures on the GPU. [Apache2]
 * [Thrust](http://thrust.github.io/) - A parallel algorithms library which resembles the C++ Standard Template Library (STL). [Apache2]
 * [transwarp](https://github.com/bloomen/transwarp) - A header-only C++ library for task concurrency. [MIT]
 * [VexCL](https://github.com/ddemidov/vexcl) - A C++ vector expression template library for OpenCL/CUDA. [MIT]
