@@ -1107,6 +1107,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *Fantastic C or C++ related videos.*
 
 * [List of C or C++ YouTube Videos](https://github.com/fffaraz/awesome-cpp/blob/master/videos.md)
+* [List of 200 free and paid C++ courses from top e-learning platforms](https://classpert.com/cplusplus-programming) - Classpert - An online course search and comparison site with thousands of free online courses
 * [Awesome C Programming Tutorials in Hi Def [HD]](https://www.youtube.com/playlist?list=PLCB9F975ECF01953C) - A collection of detailed C Programming Language Tutorials for Beginners and New Programmers.
 * [C++](https://www.youtube.com/playlist?list=PL2F919ADECA5E39A6) - by VoidRealms.
 * [C++ Qt Programming](https://www.youtube.com/playlist?list=PL2D1942A4688E9D63) - by VoidRealms.
