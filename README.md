@@ -581,7 +581,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [reckless](https://github.com/mattiasflodin/reckless) - Low-latency, high-throughput, asynchronous logging library for C++. [MIT]
 * [spdlog](https://github.com/gabime/spdlog) - Super fast, header only, C++ logging library.
 * [templog](http://www.templog.org/) - A very small and lightweight C++ library which you can use to add logging to your C++ applications. [Boost]
-* [P7Baical](http://baical.net/p7.html) - An open source and cross-platform library for high-speed sending telemetry & trace data  with minimal usage of CPU and memory. [LGPL]
+* [P7Baical](http://baical.net/p7.html) - An open source and cross-platform library for high-speed sending telemetry & trace data  with minimal usage of CPU and memory. [Github repository](https://github.com/artiomn/baical_p7). [LGPL]
 * [Quill](https://github.com/odygrd/quill) - Asynchronous cross platform low latency logging library. [MIT]
 
 ## Machine Learning
