@@ -583,6 +583,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [templog](http://www.templog.org/) - A very small and lightweight C++ library which you can use to add logging to your C++ applications. [Boost]
 * [P7Baical](http://baical.net/p7.html) - An open source and cross-platform library for high-speed sending telemetry & trace data  with minimal usage of CPU and memory. [LGPL]
 * [Quill](https://github.com/odygrd/quill) - Asynchronous cross platform low latency logging library. [MIT]
+* [TSW-Logger](https://github.com/artiomn/tsw-logger) - BaicalP7-based convenient logger wrapper. [MIT]
 
 ## Machine Learning
 
