@@ -144,6 +144,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 ## Audio
 *Audio, Sound, Music, Digitized Voice Libraries*
 
+* [AudioFile](https://github.com/adamstark/AudioFile) - A simple C++ library for reading and writing audio files. [GPL3]
 * [FMOD](http://www.fmod.org/) - An easy to use crossplatform audio engine and audio content creation tool for games. [Free for non-commercial/Commercial]
 * [KFR](https://www.kfrlib.com/) - Fast, modern C++ DSP framework, FFT, FIR/IIR filters, Sample Rate Conversion. [GPL/Commercial]
 * [LAME](https://lame.sourceforge.io/using.php) - LAME is a high quality MPEG Audio Layer III (MP3) encoder. [LGPL]
