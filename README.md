@@ -4,7 +4,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 - [Awesome C++](#awesome-cpp)
 	- [Standard Libraries](#standard-libraries)
 	- [Frameworks](#frameworks)
-	- [Artificial Intelligence](#artificial-intelligence)
+	- [Artificial Intelligence](#artificial-intelligence)_______
 	- [Asynchronous Event Loop](#asynchronous-event-loop)
 	- [Audio](#audio)
 	- [Biology](#biology)
