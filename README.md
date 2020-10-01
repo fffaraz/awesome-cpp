@@ -783,6 +783,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Robotics Library (RL)](http://www.roboticslibrary.org/) - A self-contained C++ library for robot kinematics, motion planning and control. [BSD]
 * [RobWork](https://gitlab.com/sdurobotics/RobWork) - A collection of C++ libraries for simulation and control of robot systems. [Apache2] [website](http://www.robwork.dk/)
 * [ROS](http://wiki.ros.org/) - Robot Operating System provides libraries and tools to help software developers create robot applications. [BSD]
+* [YARP (Yet Another Robot Platform)](https://github.com/robotology/yarp) - Library and toolkit for communication and device interfaces. [BSD-3-Clause] [website](http://www.yarp.it/)
 
 ## Scientific Computing
 
