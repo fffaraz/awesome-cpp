@@ -113,7 +113,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Windows Template Library](http://sourceforge.net/projects/wtl/) - A C++ library for developing Windows applications and UI components. [Public]
 * [Yomm2](https://github.com/jll63/yomm2) - Fast, Orthogonal, Open multi-methods. Supersedes [Yomm11](https://github.com/jll63/yomm11) [Boost]
 
-## Artificial Intelligence
+## Artificial Intelligence Useg In This Project
 
 * [ANNetGPGPU](https://github.com/ANNetGPGPU/ANNetGPGPU) - A GPU (CUDA) based Artificial Neural Network library. [LGPL]
 * [btsk](https://github.com/aigamedev/btsk) - Game Behavior Tree Starter Kit. [zlib]
@@ -642,13 +642,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Versor](http://versor.mat.ucsb.edu/) - A (fast) Generic C++ library for Geometric Algebras, including Euclidean, Projective, Conformal, Spacetime (etc).
 * [Wykobi](http://www.wykobi.com/) - A C++ library of efficient, robust and simple to use C++ 2D/3D oriented computational geometry routines. [MIT]
 * [xtensor](https://github.com/QuantStack/xtensor) - A C++14 library for numerical analysis with multi-dimensional array expressions, inspired by NumPy syntax. [BSD 3-clause] [website](http://quantstack.net/xtensor)
-* [universal](https://github.com/stillwater-sc/universal) - A C++14 header-only library implementing arbitrary posit arithmetic. The posit number system is a tapered floating point that is more efficient than IEEE floating point. Posits enable reproducible computational science. [MIT license] [website](http://www.stillwater-sc.com/assets/content/stillwater-universal-sw.html)
-
-## Memory Allocation
-
-* [Boehm GC](https://github.com/ivmai/bdwgc) - Conservative garbage collector for C and C++. [similar to X11] [website](http://www.hboehm.info/gc/)
-* [C Smart Pointers](https://github.com/Snaipe/libcsptr) - Smart pointers for the (GNU) C programming language. [MIT]
-* [Hoard](https://github.com/emeryberger/Hoard) - Fast, Scalable, and Memory-efficient Malloc for Linux, Windows, and Mac. [GPL, commercial] [website](http://hoard.org/)
+* [universal](https://github.com/stillwater-sc/universal) - A C++14 header-only library implementingh](http://hoard.org/)
 * [jemalloc](https://github.com/jemalloc/jemalloc) - General purpose malloc(3) implementation that emphasizes fragmentation avoidance and scalable concurrency support. [BSD] [website](http://jemalloc.net/)
 * [memory](https://github.com/foonathan/memory) - STL compatible C++ memory allocator library. [ZLib]
 * [memory-allocators](https://github.com/mtrebi/memory-allocators) - Custom memory allocators to improve the performance of dynamic memory allocation. [MIT]
@@ -842,7 +836,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [pdqsort](https://github.com/orlp/pdqsort) - Pattern-defeating quicksort. [zlib]
 * [Timsort](https://github.com/gfx/cpp-TimSort) - A templated stable sorting function which outperforms quicksort-based algorithms including std::sort, for reversed or semi-sorted data. [MIT]
 
-## Video
+## Videos links
 
 * [libvpx](http://www.webmproject.org/code/) - VP8/VP9 Codec SDK. [BSD]
 * [FFmpeg](https://www.ffmpeg.org/) - A complete, cross-platform solution to record, convert and stream audio and video. [LGPL2/GPL2]
@@ -1191,3 +1185,4 @@ Please take a quick gander at the [contribution guidelines](https://github.com/f
 Thanks to all [contributors](https://github.com/fffaraz/awesome-cpp/graphs/contributors); you rock!
 
 #### *If you see a project or link here that is no longer maintained or is not a good fit, please submit a pull request to improve this document. Thank you!*
+## Happy coding!
