@@ -275,6 +275,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Thrust](http://thrust.github.io/) - A parallel algorithms library which resembles the C++ Standard Template Library (STL). [Apache2]
 * [transwarp](https://github.com/bloomen/transwarp) - A header-only C++ library for task concurrency. [MIT]
 * [VexCL](https://github.com/ddemidov/vexcl) - A C++ vector expression template library for OpenCL/CUDA. [MIT]
+* [Vulkan Kompute](https://github.com/EthicalML/vulkan-kompute) - Blazing fast, lightweight and mobile enabled GPU Compute Framework optimized for advanced data processing and machine learning use-cases. [Apache License 2.0] [website](https://ethicalml.github.io/vulkan-kompute/)
 
 ## Configuration
 *Configuration files, INI files*
