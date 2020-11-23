@@ -466,6 +466,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Blend2D](https://github.com/blend2d/blend2d) - 2D vector graphics engine powered by a JIT compiler. [Zlib] [website](https://blend2d.com/)
 * [bs::framework](https://github.com/GameFoundry/bsf) - Modern C++14 library for the development of real-time graphical applications. [MIT]
 * [Cairo](http://www.cairographics.org/) - A 2D graphics library with support for multiple output devices. [LGPL2 or Mozilla MPL]
+* [C-Turtle](https://github.com/walkerje/C-Turtle) - A C++11 header-only turtle graphics library acting as a CImg wrapper. [MIT] 
 * [Diligent Engine](https://github.com/DiligentGraphics/DiligentEngine) - A modern cross-platform low-level 3D graphics library. [Apache2]
 * [DirectXTK](https://github.com/Microsoft/DirectXTK) - A collection of helper classes for writing DirectX 11.x code in C++. [MIT]
 * [GLFW](https://github.com/glfw/glfw) - A simple, cross-platform OpenGL wrangling library. [zlib/libpng]
