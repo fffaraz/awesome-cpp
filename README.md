@@ -729,7 +729,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ## PDF
 *Libraries for parsing and manipulating PDF documents.*
-* [Aspose.PDF for C++](https://github.com/aspose-pdf/Aspose.PDF-for-C) - a native C++ library that allows to create, process, manipulate and convert PDF documents. [Commercial]  [website](https://products.aspose.com/pdf/cpp)
+* [Aspose.PDF for C++](https://github.com/aspose-pdf/Aspose.PDF-for-C) - a native C++ library that allows to create, process, manipulate and convert PDF documents. [Commercial] [website](https://products.aspose.com/pdf/cpp)
 * [libharu](https://github.com/libharu/libharu) - A free, cross platform, open-sourced software library for generating PDF. [zlib]
 * [litePDF](https://litepdf.sourceforge.io) - Library to create and edit PDF documents that uses GDI functions through a device context to draw the page content. [LGPL v3 and zlib]
 * [MuPDF](https://mupdf.com/) - A lightweight PDF, XPS, and E-book viewer. [AGPL/Commercial]
