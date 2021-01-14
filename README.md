@@ -1141,7 +1141,6 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Standard C++](https://isocpp.org/) :zap: - News, Status & Discussion about Standard C++.
 * [CppCon](http://cppcon.org/) - The C++ Conference.
 * [C++ reference](http://cppreference.com/) - C++98, C++03, C++11, C++14 reference.
-* [cplusplus.com](http://www.cplusplus.com/) - The C++ Resources Network.
 * [C FAQ](http://c-faq.com/) - C frequently asked questions.
 * [C++ FAQ](http://www.parashift.com/c++-faq/) - C++ frequently asked questions.
 * [C++ FQA Lite](http://yosefk.com/c++fqa/) - C++ frequently questioned answers.
