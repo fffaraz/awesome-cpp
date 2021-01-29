@@ -731,6 +731,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [WebSocket++](https://github.com/zaphoyd/websocketpp) - C++/Boost Asio based websocket client/server library. [BSD]
 * [PcapPlusPlus](https://github.com/seladb/PcapPlusPlus) - a multiplatform C++ network sniffing and packet parsing and crafting framework. [Unlicense]
 * [ZeroMQ](https://github.com/zeromq/libzmq) - High-speed, modular asynchronous communication library. [LGPL] [website](http://zeromq.org/)
+* [libuv-evpp](https://github.com/X-Crack/libuv-evpp) - C++ Based on libuv Pure asynchronous high performance networking with TCP/HTTP/CURL/RPC protocols. [BSD] [website](https://github.com/X-Crack/libuv-evpp/)
 
 ## PDF
 *Libraries for parsing and manipulating PDF documents.*
