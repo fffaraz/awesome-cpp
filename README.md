@@ -830,6 +830,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [V7](https://github.com/cesanta/v7) - An embedded JavaScript engine. [GPL2]
 * [V8](https://v8.dev) - A fast JavaScript engine by Google that can be embedded into any C++ application. [BSD]
 * [ChakraCore](https://github.com/Microsoft/ChakraCore) -A JavaScript engine by Microsoft that can be embedded into nodejs. [MIT]
+* [SquiLu](https://github.com/mingodad/squilu) - A mix between [Squirrel](http://squirrel-lang.org/) and [Lua](http://www.lua.org/), trying to get the best of both and accept a subset of C/C++ syntax. Squirrel scripting language modified with lua libraries. [MIT]
 
 ## Serialization
 
