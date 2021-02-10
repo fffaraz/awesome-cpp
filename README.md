@@ -85,6 +85,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [ASL](http://stlab.adobe.com/) - Adobe Source Libraries provides peer-reviewed and portable C++ source libraries. [MIT]
 * [Boost](https://github.com/boostorg) :zap: - A large collection of generic C++ libraries. [Boost] [website](http://www.boost.org/)
 * [BDE](https://github.com/bloomberg/bde) - The BDE Development Environment from Bloomberg Labs. [Apache2]
+* [C++ Workflow](https://github.com/sogou/workflow) - C++ Parallel Computing and Asynchronous Networking Engine. [Apache2]
 * [Cinder](https://libcinder.org/) - A community-developed, free and open source library for professional-quality creative coding. [BSD]
 * [Cxxomfort](http://ryan.gulix.cl/fossil.cgi/cxxomfort/) - A small, header-only library that backports various facilities from more recent C++ Standards to C++03 and later. [MIT]
 * [Dlib](https://github.com/davisking/dlib) :zap: - A general purpose cross-platform C++ library designed using contract programming and modern C++ techniques. [Boost] [website](http://dlib.net/)
@@ -111,7 +112,6 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Ultimate++](http://www.ultimatepp.org/) - A C++ cross-platform rapid application development framework. [BSD]
 * [uSTL](http://msharov.github.io/ustl/) - The small STL library. [MIT]
 * [Windows Template Library](http://sourceforge.net/projects/wtl/) - A C++ library for developing Windows applications and UI components. [Public]
-* [Workflow](https://github.com/sogou/workflow) - C++ Parallel Computing and Asynchronous Networking Engine. [Apache2]
 * [Yomm2](https://github.com/jll63/yomm2) - Fast, Orthogonal, Open multi-methods. Supersedes [Yomm11](https://github.com/jll63/yomm11) [Boost]
 
 ## Artificial Intelligence
