@@ -775,6 +775,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Ponder](https://github.com/billyquith/ponder) - A C++11 library for reflection. [MIT]
 * [RTTR](https://github.com/rttrorg/rttr) - A C++11 library for reflection. [MIT] [website](http://www.rttr.org)
 * [visit_struct](https://github.com/cbeck88/visit_struct) - A miniature library for struct-field reflection in C++. [BSL-1.0]
+* [Refureku](https://github.com/jsoysouvanh/Refureku) - A C++17 runtime reflection and code generation library. [MIT]
 
 ## Regular Expression
 
