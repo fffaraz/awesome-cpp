@@ -88,7 +88,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [C++ Workflow](https://github.com/sogou/workflow) - C++ Parallel Computing and Asynchronous Networking Engine. [Apache2]
 * [Cinder](https://libcinder.org/) - A community-developed, free and open source library for professional-quality creative coding. [BSD]
 * [Cxxomfort](http://ryan.gulix.cl/fossil.cgi/cxxomfort/) - A small, header-only library that backports various facilities from more recent C++ Standards to C++03 and later. [MIT]
-* [Dlib](https://github.com/davisking/dlib) :zap: - A general purpose cross-platform C++ library designed using contract programming and modern C++ techniques. [Boost] [website](http://dlib.net/)
+* [Dlib](https://github.com/davisking/dlib) :zap: - A toolkit for making real world machine learning and data analysis applications in C++ [Boost] [website](http://dlib.net/)
 * [EASTL](https://github.com/electronicarts/EASTL) - Electronic Arts Standard Template Library. [BSD]
 * [ETL](https://github.com/ETLCPP/etl) - Embedded Template Library. [MIT]
 * [ffead-cpp](https://github.com/sumeetchhetri/ffead-cpp) - Framework for Enterprise Application Development. [Apache2]
