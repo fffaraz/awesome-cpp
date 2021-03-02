@@ -582,6 +582,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [taoJSON](https://github.com/taocpp/json) - Zero-dependency C++ header-only JSON library. [MIT]
 * [ujson](https://bitbucket.org/awangk/ujson) - µjson is a a small, C++11, UTF-8, JSON library. [MIT]
 * [YAJL](https://github.com/lloyd/yajl) - A fast streaming JSON parsing library in C. [ISC]
+* [x2struct](https://github.com/xyz347/x2struct) - Convert between JSON/BSON/XML and C++ object. [Apache2]
 
 ## Logging
 
