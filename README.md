@@ -11,6 +11,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 	- [BitTorrent](#bittorrent)
 	- [Chemistry](#chemistry)
 	- [CLI](#cli)
+	- [Collaborative Data Structure](#collaborative-data-structure)
 	- [Compression](#compression)
 	- [Concurrency](#concurrency)
 	- [Configuration](#configuration)
@@ -221,6 +222,10 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
  * [FTXUI](https://github.com/ArthurSonzogni/FTXUI) - C++ Functional Terminal User Interface. [MIT]
  * [imtui](https://github.com/ggerganov/imtui) - Immediate Mode Text-based User Interface [MIT]
 
+## Collaborative Data Structure
+
+ * [Flip] (http://irisate.com/go/flip/) - A  data model library, designed as a framework, real-time collaboration-oriented, transactional, portable and compact. [commercial]
+ 
 ## Compression
 *Compression and Archiving Libraries*
 
