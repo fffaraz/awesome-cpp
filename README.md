@@ -412,6 +412,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [utest.h](https://github.com/sheredom/utest.h) - Single header unit testing framework for C and C++. [Unlicense]
 * [μt](https://github.com/boost-experimental/ut) - C++20 single header/single module, macro-free μ(micro)/Unit Testing Framework [Boost]
 * [VLD](http://vld.codeplex.com/) - Visual Leak Detector. A free, robust, open-source memory leak detection system for Visual C++.
+* [WonderLeak](https://www.relyze.com/wonderleak_overview.html) - A high performance Windows heap and handle allocation profiler for C/C++ developers.
 
 ## Font
 *Libraries for parsing and manipulating font files.*
