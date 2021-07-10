@@ -537,6 +537,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [gettext](http://www.gnu.org/software/gettext/) - GNU 'gettext'. [GPL2]
 * [IBM ICU](http://site.icu-project.org/) - A set of C/C++ and Java libraries providing Unicode and Globalization support. [ICU]
 * [libiconv](http://www.gnu.org/software/libiconv/) - An encoding conversion library between different character encodings. [GPL]
+* [tinygettext](https://github.com/tinygettext/tinygettext/) - a minimal replacement for gettext written in C++ [zlib]
 * [utf8.h](https://github.com/sheredom/utf8.h) - Single header utf8 string functions for C and C++. [Unlicense]
 * [utf8proc](https://github.com/JuliaStrings/utf8proc) - A clean C library for processing UTF-8 Unicode data. [MIT]
 
