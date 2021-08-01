@@ -394,6 +394,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [CppUnit](http://www.freedesktop.org/wiki/Software/cppunit/) - C++ port of JUnit. [LGPL2]
 * [CTest](https://cmake.org/cmake/help/v2.8.8/ctest.html) - The CMake test driver program. [BSD]
 * [dbg-macro](https://github.com/sharkdp/dbg-macro) - A dbg(…) macro for C++. [MIT]
+* [DebugViewPP](https://github.com/CobaltFusion/DebugViewPP) - Debug logging viewer. [BSL]
 * [Deleaker](http://www.deleaker.com) - A tool for resource leak detection, including memory, GDI and handle leaks.
 * [fff](https://github.com/meekrosoft/fff) - A micro-framework for creating fake C functions. [MIT]
 * [Google Mock](https://github.com/google/googletest/blob/master/googlemock/README.md) - A library for writing and using C++ mock classes. [BSD]
