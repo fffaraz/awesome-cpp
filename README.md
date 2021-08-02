@@ -18,6 +18,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 	- [Cryptography](#cryptography)
 	- [CSV](#csv)
 	- [Database](#database)
+	- [Data visualization](#data-visualization)
 	- [Debug](#debug)
 	- [Font](#font)
 	- [Game Engine](#game-engine)
@@ -376,6 +377,10 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [TileDB](https://github.com/TileDB-Inc/TileDB) - Fast Dense and Sparse Multidimensional Array DBMS. [MIT] [website](https://tiledb.io/)
 * [UnQLite](https://github.com/symisc/unqlite) - A self-contained, serverless, zero-configuration, transactional NoSQL engine. [BSD-2-Clause] [website](https://unqlite.org/)
 * [upscaledb](https://upscaledb.com) - An embedded "typed" key/value store with a built-in query interface. [GPLv3]
+
+## Data visualization
+*Data visiualization Libraries*
+* [matplotplusplus](https://github.com/alandefreitas/matplotplusplus) - C++ Graphics Library for Data Visualization. [MIT] [website](https://alandefreitas.github.io/matplotplusplus/)
 
 ## Debug
 *Debugging Libraries, Memory Leak and Resource Leak Detection, Unit Testing*
