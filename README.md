@@ -380,6 +380,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ## Data visualization
 *Data visiualization Libraries*
+
 * [matplotplusplus](https://github.com/alandefreitas/matplotplusplus) - C++ Graphics Library for Data Visualization. [MIT] [website](https://alandefreitas.github.io/matplotplusplus/)
 
 ## Debug
