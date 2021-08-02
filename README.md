@@ -18,6 +18,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 	- [Cryptography](#cryptography)
 	- [CSV](#csv)
 	- [Database](#database)
+	- [Data visualization](#data-visualization)
 	- [Debug](#debug)
 	- [Font](#font)
 	- [Game Engine](#game-engine)
@@ -376,6 +377,11 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [TileDB](https://github.com/TileDB-Inc/TileDB) - Fast Dense and Sparse Multidimensional Array DBMS. [MIT] [website](https://tiledb.io/)
 * [UnQLite](https://github.com/symisc/unqlite) - A self-contained, serverless, zero-configuration, transactional NoSQL engine. [BSD-2-Clause] [website](https://unqlite.org/)
 * [upscaledb](https://upscaledb.com) - An embedded "typed" key/value store with a built-in query interface. [GPLv3]
+
+## Data visualization
+*Data visiualization Libraries*
+
+* [matplotplusplus](https://github.com/alandefreitas/matplotplusplus) - C++ Graphics Library for Data Visualization. [MIT] [website](https://alandefreitas.github.io/matplotplusplus/)
 
 ## Debug
 *Debugging Libraries, Memory Leak and Resource Leak Detection, Unit Testing*
@@ -769,6 +775,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [LiquidFun](https://github.com/google/liquidfun) - A 2D physics engine for games. [BSD-like]
 * [Newton Dynamics](https://github.com/MADEAPPS/newton-dynamics) - An integrated solution for real time simulation of physics environments. [zlib]
 * [ODE](http://www.ode.org/) - Open Dynamics Engine - An open source, high performance library for simulating rigid body dynamics. [BSD&LGPL]
+* [Kratos](https://github.com/KratosMultiphysics/Kratos) - framework for building parallel, multi-disciplinary simulation software, aiming at modularity, extensibility, and high performance. [BSD] [website](http://www.cimne.com/kratos/)
 * [ofxBox2d](https://github.com/vanderlin/ofxBox2d) - openFrameworks wrapper for Box2D. [BSD-like]
 * [PhysX](https://github.com/NVIDIAGameWorks/PhysX-3.4) - An open-source realtime physics engine middleware SDK developed by Nvidia as a part of Nvidia GameWorks software suite. [BSD-3-Clause]
 * [Project Chrono](https://github.com/projectchrono/chrono) - An open source multi-physics simulation engine. [BSD-3-Clause] [website](https://projectchrono.org/)
