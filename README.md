@@ -369,6 +369,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [ODB](https://www.codesynthesis.com/products/odb/) - An open-source, cross-platform, and cross-database object-relational mapping (ORM) system for C++. [GPLv2]
 * [redis3m](https://github.com/luca3m/redis3m) - Wrapper of hiredis with clean C++ interface, supporting sentinel and ready to use patterns. [Apache2]
 * [RocksDB](https://github.com/facebook/rocksdb) - Embedded key-value store for fast storage from facebook. [BSD]
+* [Scylla](https://github.com/scylladb/scylla) - NoSQL datastore using the Seastar C++ framework, compatible with Apache Cassandra and AWS DynamoDB. [AGPL-3.0] [Scylladb](http://scylladb.com/)
 * [SimDB](https://github.com/LiveAsynchronousVisualizedArchitecture/simdb) - High performance, shared memory, lock free, cross platform, single file, minimal dependencies, C++11 key-value store [Apache2]
 * [SOCI](https://github.com/SOCI/soci) - A database abstraction layer for C++. [BSL-1.0]
 * [SQLite](http://www.sqlite.org/) - A completely embedded, full-featured relational database in a few 100k that you can include right into your project. [PublicDomain]
