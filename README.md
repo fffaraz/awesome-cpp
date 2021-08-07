@@ -1204,7 +1204,6 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Bartek's Coding Blog](https://www.bfilipek.com/?m=1)
 * [Kenny Kerr](https://kennykerr.ca/articles/)
 * [Sutter’s Mill](https://herbsutter.com/gotw/)
-* [thoughts on cpp](https://thoughts-on-cpp.com/)
 * [Vorbrodt's C++ Blog](https://vorbrodt.blog/)
 * [foonathan::blog()](https://foonathan.net/index.html)
 
