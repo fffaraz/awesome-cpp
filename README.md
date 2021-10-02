@@ -417,6 +417,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Fast C++ CSV Parser](https://github.com/ben-strasser/fast-cpp-csv-parser) - Small, easy-to-use and fast header-only library for reading CSV files. [BSD-3-Clause]
 * [Glaze](https://github.com/stephenberry/glaze) - High performance, header only, CSV library with reflection support. [MIT]
 * [lazycsv](https://github.com/ashtum/lazycsv) - A fast, lightweight and single-header csv parser for modern C++. [MIT]
+* [rapidcsv](https://github.com/d99kris/rapidcsv) - An easy-to-use, header-only C++ CSV parser library. [BSD-3-Clause]
 * [ssp](https://github.com/red0124/ssp) - A header only "csv" parser which is fast and versatile with modern C++ api. [MIT]
 * [Vince's CSV Parser](https://github.com/vincentlaucsb/csv-parser) - A fast, self-contained, streaming C++17 CSV parser with optional type-casting and statistics. [MIT]
 
