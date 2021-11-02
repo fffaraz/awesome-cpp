@@ -548,6 +548,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ## Internationalization
 
+* [Free PO editor](https://pofile.net/free-po-editor) - A tool for translating GNU Gettext PO files. [FREE]
 * [gettext](http://www.gnu.org/software/gettext/) - GNU 'gettext'. [GPL2]
 * [IBM ICU](http://site.icu-project.org/) - A set of C/C++ and Java libraries providing Unicode and Globalization support. [ICU]
 * [libiconv](http://www.gnu.org/software/libiconv/) - An encoding conversion library between different character encodings. [GPL]
