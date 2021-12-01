@@ -140,6 +140,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 * [Asio](https://github.com/chriskohlhoff/asio/) - A cross-platform C++ library for network and low-level I/O programming that provides developers with a consistent asynchronous model using a modern C++ approach. [Boost] [website](http://think-async.com/)
 * [Boost.Asio](http://think-async.com/) - A cross-platform C++ library for network and low-level I/O programming. [Boost]
+* [Asyncio](https://github.com/netcan/asyncio) - A C++20 coroutine library to write concurrent code using the await syntax, and imitate python asyncio library. [MIT]
 * [C++ Actor Framework](https://github.com/actor-framework/actor-framework) - An Open Source Implementation of the Actor Model in C++. [BSD-3-Clause] [website](http://actor-framework.org/)
 * [Ichor](https://github.com/volt-software/ichor) - An event queue which focuses on thread safety and provides dependency injection. [MIT]
 * [libev](http://libev.schmorp.de/) - A full-featured and high-performance event loop that is loosely modelled after libevent, but without its limitations and bugs. [BSD and GPL]
