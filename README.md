@@ -192,12 +192,16 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [libutp](https://github.com/bittorrent/libutp) - uTorrent Transport Protocol library. [MIT]
 
 ## Chemistry
-*Chemistry, Geochemistry, Biochemistry*
+*Chemistry, Quantum Chemistry, Solid-State Chemistry/Physics, Geochemistry, Biochemistry*
 
 * [d-SEAMS](https://github.com/d-SEAMS/seams-core) - A molecular dynamics trajectory analysis engine in C++ and Lua with Nix. It is an acronym for Deferred Structural Elucidation Analysis for Molecular Simulations. [GPL] [website](https://dseams.info)
 * [gromacs](https://github.com/gromacs/gromacs) - A message-passing parallel molecular dynamics implementation. [GPL] [website](http://www.gromacs.org)
 * [Reaktoro](https://github.com/reaktoro/reaktoro) - A computational framework in C++ and Python for modeling chemically reactive systems. [LGPL] [website](https://reaktoro.org)
 * [LAMMPS](https://github.com/lammps/lammps) - A classical molecular dynamics code with a focus on materials modeling. It's an acronym for Large-scale Atomic/Molecular Massively Parallel Simulator. [GPL] [website](https://lammps.sandia.gov/)
+* [MADNESS](https://github.com/m-a-d-n-e-s-s/madness) - Multiresolution Adaptive Numerical Environment for Scientific Simulation. [GPL] [website](https://github.com/m-a-d-n-e-s-s/madness)
+* [MPQC](https://github.com/ValeevGroup/mpqc) - The Massively Parallel Quantum Chemistry program, MPQC, computes properties of atoms and molecules from first principles using the time independent Schrödinger equation. [GPL] [website](https://mpqc.org/)
+* [ORCA](https://en.wikipedia.org/wiki/ORCA_(quantum_chemistry_program)) - An ab initio quantum chemistry program package that contains modern electronic structure methods. [Academic] [website](https://orcaforum.kofo.mpg.de/)
+* [Psi](https://github.com/psi4/psi4) - An ab initio computational chemistry package. [GPL] [website](https://psicode.org/)
 
 ## CLI
 *Console/Terminal User Interface, Command Line Interface*
