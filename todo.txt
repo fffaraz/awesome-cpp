@@ -9,11 +9,6 @@
 
 * [Fruit](https://github.com/google/fruit) - A dependency injection framework for C++.
 
-* [MariaDB](https://mariadb.com/) - A robust, scalable and reliable SQL server, designed to be a drop-in replacement for MySQL. [BSD]
-* [PostgreSQL]() - A powerful object-relational database system. [PostgreSQL licence]
-* [Redis]() - An advanced key-value store. [3-clause BSD].
-* [UnQLite]() - A self-contained, serverless, zero-configuration, transactional NoSQL engine with a C interface. [FreeBSD]
-
 http://www.cs.colorado.edu/~main/cs1300/doc/bgi/
 
 https://www.enlightenment.org/p.php?p=about/efl

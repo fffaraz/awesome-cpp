@@ -1,4 +1,4 @@
-# Awesome C++ [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome C++ [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/fffaraz/awesome-cpp/)
 A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 
 - [Awesome C++](#awesome-cpp)
@@ -9,6 +9,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 	- [Audio](#audio)
 	- [Biology](#biology)
 	- [BitTorrent](#bittorrent)
+	- [Chemistry](#chemistry)
 	- [CLI](#cli)
 	- [Compression](#compression)
 	- [Concurrency](#concurrency)
@@ -17,6 +18,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 	- [Cryptography](#cryptography)
 	- [CSV](#csv)
 	- [Database](#database)
+	- [Data visualization](#data-visualization)
 	- [Debug](#debug)
 	- [Font](#font)
 	- [Game Engine](#game-engine)
@@ -45,6 +47,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 	- [Virtual Machines](#virtual-machines)
 	- [Web Application Framework](#web-application-framework)
 	- [XML](#xml)
+	- [Yaml](#yaml)
 	- [Miscellaneous](#miscellaneous)
 - [Software](#software)
 	- [Compiler](#compiler)
@@ -67,7 +70,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 - [Contributing](#contributing)
 
 ## Standard Libraries
-*C++ Standard Library - including STL Containers, STL Aglorithm, STL Functional, etc.*
+*C++ Standard Library - including STL Containers, STL Algorithm, STL Functional, etc.*
 
 * [C++ Standard Library](https://en.wikipedia.org/wiki/C%2B%2B_Standard_Library) - A collection of classes and functions, which are written in the core language and part of the C++ ISO Standard itself.
 * [Standard Template Library](https://en.wikipedia.org/wiki/Standard_Template_Library) - The Standard Template Library (STL).
@@ -84,9 +87,11 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [ASL](http://stlab.adobe.com/) - Adobe Source Libraries provides peer-reviewed and portable C++ source libraries. [MIT]
 * [Boost](https://github.com/boostorg) :zap: - A large collection of generic C++ libraries. [Boost] [website](http://www.boost.org/)
 * [BDE](https://github.com/bloomberg/bde) - The BDE Development Environment from Bloomberg Labs. [Apache2]
+* [C++ Workflow](https://github.com/sogou/workflow) - C++ Parallel Computing and Asynchronous Networking Engine. [Apache2]
 * [Cinder](https://libcinder.org/) - A community-developed, free and open source library for professional-quality creative coding. [BSD]
+* [CO](https://github.com/idealvin/co) - A collection of C++ libraries, containing a go-style coroutine library, log, JSON, RPC framework and other base components. [MIT]
 * [Cxxomfort](http://ryan.gulix.cl/fossil.cgi/cxxomfort/) - A small, header-only library that backports various facilities from more recent C++ Standards to C++03 and later. [MIT]
-* [Dlib](https://github.com/davisking/dlib) :zap: - A general purpose cross-platform C++ library designed using contract programming and modern C++ techniques. [Boost] [website](http://dlib.net/)
+* [Dlib](https://github.com/davisking/dlib) :zap: - A toolkit for making real world machine learning and data analysis applications in C++ [Boost] [website](http://dlib.net/)
 * [EASTL](https://github.com/electronicarts/EASTL) - Electronic Arts Standard Template Library. [BSD]
 * [ETL](https://github.com/ETLCPP/etl) - Embedded Template Library. [MIT]
 * [ffead-cpp](https://github.com/sumeetchhetri/ffead-cpp) - Framework for Enterprise Application Development. [Apache2]
@@ -94,15 +99,17 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [FunctionalPlus](https://github.com/Dobiasd/FunctionalPlus) - Functional Programming Library for C++. Write concise and readable C++ code. [MIT]
 * [GLib](https://wiki.gnome.org/Projects/GLib) - GLib provides the core application building blocks for libraries and applications written in C. [LGPL]
 * [JUCE](https://github.com/julianstorer/JUCE) - An all-encompassing C++ class library for developing cross-platform software. [Core-Module: ISC, Rest: GPL2/GPL3/Commercial] [website](http://www.juce.com/)
+* [Kigs framework](https://github.com/Kigs-framework/kigs) - A free and open source C++ modular multi-purpose cross platform RAD framework. [MIT] [website](https://kigs-framework.org/)
 * [libPhenom](https://github.com/facebook/libphenom) - libPhenom is an eventing framework for building high performance and high scalability systems in C. [Apache2]
 * [LibSourcey](https://github.com/sourcey/libsourcey) - C++11 evented IO for real-time video streaming and high performance networking applications. [LGPL]
 * [LibU](https://github.com/koanlogic/libu) - A multiplatform utility library written in C. [BSD]
 * [Loki](http://loki-lib.sourceforge.net/) - A C++ library of designs, containing flexible implementations of common design patterns and idioms. [MIT]
-* [MiLi](https://bitbucket.org/fudepan/mili/) - Minimal headers-only C++ Library. [Boost]
+* [MiLi](https://github.com/MariadeAnton/MiLi) - Minimal headers-only C++ Library. [Boost]
 * [OpenFrameworks](https://github.com/openframeworks/openFrameworks) - A cross platform open source toolkit for creative coding in C++. [MIT] [website](http://www.openframeworks.cc/)
 * [Qt](https://www.qt.io/download-open-source/) :zap: - A cross-platform application and UI framework. [GPL/LGPL/Commercial]
 * [Reason](http://code.google.com/p/reason/) - A cross platform framework designed to bring the ease of use of Java, .Net, or Python to developers who require the performance and strength of C++. [GPL2]
 * [ROOT](https://root.cern.ch/) - A set of OO frameworks with all the functionality needed to handle and analyze large amounts of data in a very efficient way. Used at CERN. [LGPL]
+* [Seastar](https://github.com/scylladb/seastar) - An advanced, open-source C++ framework for high-performance server applications on modern hardware. [Apache-2.0 License] [seastar.io](http://seastar.io/)
 * [STLport](http://www.stlport.org/) - An exemplary version of STL. [Free]
 * [STXXL](http://stxxl.sourceforge.net/) - Standard Template Library for Extra Large Data Sets. [Boost]
 * [tbox](https://github.com/tboox/tbox) - A glib-like multi-platform c library. [Apache2] [website](http://tboox.org/)
@@ -120,8 +127,10 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Genann](https://github.com/codeplea/genann) - Simple neural network library in C. [zlib]
 * [MXNet](https://github.com/apache/incubator-mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more [website](https://mxnet.apache.org)
 * [PyTorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration. [website](https://pytorch.org)
+* [flashlight](https://github.com/flashlight/flashlight) - Flashlight is a fast, flexible machine learning library written entirely in C++. [BSD]
 * [Recast/Detour](https://github.com/recastnavigation/recastnavigation) - (3D) Navigation mesh generator and pathfinder, mostly for games. [zlib]
 * [TensorFlow](https://github.com/tensorflow/tensorflow) - An open source software library for numerical computation using data flow graphs [Apache]
+* [oneDNN](https://github.com/oneapi-src/oneDNN) - An open-source cross-platform performance library for deep learning applications. [Apache] [website](https://01.org/onednn)
 * [CNTK](https://github.com/Microsoft/CNTK) - Microsoft Cognitive Toolkit (CNTK), an open source deep-learning toolkit. [Boost]
 * [tiny-dnn](https://github.com/tiny-dnn/tiny-dnn) - A header only, dependency-free deep learning framework in C++11. [BSD]
 * [Veles](https://github.com/Samsung/veles) - Distributed platform for rapid Deep learning application development. [Apache]
@@ -132,8 +141,10 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Asio](https://github.com/chriskohlhoff/asio/) - A cross-platform C++ library for network and low-level I/O programming that provides developers with a consistent asynchronous model using a modern C++ approach. [Boost] [website](http://think-async.com/)
 * [Boost.Asio](http://think-async.com/) - A cross-platform C++ library for network and low-level I/O programming. [Boost]
 * [C++ Actor Framework](https://github.com/actor-framework/actor-framework) - An Open Source Implementation of the Actor Model in C++. [BSD-3-Clause] [website](http://actor-framework.org/)
+* [Ichor](https://github.com/volt-software/ichor) - An event queue which focuses on thread safety and provides dependency injection. [MIT]
 * [libev](http://libev.schmorp.de/) - A full-featured and high-performance event loop that is loosely modelled after libevent, but without its limitations and bugs. [BSD and GPL]
 * [libevent](http://libevent.org/) - An event notification library. [BSD]
+* [libhv](https://github.com/ithewei/libhv) - Cross-platform event loop library. [BSD]
 * [libuv](https://github.com/libuv/libuv) - Cross-platform asynchronous I/O. [BSD]
 * [promise-cpp](https://github.com/xhawk18/promise-cpp) - Header only library that implements Promise/A+ standard. [Anti-996]
 * [uvw](https://github.com/skypjack/uvw) - C++ wrapper for libuv. [MIT]
@@ -141,13 +152,17 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 ## Audio
 *Audio, Sound, Music, Digitized Voice Libraries*
 
+* [AudioFile](https://github.com/adamstark/AudioFile) - A simple C++ library for reading and writing audio files. [GPL3]
+* [dr_libs](https://github.com/mackron/dr_libs) - Single file audio decoding libraries for C and C++. [Unlicense]
 * [FMOD](http://www.fmod.org/) - An easy to use crossplatform audio engine and audio content creation tool for games. [Free for non-commercial/Commercial]
 * [KFR](https://www.kfrlib.com/) - Fast, modern C++ DSP framework, FFT, FIR/IIR filters, Sample Rate Conversion. [GPL/Commercial]
+* [LAME](https://lame.sourceforge.io/using.php) - LAME is a high quality MPEG Audio Layer III (MP3) encoder. [LGPL]
 * [libsndfile](https://github.com/erikd/libsndfile/) - C library with C++ wrapper for reading and writing files containing sampled sound through one standard library interface. [LGPL-2.1] [website](http://www.mega-nerd.com/libsndfile/)
 * [libsoundio](https://github.com/andrewrk/libsoundio) - C library for cross-platform real-time audio input and output. [MIT] [website](http://libsound.io/)
 * [Maximilian](https://github.com/micknoise/Maximilian) - C++ Audio and Music DSP Library. [MIT]
 * [OpenAL](http://www.openal.org/) - Open Audio Library - A crossplatform audio API. [BSD/LGPL/Commercial]
-* [miniaudio](https://github.com/dr-soft/miniaudio) - Single file audio playback and capture library. [Unlicense]
+* [miniaudio](https://github.com/mackron/miniaudio) - Single file audio playback and capture library. [Unlicense] [website](https://miniaud.io/)
+* [ni-media](https://github.com/NativeInstruments/ni-media) - C++ library for reading and writing audio files. [MIT]
 * [Opus](http://opus-codec.org/) - A totally open, royalty-free, highly versatile audio codec. [BSD]
 * [PortAudio](http://www.portaudio.com/) - PortAudio is a free, cross-platform, open-source, audio I/O library. [MIT]
 * [SELA](https://github.com/sahaRatul/sela) - SimplE Lossless Audio. [MIT]
@@ -176,6 +191,18 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [LibTorrent](https://github.com/rakshasa/libtorrent) (a.k.a. libtorrent-rakshasa) - BitTorrent library. [GPL]
 * [libutp](https://github.com/bittorrent/libutp) - uTorrent Transport Protocol library. [MIT]
 
+## Chemistry
+*Chemistry, Quantum Chemistry, Solid-State Chemistry/Physics, Geochemistry, Biochemistry*
+
+* [d-SEAMS](https://github.com/d-SEAMS/seams-core) - A molecular dynamics trajectory analysis engine in C++ and Lua with Nix. It is an acronym for Deferred Structural Elucidation Analysis for Molecular Simulations. [GPL] [website](https://dseams.info)
+* [gromacs](https://github.com/gromacs/gromacs) - A message-passing parallel molecular dynamics implementation. [GPL] [website](http://www.gromacs.org)
+* [Reaktoro](https://github.com/reaktoro/reaktoro) - A computational framework in C++ and Python for modeling chemically reactive systems. [LGPL] [website](https://reaktoro.org)
+* [LAMMPS](https://github.com/lammps/lammps) - A classical molecular dynamics code with a focus on materials modeling. It's an acronym for Large-scale Atomic/Molecular Massively Parallel Simulator. [GPL] [website](https://lammps.sandia.gov/)
+* [MADNESS](https://github.com/m-a-d-n-e-s-s/madness) - Multiresolution Adaptive Numerical Environment for Scientific Simulation. [GPL] [website](https://github.com/m-a-d-n-e-s-s/madness)
+* [MPQC](https://github.com/ValeevGroup/mpqc) - The Massively Parallel Quantum Chemistry program, MPQC, computes properties of atoms and molecules from first principles using the time independent Schrödinger equation. [GPL] [website](https://mpqc.org/)
+* [ORCA](https://en.wikipedia.org/wiki/ORCA_(quantum_chemistry_program)) - An ab initio quantum chemistry program package that contains modern electronic structure methods. [Academic] [website](https://orcaforum.kofo.mpg.de/)
+* [Psi](https://github.com/psi4/psi4) - An ab initio computational chemistry package. [GPL] [website](https://psicode.org/)
+
 ## CLI
 *Console/Terminal User Interface, Command Line Interface*
 
@@ -187,15 +214,23 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
  * [CLI11](https://github.com/CLIUtils/CLI11) - Header only single or multi-file C++11 library for simple and advanced CLI parsing. [BSD]
  * [jarro2783/cxxopts](https://github.com/jarro2783/cxxopts) - Lightweight C++ command line option parser. [MIT]
  * [docopt.cpp](https://github.com/docopt/docopt.cpp) - A library to generate option parser from docstring. [MIT/Boost]
+ * [FINAL CUT](https://github.com/gansm/finalcut) - Library for creating terminal applications with text-based widgets. [LGPL]
  * [gflags](https://gflags.github.io/gflags/) - Commandline flags module for C++. [BSD]
+ * [indicators](https://github.com/p-ranav/indicators/) - Activity indicators for Modern C++. [MIT]
  * [linenoise](https://github.com/antirez/linenoise) - A small self-contained alternative to readline and libedit. [BSD-2-Clause]
  * [linenoise-ng](https://github.com/arangodb/linenoise-ng) - A small, portable GNU readline replacement for Linux, Windows and MacOS which is capable of handling UTF-8 characters. [BSD]
  * [Lyra](https://github.com/bfgroup/Lyra) - A simple to use, composable, command line parser for C++ 11 and beyond. [Boost]
- * [Ncurses](http://invisible-island.net/ncurses/) - A terminal user interfaces. [MIT]
+ * [Ncurses](http://invisible-island.net/ncurses/) - A terminal user interface. [MIT]
+ * [oof](https://github.com/s9w/oof) - Convenient, high-performance RGB color and position control for console output. [MIT]
  * [PDCurses](https://github.com/wmcbrine/PDCurses) - Public domain curses library with both source code and pre-compiled library available. [PublicDomain]
+ * [popl](https://github.com/badaix/popl) - A single-header templated command line arguments and ini file parser for C++ 11 and beyond. [MIT]
  * [replxx](https://github.com/AmokHuginnsson/replxx) - A readline and libedit replacement that supports UTF-8, syntax highlighting, hints, works on Unix and Windows. [BSD]
+ * [tabulate](https://github.com/p-ranav/tabulate) - Table Maker for Modern C++ [MIT]
  * [TCLAP](http://tclap.sourceforge.net) - A mature, stable and feature-rich library for defining and accessing command line arguments in ANSI C++. [MIT]
  * [termbox](https://github.com/nsf/termbox) - A C library for writing text-based user interfaces. [MIT]
+ * [cpp-terminal](https://github.com/jupyter-xeus/cpp-terminal) - Small header only C++ library for writing multiplatform terminal applications. [MIT]
+ * [FTXUI](https://github.com/ArthurSonzogni/FTXUI) - C++ Functional Terminal User Interface. [MIT]
+ * [imtui](https://github.com/ggerganov/imtui) - Immediate Mode Text-based User Interface [MIT]
 
 ## Compression
 *Compression and Archiving Libraries*
@@ -205,7 +240,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [bzip2](http://www.bzip.org/) - A freely available, patent free, high-quality data compressor. [BSD]
 * [FiniteStateEntropy](https://github.com/Cyan4973/FiniteStateEntropy) - New generation entropy codecs : Finite State Entropy and Huff0.
 * [PhysicsFS](https://icculus.org/physfs/) - A library to provide abstract access to various archives. It is intended for use in video games, and the design was somewhat inspired by Quake 3's file subsystem. [zlib]
-* [KArchive](https://quickgit.kde.org/?p=karchive.git) - A library for creating, reading, writing and manipulating file archives like zip and tar. It also provides transparent compression and decompression of data, using formats like gzip, via a subclass of QIODevice. [LGPL]
+* [KArchive](https://api.kde.org/frameworks/karchive/html/index.html) - A library for creating, reading, writing and manipulating file archives like zip and tar. It also provides transparent compression and decompression of data, using formats like gzip, via a subclass of QIODevice. [LGPL]
 * [libarchive](https://github.com/libarchive/libarchive) - Multi-format archive and compression library. [New BSD] [website](http://www.libarchive.org/)
 * [LZ4](https://github.com/lz4/lz4) - Extremely Fast Compression algorithm. [BSD] [website](http://www.lz4.org/)
 * [LZFSE](https://github.com/lzfse/lzfse) - LZFSE compression library and command line tool. Developed by Apple.
@@ -233,49 +268,60 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [concurrentqueue](https://github.com/cameron314/concurrentqueue) - A fast multi-producer, multi-consumer lock-free concurrent queue for C++11. [BSD,Boost]
 * [Cpp-Taskflow](https://github.com/cpp-taskflow/cpp-taskflow) - Fast C++ Parallel Programming with Task Dependencies. [MIT]
 * [CUB](https://github.com/NVlabs/cub) - CUB provides state-of-the-art, reusable software components for every layer of the CUDA programming mode. [New BSD]
+* [cuda-api-wrappers](https://github.com/eyalroz/cuda-api-wrappers) - Lightweight, Modern-C++ wrappers for the CUDA GPU programming runtime API. [BSD]
 * [cupla](https://github.com/ComputationalRadiationPhysics/cupla) - C++ API to run CUDA/C++ on OpenMP, Threads, TBB, ... through Alpaka. [LGPLv3+]
 * [C++React](https://github.com/schlangster/cpp.react) - A reactive programming library for C++11. [Boost]
 * [FiberTaskingLib](https://github.com/RichieSams/FiberTaskingLib) - Task-based multi-threading library that supports task graphs with arbitrary dependencies. [Apache]
+* [HPX](https://github.com/STEllAR-GROUP/hpx/) - A general purpose C++ runtime system for parallel and distributed applications of any scale. [Boost]
 * [Intel Games Task Scheduler](https://github.com/GameTechDev/GTS-GamesTaskScheduler) - A task scheduling framework designed for the needs of game developers. [MIT]
 * [Intel Parallel STL](https://github.com/intel/parallelstl) - Intel® implementation of C++17 STL for C++11 and above. [Apache2]
 * [Intel TBB](https://www.threadingbuildingblocks.org/) - Intel® Threading Building Blocks. [Apache2]
 * [junction](https://github.com/preshing/junction) - A library of concurrent data structures in C++. [BSD]
+* [Kokkos](https://github.com/kokkos/kokkos) - A performance portable programming model for parallel execution and memory abstraction. [BSD]
 * [libcds](https://github.com/khizmax/libcds) - A C++ library of Concurrent Data Structures. [BSD]
 * [Libclsph](https://github.com/libclsph/libclsph) - An OpenCL based GPU accelerated SPH fluid simulation library. [MIT]
 * [libdill](https://github.com/sustrik/libdill/) - Introduces structured concurrency in C. [MIT]
 * [libdispatch](https://github.com/apple/swift-corelibs-libdispatch) - Grand Central Dispatch (GCD), developed by Apple Inc., is a task parallelism technology based on the thread pool pattern. libdispatch is a library that provides the implementation of GCD's services. [Apache-2.0] [website](https://apple.github.io/swift-corelibs-libdispatch/)
 * [libmill](https://github.com/sustrik/libmill/) - Introduces Go-style concurrency in C. [MIT]
+* [marl](https://github.com/google/marl) - Marl is a hybrid thread / fiber task scheduler written in C++ 11. [Apache-2.0]
 * [moderngpu](https://github.com/moderngpu/moderngpu) - moderngpu is a productivity library for general-purpose computing on GPUs. It is a header-only C++ library written for CUDA. The unique value of the library is in its accelerated primitives for solving irregularly parallel problems. [FreeBSD & Copyright, Sean Baxter]
 * [NCCL](https://github.com/NVIDIA/nccl) - Optimized primitives for collective multi-GPU communication. [BSD]
 * [OpenCL](https://www.khronos.org/opencl/) - The open standard for parallel programming of heterogeneous systems.
 * [OpenMP](http://openmp.org/) - The OpenMP API.
+* [rotor](https://github.com/basiliscos/cpp-rotor) - Event loop friendly C++ actor micro framework. [MIT]
+* [SObjectizer](https://github.com/Stiffstream/sobjectizer) - An implementation of Actor, Publish-Subscribe, and CSP models in one rather small C++ framework. [BSD-3-Clause]
+* [Quantum](https://github.com/bloomberg/quantum) - A powerful C++ coroutine dispatcher framework built on top of [boost::coroutines2](https://www.boost.org/doc/libs/1_65_0/libs/coroutine2/doc/html/index.html).
 * [RaftLib](http://raftlib.io/) - The RaftLib C++ library, streaming/dataflow concurrency via C++ iostream-like operators [Apache2]
 * [readerwriterqueue](https://github.com/cameron314/readerwriterqueue) - A fast single-producer, single-consumer lock-free queue for C++. [BSD]
+* [stdgpu](https://github.com/stotko/stdgpu) - Efficient STL-like Data Structures on the GPU. [Apache2]
 * [Thrust](http://thrust.github.io/) - A parallel algorithms library which resembles the C++ Standard Template Library (STL). [Apache2]
 * [transwarp](https://github.com/bloomen/transwarp) - A header-only C++ library for task concurrency. [MIT]
-* [HPX](https://github.com/STEllAR-GROUP/hpx/) - A general purpose C++ runtime system for parallel and distributed applications of any scale. [Boost]
 * [VexCL](https://github.com/ddemidov/vexcl) - A C++ vector expression template library for OpenCL/CUDA. [MIT]
-* [Quantum](https://github.com/bloomberg/quantum) - A powerful C++ coroutine dispatcher framework built on top of [boost::coroutines2](https://www.boost.org/doc/libs/1_65_0/libs/coroutine2/doc/html/index.html).
+* [STAPL](http://parasol-lab.gitlab.io/stapl-home/) - A C++ parallel programming framework designed to work on both shared and distributed memory parallel computers. [BSD]
+* [concurrencpp](https://github.com/David-Haim/concurrencpp) - A general concurrency library containing tasks, executors, timers and C++20 coroutines to rule them all.
 
 ## Configuration
 *Configuration files, INI files*
 
+* [inifile-cpp](https://github.com/Rookfighter/inifile-cpp) - A header-only and easy to use Ini file parser for C++. [MIT]
 * [inih](https://github.com/benhoyt/inih) - Simple .INI file parser in C, good for embedded systems. [BSD-3-Clause]
 * [inih](https://github.com/jtilly/inih) - Single header only C++ version of [inih](https://github.com/benhoyt/inih). [BSD-3-Clause]
 * [iniparser](https://github.com/ndevilla/iniparser) - INI file parser. [MIT]
 * [libconfig](https://github.com/hyperrealm/libconfig) - C, C++ library for processing structured configuration files. [LGPL-2.1] [website](https://hyperrealm.github.io/libconfig/)
 * [libconfuse](https://github.com/martinh/libconfuse) - Small configuration file parser library for C. [ISC]
 * [simpleini](https://github.com/brofield/simpleini) - Cross-platform C++ library providing a simple API to read and write INI-style configuration files. [MIT]
+* [toml++](https://github.com/marzer/tomlplusplus) - Header-only TOML parser and serializer for C++17 and later. [MIT] [website](https://marzer.github.io/tomlplusplus/)
 
 ## Containers
 
-* [C++ B-tree](https://code.google.com/p/cpp-btree/) - A template library that implements ordered in-memory containers based on a B-tree data structure. [Apache2]
+* [C++ B-tree](https://github.com/algorithm-ninja/cpp-btree) - A template library that implements ordered in-memory containers based on a B-tree data structure. [Apache2]
 * [Colony](https://github.com/mattreecebentley/plf_colony) - An unordered "bag"-type container which outperforms std containers in high-modification scenarios while maintaining permanent pointers to non-erased elements regardless of insertion/erasure. [zLib] [website](http://www.plflib.org/colony.htm)
 * [dynamic_bitset](https://github.com/pinam45/dynamic_bitset) - A C++17 header-only dynamic bitset. [MIT]
 * [Forest](https://github.com/xorz57/forest) - Template library implementing an AVL, a Binary Search, a KD and a Quad Tree. [MIT]
 * [Hashmaps](https://github.com/goossaert/hashmap) - Implementation of open addressing hash table algorithms in C++. [MIT]
 * [Hopscotch map](https://github.com/Tessil/hopscotch-map) - A fast header-only hash map which uses hopscotch hashing for collisions resolution. [MIT]
 * [LSHBOX](https://github.com/RSIA-LIESMARS-WHU/LSHBOX) - A c++ toolbox of locality-sensitive hashing (LSH), provides several popular LSH algorithms, also support Python and MATLAB. [GPL]
+* [PGM-index](https://github.com/gvinciguerra/PGM-index) - A data structure that enables fast lookup, predecessor, range searches and updates in arrays of billions of items using orders of magnitude less space than traditional indexes. [Apache2] [website](https://pgm.di.unipi.it)
 * [plf::list](https://github.com/mattreecebentley/plf_list) - A std::list implementation which removes range splicing in order to enable cache-friendlier structure, yielding significant performance gains. [zLib] [website](http://www.plflib.org/list.htm)
 * [plf::stack](https://github.com/mattreecebentley/plf_stack) - A replacement container for the std::stack container adaptor, with better performance than any std container in a stack context. [zLib] [website](http://www.plflib.org/stack.htm)
 * [ring_span lite](https://github.com/martinmoene/ring-span-lite) - A simplified implementation of Arthur O'Dwyer's ring_span implementation ie. a circular buffer view. [MIT]
@@ -311,13 +357,15 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 ## CSV
 *Libraries for parsing Comma Separated Value (CSV) files*
 
-* [csv](https://github.com/p-ranav/csv) - CSV for modern C++. [MIT]
+* [csv2](https://github.com/p-ranav/csv2) - Fast CSV parser for modern C++. [MIT]
+* [Csv::Parser](https://github.com/ashaduri/csv-parser) - Compile-time and runtime CSV parser written in C++17. [Zlib]
 * [Fast C++ CSV Parser](https://github.com/ben-strasser/fast-cpp-csv-parser) - Small, easy-to-use and fast header-only library for reading CSV files. [BSD-3-Clause]
 * [Vince's CSV Parser](https://github.com/vincentlaucsb/csv-parser) - A fast, self-contained, streaming C++17 CSV parser with optional type-casting and statistics. [MIT]
 
 ## Database
 *Database Libraries, SQL Servers, ODBC Drivers, and Tools*
 
+* [ClickHouse](https://github.com/ClickHouse/clickhouse-cpp) - C++ client for ClickHouse DBMS. [Apache2]
 * [hiberlite](https://github.com/paulftw/hiberlite) - C++ Object-relational mapping for sqlite3. [BSD]
 * [Hiredis](https://github.com/redis/hiredis) - A minimalistic C client library for the Redis database. [BSD]
 * [LevelDB](https://github.com/google/leveldb) - A fast key-value storage library written at Google that provides an ordered mapping from string keys to string values. [BSD]
@@ -336,10 +384,16 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [SQLite](http://www.sqlite.org/) - A completely embedded, full-featured relational database in a few 100k that you can include right into your project. [PublicDomain]
 * [SQLiteC++](https://github.com/SRombauts/SQLiteCpp) - SQLiteC++ (SQLiteCpp) is a smart and easy to use C++ SQLite3 wrapper. [MIT]
 * [sqlite_modern_cpp](https://github.com/SqliteModernCpp/sqlite_modern_cpp) - Header only C++14 wrapper around sqlite library. [MIT]
-* [sqlite_orm](https://github.com/fnc12/sqlite_orm) - SQLite ORM light header only library for modern C++. [BSD-3-Clause]
+* [sqlite_orm](https://github.com/fnc12/sqlite_orm) - SQLite ORM light header only library for modern C++. [AGPL + paid MIT]
 * [sqlpp11](https://github.com/rbock/sqlpp11) - A type safe embedded domain specific language for SQL queries and results in C++. [BSD-2-Clause]
 * [TileDB](https://github.com/TileDB-Inc/TileDB) - Fast Dense and Sparse Multidimensional Array DBMS. [MIT] [website](https://tiledb.io/)
+* [UnQLite](https://github.com/symisc/unqlite) - A self-contained, serverless, zero-configuration, transactional NoSQL engine. [BSD-2-Clause] [website](https://unqlite.org/)
 * [upscaledb](https://upscaledb.com) - An embedded "typed" key/value store with a built-in query interface. [GPLv3]
+
+## Data visualization
+*Data visiualization Libraries*
+
+* [matplotplusplus](https://github.com/alandefreitas/matplotplusplus) - C++ Graphics Library for Data Visualization. [MIT] [website](https://alandefreitas.github.io/matplotplusplus/)
 
 ## Debug
 *Debugging Libraries, Memory Leak and Resource Leak Detection, Unit Testing*
@@ -349,7 +403,6 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Boost.Test](http://www.boost.org/doc/libs/master/libs/test/doc/html/index.html) - Boost Test Library. [Boost]
 * [check](https://github.com/libcheck/check) - Check is a unit testing framework for C. [LGPL-2.1] [website](https://libcheck.github.io/check/)
 * [doctest](https://github.com/onqtam/doctest) - The lightest feature rich C++ single header testing framework. [MIT]
-* [Catch](https://github.com/philsquared/Catch) - A modern, C++-native, header-only, framework for unit-tests, TDD and BDD. [Boost]
 * [Catch2](https://github.com/catchorg/Catch2) - A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD. [BSL-1.0]
 * [Celero](https://github.com/DigitalInBlue/Celero) - C++ Benchmarking Framework. [Apache2]
 * [CppUTest](https://github.com/cpputest/cpputest) - Unit testing and mocking framework for C/C++. [BSD-3-clause]
@@ -358,6 +411,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [CppUnit](http://www.freedesktop.org/wiki/Software/cppunit/) - C++ port of JUnit. [LGPL2]
 * [CTest](https://cmake.org/cmake/help/v2.8.8/ctest.html) - The CMake test driver program. [BSD]
 * [dbg-macro](https://github.com/sharkdp/dbg-macro) - A dbg(…) macro for C++. [MIT]
+* [DebugViewPP](https://github.com/CobaltFusion/DebugViewPP) - Debug logging viewer. [BSL]
 * [Deleaker](http://www.deleaker.com) - A tool for resource leak detection, including memory, GDI and handle leaks.
 * [fff](https://github.com/meekrosoft/fff) - A micro-framework for creating fake C functions. [MIT]
 * [Google Mock](https://github.com/google/googletest/blob/master/googlemock/README.md) - A library for writing and using C++ mock classes. [BSD]
@@ -365,15 +419,17 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [ig-debugheap](https://github.com/deplinenoise/ig-debugheap) - Multiplatform debug heap useful for tracking down memory errors. [BSD]
 * [libtap](https://github.com/zorgnax/libtap) - Write tests in C. [GPL2]
 * [MemTrack](http://www.almostinfinite.com/memtrack.html) - Tracking memory allocations in C++.
-* [microprofile](https://bitbucket.org/jonasmeyer/microprofile/overview) - Profiler with web-view for multiple platforms. [PublicDomain]
+* [microprofile](https://github.com/jonasmr/microprofile) - Profiler with web-view for multiple platforms. [Unlicense]
 * [MinUnit](https://github.com/siu/minunit) - A minimal unit testing framework for C self-contained in a single header file. [MIT]
 * [Mockator](http://www.mockator.com) - Eclipse CDT plug-in for C++ Seams and Mock Objects.
 * [Nanotimer](https://github.com/mattreecebentley/plf_nanotimer) - A simple low-overhead cross-platform timer class for benchmarking. [zLib] [website](http://www.plflib.org/nanotimer.htm)
 * [Nonius](https://github.com/libnonius/nonius) - A C++ micro-benchmarking framework. [CC]
 * [Remotery](https://github.com/Celtoys/Remotery) - Single C File Profiler with Web Viewer. [Apache2]
+* [Touca](https://github.com/trytouca/touca-cpp) - Automated regression testing system for testing complex mission-critical workflows. [Apache2] [website](https://touca.io/)
 * [UnitTest++](https://github.com/unittest-cpp/unittest-cpp) - A lightweight unit testing framework for C++. [MIT/X Consortium license]
 * [Unity](https://github.com/ThrowTheSwitch/Unity) - Simple Unit Testing for C. [MIT]
 * [utest.h](https://github.com/sheredom/utest.h) - Single header unit testing framework for C and C++. [Unlicense]
+* [μt](https://github.com/boost-experimental/ut) - C++20 single header/single module, macro-free μ(micro)/Unit Testing Framework [Boost]
 * [VLD](http://vld.codeplex.com/) - Visual Leak Detector. A free, robust, open-source memory leak detection system for Visual C++.
 
 ## Font
@@ -387,17 +443,18 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 * [Acid](https://github.com/Equilibrium-Games/Acid) - A high speed C++17 Vulkan game engine. [MIT]
 * [Allegro](http://liballeg.org/) - A cross-platform library mainly aimed for video games and multimedia programming. [zlib]
-* [Atomic Game Engine](https://github.com/AtomicGameEngine/AtomicGameEngine) - A multi-platform 2D and 3D engine with a consistent API in C++, C#, JavaScript, and TypeScript. [Commercial]
-* [Banshee 3D](https://github.com/BearishSun/BansheeEngine) - Modern C++14 game engine with Vulkan support, fully featured editor and C# scripting. [LGPL3/Commercial]
 * [Cocos2d-x](http://www.cocos2d-x.org/) - A multi-platform framework for building 2d games, interactive books, demos and other graphical applications. [MIT]
 * [Corange](https://github.com/orangeduck/Corange) - A game engine written in pure C, SDL and OpenGL. [BSD]
+* [crown](https://github.com/dbartolini/crown) - Crown is a general purpose data-driven game engine, written from scratch in orthodox C++ with a minimalistic and data-oriented design philosophy in mind. [MIT]
 * [delta3d](http://sourceforge.net/projects/delta3d/) - A robust simulation platform. [LGPL2]
 * [EnTT](https://github.com/skypjack/entt) - Gaming meets modern C++. [MIT]
 * [GamePlay](https://github.com/gameplay3d/GamePlay) - A cross-platform native C++ game framework for creating 2D/3D mobile and desktop games. [Apache2]
 * [Godot](https://github.com/godotengine/godot) - A fully featured, open source, MIT licensed, game engine. [MIT]
-* [Grit](http://www.gritengine.com/) - Community project to build a free game engine for implementing open world 3D games. [MIT]
+* [Grit](https://github.com/grit-engine/grit-engine) - Community project to build a free game engine for implementing open world 3D games. [MIT]
 * [Halley](https://github.com/amzeratul/halley) - A lightweight game engine written in C++14 with a "true" entity-component system. [Apache 2.0]
 * [KlayGE](https://github.com/gongminmin/KlayGE) - a cross-platform open source game engine with plugin-based architecture. [GPLv2] [website](http://www.klayge.org/)
+* [nCine](https://github.com/nCine/nCine) - A cross-platform 2D game engine with an emphasis on performance, written in C++11 and optionally scriptable in Lua. [MIT] [website](https://ncine.github.io/)
+* [o3de](https://github.com/o3de/o3de) - An open-source, real-time, multi-platform 3D engine based on Amazon Lumberyard. [Apache2] [website](https://o3de.org/)
 * [OpenXRay](https://github.com/OpenXRay/xray-16) - a community-modified X-Ray engine used in S.T.A.L.K.E.R. game series. [Modified BSD/non-commercial only]
 * [Oxygine](http://oxygine.org/) - A cross-platform 2D C++ game engine. [MIT]
 * [Panda3D](https://github.com/panda3d/panda3d) - A game engine, a framework for 3D rendering and game development for Python and C++ programs. [Modified BSD] [website](https://www.panda3d.org/)
@@ -415,23 +472,26 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 * [Boden](https://github.com/AshampooSystems/boden) - Native, mobile, cross-platform GUI Framework. [GPL/LGPL/Commercial] [website](https://www.boden.io)
 * [CEGUI](http://cegui.org.uk/) - Flexible, cross-platform GUI library.
+* [Elements](https://github.com/cycfi/elements) - Lightweight, fine-grained, resolution independent, modular GUI library. [MIT]
 * [FLTK](http://www.fltk.org/index.php) - Fast, light, cross-platform C++ GUI toolkit. [GPL2]
 * [GacUI](https://github.com/vczh-libraries/GacUI) - GPU Accelerated C++ User Interface, with WYSIWYG developing tools, XML supports, built-in data binding and MVVM features. [Ms-PL]
 * [GTK+](http://www.gtk.org/) - A multi-platform toolkit for creating graphical user interfaces. [LGPL]
 * [gtkmm](http://www.gtkmm.org/en/) - The official C++ interface for the popular GUI library GTK+. [LGPL]
 * [imgui](https://github.com/ocornut/imgui) - Immediate Mode Graphical User Interface with minimal dependencies. [MIT]
+* [implot](https://github.com/epezent/implot) - Immediate Mode Plotting widgets for imgui. [MIT]
 * [iup](https://www.tecgraf.puc-rio.br/iup) - Multi-platform toolkit for building graphical user interfaces. [MIT]
-* [libRocket](http://librocket.com/) - libRocket is a C++ HTML/CSS game interface middleware. [MIT]
 * [libui](https://github.com/andlabs/libui) - Simple and portable (but not inflexible) GUI library in C that uses the native GUI technologies of each platform it supports. [MIT]
 * [MyGUI](http://mygui.info/) - Fast, flexible and simple GUI. [MIT]
 * [nana](http://nanapro.org/en-us/) - Nana is a cross-platform library for GUI programming in modern C++ style. [Boost]
-* [NanoGui](https://github.com/wjakob/nanogui) - A minimalistic cross-platform widget library for OpenGL 3.x or higher. [BSD]
-* [nuklear](https://github.com/vurtun/nuklear) - A single-header ANSI C gui library. [PublicDomain]
+* [NanoGui](https://github.com/mitsuba-renderer/nanogui) - A minimalistic cross-platform widget library for OpenGL 3.x or higher. [BSD]
+* [nuklear](https://github.com/Immediate-Mode-UI/Nuklear) - A single-header ANSI C gui library. [PublicDomain]
 * [QCustomPlot](http://qcustomplot.com/) - Qt plotting widget without further dependencies. [GPLv3]
 * [Qwt](http://qwt.sourceforge.net/) - Qt Widgets for Technical Applications. [Own based on LGPL]
 * [QwtPlot3D](http://qwtplot3d.sourceforge.net/) - A feature-rich Qt/OpenGL-based C++ programming library, providing essentially a bunch of 3D-widgets. [zlib]
+* [RmlUi](https://github.com/mikke89/RmlUi) - The HTML/CSS User Interface library evolved. Fork of libRocket. [MIT]
 * [Sciter](http://sciter.com/) - Sciter is an embeddable HTML/CSS/scripting engine aimed to be used as an UI layer of modern desktop applications. [Free/Commercial]
 * [wxWidgets](http://wxwidgets.org/) - A C++ library that lets developers create applications for Windows, Mac OS X, Linux and other platforms with a single code base. [Own LGPL]
+* [xtd](https://github.com/gammasoft71/xtd) - Modern C++17/20 framework to create console (CLI), forms (GUI like WinForms) and tunit (unit tests like Microsoft Unit Testing Framework) applications on Windows, macOS, Linux, iOS and android. [MIT]
 * [Yue](https://github.com/yue/yue) - A library for creating native cross-platform GUI apps. [LGPLv2]
 
 ## Graphics
@@ -441,6 +501,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Blend2D](https://github.com/blend2d/blend2d) - 2D vector graphics engine powered by a JIT compiler. [Zlib] [website](https://blend2d.com/)
 * [bs::framework](https://github.com/GameFoundry/bsf) - Modern C++14 library for the development of real-time graphical applications. [MIT]
 * [Cairo](http://www.cairographics.org/) - A 2D graphics library with support for multiple output devices. [LGPL2 or Mozilla MPL]
+* [C-Turtle](https://github.com/walkerje/C-Turtle) - A C++11 header-only turtle graphics library acting as a CImg wrapper. [MIT]
 * [Diligent Engine](https://github.com/DiligentGraphics/DiligentEngine) - A modern cross-platform low-level 3D graphics library. [Apache2]
 * [DirectXTK](https://github.com/Microsoft/DirectXTK) - A collection of helper classes for writing DirectX 11.x code in C++. [MIT]
 * [GLFW](https://github.com/glfw/glfw) - A simple, cross-platform OpenGL wrangling library. [zlib/libpng]
@@ -478,11 +539,12 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [libfacedetection](https://github.com/ShiqiYu/libfacedetection) - Open source library for face detection in images. The face detection speed can reach 1500FPS. [BSD]
 * [libjpeg-turbo](https://github.com/libjpeg-turbo/libjpeg-turbo) - A JPEG image codec that uses SIMD instructions to accelerate baseline JPEG encoding and decoding. [IJG & BSD-3-Clause & zlib] [website](https://libjpeg-turbo.org/)
 * [libvips](https://github.com/jcupitt/libvips) - A fast image processing library with low memory needs. [LGPL] [website](http://www.vips.ecs.soton.ac.uk/)
-* [Magick++](http://www.imagemagick.org/script/api.php) - ImageMagick program interfaces for C++. [Apache2]
-* [MagickWnd](http://www.imagemagick.org/script/api.php) - ImageMagick program interfaces for C. [Apache2]
+* [Magick++](https://imagemagick.org/script/magick++.php) - ImageMagick program interfaces for C++. [Apache2]
+* [MagickWnd](https://imagemagick.org/script/magick-wand.php) - ImageMagick program interfaces for C. [Apache2]
 * [OpenCV](http://opencv.org/) :zap: - Open source computer vision. [BSD]
 * [OpenEXR](http://www.openexr.com/) - Cross-platform library for high dynamic range imaging. [Modified BSDF]
 * [OpenImageIO](https://github.com/OpenImageIO/oiio) - Powerful image and texture wrangling library with support for a wide number of common lossy and RAW formats. [Modified BSD]
+* [SAIL](https://github.com/happy-sea-fox/sail) - Easy-to-use cross-platform image decoding library with pluggable image codecs. [MIT]
 * [Simd](https://github.com/ermig1979/Simd) - C++ image processing library with using of SIMD: SSE, SSE2, SSE3, SSSE3, SSE4.1, SSE4.2, AVX, AVX2, AVX-512, VMX(Altivec) and VSX(Power7), NEON for ARM. [MIT]
 * [stb-image](https://github.com/nothings/stb/blob/master/stb_image.h) - STB single-header image loading library. [Public Domain]
 * [tesseract-ocr](https://github.com/tesseract-ocr) - An OCR engine. [Apache2]
@@ -503,6 +565,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 * [Apache Thrift](https://thrift.apache.org/) - Efficient cross-language IPC/RPC, works between C++, Java, Python, PHP, C#, and many more other languages. Originally developed by Facebook. [Apache2]
 * [Cap'n Proto](https://github.com/capnproto/capnproto) - Fast data interchange format and capability-based RPC system. [MIT] [website](https://capnproto.org/)
+* [eCAL](https://github.com/continental/ecal) - Pub/sub, client/server, C++/Python/C#, various message protocols (protobuf, capnproto ..). [Apache2] [website](http://www.ecal.io/)
 * [gRPC](https://github.com/grpc/grpc) - A high performance, open source, general-purpose RPC framework. [BSD] [website](http://www.grpc.io/)
 * [Ice](https://github.com/zeroc-ice/ice) - Comprehensive RPC framework with support for C++, C#, Java, JavaScript, Python and more. [GPLv2]
 * [libjson-rpc-cpp](https://github.com/cinemast/libjson-rpc-cpp) - JSON-RPC framework for C++ servers and clients. [MIT]
@@ -526,9 +589,11 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [JSON++](https://github.com/hjiang/jsonxx) - A JSON parser in C++. [MIT]
 * [json.h](https://github.com/sheredom/json.h) - A simple one header/one source solution to parsing JSON in C and C++. [Unlicense]
 * [json-c](https://github.com/json-c/json-c) - A JSON implementation in C. [MIT]
+* [jsoncons](https://github.com/danielaparker/jsoncons) - A C++ header-only library for JSON and JSON-like binary formats with JSONPointer, JSONPatch, JSONPath and JMESPath. [Boost]
 * [JsonCpp](https://github.com/open-source-parsers/jsoncpp) - A C++ library for interacting with JSON. [MIT]
 * [json-parser](https://github.com/udp/json-parser) - Very low footprint JSON parser written in portable ANSI C. [BSD]
 * [json11](https://github.com/dropbox/json11) - A tiny JSON library for C++11. [MIT]
+* [json-struct](https://github.com/jorgen/json_struct) - High performance, single header JSON parser parsing to and from C++ structs. [MIT]
 * [json-voorhees](https://github.com/tgockel/json-voorhees) - JSON library for C++. Support for C++11. No dependencies, fast and dev-friendly. [Apache2]
 * [jute](https://github.com/amir-s/jute) - Very simple C++ JSON Parser. [PublicDomain]
 * [libjson](https://github.com/vincenthz/libjson) - A JSON parser and printer library in C. easy to integrate with any model. [LGPL]
@@ -544,12 +609,14 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [taoJSON](https://github.com/taocpp/json) - Zero-dependency C++ header-only JSON library. [MIT]
 * [ujson](https://bitbucket.org/awangk/ujson) - µjson is a a small, C++11, UTF-8, JSON library. [MIT]
 * [YAJL](https://github.com/lloyd/yajl) - A fast streaming JSON parsing library in C. [ISC]
+* [yyjson](https://github.com/ibireme/yyjson) - A high performance JSON library written in ANSI C. [MIT]
 
 ## Logging
 
 * [Blackhole](https://github.com/3Hren/blackhole) - Attribute-based logging framework, which is designed to be fast, modular and highly customizable. [MIT]
 * [Boost.Log](http://www.boost.org/doc/libs/1_56_0/libs/log/doc/html/index.html) - Designed to be very modular and extensible. [Boost]
-* [Easylogging++](https://github.com/easylogging/easyloggingpp) - Extremely light-weight high performance logging library for C++11 (or higher) applications. [MIT] [website](https://muflihun.github.io/easyloggingpp)
+* [Easylogging++](https://github.com/amrayn/easyloggingpp) - Extremely light-weight high performance logging library for C++11 (or higher) applications. [MIT]
+* [fmtlog](https://github.com/MengRao/fmtlog) - A performant fmtlib-style logging library with latency in nanoseconds. [MIT]
 * [G3log](https://github.com/KjellKod/g3log) - Asynchronous logger with Dynamic Sinks. [PublicDomain]
 * [glog](https://github.com/google/glog) - C++ implementation of the Google logging module.
 * [Log4cpp](http://log4cpp.sourceforge.net/) - A library of C++ classes for flexible logging to files, syslog, IDSA and other destinations. [LGPL]
@@ -560,6 +627,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [spdlog](https://github.com/gabime/spdlog) - Super fast, header only, C++ logging library.
 * [templog](http://www.templog.org/) - A very small and lightweight C++ library which you can use to add logging to your C++ applications. [Boost]
 * [P7Baical](http://baical.net/p7.html) - An open source and cross-platform library for high-speed sending telemetry & trace data  with minimal usage of CPU and memory. [LGPL]
+* [Quill](https://github.com/odygrd/quill) - Asynchronous cross platform low latency logging library. [MIT]
 
 ## Machine Learning
 
@@ -570,27 +638,32 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Fido](https://github.com/FidoProject/Fido) - A highly-modular C++ machine learning library for embedded electronics and robotics. [MIT] [website](http://fidoproject.github.io/)
 * [flashlight](https://github.com/facebookresearch/flashlight) - A fast, flexible machine learning library from Facebook AI Research written entirely in C++ and based on the ArrayFire tensor library. [BSD-3-Clause] [website](https://fl.readthedocs.io/en/latest/)
 * [libsvm](https://github.com/cjlin1/libsvm) - A simple, easy-to-use, efficient library for Support Vector Machines. [BSD-3-Clause] [website](https://www.csie.ntu.edu.tw/~cjlin/libsvm/)
+* [m2cgen](https://github.com/BayesWitnesses/m2cgen) - A CLI tool to transpile trained classic ML models into a native C code with zero dependencies. [MIT]
 * [MeTA](https://github.com/meta-toolkit/meta) - A modern C++ data sciences toolkit. [MIT] [website](https://meta-toolkit.org/)
 * [Minerva](https://github.com/dmlc/minerva) - A fast and flexible system for deep learning. [Apache2]
 * [mlpack](https://github.com/mlpack/mlpack) - A scalable c++ machine learning library. [LGPLv3] [website](http://www.mlpack.org/)
 * [OpenCV](https://github.com/Itseez/opencv) :zap: - Open Source Computer Vision Library. [BSD] [website](http://opencv.org/)
+* [oneDAL](https://github.com/oneapi-src/oneDAL) - A powerful machine learning library that helps speed up big data analysis. [Apache]
 * [Recommender](https://github.com/GHamrouni/Recommender) - C library for product recommendations/suggestions using collaborative filtering (CF). [BSD]
 * [RNNLIB](https://github.com/szcom/rnnlib) - RNNLIB is a recurrent neural network library for sequence learning problems. [GPLv3]
 * [SHOGUN](https://github.com/shogun-toolbox/shogun) - The Shogun Machine Learning Toolbox. [GPLv3]
 * [sofia-ml](https://code.google.com/p/sofia-ml/) - The suite of fast incremental algorithms for machine learning. [Apache2]
 * [VLFeat](https://github.com/vlfeat/vlfeat) - The VLFeat open source library implements popular computer vision algorithms specialising in image understanding and local featurexs extraction and matching. [BSD-2-Clause] [website](http://www.vlfeat.org/)
 * [xgboost](https://github.com/dmlc/xgboost) - Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow. [Apache2]
+* [ncnn](https://github.com/Tencent/ncnn) - A high-performance neural network inference computing framework optimized for mobile platforms. [BSD]
 
 ## Math
 
 * [Apophenia](https://github.com/b-k/apophenia) - A C library for statistical and scientific computing [GPL2]
 * [Armadillo](https://gitlab.com/conradsnicta/armadillo-code) - Fast C++ library for linear algebra & scientific computing. [Apache2] [website](http://arma.sourceforge.net/)
+* [autodiff](https://github.com/autodiff/autodiff) - A modern, fast and expressive C++ library for automatic differentiation. [MIT] [website](https://autodiff.github.io)
 * [blaze](https://bitbucket.org/blaze-lib/blaze) - high-performance C++ math library for dense and sparse arithmetic. [BSD]
 * [Boost.Multiprecision](http://www.boost.org/doc/libs/master/libs/multiprecision/doc/html/index.html) - provides higher-range/precision integer, rational and floating-point types in C++, header-only or with GMP/MPFR/LibTomMath backends. [Boost]
 * [ceres-solver](http://ceres-solver.org/) - C++ library for modeling and solving large complicated nonlinear least squares problems from google. [BSD]
 * [CGAL](https://github.com/CGAL/cgal) - Collection of efficient and reliable geometric algorithms. [LGPL&GPL] [website](http://www.cgal.org/)
 * [cml](http://cmldev.net/) - free C++ math library for games and graphics. [Boost]
 * [CNL](https://github.com/johnmcfarlane/cnl/) - A Compositional Numeric Library for C++. [Boost]
+* [CXXGraph](https://github.com/ZigRazor/CXXGraph) - free C++(17) graph header-only library for representation and algorithms execution. [AGPL-3.0]
 * [Dlib](https://github.com/davisking/dlib) :zap: - A modern C++11 machine learning, computer vision, numerical optimization, and deep learning toolkit. [Boost] [website](http://dlib.net/)
 * [Eigen](http://eigen.tuxfamily.org/) - A high-level C++ library of template headers for linear algebra, matrix and vector operations, numerical solvers and related algorithms. [MPL2]
 * [ExprTK](http://www.partow.net/programming/exprtk/) - The C++ Mathematical Expression Toolkit Library (ExprTk) is a simple to use, easy to integrate and extremely efficient run-time mathematical expression parser and evaluation engine. [MIT]
@@ -598,13 +671,16 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [GLM](https://github.com/g-truc/glm) - Header-only C++ math library that matches and inter-operates with OpenGL's GLSL math. [MIT] [website](https://glm.g-truc.net/)
 * [GMTL](http://ggt.sourceforge.net/) - Graphics Math Template Library is a collection of tools implementing Graphics primitives in generalized ways. [GPL2]
 * [GMP](https://gmplib.org/) - A C library for arbitrary precision arithmetic, operating on signed integers, rational numbers, and floating-point numbers. [LGPL3 & GPL2]
+* [Klein](https://github.com/jeremyong/klein) - A fast, SIMD-optimized C++17 Geometric Algebra library for point, line, and plane projections, intersections, joins, rigid-body motion, and more. [MIT] [website](https://jeremyong.com/klein)
 * [linalg.h](https://github.com/sgorsten/linalg) - Single header, public domain, short vector math library for C++. [Unlicense]
 * [MIRACL](https://github.com/CertiVox/MIRACL) - A Multiprecision Integer and Rational Arithmetic Cryptographic Library. [AGPL]
+* [NumCpp](https://github.com/dpilger26/NumCpp) - A templatized header only C++ implementation of the Python Numpy library. [MIT]
 * [muparser](http://beltoforion.de/article.php?a=muparser) - muParser is an extensible high performance math expression parser library written in C++. [MIT]
 * [LibTomMath](https://github.com/libtom/libtommath) - A free open source portable number theoretic multiple-precision integer library written entirely in C. [PublicDomain & WTFPL] [website](http://www.libtom.net/)
 * [linmath.h](https://github.com/datenwolf/linmath.h) - A lean linear math library, aimed at graphics programming. [WTFPL]
 * [lp_solve](https://sourceforge.net/projects/lpsolve) - A library used to formulate and solve linear programming problems. [LGPL] [website](http://lpsolve.sourceforge.net)
 * [OpenBLAS](https://github.com/xianyi/OpenBLAS) - An optimized BLAS library based on GotoBLAS2 1.13 BSD version. [BSD 3-clause] [website](http://www.openblas.net/)
+* [PCG-rand](https://www.pcg-random.org/) - PCG is a family of simple fast space-efficient statistically good algorithms for random number generation. Unlike many general-purpose RNGs, they are also hard to predict. [Apache]
 * [QuantLib](https://github.com/lballabio/quantlib) - A free/open-source library for quantitative finance. [Modified BSD] [website](http://quantlib.org/)
 * [StatsLib](https://github.com/kthohr/stats) - A C++ header-only library of statistical distribution functions. [Apache2] [website](https://www.kthohr.com/statslib.html)
 * [SymEngine](https://github.com/symengine/symengine) - Fast symbolic manipulation library, a rewriting of SymPy's core in C++. [MIT]
@@ -612,7 +688,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Vc](https://github.com/VcDevel/Vc) - SIMD Vector Classes for C++. [BSD]
 * [Versor](http://versor.mat.ucsb.edu/) - A (fast) Generic C++ library for Geometric Algebras, including Euclidean, Projective, Conformal, Spacetime (etc).
 * [Wykobi](http://www.wykobi.com/) - A C++ library of efficient, robust and simple to use C++ 2D/3D oriented computational geometry routines. [MIT]
-* [xtensor](https://github.com/QuantStack/xtensor) - A C++14 library for numerical analysis with multi-dimensional array expressions, inspired by NumPy syntax. [BSD 3-clause] [website](http://quantstack.net/xtensor)
+* [xtensor](https://github.com/xtensor-stack/xtensor) - A C++14 library for numerical analysis with multi-dimensional array expressions, inspired by NumPy syntax. [BSD 3-clause] [website](https://xtensor-stack.github.io/xtensor)
 * [universal](https://github.com/stillwater-sc/universal) - A C++14 header-only library implementing arbitrary posit arithmetic. The posit number system is a tapered floating point that is more efficient than IEEE floating point. Posits enable reproducible computational science. [MIT license] [website](http://www.stillwater-sc.com/assets/content/stillwater-universal-sw.html)
 
 ## Memory Allocation
@@ -624,12 +700,15 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [memory](https://github.com/foonathan/memory) - STL compatible C++ memory allocator library. [ZLib]
 * [memory-allocators](https://github.com/mtrebi/memory-allocators) - Custom memory allocators to improve the performance of dynamic memory allocation. [MIT]
 * [mimalloc](https://github.com/microsoft/mimalloc) - A compact general purpose allocator with excellent performance. [MIT]
+* [rpmalloc](https://github.com/mjansson/rpmalloc) - Cross platform lock free thread caching 16-byte aligned memory allocator implemented in C. [PublicDomain]
+* [snmalloc](https://github.com/microsoft/snmalloc) - Message passing based high-performance allocator. [MIT]
+* [TCMalloc](https://github.com/google/tcmalloc) - Google's fast, multi-threaded malloc implementation. [Apache-2.0] [website](https://google.github.io/tcmalloc/)
 * [tgc](https://github.com/orangeduck/tgc) - A tiny garbage collector for C written in \~500 LOC. [BSD]
 
 ## Multimedia
 
 * [GStreamer](http://gstreamer.freedesktop.org/) - A library for constructing graphs of media-handling components. [LGPL]
-* [libass](https://github.com/libass/libass) - Portable subtitle renderer for the ASS/SSA subtitle format. [ISC] 
+* [libass](https://github.com/libass/libass) - Portable subtitle renderer for the ASS/SSA subtitle format. [ISC]
 * [libav](https://github.com/libav/libav) - A collection of libraries and tools to process multimedia content such as audio, video, subtitles and related metadata. [LGPL v2.1+ and others] [website](https://www.libav.org/)
 * [LIVE555 Streaming Media](http://www.live555.com/liveMedia/) - Multimedia streaming library using open standard protocols (RTP/RTCP, RTSP, SIP). [LGPL]
 * [libVLC](https://wiki.videolan.org/LibVLC) - libVLC (VLC SDK) media framework. [GPL]
@@ -643,15 +722,16 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 * [ACE](http://www.dre.vanderbilt.edu/~schmidt/ACE.html) - An OO Network Programming Toolkit in C++. [?MIT?]
 * [Boost.Asio](http://think-async.com/) :zap: - A cross-platform C++ library for network and low-level I/O programming. [Boost]
-* [Boost.Beast](https://github.com/boostorg/beast) :zap: - HTTP and WebSocket built on Boost.Asio in C++11. [BSL-1.0] [website](www.boost.org/libs/beast)
+* [Boost.Beast](https://github.com/boostorg/beast) :zap: - HTTP and WebSocket built on Boost.Asio in C++11. [BSL-1.0] [website](https://www.boost.org/libs/beast)
 * [Breep](https://github.com/Organic-Code/Breep) - Event based, high-level C++14 peer-to-peer library. [EUPL-1.1 (OSI approved)]
 * [C++ REST SDK](https://github.com/Microsoft/cpprestsdk) - C++ REST SDK (previously named Casablanca). [Apache2]
 * [Restbed](https://github.com/corvusoft/restbed) - C++11 Asynchronous RESTful framework. [AGPL]
 * [Restinio](https://github.com/Stiffstream/restinio) - A header-only C++14 library that gives you an embedded HTTP/Websocket server. [BSD]
 * [c-ares](https://github.com/c-ares/c-ares) - A C library for asynchronous DNS requests. [MIT]
-* [cpp-httplib](https://github.com/yhirose/cpp-httplib) - A single file C++11 header-only HTTP/HTTPS sever library. [MIT]
+* [cpp-httplib](https://github.com/yhirose/cpp-httplib) - A single file C++11 header-only HTTP/HTTPS server library. [MIT]
 * [cpp-netlib](http://cpp-netlib.org/) - A collection of open-source libraries for high level network programming. [Boost]
 * [cpp-netlib/uri](https://github.com/cpp-netlib/uri) - URI parser/builder library for C++, compatible with RFC 3986 and RFC 3987. [BSL-1.0]
+* [CppServer](https://github.com/chronoxor/CppServer) - Ultra fast and low latency asynchronous socket server & client C++ library with support TCP, SSL, UDP, HTTP, HTTPS, WebSocket protocols and 10K connections problem solution. [MIT]
 * [cpr](https://github.com/whoshuu/cpr) - A modern C++ HTTP requests library with a simple but powerful interface. Modeled after the Python Requests module. [MIT] [website](https://whoshuu.github.io/cpr/)
 * [curlcpp](https://github.com/JosephP91/curlcpp) - An object oriented C++ wrapper for CURL(libcurl). [MIT]
 * [DPDK](https://github.com/DPDK/dpdk) - Data Plane Development Kit, libraries and drivers for fast packet processing. [BSD-3-Clause & GPL-2.0] [website](https://www.dpdk.org/)
@@ -683,6 +763,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [restclient-cpp](https://github.com/mrtazz/restclient-cpp) - Simple REST client for C++. It wraps libcurl for HTTP requests. [MIT]
 * [Seasocks](https://github.com/mattgodbolt/seasocks) - Simple, small, C++ embeddable webserver with WebSockets support. [BSD]
 * [Silicon](http://siliconframework.org) - A high performance, middleware oriented C++14 http web framework. [MIT]
+* [tlse](https://github.com/eduardsui/tlse) - Single C file TLS 1.2/1.3 implementation, using tomcrypt as crypto library [BSD-2-Clause]
 * [Tufão](https://github.com/vinipsmaker/tufao) - An asynchronous web framework for C++ built on top of Qt. [LGPL2]
 * [uriparser](https://github.com/uriparser/uriparser) - Strictly RFC 3986 compliant URI parsing and handling library. [BSD-3-Clause]
 * [uWebSockets](https://github.com/uNetworking/uWebSockets) - µWS is one of the most lightweight, efficient & scalable WebSocket & HTTP server implementations available. [Zlib]
@@ -713,16 +794,19 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [LiquidFun](https://github.com/google/liquidfun) - A 2D physics engine for games. [BSD-like]
 * [Newton Dynamics](https://github.com/MADEAPPS/newton-dynamics) - An integrated solution for real time simulation of physics environments. [zlib]
 * [ODE](http://www.ode.org/) - Open Dynamics Engine - An open source, high performance library for simulating rigid body dynamics. [BSD&LGPL]
+* [Kratos](https://github.com/KratosMultiphysics/Kratos) - framework for building parallel, multi-disciplinary simulation software, aiming at modularity, extensibility, and high performance. [BSD] [website](http://www.cimne.com/kratos/)
 * [ofxBox2d](https://github.com/vanderlin/ofxBox2d) - openFrameworks wrapper for Box2D. [BSD-like]
-* [PhysX](https://github.com/NVIDIAGameWorks/PhysX-3.4) - An open-source realtime physics engine middleware SDK developed by Nvidia as a part of Nvidia GameWorks software suite. [BSD-3-Clause] 
+* [PhysX](https://github.com/NVIDIAGameWorks/PhysX-3.4) - An open-source realtime physics engine middleware SDK developed by Nvidia as a part of Nvidia GameWorks software suite. [BSD-3-Clause]
 * [Project Chrono](https://github.com/projectchrono/chrono) - An open source multi-physics simulation engine. [BSD-3-Clause] [website](https://projectchrono.org/)
-* [Simbody](https://github.com/simbody/simbody) - High-performance C++ multibody dynamics/physics library for simulating articulated biomechanical and mechanical systems like vehicles, robots, and the human skeleton. [Apache2]
 * [Quantum++](https://github.com/vsoftco/qpp) - A modern C++11 quantum computing library. [MIT]
+* [Simbody](https://github.com/simbody/simbody) - High-performance C++ multibody dynamics/physics library for simulating articulated biomechanical and mechanical systems like vehicles, robots, and the human skeleton. [Apache2]
+* [SOFA](https://github.com/sofa-framework/sofa) - SOFA is an open-source framework targeting at real-time simulation, with an emphasis on medical simulation. [LGPL] [website](https://www.sofa-framework.org)
 
 ## Reflection
 
+* [config-loader](https://github.com/netcan/config-loader) - A C++17 static reflection framework, from parse configuration file to native data structure. [MIT]
 * [Better Enums](https://github.com/aantron/better-enums) - Reflective enums (to string, iteration). Single header. [BSD] [website](http://aantron.github.io/better-enums/)
-* [clReflect](https://bitbucket.org/dwilliamson/clreflect) - C++ Reflection using clang. [MIT]
+* [clReflect](https://github.com/Celtoys/clReflect) - C++ Reflection using clang. [MIT]
 * [CPFG](https://github.com/cpgf/cpgf) - A C++03 library for reflection, callback and script binding. [Apache2] [website](http://www.cpgf.org/)
 * [CPP-Reflection](https://github.com/AustinBrunkhorst/CPP-Reflection) - C++ Reflection using clang. [MIT]
 * [Magic Enum](https://github.com/Neargye/magic_enum) - Header-only C++17 library provides static reflection for enums (to string, from string, iteration), work with any enum type without any macro or boilerplate code. [MIT]
@@ -732,6 +816,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Ponder](https://github.com/billyquith/ponder) - A C++11 library for reflection. [MIT]
 * [RTTR](https://github.com/rttrorg/rttr) - A C++11 library for reflection. [MIT] [website](http://www.rttr.org)
 * [visit_struct](https://github.com/cbeck88/visit_struct) - A miniature library for struct-field reflection in C++. [BSL-1.0]
+* [Refureku](https://github.com/jsoysouvanh/Refureku) - A C++17 runtime reflection and code generation library. [MIT]
 
 ## Regular Expression
 
@@ -753,12 +838,14 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Robotics Library (RL)](http://www.roboticslibrary.org/) - A self-contained C++ library for robot kinematics, motion planning and control. [BSD]
 * [RobWork](https://gitlab.com/sdurobotics/RobWork) - A collection of C++ libraries for simulation and control of robot systems. [Apache2] [website](http://www.robwork.dk/)
 * [ROS](http://wiki.ros.org/) - Robot Operating System provides libraries and tools to help software developers create robot applications. [BSD]
+* [YARP (Yet Another Robot Platform)](https://github.com/robotology/yarp) - Library and toolkit for communication and device interfaces. [BSD-3-Clause] [website](http://www.yarp.it/)
 
 ## Scientific Computing
 
 * [AMGCL](https://github.com/ddemidov/amgcl) - a header-only C++ library for solving large sparse linear systems with algebraic multigrid. [MIT]
 * [FFTW](http://www.fftw.org/) - A C library for computing the DFT in one or more dimensions. [GPL]
 * [GSL](http://www.gnu.org/software/gsl/) - GNU scientific library. [GPL]
+* [preCICE](https://github.com/precice/precice) - Coupling library for partitioned multi-physics simulations (FSI, CHT, and more). [LGPL] [website](https://precice.org/)
 * [TileDB](https://github.com/TileDB-Inc/TileDB) - Fast Dense and Sparse Multidimensional Array DBMS. [MIT] [website](https://tiledb.io/)
 * [Trilinos](https://github.com/trilinos/Trilinos) - High performance PDE solvers. [BSD]
 * [Torch](https://github.com/torch/torch7) - A scientific computing framework with wide support for machine learning algorithms that puts GPUs first. [BSD-3-Clause] [website](http://torch.ch/)
@@ -772,7 +859,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [ChaiScript](https://github.com/ChaiScript/ChaiScript/) - An easy to use embedded scripting language for C++. [BSD] [website](http://chaiscript.com/)
 * [ctypes.sh](https://github.com/taviso/ctypes.sh) - A foreign function interface for bash. [MIT]
 * [Cython](https://github.com/cython/cython) - Cython is an optimising static compiler for both the Python programming language and the extended Cython programming language (based on Pyrex). It makes writing C extensions for Python as easy as Python itself. [Apache] [website](http://cython.org/)
-* [djinni](https://github.com/dropbox/djinni) - A tool for generating cross-language type declarations and interface bindings. [Apache2]
+* [djinni](https://djinni.xlcpp.dev) - A tool for generating cross-language type declarations and interface bindings. [Apache2]
 * [Duktape](https://github.com/svaarala/duktape) - An embeddable Javascript engine with compact footprint. [MIT] [website](http://duktape.org)
 * [JavaCpp](https://github.com/bytedeco/javacpp) - The missing bridge between Java and native C++. [Apache2]
 * [libffi](https://github.com/libffi/libffi) - A portable foreign-function interface library. [MIT] [website](https://sourceware.org/libffi/)
@@ -791,14 +878,17 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ## Serialization
 
-* [Bitsery](https://github.com/fraillt/bitsery) - Header only C++ binary serialization library. [MIT] 
+* [Bitsery](https://github.com/fraillt/bitsery) - Header only C++ binary serialization library. [MIT]
 * [Bond](https://github.com/Microsoft/bond) - An open source, cross-platform framework for working with schematized data. [MIT]
 * [Boost.Serialization](https://www.boost.org/doc/libs/master/libs/serialization/doc/index.html) - Boost Serialization Library. [Boost]
 * [Cap'n Proto](https://github.com/capnproto/capnproto) - Fast data interchange format and capability-based RPC system. [MIT] [website](https://capnproto.org/)
 * [cereal](https://github.com/USCiLab/cereal) - A C++11 library for serialization. [BSD]
+* [cista](https://github.com/felixguendling/cista) - A C++17 library for zero-copy high-performance (de-)serialization. [MIT]
 * [cppcodec](https://github.com/tplgy/cppcodec) - Header-only C++11 library to encode/decode base64, base32 and hex with consistent, flexible API. [MIT]
+* [FastBinaryEncoding](https://github.com/chronoxor/FastBinaryEncoding) - Fast Binary Encoding is ultra fast and universal serialization solution for C++, C#, Go, Java, JavaScript, Kotlin, Python, Ruby, Swift. [MIT]
 * [FlatBuffers](https://github.com/google/flatbuffers) - A Memory efficient serialization library. [Apache2]
 * [MessagePack](https://github.com/msgpack/msgpack-c) - Efficient binary serialization format "like JSON" for C and C++. [Apache2] [website](http://msgpack.org/)
+* [mrpt-serialization](https://github.com/mrpt/mrpt/) - Versioned serialization to binary or text formats. [BSD] [website](https://docs.mrpt.org/reference/latest/group_mrpt_serialization_grp.html)
 * [nanopb](https://github.com/nanopb/nanopb) - Small code-size Protocol Buffers implementation in ANSI C. [Zlib]
 * [protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format. [BSD]
 * [protobuf-c](https://github.com/protobuf-c/protobuf-c) - Protocol Buffers implementation in C. [BSD]
@@ -810,13 +900,14 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 * [pdqsort](https://github.com/orlp/pdqsort) - Pattern-defeating quicksort. [zlib]
 * [Timsort](https://github.com/gfx/cpp-TimSort) - A templated stable sorting function which outperforms quicksort-based algorithms including std::sort, for reversed or semi-sorted data. [MIT]
+* [Indiesort](https://github.com/mattreecebentley/plf_indiesort) - A sort wrapper which enables the use of std::sort (& other random-access sort functions) with non-random-access containers, and also improves sort performance for large/non-trivially-copyable types in random-access containers and arrays. [zLib] [website](https://plflib.org/indiesort.htm)
 
 ## Video
 
 * [libvpx](http://www.webmproject.org/code/) - VP8/VP9 Codec SDK. [BSD]
 * [FFmpeg](https://www.ffmpeg.org/) - A complete, cross-platform solution to record, convert and stream audio and video. [LGPL2/GPL2]
 * [libde265](https://github.com/strukturag/libde265) - Open h.265 video codec implementation. [LGPL] [website](http://www.libde265.org/)
-* [x265](https://bitbucket.org/multicoreware/x265/wiki/Home) - Open h.265 video codec implementation. [GPL2] [website](https://x265.readthedocs.io/en/default/)
+* [x265](https://bitbucket.org/multicoreware/x265_git/src) - Open h.265 video codec implementation. [GPL2] [website](https://x265.readthedocs.io/en/master/)
 * [OpenH264](https://github.com/cisco/openh264) - Open Source H.264 Codec. [BSD] [website](http://www.openh264.org/)
 * [Theora](http://www.theora.org/) - A free and open video compression format. [BSD]
 * [Vireo](https://github.com/twitter/vireo/) - A lightweight and versatile video processing library by Twitter. [MIT]
@@ -832,14 +923,14 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Civetweb](https://github.com/civetweb/civetweb) - Provides easy to use, powerful, C/C++ embeddable web server with optional CGI, SSL and Lua support. [MIT]
 * [C++ REST SDK](https://github.com/Microsoft/cpprestsdk) - Microsoft project for cloud-based client-server communication in native code using a modern asynchronous C++ API design. [MIT]
 * [CppCMS](http://cppcms.com/) - A Free High Performance Web Development Framework (not a CMS). [LGPLv3]
-* [Crow](https://github.com/ipkn/crow) - Crow is C++ micro web framework (inspired by Python Flask). [BSD]
+* [Crow](https://github.com/CrowCpp/Crow) - Crow is a C++ microframework for running web services. It uses routing similar to Python's Flask. [BSD] [website](https://crowcpp.org)
 * [Cutelyst](https://github.com/cutelyst/cutelyst) - A C++ Web Framework built on top of Qt, using the simple approach of Catalyst (Perl) framework. [LGPLv2.1+] [website](https://cutelyst.org/)
 * [Drogon](https://github.com/an-tao/drogon) - A C++14/17 based, high-performance HTTP application framework. [MIT]
 * [facil.io](https://github.com/boazsegev/facil.io) - Evented, high performance C web framework supporting HTTP, WebSockets, SSE and more. [MIT] [website](http://facil.io)
 * [Kore](https://kore.io/) - ultra fast and flexible web server / framework for web applications developed in C. [ISC]
 * [libOnion](http://www.coralbits.com/libonion/) - lightweight library to help you create webservers in C programming language. [LGPLv3]
 * [lwan](https://github.com/lpereira/lwan) - Experimental, scalable, high performance HTTP server. [GPL2]
-* [oat++](https://github.com/oatpp/oatpp) - Light, zero-dependency framework to create high-performance web-services. [Apache-2.0] [website](https://oatpp.io/) 
+* [oat++](https://github.com/oatpp/oatpp) - Light, zero-dependency framework to create high-performance web-services. [Apache-2.0] [website](https://oatpp.io/)
 * [Pistache](http://pistache.io/) - Pistache is a C++ REST framework written in pure C++11 with no external dependency. [Apache2]
 * [QDjango](https://github.com/jlaine/qdjango/) - A web framework written in C++ and built on top of the Qt library. Where possible it tries to follow django's API, hence its name. [LGPL]
 * [TreeFrog Framework](https://github.com/treefrogframework/treefrog-framework) - High-speed and full-stack web application framework based on C++ and Qt, which supports HTTP and WebSocket protocol (with O/R mapping). [BSD] [website](http://www.treefrogframework.org/)
@@ -860,6 +951,11 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [TinyXML++](https://github.com/rjpcomputing/ticpp) - A completely new interface to TinyXML that uses MANY of the C++ strengths. Templates, exceptions, and much better error handling. [MIT]
 * [Xerces-C++](http://xerces.apache.org/xerces-c/) - A validating XML parser written in a portable subset of C++. [Apache2]
 
+## Yaml
+
+* [mini-yaml](https://github.com/jimmiebergmann/mini-yaml) - Single header YAML 1.0 C++11 serializer/deserializer. [MIT]
+* [yaml-cpp](https://github.com/jbeder/yaml-cpp) - A YAML parser and emitter in C++ [MIT]
+
 ## Miscellaneous
 *Useful libraries or tools that don't fit in the categories above or maybe just not categorised yet*
 
@@ -878,7 +974,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [gcc-poison](https://github.com/leafsr/gcc-poison) - A simple header file for developers to ban unsafe C/C++ functions from applications.
 * [Kangaru](https://github.com/gracicot/kangaru) - A dependency injection container for C++11 and C++14. [MIT]
 * [Klib](https://github.com/attractivechaos/klib) - Small and lightweight implementations of common algorithms and data structures. [MIT]
-* [libsigc++](http://libsigc.sourceforge.net/) - A typesafe callback system for standard C++. [LGPL]
+* [libsigc++](https://github.com/libsigcplusplus/libsigcplusplus) - A typesafe callback system for standard C++. [LGPL] [website](https://libsigcplusplus.github.io/libsigcplusplus)
 * [libcpuid](https://github.com/anrieff/libcpuid) - A small C library for x86 CPU detection and feature extraction. [BSD]
 * [libevil](https://github.com/avati/libevil) - The Evil License Manager. [GPLv3]
 * [libnih](https://github.com/keybuk/libnih) - A lightweight library of C functions and structures. [GPL2.1]
@@ -900,9 +996,10 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Tulip Indicators](https://tulipindicators.org) - A C library of over 100 financial technical analysis indicators. [LGPL]
 * [ub-canaries](https://github.com/regehr/ub-canaries) - A collection of C/C++ programs that try to get compilers to exploit undefined behavior.
 * [value-category-cheatsheet](https://github.com/jeaye/value-category-cheatsheet) A PDF cheatsheet for lvalues, rvalues, and the like. [Jank copyleft]
-* [VarTypes](https://code.google.com/p/vartypes/) - A feature-rich, object-oriented framework for managing variables in C++ / Qt4. [LGPL]
+* [VarTypes](https://github.com/szi/vartypes) - A feature-rich, object-oriented framework for managing variables in C++ / Qt4. [LGPL]
 * [ZBar](http://zbar.sourceforge.net/) - A barcode scanner library, which allows to scan photos/images/video streams for barcodes and return their value. [LGPL2]
 * [ZXing](https://github.com/zxing/zxing/) - An open-source, multi-format 1D/2D barcode image processing library implemented in Java, with ports to other languages. [Apache]
+* [pprint](https://github.com/p-ranav/pprint) - Pretty Printer for Modern C++. [MIT]
 
 # Software
 *Software for creating a development environment.*
@@ -917,7 +1014,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [PCC](http://pcc.ludd.ltu.se/) - A very old C compiler. Supports C99.
 * [Intel C++ Compiler](https://software.intel.com/en-us/c-compilers) - Developed by Intel.
 * [LLVM](http://llvm.org/) - Collection of modular and reusable compiler and toolchain technologies.
-* [Microsoft Visual C++](https://msdn.microsoft.com/en-us/vstudio/hh386302.aspx) - MSVC, developed by Microsoft.
+* [Microsoft Visual C++](https://docs.microsoft.com/en-us/cpp/dotnet/dotnet-programming-with-cpp-cli-visual-cpp?view=msvc-160) - MSVC, developed by Microsoft.
 * [Open WatCom](https://github.com/open-watcom) - Watcom C, C++, and Fortran cross compilers and tools. [Sybase Open Watcom Public License]
 * [Oracle Solaris Studio](http://www.oracle.com/technetwork/server-storage/solarisstudio/overview/index.html) - C, C++ and Fortran compiler for SPARC and x86. Supports C++11. Available on Linux and Solaris. [OTN Developer License]
 * [TCC](http://bellard.org/tcc/) - Tiny C Compiler. [LGPL]
@@ -925,6 +1022,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 ## Online Compiler
 *List of online C or C++ compilers*
 
+* [codechef](https://www.codechef.com/ide) - A simple online compiler CodeChef.
 * [codepad](http://codepad.org/) - An online compiler/interpreter, and a simple collaboration tool.
 * [coliru](http://coliru.stacked-crooked.com/) - Online compiler/shell with support for various C++ compilers.
 * [Compiler Explorer](http://gcc.godbolt.org/) - An interactive compiler with assembly output available.
@@ -934,6 +1032,8 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Rextester](http://rextester.com/runcode) - Online compiler which provides several compilers(Clang, GCC, MSVC) and several editors.
 * [Try It Online](https://tio.run/) - TIO is a family of online interpreters for an evergrowing list of practical and recreational programming languages.
 * [Wandbox](http://melpon.org/wandbox/) - An online Clang/GCC compiler with Boost available.
+* [paiza.io](https://paiza.io/en) - An online C/C++ compiler with multiple files supporting feature, Github(gist) integration and collaborative editing.
+* [InterviewBit](https://www.interviewbit.com/online-cpp-compiler/) - A simple and easy to use online C++ compiler.
 
 ## Debugger
 *List of C or C++ debuggers*
@@ -963,6 +1063,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [juCi++](https://gitlab.com/cppit/jucipp) - Cross-platform, lightweight C++ IDE with libclang integration. [MIT]
 * [KDevelop](https://www.kdevelop.org/) - A free, open source IDE.
 * [Microsoft Visual Studio](https://www.visualstudio.com/) - An IDE from Microsoft.
+* [Microsoft Visual Studio Code](https://code.visualstudio.com/) :zap: - An open-source IDE from Microsoft. [MIT]
 * [NetBeans](https://netbeans.org/) - An IDE for developing primarily with Java, but also with other languages, in particular PHP, C/C++, and HTML5.
 * [Qt Creator](http://www.qt.io/developers/) :zap: - A cross-platform C++, JavaScript and QML IDE which is part of the SDK for Qt.
 * [rtags](https://github.com/Andersbakken/rtags) - A c/c++ client/server indexer with for integration with emacs based on clang.
@@ -975,9 +1076,9 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Bazel](https://bazel.build) - A multi-language, fast and scalable build system from Google. [Apache]
 * [Bear](https://github.com/rizsotto/Bear) - A tool to generate compilation database for clang tooling. [GPLv3]
 * [Buck](https://github.com/facebook/buck) - A fast build system that encourages the creation of small, reusable modules over a variety of platforms and languages including C++ developed and used at Facebook. Written in Java. [Apache]
+* [build2](https://build2.org/) - cross-platform build, packaging and dependency management toolchain for developing and packaging C/C++ projects. [MIT]
 * [clib](https://github.com/clibs/clib) - Package manager for the C programming language. [MIT]
 * [CMake](https://cmake.org/) - Cross-platform free and open-source software for managing the build process of software using a compiler-independent method. [BSD]
-* [C++ Archive Network](https://cppan.org/) - Cross-platform C++ Dependency Manager with a lot of packages available.
 * [Cget](https://github.com/pfultz2/cget) - Cmake package retrieval. [Boost] [website](http://cget.readthedocs.io)
 * [Conan](https://conan.io/) - C/C++ Package Manager, open sourced. [MIT]
 * [CPM](https://github.com/iauns/cpm) - A C++ Package Manager based on CMake and Git.
@@ -988,6 +1089,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Scons](http://www.scons.org/) - A software construction tool configured with a Python script.
 * [Sconsolidator](http://www.sconsolidator.com/) - Scons build system integration for Eclipse CDT.
 * [Spack](https://spack.io/) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers. [Apache-2.0/MIT]
+* [SW](https://software-network.org/) - Cross-platform C++ (and other langs) Build System and Package Manager with a lot of packages available. [GPLv3]
 * [tundra](https://github.com/deplinenoise/tundra) - High-performance code build system designed to give the best possible incremental build times even for very large software projects.
 * [tup](http://gittup.org/tup/) - File-based build system that monitors in the background for changed files.
 * [Premake](http://premake.github.io) - A tool configured with a Lua script to generate project files for Visual Studio, GNU Make, Xcode, Code::Blocks, and more across Windows, Mac OS X, and Linux.
@@ -1030,6 +1132,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 ## Articles
 *Fantastic C++ related articles.*
 
+* [CppCon 2020 Presentation Materials](https://github.com/CppCon/CppCon2020) - CppCon 2020 Presentation Materials.
 * [CppCon 2019 Presentation Materials](https://github.com/CppCon/CppCon2019) - CppCon 2019 Presentation Materials.
 * [CppCon 2018 Presentation Materials](https://github.com/CppCon/CppCon2018) - CppCon 2018 Presentation Materials.
 * [CppCon 2017 Presentation Materials](https://github.com/CppCon/CppCon2017) - CppCon 2017 Presentation Materials.
@@ -1049,8 +1152,8 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *Fantastic C or C++ related books.*
 
 * [List of Free C or C++ Books](https://github.com/fffaraz/awesome-cpp/blob/master/books.md)
-* [Free C Books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#c) - vhf/free-programming-books/C.
-* [Free C++ Books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#c-1) - vhf/free-programming-books/C++.
+* [Free C Books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#c) - vhf/free-programming-books/C.
+* [Free C++ Books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#cpp) - vhf/free-programming-books/C++.
 * [cppbestpractices](https://github.com/lefticus/cppbestpractices) - Collaborative Collection of C++ Best Practices.
 
 ## Coding Style
@@ -1073,6 +1176,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [CppCon Talks](https://www.youtube.com/user/CppCon/videos) :zap: - The C++ conference.
 * [Quick game development with C++11/C++14](https://github.com/SuperV1234/cppcon2014) - CppCon 2014 talk by Vittorio Romeo.
 * [Presentation on Hana for C++Now 2015](https://github.com/ldionne/hana-cppnow-2015)
+* [Meeting Cpp](https://www.youtube.com/user/MeetingCPP/videos) - Meeting C++ Youtube Channel
 
 ## Videos
 *Fantastic C or C++ related videos.*
@@ -1093,6 +1197,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Standard C++](https://isocpp.org/) :zap: - News, Status & Discussion about Standard C++.
 * [CppCon](http://cppcon.org/) - The C++ Conference.
 * [C++ reference](http://cppreference.com/) - C++98, C++03, C++11, C++14 reference.
+* [C++ by Example](http://www.cbyexample.com/) - Learn C++ by Example.
 * [cplusplus.com](http://www.cplusplus.com/) - The C++ Resources Network.
 * [C FAQ](http://c-faq.com/) - C frequently asked questions.
 * [C++ FAQ](http://www.parashift.com/c++-faq/) - C++ frequently asked questions.
@@ -1114,11 +1219,10 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [ridiculousfish](http://ridiculousfish.com/blog/posts/will-it-optimize.html) - Will It Optimize?
 * [Embedded in Academia](http://blog.regehr.org/)
 * [Simplify C++](https://arne-mertz.de/)
-* [Fluent C++](https://www.fluentcpp.com/) 
+* [Fluent C++](https://www.fluentcpp.com/)
 * [Bartek's Coding Blog](https://www.bfilipek.com/?m=1)
 * [Kenny Kerr](https://kennykerr.ca/articles/)
 * [Sutter’s Mill](https://herbsutter.com/gotw/)
-* [thoughts on cpp](https://thoughts-on-cpp.com/)
 * [Vorbrodt's C++ Blog](https://vorbrodt.blog/)
 * [foonathan::blog()](https://foonathan.net/index.html)
 
