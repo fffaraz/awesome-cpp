@@ -516,6 +516,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Ogre 3D](http://www.ogre3d.org/) :zap: - A scene-oriented, real-time, flexible 3D rendering engine (as opposed to a game engine) written in C++. [MIT]
 * [OpenSceneGraph](http://www.openscenegraph.org/) - An open source high performance 3D graphics toolkit. [OSGPL]
 * [OpenSubdiv](https://github.com/PixarAnimationStudios/OpenSubdiv) - Pixar's library for evaluating and rendering subdivision surfaces on CPU and GPU. [Modified Apache2]
+* [OpenCascade](https://dev.opencascade.org/) - An extensible cad software kernel for geometric operations, supporting a native descriptive boundary representation (BREP) format. [LGPL2.1 with exception]
 * [OpenVDB](http://www.openvdb.org/) - Library and tools for storing, editing, and rendering volumetric datasets. [MPL2]
 * [Panda3D](http://www.panda3d.org/) - A framework for 3D rendering and game development for Python and C++. [BSD]
 * [Partio](https://github.com/wdas/partio) - Library for wrangling particle data, with support for most common file formats. [Modified BSD]
