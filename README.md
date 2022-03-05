@@ -490,6 +490,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [QwtPlot3D](http://qwtplot3d.sourceforge.net/) - A feature-rich Qt/OpenGL-based C++ programming library, providing essentially a bunch of 3D-widgets. [zlib]
 * [RmlUi](https://github.com/mikke89/RmlUi) - The HTML/CSS User Interface library evolved. Fork of libRocket. [MIT]
 * [Sciter](http://sciter.com/) - Sciter is an embeddable HTML/CSS/scripting engine aimed to be used as an UI layer of modern desktop applications. [Free/Commercial]
+* [Slint](https://github.com/slint-ui/slint) - Lightweight GUI toolkit for desktop and embedded. [GPL/Free/Commercial] [website](https://slint-ui.com)
 * [wxWidgets](http://wxwidgets.org/) - A C++ library that lets developers create applications for Windows, Mac OS X, Linux and other platforms with a single code base. [Own LGPL]
 * [xtd](https://github.com/gammasoft71/xtd) - Modern C++17/20 framework to create console (CLI), forms (GUI like WinForms) and tunit (unit tests like Microsoft Unit Testing Framework) applications on Windows, macOS, Linux, iOS and android. [MIT]
 * [Yue](https://github.com/yue/yue) - A library for creating native cross-platform GUI apps. [LGPLv2]
