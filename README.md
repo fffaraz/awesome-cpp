@@ -36,6 +36,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 	- [Networking](#networking)
 	- [PDF](#pdf)
 	- [Physics](#physics)
+	- [Productivity](#productivity)
 	- [Reflection](#reflection)
 	- [Regular Expression](#regular-expression)
 	- [Robotics](#robotics)
@@ -806,6 +807,10 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Quantum++](https://github.com/vsoftco/qpp) - A modern C++11 quantum computing library. [MIT]
 * [Simbody](https://github.com/simbody/simbody) - High-performance C++ multibody dynamics/physics library for simulating articulated biomechanical and mechanical systems like vehicles, robots, and the human skeleton. [Apache2]
 * [SOFA](https://github.com/sofa-framework/sofa) - SOFA is an open-source framework targeting at real-time simulation, with an emphasis on medical simulation. [LGPL] [website](https://www.sofa-framework.org)
+
+## Productivity
+
+* [newsboat](https://github.com/newsboat/newsboat) - An RSS/Atom feed reader for the text console. [MIT] [website](https://newsboat.org/)
 
 ## Reflection
 
