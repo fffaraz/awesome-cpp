@@ -165,6 +165,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [ni-media](https://github.com/NativeInstruments/ni-media) - C++ library for reading and writing audio files. [MIT]
 * [Opus](http://opus-codec.org/) - A totally open, royalty-free, highly versatile audio codec. [BSD]
 * [PortAudio](http://www.portaudio.com/) - PortAudio is a free, cross-platform, open-source, audio I/O library. [MIT]
+* [rnnoise](https://github.com/xiph/rnnoise) - Recurrent neural network for audio noise reduction. [BSD-3-Clause]
 * [SELA](https://github.com/sahaRatul/sela) - SimplE Lossless Audio. [MIT]
 * [SoLoud](https://github.com/jarikomppa/soloud) - Easy, portable audio engine for games. [zlib]
 * [Speex](http://www.speex.org/) - A free codec for free speech. Obsoleted by Opus. [BSD]
@@ -414,12 +415,12 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [dbg-macro](https://github.com/sharkdp/dbg-macro) - A dbg(…) macro for C++. [MIT]
 * [DebugViewPP](https://github.com/CobaltFusion/DebugViewPP) - Debug logging viewer. [BSL]
 * [Deleaker](http://www.deleaker.com) - A tool for resource leak detection, including memory, GDI and handle leaks.
+* [FakeIt](https://github.com/eranpeer/FakeIt) - Simple mocking framework for C++. [MIT]
 * [fff](https://github.com/meekrosoft/fff) - A micro-framework for creating fake C functions. [MIT]
 * [Google Mock](https://github.com/google/googletest/blob/master/googlemock/README.md) - A library for writing and using C++ mock classes. [BSD]
 * [Google Test](https://github.com/google/googletest) - Google C++ Testing Framework. [BSD]
 * [ig-debugheap](https://github.com/deplinenoise/ig-debugheap) - Multiplatform debug heap useful for tracking down memory errors. [BSD]
 * [libtap](https://github.com/zorgnax/libtap) - Write tests in C. [GPL2]
-* [MemTrack](http://www.almostinfinite.com/memtrack.html) - Tracking memory allocations in C++.
 * [microprofile](https://github.com/jonasmr/microprofile) - Profiler with web-view for multiple platforms. [Unlicense]
 * [MinUnit](https://github.com/siu/minunit) - A minimal unit testing framework for C self-contained in a single header file. [MIT]
 * [Mockator](http://www.mockator.com) - Eclipse CDT plug-in for C++ Seams and Mock Objects.
@@ -1119,6 +1120,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Linticator](http://linticator.com) - Eclipse CDT integration of Pc-/FlexeLint.
 * [IKOS](https://github.com/NASA-SW-VnV/ikos) - Static analyzer for C/C++ based on the theory of Abstract Interpretation. [NOSA 1.3]
 * [List of tools for static code analysis](https://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis#C.2FC.2B.2B) - A list of tools for static code analysis from Wikipedia.
+* [OptView2](https://github.com/OfekShilon/optview2) - Inspect missed Clang optimizations
 
 ## Coding Style Tools
 
