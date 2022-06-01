@@ -91,6 +91,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Cinder](https://libcinder.org/) - A community-developed, free and open source library for professional-quality creative coding. [BSD]
 * [cocoyaxi](https://github.com/idealvin/cocoyaxi) - A collection of C++ libraries, containing a go-style coroutine library, log, JSON, RPC framework and other base components. [MIT]
 * [Cxxomfort](http://ryan.gulix.cl/fossil.cgi/cxxomfort/) - A small, header-only library that backports various facilities from more recent C++ Standards to C++03 and later. [MIT]
+* [CXXMicroService](https://github.com/ZigRazor/CXXMicroService) - A MicroService Framework, with various facilities for instantiate in a simple way microservices in C++. [GPL3]
 * [Dlib](https://github.com/davisking/dlib) :zap: - A toolkit for making real world machine learning and data analysis applications in C++ [Boost] [website](http://dlib.net/)
 * [EASTL](https://github.com/electronicarts/EASTL) - Electronic Arts Standard Template Library. [BSD]
 * [ETL](https://github.com/ETLCPP/etl) - Embedded Template Library. [MIT]
