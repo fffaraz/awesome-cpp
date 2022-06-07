@@ -812,6 +812,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 * [config-loader](https://github.com/netcan/config-loader) - A C++17 static reflection framework, from parse configuration file to native data structure. [MIT]
 * [Better Enums](https://github.com/aantron/better-enums) - Reflective enums (to string, iteration). Single header. [BSD] [website](http://aantron.github.io/better-enums/)
+* [cec](https://github.com/krishna116/cec) - Provide cute and powerful enum reflection for C/C++ enum.
 * [clReflect](https://github.com/Celtoys/clReflect) - C++ Reflection using clang. [MIT]
 * [CPFG](https://github.com/cpgf/cpgf) - A C++03 library for reflection, callback and script binding. [Apache2] [website](http://www.cpgf.org/)
 * [CPP-Reflection](https://github.com/AustinBrunkhorst/CPP-Reflection) - C++ Reflection using clang. [MIT]
