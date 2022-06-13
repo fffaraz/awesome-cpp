@@ -427,7 +427,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Nanotimer](https://github.com/mattreecebentley/plf_nanotimer) - A simple low-overhead cross-platform timer class for benchmarking. [zLib] [website](http://www.plflib.org/nanotimer.htm)
 * [Nonius](https://github.com/libnonius/nonius) - A C++ micro-benchmarking framework. [CC]
 * [Remotery](https://github.com/Celtoys/Remotery) - Single C File Profiler with Web Viewer. [Apache2]
-* [Touca](https://github.com/trytouca/touca-cpp) - Automated regression testing system for testing complex mission-critical workflows. [Apache2] [website](https://touca.io/)
+* [Touca](https://github.com/trytouca/trytouca) - Open-source regression testing system that you can self-host. [Apache2] [website](https://touca.io/)
 * [UnitTest++](https://github.com/unittest-cpp/unittest-cpp) - A lightweight unit testing framework for C++. [MIT/X Consortium license]
 * [Unity](https://github.com/ThrowTheSwitch/Unity) - Simple Unit Testing for C. [MIT]
 * [utest.h](https://github.com/sheredom/utest.h) - Single header unit testing framework for C and C++. [Unlicense]
