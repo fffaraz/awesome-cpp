@@ -17,6 +17,7 @@
 * [The New C Standard - An Annotated Reference](http://www.knosof.co.uk/cbook/cbook.html)
 * [TONC GBA Programming - Game Boy Advance Development](http://www.coranac.com/tonc/text/toc.htm)
 * [Using C on the UNIX System - David A. Curry](http://www.bitsinthewind.com/about-dac/publications/using-c-on-the-unix-system)
+* [C Programming Tutorial](https://www.scaler.com/topics/c/)
 
 ## C++
 
@@ -41,3 +42,4 @@
 * [Thinking in C++, Second Edition, Vol. 1.](http://www.mindviewinc.com/downloads/TICPP-2nd-ed-Vol-one.zip) [(Vol. 2)](http://www.mindviewinc.com/downloads/TICPP-2nd-ed-Vol-two.zip) - Bruce Eckel
 * Also see: [The Definitive C++ Book Guide and List](https://stackoverflow.com/a/388282)
 * [Object Oriented Programmming](https://www.javatpoint.com/cpp-oops-concepts)
+* [C++ Programming tutorial](https://www.scaler.com/topics/cpp/)
