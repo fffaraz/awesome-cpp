@@ -239,6 +239,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [bit7z](https://github.com/rikyoz/bit7z) - A C++ static library offering a clean and simple interface to the 7-zip DLLs. [GPLv2]
 * [Brotli](https://github.com/google/brotli) - Brotli compression format. Developed by Google. [MIT]
 * [bzip2](http://www.bzip.org/) - A freely available, patent free, high-quality data compressor. [BSD]
+* [bzip3](https://github.com/kspalaiologos/bzip3) - A better and stronger spiritual successor to BZip2. [LGPL]
 * [FiniteStateEntropy](https://github.com/Cyan4973/FiniteStateEntropy) - New generation entropy codecs : Finite State Entropy and Huff0.
 * [PhysicsFS](https://icculus.org/physfs/) - A library to provide abstract access to various archives. It is intended for use in video games, and the design was somewhat inspired by Quake 3's file subsystem. [zlib]
 * [KArchive](https://api.kde.org/frameworks/karchive/html/index.html) - A library for creating, reading, writing and manipulating file archives like zip and tar. It also provides transparent compression and decompression of data, using formats like gzip, via a subclass of QIODevice. [LGPL]
