@@ -776,6 +776,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [tlse](https://github.com/eduardsui/tlse) - Single C file TLS 1.2/1.3 implementation, using tomcrypt as crypto library [BSD-2-Clause]
 * [Tufão](https://github.com/vinipsmaker/tufao) - An asynchronous web framework for C++ built on top of Qt. [LGPL2]
 * [uriparser](https://github.com/uriparser/uriparser) - Strictly RFC 3986 compliant URI parsing and handling library. [BSD-3-Clause]
+* [uvw](https://github.com/skypjack/uvw) - Header-only, event based, tiny and easy to use libuv wrapper in modern C++. [MIT]
 * [uWebSockets](https://github.com/uNetworking/uWebSockets) - µWS is one of the most lightweight, efficient & scalable WebSocket & HTTP server implementations available. [Zlib]
 * [WAFer](https://github.com/riolet/WAFer) - A C language-based ultra-light software platform for scalable server-side and networking applications. Think node.js for C programmers. [GPL2]
 * [Wangle](https://github.com/facebook/wangle) - A client/server application framework to build asynchronous, event-driven modern C++ services. [Apache-2.0]
