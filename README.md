@@ -1138,6 +1138,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 # Resources
 *Various resources, such as books, websites, and articles for improving your C++ development skills and knowledge.*
+* [Explore C++](https://kandi.openweaver.com/explore/c%2B%2B/explore-libraries) - A curated list of C++ libraries with implementation and projects.
 
 ## API Design
 
