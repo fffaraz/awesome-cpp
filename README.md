@@ -88,6 +88,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Boost](https://github.com/boostorg) :zap: - A large collection of generic C++ libraries. [Boost] [website](http://www.boost.org/)
 * [BDE](https://github.com/bloomberg/bde) - The BDE Development Environment from Bloomberg Labs. [Apache2]
 * [C++ Workflow](https://github.com/sogou/workflow) - C++ Parallel Computing and Asynchronous Networking Engine. [Apache2]
+* [CGraph](https://github.com/ChunelFeng/CGraph) - A cross-platform DAG framework based on C++ without any 3rd-party. [MIT]
 * [Cinder](https://libcinder.org/) - A community-developed, free and open source library for professional-quality creative coding. [BSD]
 * [Coost](https://github.com/idealvin/coost) - A tiny boost library in C++11. [MIT]
 * [Cxxomfort](http://ryan.gulix.cl/fossil.cgi/cxxomfort/) - A small, header-only library that backports various facilities from more recent C++ Standards to C++03 and later. [MIT]
