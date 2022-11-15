@@ -356,6 +356,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Tink](https://github.com/google/tink) - A multi-language, cross-platform library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse. [Apache-2.0]
 * [Tiny AES in C](https://github.com/kokke/tiny-AES-c) - Small portable AES128/192/256 in C. [PublicDomain]
 * [Themis](https://github.com/cossacklabs/themis) - crypto library for painless data security, providing symmetric and asymmetric encryption, secure sockets with forward secrecy, for mobile and server platforms. [Apache2]
+* [HEhub](https://github.com/primihub/HEhub) - A library for homomorphic encryption and its applications. [Apache2]
 
 ## CSV
 *Libraries for parsing Comma Separated Value (CSV) files*
