@@ -214,6 +214,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
  * [Clara](https://github.com/catchorg/Clara) - A simple to use, composable, command line parser for C++ 11 and beyond. [BSL-1.0]
  * [cli](https://github.com/daniele77/cli) - A cross-platform header only C++14 library for interactive command line interfaces (Cisco style). [Boost]
  * [CLI11](https://github.com/CLIUtils/CLI11) - Header only single or multi-file C++11 library for simple and advanced CLI parsing. [BSD]
+ * [clipp](https://github.com/muellan/clipp) - Easy to use, powerful and expressive command line argument handling for C++11/14/17 contained in a single header file. [MIT]
  * [jarro2783/cxxopts](https://github.com/jarro2783/cxxopts) - Lightweight C++ command line option parser. [MIT]
  * [docopt.cpp](https://github.com/docopt/docopt.cpp) - A library to generate option parser from docstring. [MIT/Boost]
  * [FINAL CUT](https://github.com/gansm/finalcut) - Library for creating terminal applications with text-based widgets. [LGPL]
