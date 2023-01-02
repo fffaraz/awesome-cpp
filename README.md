@@ -1182,6 +1182,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Free C Books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#c) - vhf/free-programming-books/C.
 * [Free C++ Books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#cpp) - vhf/free-programming-books/C++.
 * [cppbestpractices](https://github.com/lefticus/cppbestpractices) - Collaborative Collection of C++ Best Practices.
+* [The C Programming Language](https://www.amazon.com/Programming-Language-Brian-W-Kernighan/dp/0131101633) - One of the best ways to learn the C programming language written by Brian Kernighan and Dennis Ritchie.
 
 ## Coding Standards
 
