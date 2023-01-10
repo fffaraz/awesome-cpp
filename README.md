@@ -911,6 +911,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [SimpleBinaryEncoding](https://github.com/real-logic/simple-binary-encoding) - encoding and decoding application messages in binary format for low-latency applications. [Apache2]
 * [upb](https://github.com/protocolbuffers/upb) - A small protobuf implementation in C. [BSD]
 * [YAS](https://github.com/niXman/yas) - Very fast **Y**et **A**nother **S**erialization library supports the binary/text/json formats. [Boost]
+* [zpp_bits](https://github.com/eyalz800/zpp_bits) - Actually, the fastest modern **S**erialization library. Just check [this video](https://www.youtube.com/watch?v=G7-GQhCw8eE&ab_channel=CppCon).
 
 ## Sorting
 
