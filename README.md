@@ -594,7 +594,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ## JSON
 
-* [Boost.PropertyTree](http://www.boost.org/doc/libs/1_55_0/doc/html/property_tree.html) - A property tree parser/generator that can be used to parse XML/JSON/INI/Info files. [Boost]
+* [Boost.PropertyTree](https://www.boost.org/doc/libs/1_81_0/doc/html/property_tree.html) - A property tree parser/generator that can be used to parse XML/JSON/INI/Info files. [Boost]
 * [cJSON](https://github.com/DaveGamble/cJSON) - Ultralightweight JSON parser in ANSI C. [MIT]
 * [frozen](https://github.com/cesanta/frozen) - JSON parser and generator for C/C++. [GPL & GPL2]
 * [Glaze](https://github.com/stephenberry/glaze) - Extremely fast, in memory, JSON and interface library for modern C++. [MIT]
