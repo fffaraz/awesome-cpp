@@ -1252,6 +1252,8 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [C++ Hints](http://cpphints.com/) - Every business day hints about most often C++ mistakes and ways to solve them from PVS-Studio Team.
 * [C++ tutorial](https://hackr.io/tutorials/learn-c-plus-plus) - A user ranked online tutorial bank site displaying multiple courses to learn C++ from.
 * [C++ Tutorial for Beginners](https://www.scaler.com/topics/cpp) - A comprenhensive tutorial on C++ curated by trained experts.
+* [Explore C++](https://kandi.openweaver.com/explore/c%2B%2B) - A curated list of C++ trending kits, tutorials and learning resources.
+
 
 ## Weblogs
 *Useful C or C++ related weblogs.*
