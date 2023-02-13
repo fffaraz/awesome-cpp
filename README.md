@@ -157,6 +157,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *Audio, Sound, Music, Digitized Voice Libraries*
 
 * [AudioFile](https://github.com/adamstark/AudioFile) - A simple C++ library for reading and writing audio files. [MIT]
+* [audioFlux](https://github.com/libAudioFlux/audioFlux) - A C library for audio and music analysis, feature extraction. [MIT]
 * [dr_libs](https://github.com/mackron/dr_libs) - Single file audio decoding libraries for C and C++. [Unlicense]
 * [FMOD](http://www.fmod.org/) - An easy to use crossplatform audio engine and audio content creation tool for games. [Free for non-commercial/Commercial]
 * [KFR](https://www.kfrlib.com/) - Fast, modern C++ DSP framework, FFT, FIR/IIR filters, Sample Rate Conversion. [GPL/Commercial]
@@ -612,6 +613,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [json-c](https://github.com/json-c/json-c) - A JSON implementation in C. [MIT]
 * [jsoncons](https://github.com/danielaparker/jsoncons) - A C++ header-only library for JSON and JSON-like binary formats with JSONPointer, JSONPatch, JSONPath and JMESPath. [Boost]
 * [JsonCpp](https://github.com/open-source-parsers/jsoncpp) - A C++ library for interacting with JSON. [MIT]
+* [jsonParse](https://github.com/liufeigit/jsonParse) - A simple JSON parser in ANSI C. [MIT]
 * [json-parser](https://github.com/udp/json-parser) - Very low footprint JSON parser written in portable ANSI C. [BSD]
 * [json11](https://github.com/dropbox/json11) - A tiny JSON library for C++11. [MIT]
 * [json-struct](https://github.com/jorgen/json_struct) - High performance, single header JSON parser parsing to and from C++ structs. [MIT]
