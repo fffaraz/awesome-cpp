@@ -314,7 +314,8 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [inifile-cpp](https://github.com/Rookfighter/inifile-cpp) - A header-only and easy to use Ini file parser for C++. [MIT]
 * [inih](https://github.com/benhoyt/inih) - Simple .INI file parser in C, good for embedded systems. [BSD-3-Clause]
 * [inih](https://github.com/jtilly/inih) - Single header only C++ version of [inih](https://github.com/benhoyt/inih). [BSD-3-Clause]
-* [iniparser](https://github.com/ndevilla/iniparser) - INI file parser. [MIT]
+* [iniparser](https://github.com/ndevilla/iniparser) - INI file parser. [MIT]*
+* [inipp](https://github.com/mcmtroffaes/inipp) - Simple header-only C++ ini parser and generator. [MIT]
 * [libconfig](https://github.com/hyperrealm/libconfig) - C, C++ library for processing structured configuration files. [LGPL-2.1] [website](https://hyperrealm.github.io/libconfig/)
 * [libconfuse](https://github.com/martinh/libconfuse) - Small configuration file parser library for C. [ISC]
 * [simpleini](https://github.com/brofield/simpleini) - Cross-platform C++ library providing a simple API to read and write INI-style configuration files. [MIT]
