@@ -1302,6 +1302,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Inqlude](http://inqlude.org/) - The Qt library archive.
 * [papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 * [awesome-algorithms](https://github.com/tayllan/awesome-algorithms) - A curated list of awesome places to learn and/or practice algorithms.
+* [awesome-hpp](https://github.com/p-ranav/awesome-hpp) - A curated list of awesome header-only C++ libraries.
 * [awesome-talks](https://github.com/JanVanRyswyck/awesome-talks) - A lot of screencasts, recordings of user group gatherings and conference talks.
 * [Projects](https://github.com/karan/Projects) - A list of practical projects that anyone can solve in any programming language.
 * [Awesome interview questions](https://github.com/MaximAbramchuck/awesome-interviews) - A list of lists of interview questions for the most popular technologies, including C and C++.
