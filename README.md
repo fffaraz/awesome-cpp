@@ -156,7 +156,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 ## Audio
 *Audio, Sound, Music, Digitized Voice Libraries*
 
-* [Aubio](https://github.com/aubio/aubio) - A library for audio and music analysis.[GPL-3.0]
+* [Aubio](https://github.com/aubio/aubio) - A library for audio and music analysis.[GPL-3.0] [website](https://aubio.org/)
 * [AudioFile](https://github.com/adamstark/AudioFile) - A simple C++ library for reading and writing audio files. [MIT]
 * [audioFlux](https://github.com/libAudioFlux/audioFlux) - A C library for audio and music analysis, feature extraction. [MIT]
 * [dr_libs](https://github.com/mackron/dr_libs) - Single file audio decoding libraries for C and C++. [Unlicense]
