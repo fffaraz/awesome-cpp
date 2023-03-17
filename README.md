@@ -691,6 +691,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [cml](http://cmldev.net/) - free C++ math library for games and graphics. [Boost]
 * [CNL](https://github.com/johnmcfarlane/cnl/) - A Compositional Numeric Library for C++. [Boost]
 * [CXXGraph](https://github.com/ZigRazor/CXXGraph) - free C++(17) graph header-only library for representation and algorithms execution. [AGPL-3.0]
+* [DirectXMath](https://github.com/microsoft/DirectXMath) - An all inline SIMD C++ linear algebra library for use in games and graphics apps
 * [Dlib](https://github.com/davisking/dlib) :zap: - A modern C++11 machine learning, computer vision, numerical optimization, and deep learning toolkit. [Boost] [website](http://dlib.net/)
 * [Eigen](http://eigen.tuxfamily.org/) - A high-level C++ library of template headers for linear algebra, matrix and vector operations, numerical solvers and related algorithms. [MPL2]
 * [ExprTk](https://www.partow.net/programming/exprtk/) - The C++ Mathematical Expression Toolkit Library (ExprTk) is a simple to use, easy to integrate and extremely efficient run-time mathematical expression parser and evaluation engine. [MIT]
@@ -1246,6 +1247,8 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *Useful C or C++ related websites.*
 
 * [Standard C++](https://isocpp.org/) :zap: - News, Status & Discussion about Standard C++.
+* [Build Bench](https://build-bench.com/) - Compare C++ Builds
+* [Quick Bench](https://quick-bench.com/) - Quick C++ Benchmarks
 * [CppCon](http://cppcon.org/) - The C++ Conference.
 * [C++ reference](http://cppreference.com/) - C++98, C++03, C++11, C++14 reference.
 * [C++ by Example](http://www.cbyexample.com/) - Learn C++ by Example.
