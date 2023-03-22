@@ -447,6 +447,11 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [μt](https://github.com/boost-experimental/ut) - C++20 single header/single module, macro-free μ(micro)/Unit Testing Framework [Boost]
 * [VLD](https://kinddragon.github.io/vld//) - Visual Leak Detector. A free, robust, open-source memory leak detection system for Visual C++.
 
+## Documentation
+
+* [doxygen](https://github.com/doxygen/doxygen) :zap: - The de facto standard tool for generating documentation from annotated C++ sources. [GPL2] [website](https://www.doxygen.org)
+* [Sphinx](https://github.com/sphinx-doc/sphinx) - Sphinx makes it easy to create intelligent and beautiful documentation. [BSD-2-Clause] [website](https://www.sphinx-doc.org)
+
 ## Font
 *Libraries for parsing and manipulating font files.*
 
