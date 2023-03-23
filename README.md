@@ -1281,6 +1281,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Sutter’s Mill](https://herbsutter.com/gotw/)
 * [Vorbrodt's C++ Blog](https://vorbrodt.blog/)
 * [foonathan::blog()](https://foonathan.net/index.html)
+* [C++ Senioreas](https://cppsenioreas.wordpress.com/) - Tools / ideas, design patterns and compilers' behind the scenes.
 
 ## Other Awesome Projects
 *Collection of useful codes, snippets, ...*
