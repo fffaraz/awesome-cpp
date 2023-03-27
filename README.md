@@ -20,6 +20,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 	- [Database](#database)
 	- [Data visualization](#data-visualization)
 	- [Debug](#debug)
+	- [Documentation](#documentation)
 	- [Font](#font)
 	- [Game Engine](#game-engine)
 	- [GUI](#gui)
@@ -61,11 +62,14 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 	- [API Design](#api-design)
 	- [Articles](#articles)
 	- [Books](#books)
+	- [Coding Standards](#coding-standards)
 	- [Coding Style](#coding-style)
 	- [Podcasts](#podcasts)
 	- [Talks](#talks)
 	- [Videos](#videos)
 	- [Websites](#websites)
+	- [Weblogs](#weblogs)
+	- [Other Awesome Projects](#other-awesome-projects)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Jobs](#jobs)
 - [Sponsors](#sponsors)
@@ -450,6 +454,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 ## Documentation
 
 * [doxygen](https://github.com/doxygen/doxygen) :zap: - The de facto standard tool for generating documentation from annotated C++ sources. [GPL2] [website](https://www.doxygen.org)
+* [hdoc](https://github.com/hdoc/hdoc) - The modern documentation tool for C++. [AGPL/Commercial] [website](https://hdoc.io)
 * [Natural Docs](https://github.com/NaturalDocs/NaturalDocs) - Natural Docs is an open source documentation generator for multiple programming languages. [AGPL/Commercial] [website](https://www.naturaldocs.org)
 * [Sphinx](https://github.com/sphinx-doc/sphinx) - Sphinx makes it easy to create intelligent and beautiful documentation. [BSD-2-Clause] [website](https://www.sphinx-doc.org)
 
