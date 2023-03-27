@@ -454,6 +454,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 ## Documentation
 
 * [doxygen](https://github.com/doxygen/doxygen) :zap: - The de facto standard tool for generating documentation from annotated C++ sources. [GPL2] [website](https://www.doxygen.org)
+* [hdoc](https://github.com/hdoc/hdoc) - The modern documentation tool for C++. [AGPL/Commercial] [website](https://hdoc.io)
 * [Sphinx](https://github.com/sphinx-doc/sphinx) - Sphinx makes it easy to create intelligent and beautiful documentation. [BSD-2-Clause] [website](https://www.sphinx-doc.org)
 
 ## Font
