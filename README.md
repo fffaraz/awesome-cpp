@@ -1262,7 +1262,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Build Bench](https://build-bench.com/) - Compare C++ Builds
 * [Quick Bench](https://quick-bench.com/) - Quick C++ Benchmarks
 * [CppCon](http://cppcon.org/) - The C++ Conference.
-* [C++ reference](http://cppreference.com/) - C++98, C++03, C++11, C++14 reference.
+* [C++ reference](https://cppreference.com) - A complete online reference for the C and C++ languages and standard libraries.
 * [C++ by Example](http://www.cbyexample.com/) - Learn C++ by Example.
 * [cplusplus.com](http://www.cplusplus.com/) - The C++ Resources Network.
 * [C FAQ](http://c-faq.com/) - C frequently asked questions.
