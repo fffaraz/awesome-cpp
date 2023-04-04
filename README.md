@@ -930,6 +930,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [cppcodec](https://github.com/tplgy/cppcodec) - Header-only C++11 library to encode/decode base64, base32 and hex with consistent, flexible API. [MIT]
 * [FastBinaryEncoding](https://github.com/chronoxor/FastBinaryEncoding) - Fast Binary Encoding is ultra fast and universal serialization solution for C++, C#, Go, Java, JavaScript, Kotlin, Python, Ruby, Swift. [MIT]
 * [FlatBuffers](https://github.com/google/flatbuffers) - A Memory efficient serialization library. [Apache2]
+* [Kaitai Struct](http://kaitai.io) - A declarative language to describe various binary data structures and a compiler to generate C++ parser code. [GPLv3+][MIT][Apache2]
 * [MessagePack](https://github.com/msgpack/msgpack-c) - Efficient binary serialization format "like JSON" for C and C++. [Apache2] [website](http://msgpack.org/)
 * [mrpt-serialization](https://github.com/mrpt/mrpt/) - Versioned serialization to binary or text formats. [BSD] [website](https://docs.mrpt.org/reference/latest/group_mrpt_serialization_grp.html)
 * [nanopb](https://github.com/nanopb/nanopb) - Small code-size Protocol Buffers implementation in ANSI C. [Zlib]
