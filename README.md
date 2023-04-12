@@ -237,6 +237,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
  * [PDCurses](https://github.com/wmcbrine/PDCurses) - Public domain curses library with both source code and pre-compiled library available. [PublicDomain]
  * [popl](https://github.com/badaix/popl) - A single-header templated command line arguments and ini file parser for C++ 11 and beyond. [MIT]
  * [replxx](https://github.com/AmokHuginnsson/replxx) - A readline and libedit replacement that supports UTF-8, syntax highlighting, hints, works on Unix and Windows. [BSD]
+ * [Rogueutil](https://github.com/sakhmatd/rogueutil) - Cross-platform C/C++ library for creating text-based user interfaces (TUI) and console-based games. [Apache-2.0]
  * [tabulate](https://github.com/p-ranav/tabulate) - Table Maker for Modern C++ [MIT]
  * [TCLAP](http://tclap.sourceforge.net) - A mature, stable and feature-rich library for defining and accessing command line arguments in ANSI C++. [MIT]
  * [termbox](https://github.com/nsf/termbox) - A C library for writing text-based user interfaces. [MIT]
