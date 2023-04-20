@@ -597,6 +597,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 ## Inter-process communication
 
 * [Apache Thrift](https://thrift.apache.org/) - Efficient cross-language IPC/RPC, works between C++, Java, Python, PHP, C#, and many more other languages. Originally developed by Facebook. [Apache2]
+* [AREG SDK](https://github.com/aregtech/areg-sdk) - AREG creates a grid of services using interface-centric approach, allowing multiple connected devices and software nodes to operate like thin distributed servers and clients. [Apache2] [website](https://www.aregtech.com/)
 * [Boost.Interprocess](https://github.com/boostorg/interprocess) - Header-only Boost library that supports kernel-level shared memory and memory-mapped files, with in-built synchronization mechanisms (semaphores, mutexes, and more). [Boost] [website](https://boost.org/libs/interprocess)
 * [Cap'n Proto](https://github.com/capnproto/capnproto) - Fast data interchange format and capability-based RPC system. [MIT] [website](https://capnproto.org/)
 * [eCAL](https://github.com/continental/ecal) - Pub/sub, client/server, C++/Python/C#, various message protocols (protobuf, capnproto ..). [Apache2] [website](http://www.ecal.io/)
