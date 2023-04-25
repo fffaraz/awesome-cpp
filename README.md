@@ -421,7 +421,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Boost.Test](https://github.com/boostorg/test) - Boost Test Library. [Boost] [website](https://boost.org/libs/test)
 * [check](https://github.com/libcheck/check) - Check is a unit testing framework for C. [LGPL-2.1] [website](https://libcheck.github.io/check/)
 * [doctest](https://github.com/onqtam/doctest) - The lightest feature rich C++ single header testing framework. [MIT]
-* [Catch2](https://github.com/catchorg/Catch2) - A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD. [Boost]
+* [Catch2](https://github.com/catchorg/Catch2) - A modern, C++-native test framework for unit-tests, TDD and BDD. [Boost]
 * [Celero](https://github.com/DigitalInBlue/Celero) - C++ Benchmarking Framework. [Apache2]
 * [CppUTest](https://github.com/cpputest/cpputest) - Unit testing and mocking framework for C/C++. [BSD-3-clause]
 * [CUTE](http://cute-test.com) - C++ Unit Testing Easier. [LGPL3]
