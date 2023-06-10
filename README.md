@@ -454,6 +454,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ## Documentation
 
+* [Doxide](https://github.com/lawmurray/doxide) - Modern documentation for modern C++, configure with YAML, output Markdown. [Apache 2.0] [website](https://doxide.org)
 * [doxygen](https://github.com/doxygen/doxygen) :zap: - The de facto standard tool for generating documentation from annotated C++ sources. [GPL2] [website](https://www.doxygen.org)
 * [doxyrest](https://github.com/vovkos/doxyrest) - A compiler from Doxygen XML to reStructuredText for Sphinx. [MIT]
 * [hdoc](https://github.com/hdoc/hdoc) - The modern documentation tool for C++. [AGPL/Commercial] [website](https://hdoc.io)
