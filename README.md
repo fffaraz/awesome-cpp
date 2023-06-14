@@ -1329,6 +1329,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Projects](https://github.com/karan/Projects) - A list of practical projects that anyone can solve in any programming language.
 * [Awesome interview questions](https://github.com/MaximAbramchuck/awesome-interviews) - A list of lists of interview questions for the most popular technologies, including C and C++.
 * [nothings/single_file_libs](https://github.com/nothings/single_file_libs) :zap: - List of single-file C/C++ libraries.
+* [awesome-zig - Build-System](https://github.com/catdevnull/awesome-zig#cc-libraries-packaged-for-zig) - C and C++ libraries packaged for Zig.
 
 # Jobs
 
