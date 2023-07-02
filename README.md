@@ -611,6 +611,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [nng](https://github.com/nanomsg/nng) - nanomsg-next-generation, a light-weight brokerless messaging library. [MIT] [website](https://nanomsg.github.io/nng/)
 * [rpclib](https://github.com/rpclib/rpclib) - A modern C++ msgpack-RPC server and client library. [MIT]
 * [simple-rpc-cpp](https://github.com/pearu/simple-rpc-cpp) - A simple RPC wrapper generator to C/C++ functions. [BSD]
+* [SRPC](https://github.com/sogou/srpc) - A lightweight RPC system that supports multiple protocols and OpenTelemetry. [Apache2]
 * [WAMP](http://wamp.ws/) - Provides RPC and pub/sub messaging patterns. (various implementations, various languages)
 * [xmlrpc-c](http://xmlrpc-c.sourceforge.net/) - A lightweight RPC library based on XML and HTTP. [BSD]
 
