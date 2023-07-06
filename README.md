@@ -21,6 +21,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 	- [Data visualization](#data-visualization)
 	- [Debug](#debug)
 	- [Documentation](#documentation)
+	- [DSP](#dsp)
 	- [Font](#font)
 	- [Game Engine](#game-engine)
 	- [GUI](#gui)
@@ -461,6 +462,16 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [hdoc](https://github.com/hdoc/hdoc) - The modern documentation tool for C++. [AGPL/Commercial] [website](https://hdoc.io)
 * [Natural Docs](https://github.com/NaturalDocs/NaturalDocs) - Natural Docs is an open source documentation generator for multiple programming languages. [AGPL/Commercial] [website](https://www.naturaldocs.org)
 * [Sphinx](https://github.com/sphinx-doc/sphinx) - Sphinx makes it easy to create intelligent and beautiful documentation. [BSD-2-Clause] [website](https://www.sphinx-doc.org)
+
+## DSP
+*Digital signal processing.*
+
+* [DSPFilters](https://github.com/vinniefalco/DSPFilters) - A collection of useful C++ classes for digital signal processing. [MIT]
+* [FFTW](http://www.fftw.org/) - A C library for computing the DFT in one or more dimensions. [GPL]
+* [iir1](https://github.com/berndporr/iir1) - IIR Realtime C++ filter library. [MIT]
+* [kissfft](https://github.com/mborgerding/kissfft) - A Fast Fourier Transform (FFT) library that tries to Keep it Simple, Stupid. [BSD-3-Clause]
+* [pocketfft](https://github.com/mreineck/pocketfft) - FFT implementation based on FFTPack, but with several improvements. [BSD-3-Clause]
+* [wavelib](https://github.com/rafat/wavelib) - C implementation of 1D and 2D wavelet transforms. [BSD-3-Clause]
 
 ## Font
 *Libraries for parsing and manipulating font files.*
