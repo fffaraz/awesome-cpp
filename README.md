@@ -95,7 +95,6 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Boost](https://github.com/boostorg) :zap: - A large collection of generic C++ libraries. [Boost] [website](https://www.boost.org)
 * [BDE](https://github.com/bloomberg/bde) - The BDE Development Environment from Bloomberg Labs. [Apache2]
 * [C++ Workflow](https://github.com/sogou/workflow) :zap: - C++ Parallel Computing and Asynchronous Networking Engine. [Apache2]
-* [C++ wfrest](https://github.com/wfrest/wfrest) :zap: - C++ Web Framework REST API. [Apache2]
 * [CGraph](https://github.com/ChunelFeng/CGraph) - A cross-platform DAG framework based on C++ without any 3rd-party. [MIT]
 * [Cinder](https://libcinder.org/) - A community-developed, free and open source library for professional-quality creative coding. [BSD]
 * [Coost](https://github.com/idealvin/coost) - A tiny boost library in C++11. [MIT]
@@ -990,6 +989,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Crow](https://github.com/CrowCpp/Crow) - Crow is a C++ microframework for running web services. It uses routing similar to Python's Flask. [BSD] [website](https://crowcpp.org)
 * [Cutelyst](https://github.com/cutelyst/cutelyst) - A C++ Web Framework built on top of Qt, using the simple approach of Catalyst (Perl) framework. [LGPLv2.1+] [website](https://cutelyst.org/)
 * [Drogon](https://github.com/an-tao/drogon) - A C++14/17 based, high-performance HTTP application framework. [MIT]
+* [C++ wfrest](https://github.com/wfrest/wfrest) - C++ Web Framework REST API. [Apache2]
 * [facil.io](https://github.com/boazsegev/facil.io) - Evented, high performance C web framework supporting HTTP, WebSockets, SSE and more. [MIT] [website](http://facil.io)
 * [Kore](https://kore.io/) - ultra fast and flexible web server / framework for web applications developed in C. [ISC]
 * [libOnion](http://www.coralbits.com/libonion/) - lightweight library to help you create webservers in C programming language. [LGPLv3]
