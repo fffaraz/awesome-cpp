@@ -523,6 +523,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [implot](https://github.com/epezent/implot) - Immediate Mode Plotting widgets for imgui. [MIT]
 * [iup](https://www.tecgraf.puc-rio.br/iup) - Multi-platform toolkit for building graphical user interfaces. [MIT]
 * [libui](https://github.com/andlabs/libui) - Simple and portable (but not inflexible) GUI library in C that uses the native GUI technologies of each platform it supports. [MIT]
+* [Molybden](https://teamdev.com/molybden) - An SDK for building cross-platform desktop apps with C++ backend and HTML/CSS/JS frontend GUI. [Free/Commercial] [website](https://teamdev.com/molybden)
 * [MyGUI](https://github.com/MyGUI/mygui) - Fast, flexible and simple GUI. [MIT]
 * [nana](http://nanapro.org/en-us/) - Nana is a cross-platform library for GUI programming in modern C++ style. [Boost]
 * [NanoGui](https://github.com/mitsuba-renderer/nanogui) - A minimalistic cross-platform widget library for OpenGL 3.x or higher. [BSD]
