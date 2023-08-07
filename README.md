@@ -503,6 +503,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Panda3D](https://github.com/panda3d/panda3d) - A game engine, a framework for 3D rendering and game development for Python and C++ programs. [Modified BSD] [website](https://www.panda3d.org/)
 * [PixelGameEngine](https://github.com/OneLoneCoder/olcPixelGameEngine) - The official distribution of olcPixelGameEngine, a tool used in javidx9's YouTube videos and projects. [OLC3]
 * [Polycode](https://github.com/ivansafrin/Polycode) - A cross-platform framework for creative code in C++ (with Lua bindings). [MIT] [website](http://polycode.org/)
+* [quakeforge](https://github.com/quakeforge/quakeforge) - Actively maintained branch of the original Quake engine code with 20+ years of development. [GPL-2.0]
 * [raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming. [zlib/libpng] [website](http://www.raylib.com/)
 * [Spring](https://github.com/spring/spring) - A powerful free cross-platform RTS game engine. [GPLv2/GPLv3] [website](https://springrts.com/)
 * [Torque2D](https://github.com/TorqueGameEngines/Torque2D) - An open-source and cross-platform C++ engine built for 2D game development. [MIT] [website](https://torque3d.org/torque2d)
