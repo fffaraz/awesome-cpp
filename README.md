@@ -24,6 +24,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 	- [DSP](#dsp)
 	- [Font](#font)
 	- [Game Engine](#game-engine)
+    - [Graph](#graph)
 	- [GUI](#gui)
 	- [Graphics](#graphics)
 	- [Image Processing](#image-processing)
@@ -509,6 +510,11 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [toy engine](https://github.com/hugoam/toy) - toy is a thin and modular c++ game engine and offers simple expressive c++ idioms to design full featured 2D or 3D games in fast iterations.
 * [Urho3D](https://urho3d.github.io/) - A free lightweight, cross-platform 2D and 3D game engine implemented in C++. Greatly inspired by OGRE and Horde3D. [MIT]
 
+## Graph
+
+* [CXXGraph](https://github.com/ZigRazor/CXXGraph) - free C++(17) graph header-only library for representation and algorithms execution. [AGPL-3.0]
+* [Graaf](https://github.com/bobluppes/graaf) - A general-purpose lightweight C++20 graph library. [MIT] [website](https://bobluppes.github.io/graaf/)
+
 ## GUI
 *Graphic User Interface*
 
@@ -718,7 +724,6 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [CGAL](https://github.com/CGAL/cgal) - Collection of efficient and reliable geometric algorithms. [LGPL&GPL] [website](http://www.cgal.org/)
 * [cml](http://cmldev.net/) - free C++ math library for games and graphics. [Boost]
 * [CNL](https://github.com/johnmcfarlane/cnl/) - A Compositional Numeric Library for C++. [Boost]
-* [CXXGraph](https://github.com/ZigRazor/CXXGraph) - free C++(17) graph header-only library for representation and algorithms execution. [AGPL-3.0]
 * [DirectXMath](https://github.com/microsoft/DirectXMath) - An all inline SIMD C++ linear algebra library for use in games and graphics apps.
 * [Dlib](https://github.com/davisking/dlib) :zap: - A modern C++11 machine learning, computer vision, numerical optimization, and deep learning toolkit. [Boost] [website](http://dlib.net/)
 * [Eigen](http://eigen.tuxfamily.org/) - A high-level C++ library of template headers for linear algebra, matrix and vector operations, numerical solvers and related algorithms. [MPL2]
