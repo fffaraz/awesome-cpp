@@ -412,7 +412,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [upscaledb](https://upscaledb.com) - An embedded "typed" key/value store with a built-in query interface. [GPLv3]
 
 ## Data visualization
-*Data visiualization Libraries*
+*Data visualization Libraries*
 
 * [matplotplusplus](https://github.com/alandefreitas/matplotplusplus) - C++ Graphics Library for Data Visualization. [MIT] [website](https://alandefreitas.github.io/matplotplusplus/)
 
