@@ -1129,7 +1129,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 ## Integrated Development Environment
 *List of C or C++ nominal IDEs.*
 
-* [Anjuta DevStudio](http://anjuta.org/) - The GNOME IDE. [GPL3]
+* [Anjuta DevStudio](https://sourceforge.net/projects/anjuta/) - The GNOME IDE. [GPL3]
 * [AppCode](http://www.jetbrains.com/objc/) - an IDE for Objective-C, C, C++, and JavaScript development built on JetBrains’ IntelliJ IDEA platform.
 * [Cevelop](https://www.cevelop.com) - Cross-platform C and C++ IDE based on Eclipse CDT with additional plug-ins.
 * [CLion](http://www.jetbrains.com/clion/) - Cross-platform C and C++ IDE from JetBrains.
