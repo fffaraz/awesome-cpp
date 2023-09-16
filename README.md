@@ -374,6 +374,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 ## CSV
 *Libraries for parsing Comma Separated Value (CSV) files*
 
+* [commata](https://github.com/furfurylic/commata) - Just another header-only C++17 CSV parser. [Unlicense]
 * [csv2](https://github.com/p-ranav/csv2) - Fast CSV parser for modern C++. [MIT]
 * [Csv::Parser](https://github.com/ashaduri/csv-parser) - Compile-time and runtime CSV parser written in C++17. [Zlib]
 * [Fast C++ CSV Parser](https://github.com/ben-strasser/fast-cpp-csv-parser) - Small, easy-to-use and fast header-only library for reading CSV files. [BSD-3-Clause]
