@@ -249,7 +249,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 ## Compression
 *Compression and Archiving Libraries*
 
-* [bit7z](https://github.com/rikyoz/bit7z) - A C++ static library offering a clean and simple interface to the 7-zip DLLs. [GPLv2]
+* [bit7z](https://github.com/rikyoz/bit7z) - A C++ static library offering a clean and simple interface to the 7-zip shared libraries. [MPL2]
 * [Brotli](https://github.com/google/brotli) - Brotli compression format. Developed by Google. [MIT]
 * [bzip2](http://www.bzip.org/) - A freely available, patent free, high-quality data compressor. [BSD]
 * [bzip3](https://github.com/kspalaiologos/bzip3) - A better and stronger spiritual successor to BZip2. [LGPL]
