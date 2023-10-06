@@ -791,6 +791,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ## Networking
 
+* [ada](https://github.com/ada-url/ada) - WHATWG-compliant and fast URL parser written in modern C++. [Apache-2.0/MIT]
 * [ACE](http://www.dre.vanderbilt.edu/~schmidt/ACE.html) - An OO Network Programming Toolkit in C++. [?MIT?]
 * [Boost.Asio](https://github.com/boostorg/asio) :zap: - A cross-platform C++ library for network and low-level I/O programming. [Boost] [website](https://boost.org/libs/asio)
 * [Boost.Beast](https://github.com/boostorg/beast) :zap: - HTTP and WebSocket built on Boost.Asio in C++11. [Boost] [website](https://www.boost.org/libs/beast)
