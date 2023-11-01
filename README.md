@@ -1236,6 +1236,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 ## Articles
 *Fantastic C++ related articles.*
 
+* [CppCon 2023 Presentation Materials](https://github.com/CppCon/CppCon2023) - CppCon 2023 Presentation Materials.
 * [CppCon 2022 Presentation Materials](https://github.com/CppCon/CppCon2022) - CppCon 2022 Presentation Materials.
 * [CppCon 2021 Presentation Materials](https://github.com/CppCon/CppCon2021) - CppCon 2021 Presentation Materials.
 * [CppCon 2020 Presentation Materials](https://github.com/CppCon/CppCon2020) - CppCon 2020 Presentation Materials.
