@@ -486,6 +486,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [FreeType](https://www.freetype.org/) - FreeType is a freely available software library to render fonts. [FTL & GPLv2]
 * [otfcc](https://github.com/caryll/otfcc) - A C library and utility used for parsing and writing OpenType font files. [Apache-2.0]
 * [harfbuzz](https://github.com/harfbuzz/harfbuzz) - A text shaping engine. [Old MIT]
+* [libschrift](https://github.com/tomolt/libschrift) - A lightweight TrueType font rendering library. [ISC]
 
 ## Game Engine
 
