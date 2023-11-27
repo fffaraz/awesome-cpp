@@ -1089,6 +1089,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Mach7](https://github.com/solodon4/Mach7) - A Pattern-matching library for C++. [BSD]
 * [mio](https://github.com/mandreyel/mio) - Cross-platform C++11 header-only library for memory mapped file IO. [MIT]
 * [PEGTL](https://github.com/taocpp/PEGTL) - The Parsing Expression Grammar Template Library. [MIT]
+* [putils](https://github.com/phisko/putils) - Phisko's C++ utilities. Large collection of helper classes and functions. [MIT]
 * [Remote Call Framework](http://www.deltavsoft.com/) - Inter-process communication framework for C++. [GPL2/Commercial]
 * [scnlib](https://github.com/eliaskosunen/scnlib) - scanf for modern C++. [Apache-2.0] [website](https://v1.scnlib.dev/)
 * [Scintilla](http://scintilla.org/) - A free source code editing component. [MIT]
