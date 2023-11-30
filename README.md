@@ -870,6 +870,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [litePDF](https://litepdf.sourceforge.io) - Library to create and edit PDF documents that uses GDI functions through a device context to draw the page content. [LGPL v3 and zlib]
 * [MuPDF](https://mupdf.com/) - A lightweight PDF, XPS, and E-book viewer. [AGPL/Proprietary]
 * [PDF-Writer](https://github.com/galkahana/PDF-Writer) - High performance library for creating, modiyfing and parsing PDF files in C++ [Apache-2.0] [website](https://www.pdfhummus.com/)
+* [pdfio](https://github.com/michaelrsweet/pdfio) - A simple C library for reading and writing PDF files. [Apache-2] [website](https://www.msweet.org/pdfio/)
 * [PDFium](https://pdfium.googlesource.com/pdfium/) - PDF generation and rendering library. [BSD-3-Clause]
 * [PoDoFo](http://podofo.sourceforge.net/) - A library to work with the PDF file format. [LGPL]
 * [Poppler](https://poppler.freedesktop.org/) - Open-source multi-backend PDF rendering library based on the xpdf-3.0 code base. [GPLv2/GPLv3]
