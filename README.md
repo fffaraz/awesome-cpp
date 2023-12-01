@@ -1071,6 +1071,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [CPPItertools](https://github.com/ryanhaining/cppitertools) - Range-based for loop add-ons inspired by the Python builtins and itertools library. [BSD-2-Clause]
 * [D++ (DPP)](https://github.com/brainboxdotcc/DPP) - A lightweight, high performance and scalable C++ library for creating Discord Bots. [Apache2] [website](https://dpp.dev)
 * [DynaMix](https://github.com/iboB/dynamix) - A library which allows you to compose and modify objects at run time. [MIT]
+* [emio](https://github.com/Viatorus/emio) - A safe and fast high-level and low-level character input/output library. [MIT]
 * [faker-cxx](https://github.com/cieslarmichal/faker-cxx) - C++20 Faker library for generating fake (but realistic) data for testing and development. [MIT]
 * [fccf](https://github.com/p-ranav/fccf) - A command-line tool that recursively searches a directory to find C/C++ source code matching a search string. [MIT]
 * [{fmt}](https://github.com/fmtlib/fmt) :zap: - Small, safe and fast formatting library for C++. [Simplified BSD] [website](https://fmt.dev)
