@@ -611,6 +611,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [libfacedetection](https://github.com/ShiqiYu/libfacedetection) - Open source library for face detection in images. The face detection speed can reach 1500FPS. [BSD]
 * [libjpeg-turbo](https://github.com/libjpeg-turbo/libjpeg-turbo) - A JPEG image codec that uses SIMD instructions to accelerate baseline JPEG encoding and decoding. [IJG & BSD-3-Clause & zlib] [website](https://libjpeg-turbo.org/)
 * [libvips](https://github.com/jcupitt/libvips) - A fast image processing library with low memory needs. [LGPL] [website](http://www.vips.ecs.soton.ac.uk/)
+* [LodePNG](https://github.com/lvandeve/lodepng) - PNG encoder and decoder in C and C++. [Zlib]
 * [Magick++](https://imagemagick.org/script/magick++.php) - ImageMagick program interfaces for C++. [Apache2]
 * [MagickWnd](https://imagemagick.org/script/magick-wand.php) - ImageMagick program interfaces for C. [Apache2]
 * [OpenCV](https://github.com/opencv) :zap: - Open source computer vision. [Apache2] [website](https://opencv.org)
