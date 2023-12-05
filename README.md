@@ -615,6 +615,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [LodePNG](https://github.com/lvandeve/lodepng) - PNG encoder and decoder in C and C++. [Zlib]
 * [Magick++](https://imagemagick.org/script/magick++.php) - ImageMagick program interfaces for C++. [Apache2]
 * [MagickWnd](https://imagemagick.org/script/magick-wand.php) - ImageMagick program interfaces for C. [Apache2]
+* [MozJPEG](https://github.com/mozilla/mozjpeg) - Improved JPEG encoder. [BSD/BSD-3-Clause/ZLIB]
 * [OpenCV](https://github.com/opencv) :zap: - Open source computer vision. [Apache2] [website](https://opencv.org)
 * [OpenEXR](http://www.openexr.com/) - Cross-platform library for high dynamic range imaging. [Modified BSDF]
 * [OpenImageIO](https://github.com/OpenImageIO/oiio) - Powerful image and texture wrangling library with support for a wide number of common lossy and RAW formats. [Modified BSD]
