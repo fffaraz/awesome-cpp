@@ -1081,6 +1081,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [FastFormat](http://www.fastformat.org) - Fast, Safe C++ Formatting inspired by log4j and Pantheios. [Simplified BSD]
 * [casacore](https://code.google.com/p/casacore/) - A set of c++ core libraries derived from aips++. [LGPL]
 * [QtVerbalExpressions](https://github.com/VerbalExpressions/QtVerbalExpressions) - This Qt lib is based off of the C++ VerbalExpressions library. [MIT]
+* [cppq](https://github.com/jafarlihi/cppq) - Simple, reliable & efficient distributed task queue for C++17. [MIT]
 * [cxx-prettyprint](https://github.com/louisdx/cxx-prettyprint) - A pretty printing library for C++ containers. [Boost]
 * [icecream-cpp](https://github.com/renatoGarcia/icecream-cpp) - A small printing library for debugging purposes. [MIT]
 * [inja](https://github.com/pantor/inja) - A Template Engine for Modern C++. [MIT]
