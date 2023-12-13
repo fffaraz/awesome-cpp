@@ -979,6 +979,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [SWIG](https://github.com/swig/swig) - A wrapper/interface Generator that let you link your c++ code to Javascript, Perl, PHP, Python, Tcl and Ruby. [GPL/Output not licensed] [website](http://www.swig.org/)
 * [V7](https://github.com/cesanta/v7) - An embedded JavaScript engine. [GPL2]
 * [V8](https://v8.dev) - A fast JavaScript engine by Google that can be embedded into any C++ application. [BSD]
+* [v8pp](https://github.com/pmed/v8pp) - Header-only library to expose C++ classes and functions into V8 to use them in JavaScript code. [BOOST] [website](https://pmed.github.io/v8pp/)
 * [ChakraCore](https://github.com/Microsoft/ChakraCore) -A JavaScript engine by Microsoft that can be embedded into nodejs. [MIT]
 
 ## Serialization
