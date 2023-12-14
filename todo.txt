@@ -117,7 +117,6 @@ https://github.com/mozilla/mozjpeg
 https://github.com/tinfoilboy/Explodable
 https://github.com/shaih/HElib
 https://github.com/jlnr/gosu
-https://github.com/vinniefalco/DSPFilters
 https://github.com/m-ou-se/moggle
 
 https://github.com/Hawstein/cracking-the-coding-interview
