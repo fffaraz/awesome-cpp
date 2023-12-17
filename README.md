@@ -45,6 +45,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 	- [Scientific Computing](#scientific-computing)
 	- [Scripting](#scripting)
 	- [Serialization](#serialization)
+	- [Serial Port](#serial-port)
 	- [Sorting](#sorting)
 	- [Video](#video)
 	- [Virtual Machines](#virtual-machines)
@@ -1007,6 +1008,14 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [YAS](https://github.com/niXman/yas) - Very fast **Y**et **A**nother **S**erialization library supports the binary/text/json formats. [Boost]
 * [zpp_bits](https://github.com/eyalz800/zpp_bits) - Actually, the fastest modern **S**erialization library. Just check [this video](https://www.youtube.com/watch?v=G7-GQhCw8eE&ab_channel=CppCon).
 
+## Serial Port
+
+* [Asio](https://github.com/chriskohlhoff/asio/) - Asio includes classes for creating and manipulating serial ports in a portable manner. [Boost] [website](http://think-async.com/)
+* [Boost.Asio](https://github.com/boostorg/asio) -  Boost.Asio includes classes for creating and manipulating serial ports in a portable manner. [Boost] [website](https://boost.org/libs/asio)
+* [CSerialPort](https://github.com/itas109/CSerialPort) - lightweight cross-platform serial port library. [LGPL3]
+* [Libserial](https://github.com/crayzeewulf/libserial) - Serial Port Programming in C++. [BSD-3-Clause]
+* [Serial Communication Library](https://github.com/wjwwood/serial) - Cross-platform, Serial Port library written in C++. [MIT] [website](http://wjwwood.io/serial/)
+
 ## Sorting
 
 * [pdqsort](https://github.com/orlp/pdqsort) - Pattern-defeating quicksort. [zlib]
@@ -1081,7 +1090,6 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Cheat Sheets of HackingCPP](https://hackingcpp.com/cpp/cheat_sheets.html) - Cool cheat sheets and infographics for algorithms, views, containers, randomness, etc.
 * [Concord](https://github.com/Cogmasters/concord) - A Discord API wrapper library written in C. [MIT] [website](https://cogmasters.github.io/concord)
 * [CPPItertools](https://github.com/ryanhaining/cppitertools) - Range-based for loop add-ons inspired by the Python builtins and itertools library. [BSD-2-Clause]
-* [CSerialPort](https://github.com/itas109/CSerialPort) - lightweight cross-platform serial port library. [LGPL3]
 * [date](https://github.com/HowardHinnant/date) - A date and time library based on the C++11/14/17 <chrono> header. [MIT] [website](https://howardhinnant.github.io/date/date.html)
 * [D++ (DPP)](https://github.com/brainboxdotcc/DPP) - A lightweight, high performance and scalable C++ library for creating Discord Bots. [Apache2] [website](https://dpp.dev)
 * [DuckX](https://github.com/amiremohamadi/DuckX) - C++ library for creating and modifying Microsoft Word (.docx) files. [MIT]
@@ -1107,7 +1115,6 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [libenvpp](https://github.com/ph3at/libenvpp) - A modern C++ library for type-safe environment variable parsing. [Apache-2.0]
 * [libevil](https://github.com/avati/libevil) - The Evil License Manager. [GPLv3]
 * [libnih](https://github.com/keybuk/libnih) - A lightweight library of C functions and structures. [GPL2.1]
-* [Libserial](https://github.com/crayzeewulf/libserial) - Serial Port Programming in C++. [BSD-3-Clause]
 * [libusb](https://libusb.info/) - A universal USB library which allows for portable access to USB devices. [LGPL2]
 * [Mach7](https://github.com/solodon4/Mach7) - A Pattern-matching library for C++. [BSD]
 * [mio](https://github.com/mandreyel/mio) - Cross-platform C++11 header-only library for memory mapped file IO. [MIT]
@@ -1117,7 +1124,6 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Scintilla](http://scintilla.org/) - A free source code editing component. [MIT]
 * [SDS](https://github.com/antirez/sds) - Simple Dynamic Strings library for C. [BSD]
 * [semver.c](https://github.com/h2non/semver.c) - A semver parser and render in ANSI C. [MIT]
-* [Serial Communication Library](https://github.com/wjwwood/serial) - Cross-platform, Serial Port library written in C++. [MIT]
 * [sigslot](http://sigslot.sourceforge.net/) - C++ Signal/Slot Library. [PublicDomain]
 * [SimpleSignal](https://github.com/larspensjo/SimpleSignal) - High performance C++11 signals. [PublicDomain]
 * [Stage](https://github.com/rtv/Stage) - Mobile robot simulator. [GPL2]
