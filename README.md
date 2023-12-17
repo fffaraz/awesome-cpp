@@ -800,6 +800,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [rpmalloc](https://github.com/mjansson/rpmalloc) - Cross platform lock free thread caching 16-byte aligned memory allocator implemented in C. [PublicDomain]
 * [snmalloc](https://github.com/microsoft/snmalloc) - Message passing based high-performance allocator. [MIT]
 * [TCMalloc](https://github.com/google/tcmalloc) - Google's fast, multi-threaded malloc implementation. [Apache-2.0] [website](https://google.github.io/tcmalloc/)
+* [buddy_alloc](https://github.com/spaskalev/buddy_alloc) - A single header buddy memory allocator for C with bounded allocation costs. [0BSD]
 * [tgc](https://github.com/orangeduck/tgc) - A tiny garbage collector for C written in \~500 LOC. [BSD]
 
 ## Multimedia
