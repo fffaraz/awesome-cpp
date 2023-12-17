@@ -1011,7 +1011,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 ## Serial Port
 
 * [Asio](https://github.com/chriskohlhoff/asio/) - Asio includes classes for creating and manipulating serial ports in a portable manner. [Boost] [website](http://think-async.com/)
-* [Boost.Asio](https://github.com/boostorg/asio) -  Boost.Asio includes classes for creating and manipulating serial ports in a portable manner. [Boost] [website](https://boost.org/libs/asio)
+* [Boost.Asio](https://github.com/boostorg/asio) - Boost.Asio includes classes for creating and manipulating serial ports in a portable manner. [Boost] [website](https://boost.org/libs/asio)
 * [CSerialPort](https://github.com/itas109/CSerialPort) - lightweight cross-platform serial port library. [LGPL3]
 * [Libserial](https://github.com/crayzeewulf/libserial) - Serial Port Programming in C++. [BSD-3-Clause]
 * [Serial Communication Library](https://github.com/wjwwood/serial) - Cross-platform, Serial Port library written in C++. [MIT] [website](http://wjwwood.io/serial/)
