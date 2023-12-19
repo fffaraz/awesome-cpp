@@ -37,6 +37,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 	- [Memory Allocation](#memory-allocation)
 	- [Multimedia](#multimedia)
 	- [Networking](#networking)
+	- [Office Open XML](#office-open-xml)
 	- [PDF](#pdf)
 	- [Physics](#physics)
 	- [Reflection](#reflection)
@@ -875,6 +876,17 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [PcapPlusPlus](https://github.com/seladb/PcapPlusPlus) - a multiplatform C++ network sniffing and packet parsing and crafting framework. [Unlicense]
 * [ZeroMQ](https://github.com/zeromq/libzmq) - High-speed, modular asynchronous communication library. [LGPL3/MPL2] [website](http://zeromq.org/)
 
+## Office Open XML
+*Libraries for parsing and manipulating xlsx, pptx, docx, etc.*
+
+* [DuckX](https://github.com/amiremohamadi/DuckX) - C++ library for creating and modifying Microsoft Word (.docx) files. [MIT]
+* [FreeXL](https://www.gaia-gis.it/fossil/freexl/index) - an open source library to extract valid data from within Spreadsheets. [MPL/GPL-2/LGPL-2]
+* [libxls](https://github.com/libxls/libxls) - Read binary Excel files from C/C++ [BSD-2-Clause]
+* [libxlsxwriter](https://github.com/jmcnamara/libxlsxwriter) - A C library for creating Excel XLSX files. [BSD-2-Clause] [website](https://libxlsxwriter.github.io/)
+* [OpenXLSX](https://github.com/troldal/OpenXLSX) - A C++ library for reading, writing, creating and modifying Microsoft Excel® (.xlsx) files.  [BSD-3-Clause]
+* [SimpleXlsxWriter](https://sourceforge.net/projects/simplexlsx/) - XLSX files writer for Microsoft Excel 2007 and above. [zlib]
+* [XLSX I/O](https://github.com/brechtsanders/xlsxio) - C library for reading and writing .xlsx files. [MIT]
+
 ## PDF
 *Libraries for parsing and manipulating PDF documents.*
 
@@ -1093,7 +1105,6 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [CPPItertools](https://github.com/ryanhaining/cppitertools) - Range-based for loop add-ons inspired by the Python builtins and itertools library. [BSD-2-Clause]
 * [date](https://github.com/HowardHinnant/date) - A date and time library based on the C++11/14/17 <chrono> header. [MIT] [website](https://howardhinnant.github.io/date/date.html)
 * [D++ (DPP)](https://github.com/brainboxdotcc/DPP) - A lightweight, high performance and scalable C++ library for creating Discord Bots. [Apache2] [website](https://dpp.dev)
-* [DuckX](https://github.com/amiremohamadi/DuckX) - C++ library for creating and modifying Microsoft Word (.docx) files. [MIT]
 * [DynaMix](https://github.com/iboB/dynamix) - A library which allows you to compose and modify objects at run time. [MIT]
 * [emio](https://github.com/Viatorus/emio) - A safe and fast high-level and low-level character input/output library. [MIT]
 * [faker-cxx](https://github.com/cieslarmichal/faker-cxx) - C++20 Faker library for generating fake (but realistic) data for testing and development. [MIT]
