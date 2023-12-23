@@ -1033,6 +1033,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ## Sorting
 
++ [cpp-sort](https://github.com/Morwenn/cpp-sort) - Sorting algorithms & related tools for C++14. [MIT]
 * [pdqsort](https://github.com/orlp/pdqsort) - Pattern-defeating quicksort. [zlib]
 * [Timsort](https://github.com/gfx/cpp-TimSort) - A templated stable sorting function which outperforms quicksort-based algorithms including std::sort, for reversed or semi-sorted data. [MIT]
 * [Indiesort](https://github.com/mattreecebentley/plf_indiesort) - A sort wrapper which enables the use of std::sort (& other random-access sort functions) with non-random-access containers, and also improves sort performance for large/non-trivially-copyable types in random-access containers and arrays. [zLib] [website](https://plflib.org/indiesort.htm)
