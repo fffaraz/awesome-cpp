@@ -21,7 +21,7 @@
 ## C++
 
 * [C++ Annotations](http://cppannotations.sourceforge.net/) 
-* [C++ Cookbook](http://staff.ppu.edu/dkhalid/O'Reilly%20-%20C++%20Cookbook%20%282007%29.pdf) (PDF)
+* [C++ Cookbook](http://blaqueyard.com/download/C++%20Cookbook.pdf) (PDF)
 * [C++ GUI Programming With Qt 3](http://www.computer-books.us/cpp_0010.php)
 * [C++ Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/cplusplus) (PDF, Kindle) *(Just fill the fields with any values)*
 * [CS106X Programming Abstractions in C++](http://www.stanford.edu/class/cs106x/)
