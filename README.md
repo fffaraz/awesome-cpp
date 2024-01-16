@@ -260,7 +260,6 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [bzip3](https://github.com/kspalaiologos/bzip3) - A better and stronger spiritual successor to BZip2. [LGPL]
 * [FiniteStateEntropy](https://github.com/Cyan4973/FiniteStateEntropy) - New generation entropy codecs : Finite State Entropy and Huff0.
 * [heatshrink](https://github.com/atomicobject/heatshrink) - data compression library for embedded/real-time systems  [ISC]
-* [PhysicsFS](https://icculus.org/physfs/) - A library to provide abstract access to various archives. It is intended for use in video games, and the design was somewhat inspired by Quake 3's file subsystem. [zlib]
 * [KArchive](https://api.kde.org/frameworks/karchive/html/index.html) - A library for creating, reading, writing and manipulating file archives like zip and tar. It also provides transparent compression and decompression of data, using formats like gzip, via a subclass of QIODevice. [LGPL]
 * [libarchive](https://github.com/libarchive/libarchive) - Multi-format archive and compression library. [New BSD] [website](http://www.libarchive.org/)
 * [LZ4](https://github.com/lz4/lz4) - Extremely Fast Compression algorithm. [BSD] [website](http://www.lz4.org/)
@@ -271,6 +270,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [miniz](https://github.com/richgel999/miniz) - Single C source file Deflate/Inflate compression library with zlib-compatible API, ZIP archive reading/writing, PNG writing. [MIT]
 * [Minizip](https://github.com/nmoinvaz/minizip) - Zlib with latest bug fixes that supports PKWARE disk spanning, AES encryption, and IO buffering. [zlib]
 * [minizip-ng](https://github.com/zlib-ng/minizip-ng) - Fork of the popular zip manipulation library found in the zlib distribution. [zlib]
+* [PhysicsFS](https://icculus.org/physfs/) - A library to provide abstract access to various archives. It is intended for use in video games, and the design was somewhat inspired by Quake 3's file subsystem. [zlib]
 * [Rapidgzip](https://github.com/mxmlnkn/rapidgzip) - Gzip Decompression and Random Access for Modern Multi-Core Machines. [Apache-2/MIT]
 * [smaz](https://github.com/antirez/smaz) - Small strings compression library. [BSD]
 * [Snappy](https://google.github.io/snappy/) - A fast compressor/decompressor. [BSD]
