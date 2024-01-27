@@ -344,9 +344,10 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 * [C++ B-tree](https://github.com/algorithm-ninja/cpp-btree) - A template library that implements ordered in-memory containers based on a B-tree data structure. [Apache2]
 * [dynamic_bitset](https://github.com/pinam45/dynamic_bitset) - A C++17 header-only dynamic bitset. [MIT]
-* [Hashmaps](https://github.com/goossaert/hashmap) - Implementation of open addressing hash table algorithms in C++. [MIT]
-* [Hopscotch map](https://github.com/Tessil/hopscotch-map) - A fast header-only hash map which uses hopscotch hashing for collisions resolution. [MIT]
 * [flat_hash_map](https://github.com/skarupke/flat_hash_map) - A very fast flat hashtable with Fibonacci hashing.
+* [Hashmaps](https://github.com/goossaert/hashmap) - Implementation of open addressing hash table algorithms in C++. [MIT]
+* [hat-trie](https://github.com/Tessil/hat-trie) - C++ implementation of a fast and memory efficient HAT-trie. [MIT]
+* [Hopscotch map](https://github.com/Tessil/hopscotch-map) - A fast header-only hash map which uses hopscotch hashing for collisions resolution. [MIT]
 * [LSHBOX](https://github.com/RSIA-LIESMARS-WHU/LSHBOX) - A c++ toolbox of locality-sensitive hashing (LSH), provides several popular LSH algorithms, also support Python and MATLAB. [GPL]
 * [parallel-hashmap](https://github.com/greg7mdp/parallel-hashmap) - A family of header-only, very fast and memory-friendly hashmap and btree containers [Apache2] [website](https://greg7mdp.github.io/parallel-hashmap/)
 * [PGM-index](https://github.com/gvinciguerra/PGM-index) - A data structure that enables fast lookup, predecessor, range searches and updates in arrays of billions of items using orders of magnitude less space than traditional indexes. [Apache2] [website](https://pgm.di.unipi.it)
