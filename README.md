@@ -358,7 +358,9 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [robin-hood-hashing](https://github.com/martinus/robin-hood-hashing) - Fast & memory efficient hashtable based on robin hood hashing for C++14. [MIT]
 * [robin-map](https://github.com/Tessil/robin-map) - Fast hash map and hash set using robin hood hashing. [MIT]
 * [sparsepp](https://github.com/greg7mdp/sparsepp) - A fast, memory efficient hash map for C++. [BSD 3-clause]
+* [st_tree](https://github.com/erikerlandson/st_tree) - A fast and flexible c++ template class for tree data structures. [Apache-2.0]
 * [svector](https://github.com/martinus/svector) - Compact SVO optimized vector for C++17 or higher. [MIT]
+* [tree.hh](https://github.com/kpeeters/tree.hh) - An STL-like C++ header-only tree library. [GPL2+]
 * [unordered_dense](https://github.com/martinus/unordered_dense) - A fast & densely stored hashmap and hashset based on robin-hood backward shift deletion. [MIT]
 
 ## Cryptography
