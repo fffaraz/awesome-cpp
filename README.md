@@ -621,6 +621,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [CImg](http://cimg.eu/) - A small, open source, C++ toolkit for image processing. [Own LGPL or GPL]
 * [CxImage](https://www.codeproject.com/Articles/1300/CxImage) - An image processing and conversion library to load, save, display, transform BMP, JPEG, GIF, PNG, TIFF, MNG, ICO, PCX, TGA, WMF, WBMP, JBG, J2K images. [zlib]
 * [Dlib](https://github.com/davisking/dlib) :zap: - A modern C++11 machine learning, computer vision, numerical optimization, and deep learning toolkit. [Boost] [website](http://dlib.net/)
+* [fpng](https://github.com/richgel999/fpng) - Super fast C++ .PNG writer/reader. [Unlicense]
 * [FreeImage](http://freeimage.sourceforge.net/) - An open source library that supports popular graphics image formats and others as needed by today's multimedia applications. [GPL2 or GPL3]
 * [GD](https://github.com/libgd/libgd) - GD Graphics Library, famously used in PHP for image loading/manipulation & thumbnail generation. [custom permissive license, requires mention in user docs] [website](http://libgd.github.io/)
 * [DCMTK](http://dicom.offis.de/dcmtk.php.en) - DICOM Toolkit.
@@ -631,6 +632,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [libfacedetection](https://github.com/ShiqiYu/libfacedetection) - Open source library for face detection in images. The face detection speed can reach 1500FPS. [BSD]
 * [libjpeg-turbo](https://github.com/libjpeg-turbo/libjpeg-turbo) - A JPEG image codec that uses SIMD instructions to accelerate baseline JPEG encoding and decoding. [IJG & BSD-3-Clause & zlib] [website](https://libjpeg-turbo.org/)
 * [libjxl](https://github.com/libjxl/libjxl) - JPEG XL image format reference implementation. [BSD-3-Clause]
+* [libpng](https://github.com/pnggroup/libpng) - the reference library for use in applications that read, create, and manipulate PNG (Portable Network Graphics) raster image files. [libpng-2.0] [website](https://libpng.sourceforge.io/)
 * [libspng](https://github.com/randy408/libspng) - Simple, modern libpng alternative. [BSD-2] [website](https://libspng.org/)
 * [libvips](https://github.com/jcupitt/libvips) - A fast image processing library with low memory needs. [LGPL] [website](http://www.vips.ecs.soton.ac.uk/)
 * [LodePNG](https://github.com/lvandeve/lodepng) - PNG encoder and decoder in C and C++. [Zlib]
