@@ -439,6 +439,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [TigerBeetleDB C++ client (Community)](https://github.com/kassane/tigerbeetle-cpp) - TigerBeetle is a financial accounting database designed for mission critical safety and performance to power the future of financial services. [BSL-1.0]
 * [UStore](https://github.com/unum-cloud/ustore) - Multi-Modal database for BLOBs, JSON, and graphs. [Apache2]
 * [Velox](https://github.com/facebookincubator/velox) - A C++ vectorized database acceleration library aimed to optimizing query engines and data processing systems. [Apache-2.0] [website](https://velox-lib.io/)
+* [OceanBase](https://github.com/oceanbase/oceanbase) - A distributed relational database with high availability, horizontal scalability, and compatibility with MySQL. [Mulan PubL v2] [website](www.oceanbase.com)
 
 ## Data visualization
 *Data visualization Libraries*
