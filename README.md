@@ -1132,6 +1132,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Argon2](https://github.com/P-H-C/phc-winner-argon2) - The password hash Argon2, winner of PHC. [CC0/Apache2]
 * [Better String](http://bstring.sourceforge.net) - An alternative to the string library for C which is more functional and does not have buffer overflow overrun problems. Also includes a C++ wrapper. [BSD, GPL2]
 * [Boost.Signals2](https://github.com/boostorg/signals2) - An implementation of a managed signals and slots system. [Boost] [website](https://boost.org/libs/signals2)
+* [CRCpp](https://github.com/d-bahr/CRCpp) - Easy to use and fast C++ CRC library. [BSD-3-Clause]
 * [casacore](https://code.google.com/p/casacore/) - A set of c++ core libraries derived from aips++. [LGPL]
 * [CCTZ](https://github.com/google/cctz) - a C++ library for translating between absolute and civil times using the rules of a time zone.  [Apache-2.0]
 * [Cheat Sheets of HackingCPP](https://hackingcpp.com/cpp/cheat_sheets.html) - Cool cheat sheets and infographics for algorithms, views, containers, randomness, etc.
