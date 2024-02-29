@@ -420,6 +420,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [MongoDB Libbson](https://github.com/mongodb/libbson) - A BSON utility library. [Apache2]
 * [MySQL++](http://www.tangentsoft.net/mysql++/) - A C++ wrapper for MySQL's C API. [LGPL]
 * [nanodbc](https://github.com/nanodbc/nanodbc) - A small C++ wrapper for the native C ODBC API. [MIT]
+* [OceanBase](https://github.com/oceanbase/oceanbase) - A distributed relational database with high availability, horizontal scalability, and compatibility with MySQL. [Mulan PubL v2] [website](www.oceanbase.com)
 * [ODB](https://www.codesynthesis.com/products/odb/) - An open-source, cross-platform, and cross-database object-relational mapping (ORM) system for C++. [GPLv2]
 * [redis3m](https://github.com/luca3m/redis3m) - Wrapper of hiredis with clean C++ interface, supporting sentinel and ready to use patterns. [Apache2]
 * [Reindexer](https://github.com/Restream/reindexer) - Embeddable, in-memory, document-oriented database with a high-level Query builder interface. [Apache2] [website](https://reindexer.io/)
@@ -439,7 +440,6 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [TigerBeetleDB C++ client (Community)](https://github.com/kassane/tigerbeetle-cpp) - TigerBeetle is a financial accounting database designed for mission critical safety and performance to power the future of financial services. [BSL-1.0]
 * [UStore](https://github.com/unum-cloud/ustore) - Multi-Modal database for BLOBs, JSON, and graphs. [Apache2]
 * [Velox](https://github.com/facebookincubator/velox) - A C++ vectorized database acceleration library aimed to optimizing query engines and data processing systems. [Apache-2.0] [website](https://velox-lib.io/)
-* [OceanBase](https://github.com/oceanbase/oceanbase) - A distributed relational database with high availability, horizontal scalability, and compatibility with MySQL. [Mulan PubL v2] [website](www.oceanbase.com)
 
 ## Data visualization
 *Data visualization Libraries*
