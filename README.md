@@ -346,6 +346,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 * [C++ B-tree](https://github.com/algorithm-ninja/cpp-btree) - A template library that implements ordered in-memory containers based on a B-tree data structure. [Apache2]
 * [dynamic_bitset](https://github.com/pinam45/dynamic_bitset) - A C++17 header-only dynamic bitset. [MIT]
+* [fixed-containers](https://github.com/teslamotors/fixed-containers) - Header-only C++20 library that provides fixed capacity constexpr containers. [MIT]
 * [flat_hash_map](https://github.com/skarupke/flat_hash_map) - A very fast flat hashtable with Fibonacci hashing.
 * [frozen](https://github.com/serge-sans-paille/frozen) - a header-only, constexpr alternative to gperf for C++14 users. [Apache-2.0]
 * [Hashmaps](https://github.com/goossaert/hashmap) - Implementation of open addressing hash table algorithms in C++. [MIT]
