@@ -11,6 +11,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 	- [BitTorrent](#bittorrent)
 	- [Chemistry](#chemistry)
 	- [CLI](#cli)
+	- [Collaborative Data Structure](#collaborative-data-structure)
 	- [Compression](#compression)
 	- [Concurrency](#concurrency)
 	- [Configuration](#configuration)
@@ -253,6 +254,10 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
  * [termbox](https://github.com/nsf/termbox) - A C library for writing text-based user interfaces. [MIT]
  * [TermOx](https://github.com/a-n-t-h-o-n-y/TermOx) - C++17 Terminal User Interface(TUI) Library. [MIT]
 
+## Collaborative Data Structure
+
+ * [Flip] (http://irisate.com/go/flip/) - A  data model library, designed as a framework, real-time collaboration-oriented, transactional, portable and compact. [commercial]
+ 
 ## Compression
 *Compression and Archiving Libraries*
 
