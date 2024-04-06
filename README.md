@@ -460,6 +460,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [doctest](https://github.com/onqtam/doctest) - The lightest feature rich C++ single header testing framework. [MIT]
 * [Catch2](https://github.com/catchorg/Catch2) - A modern, C++-native, test framework for unit-tests, TDD and BDD. [Boost]
 * [Celero](https://github.com/DigitalInBlue/Celero) - C++ Benchmarking Framework. [Apache2]
+* [cpp-dump](https://github.com/philip82148/cpp-dump) - A C++ library for debugging purposes that can print any variable, even user-defined types. [MIT]
 * [CppUTest](https://github.com/cpputest/cpputest) - Unit testing and mocking framework for C/C++. [BSD-3-clause]
 * [CUTE](http://cute-test.com) - C++ Unit Testing Easier. [LGPL3]
 * [CMocka](https://cmocka.org/) - unit testing framework for C with support for mock objects. [Apache2]
