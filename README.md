@@ -476,6 +476,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Google Mock](https://github.com/google/googletest/blob/master/googlemock/README.md) - A library for writing and using C++ mock classes. [BSD]
 * [Google Test](https://github.com/google/googletest) - Google C++ Testing Framework. [BSD]
 * [ig-debugheap](https://github.com/deplinenoise/ig-debugheap) - Multiplatform debug heap useful for tracking down memory errors. [BSD]
+* [libassert](https://github.com/jeremy-rifkin/libassert) - The most over-engineered C++ assertion library. [MIT]
 * [libtap](https://github.com/zorgnax/libtap) - Write tests in C. [GPL2]
 * [microprofile](https://github.com/jonasmr/microprofile) - Profiler with web-view for multiple platforms. [Unlicense]
 * [MinUnit](https://github.com/siu/minunit) - A minimal unit testing framework for C self-contained in a single header file. [MIT]
