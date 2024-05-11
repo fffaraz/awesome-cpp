@@ -1239,6 +1239,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Wandbox](https://wandbox.org) - An online Clang/GCC compiler with Boost available.
 * [paiza.io](https://paiza.io/en) - An online C/C++ compiler with multiple files supporting feature, Github(gist) integration and collaborative editing.
 * [InterviewBit](https://www.interviewbit.com/online-cpp-compiler/) - A simple and easy to use online C++ compiler.
+* [Hackerrank](https://onecompiler.com/c/3x7rdtfwp) -OneCompiler's C/C++ online compiler for free. OneCompiler's C editor: robust, fast, supports C18.
 
 ## Debugger
 *List of C or C++ debuggers*
@@ -1371,6 +1372,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Free C Books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#c) - vhf/free-programming-books/C.
 * [Free C++ Books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#cpp) - vhf/free-programming-books/C++.
 * [cppbestpractices](https://github.com/lefticus/cppbestpractices) - Collaborative Collection of C++ Best Practices.
+* [Exploring C++ book options for mastery.](https://github.com/yuchdev/CppBooks) - Crowdsourcing top-tier C++ practices for collective mastery.
 
 ## Coding Standards
 
@@ -1456,6 +1458,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Vorbrodt's C++ Blog](https://vorbrodt.blog/)
 * [foonathan::blog()](https://foonathan.net/index.html)
 * [C++ Team Blog](https://devblogs.microsoft.com/cppblog/) - Dev blog from the Microsoft Visual C++ team
+  
 
 ## Other Awesome Projects
 *Collection of useful codes, snippets, ...*
