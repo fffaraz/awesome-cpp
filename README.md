@@ -1276,6 +1276,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Xcode](https://developer.apple.com/xcode/) - Developed by Apple.
 * [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) - YouCompleteMe is a fast, as-you-type, fuzzy-search code completion engine for Vim.
 * [cquery](https://github.com/cquery-project/cquery/) - A C++ code completion engine for vscode, emacs, vim, etc.
+* [C Playground - Online C Programming IDE](https://programiz.pro/ide/c) - An online IDE to practice C Programming where you can write, edit, and run code online.
 
 ## Build Systems
 
