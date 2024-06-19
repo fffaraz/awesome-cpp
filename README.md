@@ -123,6 +123,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Qt](https://github.com/qt) :zap: - A cross-platform application and UI framework. [GPL/LGPL/Proprietary] [website](https://www.qt.io)
 * [Reason](http://code.google.com/p/reason/) - A cross platform framework designed to bring the ease of use of Java, .Net, or Python to developers who require the performance and strength of C++. [GPL2]
 * [ROOT](https://root.cern.ch/) - A set of OO frameworks with all the functionality needed to handle and analyze large amounts of data in a very efficient way. Used at CERN. [LGPL]
+* [rpp](https://github.com/TheNumbat/rpp) - Minimal Rust-inspired C++20 STL replacement. [MIT]
 * [SaneCppLibraries](https://github.com/Pagghiu/SaneCppLibraries) - a set of C++ platform abstraction libraries for macOS, Windows and Linux. [MIT] [website](https://pagghiu.github.io/SaneCppLibraries/)
 * [Seastar](https://github.com/scylladb/seastar) - An advanced, open-source C++ framework for high-performance server applications on modern hardware. [Apache-2.0 License] [seastar.io](http://seastar.io/)
 * [STLport](http://www.stlport.org/) - An exemplary version of STL. [Free]
