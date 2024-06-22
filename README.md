@@ -87,7 +87,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Standard Template Library](https://en.wikipedia.org/wiki/Standard_Template_Library) - The Standard Template Library (STL).
 * [C POSIX library](https://en.wikipedia.org/wiki/C_POSIX_library) - A specification of a C standard library for POSIX systems.
 * [ISO C++ Standards Committee](https://github.com/cplusplus) - ISO/IEC JTC1/SC22/WG21 - The C++ Standards Committee. [website](http://www.open-std.org/JTC1/SC22/WG21/)
-* [The GNU C Library](https://www.gnu.org/software/libc/manual) - The purpose of this manual is to tell you how to use the facilities of the GNU C Library.
+* [The GNU C Library](https://sourceware.org/glibc/manual/) - The purpose of this manual is to tell you how to use the facilities of the GNU C Library.
 
 ## Frameworks
 *C++ generic frameworks and libraries.*
