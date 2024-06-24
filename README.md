@@ -659,6 +659,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Simd](https://github.com/ermig1979/Simd) - C++ image processing library with using of SIMD: SSE, SSE2, SSE3, SSSE3, SSE4.1, SSE4.2, AVX, AVX2, AVX-512, VMX(Altivec) and VSX(Power7), NEON for ARM. [MIT]
 * [stb-image](https://github.com/nothings/stb/blob/master/stb_image.h) - STB single-header image loading library. [Public Domain]
 * [tesseract-ocr](https://github.com/tesseract-ocr) - An OCR engine. [Apache2]
+* [TinyDNG](https://github.com/syoyo/tinydng) - Header-only Tiny DNG/TIFF loader and writer in C++. [MIT]
 * [TinyEXIF](https://github.com/cdcseacave/TinyEXIF) - Tiny ISO-compliant C++ EXIF and XMP parsing library for JPEG. [MIT]
 * [TinyTIFF](https://github.com/jkriege2/TinyTIFF) - lightweight TIFF reader/writer library. [GPL-3.0]
 * [Video++](https://github.com/matt-42/vpp) - A C++14 high performance video and image processing library. [MIT]
