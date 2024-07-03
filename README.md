@@ -1009,6 +1009,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 ## Scientific Computing
 
 * [AMGCL](https://github.com/ddemidov/amgcl) - a header-only C++ library for solving large sparse linear systems with algebraic multigrid. [MIT]
+* [Au](https://github.com/aurora-opensource/au) - A C++14-compatible physical units library with no dependencies and a single-file delivery option. Emphasis on safety, accessibility, performance, and developer experience. [Apache 2.0] [website](https://aurora-opensource.github.io/au/main/)
 * [FFTW](http://www.fftw.org/) - A C library for computing the DFT in one or more dimensions. [GPL]
 * [GSL](http://www.gnu.org/software/gsl/) - GNU scientific library. [GPL]
 * [preCICE](https://github.com/precice/precice) - Coupling library for partitioned multi-physics simulations (FSI, CHT, and more). [LGPL] [website](https://precice.org/)
