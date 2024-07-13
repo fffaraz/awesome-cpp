@@ -1424,6 +1424,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [C Programming Tutorials](https://www.youtube.com/playlist?list=PL78280D6BE6F05D34) - All of TheNewBoston's C programming tutorials are right here.
 * [Bo Qian's playlist](https://www.youtube.com/user/BoQianTheProgrammer/playlists) - Boost Library, C++ Standard Library, Modern C++, Advanced C++, Advanced STL, ...
 * [The Cherno's C++ Playlist](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb) - Extensive C++ tutorial series by The Cherno.
+* [Code for Yourself C++ Playlist](https://www.youtube.com/playlist?list=PLwhKb0RIaIS1sJkejUmWj-0lk7v_xgCuT) - A complete C++ course covering everything from fundamentals to software design.
 
 ## Websites
 *Useful C or C++ related websites.*
@@ -1447,6 +1448,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [C++ tutorial](https://hackr.io/tutorials/learn-c-plus-plus) - A user ranked online tutorial bank site displaying multiple courses to learn C++ from.
 * [C++ Tutorial for Beginners](https://www.scaler.com/topics/cpp) - A comprenhensive tutorial on C++ curated by trained experts.
 * [cppexpert.online](https://cppexpert.online) - Learn the best C++ practices by improving code snippets with some problems or with bad practices.
+* [C++ for yourself](https://github.com/cpp-for-yourself) - A comprehensive tutorial on modern C++ covering everything from fundamentals to software design.
 
 ## Weblogs
 *Useful C or C++ related weblogs.*
