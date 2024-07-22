@@ -1230,6 +1230,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Open WatCom](https://github.com/open-watcom) - Watcom C, C++, and Fortran cross compilers and tools. [Sybase Open Watcom Public License]
 * [Oracle Solaris Studio](http://www.oracle.com/technetwork/server-storage/solarisstudio/overview/index.html) - C, C++ and Fortran compiler for SPARC and x86. Supports C++11. Available on Linux and Solaris. [OTN Developer License]
 * [TCC](http://bellard.org/tcc/) - Tiny C Compiler. [LGPL]
+* [Lex & Yacc](http://dinosaur.compilertools.net/) Lexical analyser and LALR parser. Yet Another Compiler-Compiler<sup>[[*](https://www.geeksforgeeks.org/introduction-to-yacc/)]</sup>
 
 ## Online Compiler
 *List of online C or C++ compilers*
