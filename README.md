@@ -720,6 +720,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [json11](https://github.com/dropbox/json11) - A tiny JSON library for C++11. [MIT]
 * [json-struct](https://github.com/jorgen/json_struct) - High performance, single header JSON parser parsing to and from C++ structs. [MIT]
 * [json-voorhees](https://github.com/tgockel/json-voorhees) - JSON library for C++. Support for C++11. No dependencies, fast and dev-friendly. [Apache2]
+* [JSON Toolkit](https://github.com/sourcemeta/jsontoolkit) - JSON, JSON Pointer, JSON Schema, and JSONL library for C++20. [AGPL/Commercial]
 * [jute](https://github.com/amir-s/jute) - Very simple C++ JSON Parser. [PublicDomain]
 * [libjson](https://github.com/vincenthz/libjson) - A JSON parser and printer library in C. easy to integrate with any model. [LGPL]
 * [libjson](http://sourceforge.net/projects/libjson/) - Lightweight JSON library. [?]
