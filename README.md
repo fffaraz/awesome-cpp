@@ -979,6 +979,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [meta](https://github.com/skypjack/meta) - Header-only, non-intrusive and macro-free runtime reflection system in C++. [MIT]
 * [Nameof](https://github.com/Neargye/nameof) - Header-only C++17 library provides nameof macros and functions to obtain the simple name of variable, type, function, macro, and enum. [MIT]
 * [Ponder](https://github.com/billyquith/ponder) - A C++11 library for reflection. [MIT]
+* [REFLECT](https://github.com/qlibs/reflect) - C++20 Static Reflection library. [MIT]
 * [reflect-cpp](https://github.com/getml/reflect-cpp) - Serialization through reflection, including automatic field name retrieval from structs. [MIT]
 * [RTTR](https://github.com/rttrorg/rttr) - A C++11 library for reflection. [MIT] [website](http://www.rttr.org)
 * [simple_enum](https://github.com/arturbac/simple_enum) - An Fast, Intuitive and Type-Safe C++ Enumeration Support Library. [BSL-1.0] [website](https://arturbac.github.io/simple_enum/)
