@@ -260,6 +260,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Brotli](https://github.com/google/brotli) - Brotli compression format. Developed by Google. [MIT]
 * [bzip2](http://www.bzip.org/) - A freely available, patent free, high-quality data compressor. [BSD]
 * [bzip3](https://github.com/kspalaiologos/bzip3) - A better and stronger spiritual successor to BZip2. [LGPL]
+* [FastLZ](https://github.com/ariya/FastLZ) - Small & portable byte-aligned LZ77 compression. [MIT]
 * [FiniteStateEntropy](https://github.com/Cyan4973/FiniteStateEntropy) - New generation entropy codecs : Finite State Entropy and Huff0.
 * [heatshrink](https://github.com/atomicobject/heatshrink) - data compression library for embedded/real-time systems  [ISC]
 * [Kanzi](https://github.com/flanglet/kanzi-cpp) - a modern, modular, portable and efficient lossless data compressor implemented in C++. [Apache-2.0]
