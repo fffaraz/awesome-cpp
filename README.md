@@ -1077,6 +1077,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [protobuf-c](https://github.com/protobuf-c/protobuf-c) - Protocol Buffers implementation in C. [BSD]
 * [SimpleBinaryEncoding](https://github.com/real-logic/simple-binary-encoding) - encoding and decoding application messages in binary format for low-latency applications. [Apache2]
 * [upb](https://github.com/protocolbuffers/upb) - A small protobuf implementation in C. [BSD]
+* [Wirehair](https://github.com/catid/wirehair) - O(N) Fountain Code for Large Data. [BSD-3-Clause]
 * [YAS](https://github.com/niXman/yas) - Very fast **Y**et **A**nother **S**erialization library supports the binary/text/json formats. [Boost]
 * [zpp_bits](https://github.com/eyalz800/zpp_bits) - Actually, the fastest modern **S**erialization library. Just check [this video](https://www.youtube.com/watch?v=G7-GQhCw8eE&ab_channel=CppCon).
 
