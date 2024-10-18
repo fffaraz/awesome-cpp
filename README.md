@@ -291,7 +291,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Async++](https://github.com/Amanieu/asyncplusplus) - A lightweight concurrency framework for C++11, inspired by the Microsoft PPL library and the N3428 C++ standard proposal. [MIT]
 * [Boost.Compute](https://github.com/boostorg/compute) - A C++ GPU Computing Library for OpenCL. [Boost] [website](https://boost.org/libs/compute)
 * [Bolt](https://github.com/HSA-Libraries/Bolt) - A C++ template library optimized for GPUs. [Apache2]
-* [BS::thread_pool](https://github.com/progschj/ThreadPool) - A fast, lightweight, and easy-to-use C++17 thread pool library [MIT]
+* [BS::thread_pool](https://github.com/bshoshany/thread-pool) - A fast, lightweight, and easy-to-use C++17 thread pool library [MIT]
 * [Channel](https://github.com/andreiavrammsd/cpp-channel) - Thread-safe container for sharing data between threads. [MIT]
 * [ck](https://github.com/concurrencykit/ck) - Concurrency primitives, safe memory reclamation mechanisms and non-blocking data structures. [BSD]
 * [concurrentqueue](https://github.com/cameron314/concurrentqueue) - A fast multi-producer, multi-consumer lock-free concurrent queue for C++11. [BSD,Boost]
