@@ -590,6 +590,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Qwt](http://qwt.sourceforge.net/) - Qt Widgets for Technical Applications. [Own based on LGPL]
 * [QwtPlot3D](http://qwtplot3d.sourceforge.net/) - A feature-rich Qt/OpenGL-based C++ programming library, providing essentially a bunch of 3D-widgets. [zlib]
 * [RmlUi](https://github.com/mikke89/RmlUi) - The HTML/CSS User Interface library evolved. Fork of libRocket. [MIT]
+* [Saucer](https://github.com/saucer/saucer) - A modern, cross-platform C++ webview library. [MIT]
 * [Sciter](http://sciter.com/) - Sciter is an embeddable HTML/CSS/scripting engine aimed to be used as an UI layer of modern desktop applications. [Free/Commercial]
 * [Slint](https://github.com/slint-ui/slint) - Lightweight GUI toolkit for desktop and embedded. [GPL/Free/Proprietary] [website](https://slint.dev/)
 * [TGUI](https://github.com/texus/TGUI) - Cross-platform modern c++ GUI. [Zlib] [website](https://tgui.eu/)
