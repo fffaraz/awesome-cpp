@@ -252,6 +252,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
  * [TCLAP](http://tclap.sourceforge.net) - A mature, stable and feature-rich library for defining and accessing command line arguments in ANSI C++. [MIT]
  * [termbox](https://github.com/nsf/termbox) - A C library for writing text-based user interfaces. [MIT]
  * [TermOx](https://github.com/a-n-t-h-o-n-y/TermOx) - C++17 Terminal User Interface(TUI) Library. [MIT]
+ * [tuibox](https://github.com/Cubified/tuibox) - A single-header terminal UI (TUI) library, capable of creating mouse-driven, interactive applications on the command line. [MIT]
 
 ## Compression
 *Compression and Archiving Libraries*
