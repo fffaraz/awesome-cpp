@@ -650,6 +650,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [DCMTK](http://dicom.offis.de/dcmtk.php.en) - DICOM Toolkit.
 * [GDCM](http://gdcm.sourceforge.net/wiki/index.php/Main_Page) - Grassroots DICOM library.
 * [ITK](http://www.itk.org/) - An open-source, cross-platform system for image analysis. [Apache2 from ITK 4.0]
+* [Jpegli][https://github.com/google/jpegli] - an improved JPEG encoder and decoder implementation. [BSD-3-Clause]
 * [Leptonica](https://github.com/DanBloomberg/leptonica) - Leptonica is an open source library containing software that is broadly useful for image processing and image analysis applications. [BSD-2-Clause] [website](http://leptonica.org/index.html)
 * [libavif](https://github.com/AOMediaCodec/libavif) - Library for encoding and decoding .avif files. [BSD-2-Clause]
 * [libfacedetection](https://github.com/ShiqiYu/libfacedetection) - Open source library for face detection in images. The face detection speed can reach 1500FPS. [BSD]
