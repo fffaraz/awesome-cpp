@@ -228,6 +228,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
  * [Argh!](https://github.com/adishavit/argh) - A minimalist, frustration-free, header-only argument handler. [BSD]
  * [argparse](https://github.com/p-ranav/argparse) - Argument Parser for Modern C++. [MIT]
  * [args](https://github.com/taywee/args) - A simple header-only C++ argument parser library. [MIT]
+ * [barkeep](https://github.com/oir/barkeep) - Small C++ header to display async animations, counters, and progress bars. [Apache-2.0] [website](https://oir.github.io/barkeep/)
  * [Boost.Program_options](https://github.com/boostorg/program_options) - A library to obtain program options via conventional methods such as command line and config file. [Boost] [website](https://boost.org/libs/program_options)
  * [cli](https://github.com/daniele77/cli) - A cross-platform header only C++14 library for interactive command line interfaces (Cisco style). [Boost]
  * [CLI11](https://github.com/CLIUtils/CLI11) - Header only single or multi-file C++11 library for simple and advanced CLI parsing. [BSD]
