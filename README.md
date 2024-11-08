@@ -581,6 +581,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [FLTK](http://www.fltk.org/index.php) - Fast, light, cross-platform C++ GUI toolkit. [LGPL2]
 * [FOX Toolkit](http://fox-toolkit.org) - an open-source, cross-platform widget toolkit. [LGPL]
 * [GacUI](https://github.com/vczh-libraries/GacUI) - GPU Accelerated C++ User Interface, with WYSIWYG developing tools, XML supports, built-in data binding and MVVM features. [Ms-PL]
+* [Glove](https://github.com/piallai/glove) - C++ Qt library for easy graphical user interfaces. [GPLv3]
 * [GTK+](http://www.gtk.org/) - A multi-platform toolkit for creating graphical user interfaces. [LGPL]
 * [gtkmm](http://www.gtkmm.org/en/) - The official C++ interface for the popular GUI library GTK+. [LGPL]
 * [imgui](https://github.com/ocornut/imgui) - Immediate Mode Graphical User Interface with minimal dependencies. [MIT]
