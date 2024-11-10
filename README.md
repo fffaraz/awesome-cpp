@@ -1112,6 +1112,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 * [libvpx](http://www.webmproject.org/code/) - VP8/VP9 Codec SDK. [BSD]
 * [FFmpeg](https://www.ffmpeg.org/) - A complete, cross-platform solution to record, convert and stream audio and video. [LGPL2/GPL2]
+* [avcpp](https://github.com/h4tr3d/avcpp) - Modern C++ wrapper around FFmpeg. [MIT]
 * [libde265](https://github.com/strukturag/libde265) - Open h.265 video codec implementation. [LGPL] [website](http://www.libde265.org/)
 * [x265](https://bitbucket.org/multicoreware/x265_git/src) - Open h.265 video codec implementation. [GPL2] [website](https://x265.readthedocs.io/en/master/)
 * [OpenH264](https://github.com/cisco/openh264) - Open Source H.264 Codec. [BSD] [website](http://www.openh264.org/)
