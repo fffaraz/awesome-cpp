@@ -723,6 +723,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Jsmn](https://github.com/zserge/jsmn) - A minimalistic JSON parser in C. [MIT]
 * [json](https://github.com/nlohmann/json) :zap: - JSON for Modern C++. [MIT] [website](https://json.nlohmann.me)
 * [JSON++](https://github.com/hjiang/jsonxx) - A JSON parser in C++. [MIT]
+* [json.cpp](https://github.com/jart/json.cpp) - a baroque JSON parsing / serialization library for C++. [Apache-2.0]
 * [json.h](https://github.com/sheredom/json.h) - A simple one header/one source solution to parsing JSON in C and C++. [Unlicense]
 * [json-build](https://github.com/lcsmuller/json-build) - C89 tiny zero-allocation JSON serializer. [MIT]
 * [json-c](https://github.com/json-c/json-c) - A JSON implementation in C. [MIT]
