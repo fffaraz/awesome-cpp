@@ -163,6 +163,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [libuv](https://github.com/libuv/libuv) - Cross-platform asynchronous I/O. [BSD]
 * [promise-cpp](https://github.com/xhawk18/promise-cpp) - Header only library that implements Promise/A+ standard. [Anti-996]
 * [uvw](https://github.com/skypjack/uvw) - C++ wrapper for libuv. [MIT]
+* [uv-cpp](https://github.com/wlgq2/uv-cpp) - a simple interface, high-performance network library based on C++11. [MIT]
 
 ## Audio
 *Audio, Sound, Music, Digitized Voice Libraries*
