@@ -1088,6 +1088,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [mrpt-serialization](https://github.com/mrpt/mrpt/) - Versioned serialization to binary or text formats. [BSD] [website](https://docs.mrpt.org/reference/latest/group_mrpt_serialization_grp.html)
 * [nanopb](https://github.com/nanopb/nanopb) - Small code-size Protocol Buffers implementation in ANSI C. [Zlib]
 * [protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format. [BSD]
+* [simple-protobuf](https://github.com/tonda-kriz/simple-protobuf) - Serialize (and deserialize) C++ structs directly to JSON or protobuf. [MIT]
 * [protobuf-c](https://github.com/protobuf-c/protobuf-c) - Protocol Buffers implementation in C. [BSD]
 * [SimpleBinaryEncoding](https://github.com/real-logic/simple-binary-encoding) - encoding and decoding application messages in binary format for low-latency applications. [Apache2]
 * [upb](https://github.com/protocolbuffers/upb) - A small protobuf implementation in C. [BSD]
