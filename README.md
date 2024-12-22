@@ -1234,6 +1234,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [SDS](https://github.com/antirez/sds) - Simple Dynamic Strings library for C. [BSD]
 * [semver.c](https://github.com/h2non/semver.c) - A semver parser and render in ANSI C. [MIT]
 * [sigslot](http://sigslot.sourceforge.net/) - C++ Signal/Slot Library. [PublicDomain]
+* [simdzone](https://github.com/NLnetLabs/simdzone) - Fast and standards compliant DNS zone parser. [BSD-3-Clause]
 * [SimpleSignal](https://github.com/larspensjo/SimpleSignal) - High performance C++11 signals. [PublicDomain]
 * [Stage](https://github.com/rtv/Stage) - Mobile robot simulator. [GPL2]
 * [stb](https://github.com/nothings/stb) :zap: - A range of single-file libraries for C/C++. [PublicDomain]
