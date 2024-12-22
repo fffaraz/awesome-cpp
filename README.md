@@ -96,7 +96,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Apache C++ Standard Library](http://stdcxx.apache.org/) - STDCXX, A collection of algorithms, containers, iterators, and other fundamental components. [retired] [Apache2]
 * [APR](http://apr.apache.org/) - Apache Portable Runtime. Another library of cross-platform utility functions. [Apache2]
 * [ASL](http://stlab.adobe.com/) - Adobe Source Libraries provides peer-reviewed and portable C++ source libraries. [MIT]
-* [AUI](http://github.com/aui-framework/aui) - Declarative UI toolkit for C++20. [MPL2]
+* [AUI](https://github.com/aui-framework/aui) - Declarative UI toolkit for C++20. [MPL2]
 * [Boost](https://github.com/boostorg) :zap: - A large collection of generic C++ libraries. [Boost] [website](https://www.boost.org)
 * [BDE](https://github.com/bloomberg/bde) - The BDE Development Environment from Bloomberg Labs. [Apache2]
 * [C++ Workflow](https://github.com/sogou/workflow) :zap: - C++ Parallel Computing and Asynchronous Networking Engine. [Apache2]
