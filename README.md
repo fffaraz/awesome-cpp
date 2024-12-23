@@ -1215,6 +1215,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [libenvpp](https://github.com/ph3at/libenvpp) - A modern C++ library for type-safe environment variable parsing. [Apache-2.0]
 * [libevil](https://github.com/avati/libevil) - The Evil License Manager. [GPLv3]
 * [libnih](https://github.com/keybuk/libnih) - A lightweight library of C functions and structures. [GPL2.1]
+* [libONVIF](https://github.com/Privatehive/libONVIF) - Yet another ONVIF library. [GPL-3.0]
 * [libsigc++](https://github.com/libsigcplusplus/libsigcplusplus) - A typesafe callback system for standard C++. [LGPL] [website](https://libsigcplusplus.github.io/libsigcplusplus)
 * [libusb](https://libusb.info/) - A universal USB library which allows for portable access to USB devices. [LGPL2]
 * [Mach7](https://github.com/solodon4/Mach7) - A Pattern-matching library for C++. [BSD]
