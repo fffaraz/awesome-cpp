@@ -1228,6 +1228,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [pprint](https://github.com/p-ranav/pprint) - Pretty Printer for Modern C++. [MIT]
 * [pspsdk](https://github.com/pspdev/pspsdk) - An open-source SDK for PSP homebrew development. [BSD/GNU GPL3]
 * [QtVerbalExpressions](https://github.com/VerbalExpressions/QtVerbalExpressions) - This Qt lib is based off of the C++ VerbalExpressions library. [MIT]
+* [rain](https://github.com/DOSAYGO-Research/rain) - The fastest 128-bit and 256-bit non-crypto hash, passes all tests, and under 140 source lines of code. [Apache-2.0]
 * [RapidFuzz](https://github.com/rapidfuzz/rapidfuzz-cpp) - Rapid fuzzy string matching in C++ using the Levenshtein Distance. [MIT] [website](https://rapidfuzz.github.io/rapidfuzz-cpp/)
 * [rapidhash](https://github.com/Nicoshev/rapidhash) - Very fast, high quality, platform-independent hashing algorithm. [BSD-2-Clause]
 * [Remote Call Framework](http://www.deltavsoft.com/) - Inter-process communication framework for C++. [GPL2/Proprietary]
