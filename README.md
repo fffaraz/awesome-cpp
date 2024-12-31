@@ -1176,6 +1176,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 ## Yaml
 
 * [fkYAML](https://github.com/fktn-k/fkYAML) - A C++ header-only YAML library. [MIT]
+* [LibCYAML](https://github.com/tlsa/libcyaml) - C library for reading and writing YAML. [ISC]
 * [LibYAML](https://github.com/yaml/libyaml) - A C library for parsing and emitting YAML. [MIT] [website](https://pyyaml.org/wiki/LibYAML)
 * [mini-yaml](https://github.com/jimmiebergmann/mini-yaml) - Single header YAML 1.0 C++11 serializer/deserializer. [MIT]
 * [rapidyaml](https://github.com/biojppm/rapidyaml) - Rapid YAML is a C++ library to parse and emit YAML. [MIT]
