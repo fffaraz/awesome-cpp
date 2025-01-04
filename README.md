@@ -494,6 +494,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Google Mock](https://github.com/google/googletest/blob/master/googlemock/README.md) - A library for writing and using C++ mock classes. [BSD]
 * [Google Test](https://github.com/google/googletest) - Google C++ Testing Framework. [BSD]
 * [Hippomocks](https://github.com/dascandy/hippomocks) - Single-header mocking framework. [LGPL-2.1]
+* [IceCream-Cpp](https://github.com/renatoGarcia/icecream-cpp) - Never use cout/printf to debug again  [MIT]
 * [ig-debugheap](https://github.com/deplinenoise/ig-debugheap) - Multiplatform debug heap useful for tracking down memory errors. [BSD]
 * [libassert](https://github.com/jeremy-rifkin/libassert) - The most over-engineered C++ assertion library. [MIT]
 * [libtap](https://github.com/zorgnax/libtap) - Write tests in C. [GPL2]
@@ -1214,7 +1215,6 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [happly](https://github.com/nmwsharp/happly) - A C++ header-only parser for the PLY file format. Parse .ply happily! [MIT]
 * [hedley](https://github.com/nemequ/hedley) - A C/C++ header file designed to smooth over some platform-specific annoyances. [website](https://nemequ.github.io/hedley/)
 * [HighwayHash](https://github.com/google/highwayhash) - Fast strong hash functions: SipHash/HighwayHash. [Apache-2.0]
-* [icecream-cpp](https://github.com/renatoGarcia/icecream-cpp) - A small printing library for debugging purposes. [MIT]
 * [inja](https://github.com/pantor/inja) - A Template Engine for Modern C++. [MIT]
 * [Jinja2С++](https://github.com/jinja2cpp/Jinja2Cpp) - almost full-conformance template engine implementation. [website](https://jinja2cpp.github.io/)
 * [jwt-cpp](https://github.com/Thalhammer/jwt-cpp) - A header only library for creating and validating JSON web tokens in C++. [MIT]
