@@ -1243,6 +1243,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [rapidhash](https://github.com/Nicoshev/rapidhash) - Very fast, high quality, platform-independent hashing algorithm. [BSD-2-Clause]
 * [Remote Call Framework](http://www.deltavsoft.com/) - Inter-process communication framework for C++. [GPL2/Proprietary]
 * [reproc](https://github.com/DaanDeMeyer/reproc) - A cross-platform (C99/C++11) process library. [MIT]
+* [SafetyHook](https://github.com/cursey/safetyhook) - C++23 procedure hooking library. [BSL-1.0]
 * [scnlib](https://github.com/eliaskosunen/scnlib) - scanf for modern C++. [Apache-2.0] [website](https://v1.scnlib.dev/)
 * [Scintilla](http://scintilla.org/) - A free source code editing component. [MIT]
 * [SDS](https://github.com/antirez/sds) - Simple Dynamic Strings library for C. [BSD]
