@@ -1299,6 +1299,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Wandbox](https://wandbox.org) - An online Clang/GCC compiler with Boost available.
 * [paiza.io](https://paiza.io/en) - An online C/C++ compiler with multiple files supporting feature, GitHub(gist) integration and collaborative editing.
 * [InterviewBit](https://www.interviewbit.com/online-cpp-compiler/) - A simple and easy to use online C++ compiler.
+* [LabEx](https://labex.io/tutorials/cpp-online-c-playground-372911) - A lightweight online C++ IDE with VSCode-like interface for quick coding and testing.
 
 ## Debugger
 *List of C or C++ debuggers*
