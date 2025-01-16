@@ -1067,6 +1067,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [luacxx](https://github.com/dafrito/luacxx) - C++11 API for creating Lua bindings. [MIT]
 * [Luau](https://github.com/luau-lang/luau) - A fast, small, safe, gradually typed embeddable scripting language derived from Lua. [MIT] [website](https://luau.org/)
 * [MiniScript](https://miniscript.org/) - scripting language modern, elegant, easy to learn, and easy to embed in your own C# or C++ projects. [MIT]
+* [nanobind](https://github.com/wjakob/nanobind) - tiny and efficient C++/Python bindings. [BSD-3-Clause]
 * [nbind](https://github.com/charto/nbind) - Magical headers that make your C++ library accessible from JavaScript. [MIT]
 * [PHP-CPP](https://github.com/CopernicaMarketingSoftware/PHP-CPP) - A library to build PHP extensions with C++. [Apache2] [website](http://www.php-cpp.com/)
 * [pocketpy](https://github.com/blueloveTH/pocketpy) - C++17 header-only Python interpreter for game scripting. [MIT] [website](https://pocketpy.dev/)
