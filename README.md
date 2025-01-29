@@ -1292,7 +1292,6 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *List of online C or C++ compilers*
 
 * [codechef](https://www.codechef.com/ide) - A simple online compiler CodeChef.
-* [codepad](http://codepad.org/) - An online compiler/interpreter, and a simple collaboration tool.
 * [coliru](http://coliru.stacked-crooked.com/) - Online compiler/shell with support for various C++ compilers.
 * [Compiler Explorer](http://gcc.godbolt.org/) - An interactive compiler with assembly output available.
 * [CompileOnline](http://www.tutorialspoint.com/codingground.htm) - Compile and Execute C++ online on Linux.
