@@ -1362,7 +1362,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Ninja](https://ninja-build.org/) - A small build system with a focus on speed.
 * [Sccache](https://github.com/mozilla/sccache) - A fast compiler cache for C/C++, with cross-platform support and cloud backed storage options.
 * [Scons](http://www.scons.org/) - A software construction tool configured with a Python script.
-* [Sconsolidator](http://www.sconsolidator.com/) - Scons build system integration for Eclipse CDT.
+* [Sconsolidator](https://github.com/IFS-HSR/SConsolidator) - Scons build system integration for Eclipse CDT.
 * [Spack](https://spack.io/) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers. [Apache-2.0/MIT]
 * [SW](https://software-network.org/) - Cross-platform C++ (and other langs) Build System and Package Manager with a lot of packages available. [GPLv3]
 * [tundra](https://github.com/deplinenoise/tundra) - High-performance code build system designed to give the best possible incremental build times even for very large software projects.
