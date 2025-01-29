@@ -500,7 +500,6 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [libtap](https://github.com/zorgnax/libtap) - Write tests in C. [GPL2]
 * [microprofile](https://github.com/jonasmr/microprofile) - Profiler with web-view for multiple platforms. [Unlicense]
 * [MinUnit](https://github.com/siu/minunit) - A minimal unit testing framework for C self-contained in a single header file. [MIT]
-* [Mockator](http://www.mockator.com) - Eclipse CDT plug-in for C++ Seams and Mock Objects.
 * [nanobench](https://github.com/martinus/nanobench) - Simple, fast, accurate single-header microbenchmarking functionality for C++11/14/17/20. [MIT] [website](https://nanobench.ankerl.com)
 * [Nanotimer](https://github.com/mattreecebentley/plf_nanotimer) - A simple low-overhead cross-platform timer class for benchmarking. [zLib] [website](http://www.plflib.org/nanotimer.htm)
 * [Nonius](https://github.com/libnonius/nonius) - A C++ micro-benchmarking framework. [CC]
