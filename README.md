@@ -1109,6 +1109,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Wirehair](https://github.com/catid/wirehair) - O(N) Fountain Code for Large Data. [BSD-3-Clause]
 * [YAS](https://github.com/niXman/yas) - Very fast **Y**et **A**nother **S**erialization library supports the binary/text/json formats. [Boost]
 * [zpp_bits](https://github.com/eyalz800/zpp_bits) - Actually, the fastest modern **S**erialization library. Just check [this video](https://www.youtube.com/watch?v=G7-GQhCw8eE&ab_channel=CppCon).
+* [serialflex](https://github.com/yksten/serialflex) - A JSON serialization library with C++98 syntax, which is very efficient and concise for conversion.
 
 ## Serial Port
 
