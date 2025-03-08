@@ -468,6 +468,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 * [gplot++](https://github.com/ziotom78/gplotpp) - Cross-platform header-only C++ plotting library that interfaces with Gnuplot. [MIT]
 * [matplotplusplus](https://github.com/alandefreitas/matplotplusplus) - C++ Graphics Library for Data Visualization. [MIT] [website](https://alandefreitas.github.io/matplotplusplus/)
+* [morphologica](https://github.com/ABRG-Models/morphologica) - C++ header-only graphing and data visualization with modern OpenGL. [Apache-2.0] [website](https://abrg-models.github.io/morphologica/)
 
 ## Debug
 *Debugging Libraries, Memory Leak and Resource Leak Detection, Unit Testing*
