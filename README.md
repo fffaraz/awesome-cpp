@@ -970,6 +970,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [PDFium](https://pdfium.googlesource.com/pdfium/) - PDF generation and rendering library. [BSD-3-Clause]
 * [PoDoFo](http://podofo.sourceforge.net/) - A library to work with the PDF file format. [LGPL]
 * [Poppler](https://poppler.freedesktop.org/) - Open-source multi-backend PDF rendering library based on the xpdf-3.0 code base. [GPLv2/GPLv3]
+* [QPDF](https://github.com/qpdf/qpdf) - A tool and C++ library for content-preserving transformations of PDF files. [Apache-2.0] [website](https://qpdf.sourceforge.io/)
 * [Xpdf](https://www.xpdfreader.com/) - Xpdf is a free PDF viewer and toolkit, including a text extractor, image converter, HTML converter, and more. [GPL v2/GPL v3]
 * [DynaPDF](http://www.dynaforms.com/) - An easy-to-use PDF generation library. [Commercial]
 
