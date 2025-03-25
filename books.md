@@ -2,7 +2,7 @@
 ## C
 
 * [A Tutorial on Pointers and Arrays in C](https://sites.cs.ucsb.edu/~mikec/cs16/misc/ptrtut12/pointers.htm)
-* [Advanced Linux Programming](http://www.advancedlinuxprogramming.com/)
+* [Advanced Linux Programming](https://mentorembedded.github.io/advancedlinuxprogramming/)
 * [Beej's Guide to C Programming](http://beej.us/guide/bgc/)
 * [Beej's Guide to Network Programming](http://beej.us/guide/bgnet/)
 * [Build Your Own Lisp](http://www.buildyourownlisp.com/)
