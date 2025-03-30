@@ -1197,6 +1197,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [access_profiler](https://github.com/arvidn/access_profiler) - A tool to count accesses to member variables in c++ programs. [GPL3]
 * [American fuzzy lop](http://lcamtuf.coredump.cx/afl/) a.k.a. afl-fuzz - Crazy fuzzing tool that automatically discovers bugs given time and minimal example input. [Apache2]
 * [Argon2](https://github.com/P-H-C/phc-winner-argon2) - The password hash Argon2, winner of PHC. [CC0/Apache2]
+* [AsmJit](https://github.com/asmjit/asmjit) - Low-latency machine code generation. [Zlib] [website](https://asmjit.com)
 * [Better String](http://bstring.sourceforge.net) - An alternative to the string library for C which is more functional and does not have buffer overflow overrun problems. Also includes a C++ wrapper. [BSD, GPL2]
 * [Boost.Signals2](https://github.com/boostorg/signals2) - An implementation of a managed signals and slots system. [Boost] [website](https://boost.org/libs/signals2)
 * [casacore](https://code.google.com/p/casacore/) - A set of c++ core libraries derived from aips++. [LGPL]
