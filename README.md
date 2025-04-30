@@ -1253,6 +1253,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [rain](https://github.com/DOSAYGO-Research/rain) - The fastest 128-bit and 256-bit non-crypto hash, passes all tests, and under 140 source lines of code. [Apache-2.0]
 * [RapidFuzz](https://github.com/rapidfuzz/rapidfuzz-cpp) - Rapid fuzzy string matching in C++ using the Levenshtein Distance. [MIT] [website](https://rapidfuzz.github.io/rapidfuzz-cpp/)
 * [rapidhash](https://github.com/Nicoshev/rapidhash) - Very fast, high quality, platform-independent hashing algorithm. [BSD-2-Clause]
+* [Reaction](https://github.com/lumia431/reaction) - A lightweight, header-only reactive programming framework leveraging modern C++20 features for building efficient dataflow applications. [MIT]
 * [Remote Call Framework](http://www.deltavsoft.com/) - Inter-process communication framework for C++. [GPL2/Proprietary]
 * [reproc](https://github.com/DaanDeMeyer/reproc) - A cross-platform (C99/C++11) process library. [MIT]
 * [SafetyHook](https://github.com/cursey/safetyhook) - C++23 procedure hooking library. [BSL-1.0]
