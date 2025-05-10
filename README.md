@@ -1358,7 +1358,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [C Playground - Online C Programming IDE](https://programiz.pro/ide/c) - An online IDE to practice C Programming where you can write, edit, and run code online.
 
 ## Build Systems
-
+* [Zyn](https://github.com/zyntraxis-corp/zyn) - Minimalist build tool that adds GitHub C++ libraries with a single command. [MIT](https://github.com/zyntraxis-corp/zyn/blob/main/LICENSE) [website](https://github.com/zyntraxis-corp/zyn)
 * [Bazel](https://bazel.build) - A multi-language, fast and scalable build system from Google. [Apache]
 * [Bear](https://github.com/rizsotto/Bear) - A tool to generate compilation database for clang tooling. [GPLv3]
 * [Buck](https://github.com/facebook/buck) - A fast build system that encourages the creation of small, reusable modules over a variety of platforms and languages including C++ developed and used at Facebook. Written in Java. [Apache]
