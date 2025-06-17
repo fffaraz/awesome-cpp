@@ -155,6 +155,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [tiny-dnn](https://github.com/tiny-dnn/tiny-dnn) - A header only, dependency-free deep learning framework in C++11. [BSD]
 * [Veles](https://github.com/Samsung/veles) - Distributed platform for rapid Deep learning application development. [Apache]
 * [Kaldi](https://github.com/kaldi-asr/kaldi) - Toolkit for speech recognition. [Apache]
+* [OllamaPlusPlus](https://github.com/HardCodeDev777/OllamaPlusPlus) - Very simple and lightweight library for Ollama. [MIT]
 
 ## Asynchronous Event Loop
 
