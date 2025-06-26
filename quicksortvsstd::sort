@@ -1,0 +1,9 @@
+void benchmark(){
+  int n=1e5;
+std::vector<int>a(n),b(n);
+auto start = std::chrono::high_resolution_clock::now();
+quicksort(a,0,n-1);
+start=std::chrono::high_resolution_clock::now();
+std::sort(b.begin(),b.end());
+std::cout<<quicktime<<" "<<stl_time<<endl;
+}
