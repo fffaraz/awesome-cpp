@@ -1249,6 +1249,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [libsigc++](https://github.com/libsigcplusplus/libsigcplusplus) - A typesafe callback system for standard C++. [LGPL] [website](https://libsigcplusplus.github.io/libsigcplusplus)
 * [libusb](https://libusb.info/) - A universal USB library which allows for portable access to USB devices. [LGPL2]
 * [Mach7](https://github.com/solodon4/Mach7) - A Pattern-matching library for C++. [BSD]
+* [MinifyCpp](https://codeberg.org/QWERTIOX/MinifyCpp) - Simple dependency-free C++20 library with C binding to minimize HTML. [MPL-2.0]
 * [minja.hpp](https://github.com/google/minja) - A minimalistic C++ Jinja templating engine for LLM chat templates. [MIT]
 * [mio](https://github.com/mandreyel/mio) - Cross-platform C++11 header-only library for memory mapped file IO. [MIT]
 * [MPark.Variant](https://github.com/mpark/variant) - C++17 `std::variant` for C++11/14/17. [BSL-1.0]
