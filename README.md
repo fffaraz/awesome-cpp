@@ -841,6 +841,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [GMTL](http://ggt.sourceforge.net/) - Graphics Math Template Library is a collection of tools implementing Graphics primitives in generalized ways. [GPL2]
 * [GMP](https://gmplib.org/) - A C library for arbitrary precision arithmetic, operating on signed integers, rational numbers, and floating-point numbers. [LGPL3 & GPL2]
 * [Klein](https://github.com/jeremyong/klein) - A fast, SIMD-optimized C++17 Geometric Algebra library for point, line, and plane projections, intersections, joins, rigid-body motion, and more. [MIT] [website](https://jeremyong.com/klein)
+* [libfixmath](https://github.com/PetteriAimonen/libfixmath) - Cross Platform Fixed Point Maths Library. [MIT]
 * [linalg.h](https://github.com/sgorsten/linalg) - Single header, public domain, short vector math library for C++. [Unlicense]
 * [MATIO](https://github.com/tbeu/matio) -  MATLAB MAT File I/O Library. [BSD-2-Clause] [website](https://sourceforge.net/projects/matio/)
 * [MatX](https://github.com/NVIDIA/MatX) - A GPU-accelerated C++17 numerical computing library with a MATLAB/Python-like syntax. [BSD 3-clause]
