@@ -1244,6 +1244,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [KOMIHASH](https://github.com/avaneev/komihash) - Very fast, high-quality hash function, discrete-incremental and streamed hashing-capable. [MIT]
 * [libcpuid](https://github.com/anrieff/libcpuid) - A small C library for x86 CPU detection and feature extraction. [BSD]
 * [libenvpp](https://github.com/ph3at/libenvpp) - A modern C++ library for type-safe environment variable parsing. [Apache-2.0]
+* [libeventemitter](https://githuh.com/LesBoys43/libeventemitter) - C NTS, Lightweight, Brisk, Cross-Platform Event Emitter Library. [BSD-3-Clause]
 * [libevil](https://github.com/avati/libevil) - The Evil License Manager. [GPLv3]
 * [libnih](https://github.com/keybuk/libnih) - A lightweight library of C functions and structures. [GPL2.1]
 * [libONVIF](https://github.com/Privatehive/libONVIF) - Yet another ONVIF library. [GPL-3.0]
