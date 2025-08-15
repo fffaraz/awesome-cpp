@@ -325,6 +325,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [moderngpu](https://github.com/moderngpu/moderngpu) - moderngpu is a productivity library for general-purpose computing on GPUs. It is a header-only C++ library written for CUDA. The unique value of the library is in its accelerated primitives for solving irregularly parallel problems. [FreeBSD & Copyright, Sean Baxter]
 * [NCCL](https://github.com/NVIDIA/nccl) - Optimized primitives for collective multi-GPU communication. [BSD]
 * [Neco](https://github.com/tidwall/neco) - Concurrency library for C (coroutines). [MIT]
+* [Nodepp](https://github.com/NodeppOfficial/nodepp) - A framework for writing reliable asynchronous applications in C++ with a NodeJS like sintax.
 * [OpenCL](https://www.khronos.org/opencl/) - The open standard for parallel programming of heterogeneous systems.
 * [OpenMP](http://openmp.org/) - The OpenMP API.
 * [rotor](https://github.com/basiliscos/cpp-rotor) - Event loop friendly C++ actor micro framework. [MIT]
