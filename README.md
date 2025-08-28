@@ -850,6 +850,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [MatX](https://github.com/NVIDIA/MatX) - A GPU-accelerated C++17 numerical computing library with a MATLAB/Python-like syntax. [BSD 3-clause]
 * [MIRACL](https://github.com/CertiVox/MIRACL) - A Multiprecision Integer and Rational Arithmetic Cryptographic Library. [AGPL]
 * [NumCpp](https://github.com/dpilger26/NumCpp) - A templatized header only C++ implementation of the Python Numpy library. [MIT]
+* [OMath](https://github.com/orange-cpp/omath) - Cross-platform modern general purpose math library written in C++23 that suitable for cheat/game development. [ZLIB]
 * [muparser](https://beltoforion.de/en/muparser) - muParser is an extensible high performance math expression parser library written in C++. [MIT]
 * [LibTomMath](https://github.com/libtom/libtommath) - A free open source portable number theoretic multiple-precision integer library written entirely in C. [PublicDomain & WTFPL] [website](http://www.libtom.net/)
 * [linmath.h](https://github.com/datenwolf/linmath.h) - A lean linear math library, aimed at graphics programming. [WTFPL]
