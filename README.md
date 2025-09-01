@@ -473,7 +473,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 * [gplot++](https://github.com/ziotom78/gplotpp) - Cross-platform header-only C++ plotting library that interfaces with Gnuplot. [MIT]
 * [matplotplusplus](https://github.com/alandefreitas/matplotplusplus) - C++ Graphics Library for Data Visualization. [MIT] [website](https://alandefreitas.github.io/matplotplusplus/)
-* [morphologica](https://github.com/ABRG-Models/morphologica) - C++ header-only graphing and data visualization with modern OpenGL. [Apache-2.0] [website](https://abrg-models.github.io/morphologica/)
+* [mathplot](https://github.com/sebsjames/mathplot) - C++ header-only graphing and data visualization with modern OpenGL. [Apache-2.0] [website](https://sebsjames.github.io/mathplot/)
 
 ## Debug
 *Debugging Libraries, Memory Leak and Resource Leak Detection, Unit Testing*
@@ -858,6 +858,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [OpenBLAS](https://github.com/xianyi/OpenBLAS) - An optimized BLAS library based on GotoBLAS2 1.13 BSD version. [BSD 3-clause] [website](http://www.openblas.net/)
 * [PCG-rand](https://www.pcg-random.org/) - PCG is a family of simple fast space-efficient statistically good algorithms for random number generation. Unlike many general-purpose RNGs, they are also hard to predict. [Apache]
 * [QuantLib](https://github.com/lballabio/quantlib) - A free/open-source library for quantitative finance. [Modified BSD] [website](http://quantlib.org/)
+* [sebsjames/maths](https://github.com/sebsjames/maths) - A templated C++20 math library which emphasizes convenience and pleasure for the client programmer (used in [mathplot](https://github.com/sebsjames/mathplot)).  [Apache2] [website](https://sebsjames.github.io/maths/)
 * [SimSIMD](https://github.com/ashvardanian/SimSIMD) - Vector distance functions for x86 AVX2, AVX-512, Arm NEON, and SVE. [Apache2]
 * [StatsLib](https://github.com/kthohr/stats) - A C++ header-only library of statistical distribution functions. [Apache2] [website](https://www.kthohr.com/statslib.html)
 * [SymEngine](https://github.com/symengine/symengine) - Fast symbolic manipulation library, a rewriting of SymPy's core in C++. [MIT]
