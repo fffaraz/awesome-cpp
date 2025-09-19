@@ -1072,7 +1072,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 ## Scripting
 
 * [AngelScript](https://www.angelcode.com/angelscript/) - AngelScript is a game-oriented interpreted/compiled scripting language. [zlib]
-* [AquaShell](https://github.com/danielbrendel/dnyAquaShell) - A scripting and automation environment for Windows.[MIT] [website](https://www.aquashell-scripting.com/)
+* [AquaShell](https://github.com/danielbrendel/dnyAquaShell) - A scripting and automation environment for Windows. [MIT] [website](https://www.aquashell-scripting.com/)
 * [Boost.Python](https://github.com/boostorg/python) - A C++ library which enables seamless interoperability between C++ and the Python programming language. [Boost] [website](https://boost.org/libs/python)
 * [cppimport](https://github.com/tbenthompson/cppimport) - Import C++ files directly from Python! [MIT]
 * [CppSharp](https://github.com/mono/CppSharp) - Tools and libraries to glue C/C++ APIs to high-level languages. [MIT]
