@@ -1145,6 +1145,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [pdqsort](https://github.com/orlp/pdqsort) - Pattern-defeating quicksort. [zlib]
 * [Timsort](https://github.com/gfx/cpp-TimSort) - A templated stable sorting function which outperforms quicksort-based algorithms including std::sort, for reversed or semi-sorted data. [MIT]
 * [Indiesort](https://github.com/mattreecebentley/plf_indiesort) - A sort wrapper which enables the use of std::sort (& other random-access sort functions) with non-random-access containers, and also improves sort performance for large/non-trivially-copyable types in random-access containers and arrays. [zLib] [website](https://plflib.org/indiesort.htm)
+* [x86-simd-sort](https://github.com/numpy/x86-simd-sort) - C++ template library for high performance SIMD based sorting algorithms. [BSD-3-Clause]
 
 ## Video
 
