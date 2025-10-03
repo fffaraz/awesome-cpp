@@ -2,6 +2,7 @@
 A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 
 - [Awesome C++  ](#awesome-c--)
+	- [environment variable](#environment-variable)
 	- [Standard Libraries](#standard-libraries)
 	- [Frameworks](#frameworks)
 	- [Artificial Intelligence](#artificial-intelligence)
@@ -79,6 +80,12 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 - [Sponsors](#sponsors)
 - [Contributing](#contributing)
 			- [*If you see a project or link here that is no longer maintained or is not a good fit, please submit a pull request to improve this document. Thank you!*](#if-you-see-a-project-or-link-here-that-is-no-longer-maintained-or-is-not-a-good-fit-please-submit-a-pull-request-to-improve-this-document-thank-you)
+
+## environment variable
+*C++ environment variable library*
+
+* [cppenv](https://github.com/Tina-1300/cppenv) - cppenv is a header-only C++ library that makes it easy to manage .env files in your projects.
+
 
 ## Standard Libraries
 *C++ Standard Library - including STL Containers, STL Algorithm, STL Functional, etc.*
