@@ -1072,6 +1072,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [TileDB](https://github.com/TileDB-Inc/TileDB) - Fast Dense and Sparse Multidimensional Array DBMS. [MIT] [website](https://tiledb.io/)
 * [Trilinos](https://github.com/trilinos/Trilinos) - High performance PDE solvers. [BSD]
 * [Torch](https://github.com/torch/torch7) - A scientific computing framework with wide support for machine learning algorithms that puts GPUs first. [BSD-3-Clause] [website](http://torch.ch/)
+* [volesti](https://github.com/GeomScale/volesti) - High dimensional sampling from truncated distributions, convex optimization and volume computation. 
 
 ## Scripting
 
