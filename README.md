@@ -658,6 +658,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [VLFeat](https://github.com/vlfeat/vlfeat) - The VLFeat open source library implements popular computer vision algorithms specialising in image understanding and local featurexs extraction and matching. [BSD-2-Clause] [website](http://www.vlfeat.org/)
 * [xgboost](https://github.com/dmlc/xgboost) - Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow. [Apache2]
 * [ncnn](https://github.com/Tencent/ncnn) - A high-performance neural network inference computing framework optimized for mobile platforms. [BSD]
+* [nndeploy](https://github.com/nndeploy/nndeploy) - An Easy-to-Use and High-Performance AI deployment framework. [Apache2]
 
 ## Math
 
