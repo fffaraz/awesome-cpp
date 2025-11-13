@@ -1543,6 +1543,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [C++ Tutorial for Beginners](https://www.scaler.com/topics/cpp) - A comprenhensive tutorial on C++ curated by trained experts.
 * [cppexpert.online](https://cppexpert.online) - Learn the best C++ practices by improving code snippets with some problems or with bad practices.
 * [C++ for yourself](https://github.com/cpp-for-yourself) - A comprehensive tutorial on modern C++ covering everything from fundamentals to software design.
+* [LabEx C++ Skill Tree](https://labex.io/skilltrees/cpp) - A structured C++ learning path with hands-on labs, designed for beginners to master C++ step by step.
 
 ## Weblogs
 *Useful C or C++ related weblogs.*
