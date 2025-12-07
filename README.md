@@ -333,7 +333,6 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Quantum](https://github.com/bloomberg/quantum) - A powerful C++ coroutine dispatcher framework built on top of [Boost.Coroutine2](https://boost.org/libs/coroutine2).
 * [RaftLib](http://raftlib.io/) - The RaftLib C++ library, streaming/dataflow concurrency via C++ iostream-like operators. [Apache2]
 * [readerwriterqueue](https://github.com/cameron314/readerwriterqueue) - A fast single-producer, single-consumer lock-free queue for C++. [BSD]
-* [semantic-cpp](https://github.com/eloyhere/semantic-cpp) - Lazy, parallel, functional streams for modern C++ with built-in statistics and multi-language documentation (EN, ZH, JA, DE, ES, FR). [MIT]
 * [stdgpu](https://github.com/stotko/stdgpu) - Efficient STL-like Data Structures on the GPU. [Apache2]
 * [Taskflow](https://github.com/taskflow/taskflow) - A General-purpose Parallel and Heterogeneous Task Programming System. (renamed from Cpp-Taskflow) [MIT]
 * [ThreadPool](https://github.com/progschj/ThreadPool) - A simple C++11 Thread Pool implementation [zlib]
@@ -477,6 +476,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [gplot++](https://github.com/ziotom78/gplotpp) - Cross-platform header-only C++ plotting library that interfaces with Gnuplot. [MIT]
 * [matplotplusplus](https://github.com/alandefreitas/matplotplusplus) - C++ Graphics Library for Data Visualization. [MIT] [website](https://alandefreitas.github.io/matplotplusplus/)
 * [mathplot](https://github.com/sebsjames/mathplot) - C++ header-only graphing and data visualization with modern OpenGL. [Apache-2.0] [website](https://sebsjames.github.io/mathplot/)
+* [semantic-cpp](https://github.com/eloyhere/semantic-cpp) - Lazy, parallel functional streams for modern C++ with built-in statistics and documentation in 7 languages (EN, ZH, JA, DE, ES, FR). [MIT]
 
 ## Debug
 *Debugging Libraries, Memory Leak and Resource Leak Detection, Unit Testing*
