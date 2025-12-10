@@ -1479,6 +1479,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Cert C++](https://resources.sei.cmu.edu/downloads/secure-coding/assets/sei-cert-cpp-coding-standard-2016-v01.pdf)
 * [Misra C++ 2008](https://www.cppdepend.com/misra-cpp)
 * [Autosar C++ 2014](https://www.autosar.org/fileadmin/standards/R21-11/AP/AUTOSAR_RS_CPP14Guidelines.pdf)
+* [F-35 Fighter Jet's C++ Coding Standards](https://www.stroustrup.com/JSF-AV-rules.pdf)
 
 ## Coding Style
 
