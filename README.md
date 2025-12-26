@@ -1129,6 +1129,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format. [BSD]
 * [protobuf-c](https://github.com/protobuf-c/protobuf-c) - Protocol Buffers implementation in C. [BSD]
 * [Protocol Puffers](https://github.com/PragmaTwice/protopuf) - A little, highly templated, and protobuf-compatible serialization/deserialization header-only library written in C++20. [Apache-2.0]
+* [SerDeLite](https://github.com/Devansh-Seth-DEV/SerDeLite) - Lightweight, zero-allocation JSON and Binary serialization for C++. [GPL-v3+]
 * [SimpleBinaryEncoding](https://github.com/real-logic/simple-binary-encoding) - encoding and decoding application messages in binary format for low-latency applications. [Apache2]
 * [upb](https://github.com/protocolbuffers/upb) - A small protobuf implementation in C. [BSD]
 * [Wirehair](https://github.com/catid/wirehair) - O(N) Fountain Code for Large Data. [BSD-3-Clause]
