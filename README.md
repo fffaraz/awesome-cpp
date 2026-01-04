@@ -329,6 +329,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Neco](https://github.com/tidwall/neco) - Concurrency library for C (coroutines). [MIT]
 * [OpenCL](https://www.khronos.org/opencl/) - The open standard for parallel programming of heterogeneous systems.
 * [OpenMP](http://openmp.org/) - The OpenMP API.
+* [OrderMatchingEngine](https://github.com/PIYUSH-KUMAR1809/order-matching-engine) - A production-grade, lock-free, high-frequency trading matching engine achieving 150M+ orders/sec.
 * [rotor](https://github.com/basiliscos/cpp-rotor) - Event loop friendly C++ actor micro framework. [MIT]
 * [SObjectizer](https://github.com/Stiffstream/sobjectizer) - An implementation of Actor, Publish-Subscribe, and CSP models in one rather small C++ framework. [BSD-3-Clause]
 * [Quantum](https://github.com/bloomberg/quantum) - A powerful C++ coroutine dispatcher framework built on top of [Boost.Coroutine2](https://boost.org/libs/coroutine2).
