@@ -1410,7 +1410,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Premake](http://premake.github.io) - A tool configured with a Lua script to generate project files for Visual Studio, GNU Make, Xcode, Code::Blocks, and more across Windows, Mac OS X, and Linux.
 * [Vcpkg](https://github.com/microsoft/vcpkg) - C++ library manager for Windows, Linux, and MacOS. [MIT]
 * [waf](https://gitlab.com/ita1024/waf) - Python-based framework for configuring, compiling and installing applications. [BSD] [website](https://waf.io/)
-* [XMake](https://xmake.io/) - A C/C++ cross-platform build utility with package manager, based on Lua. [Apache]
+* [XMake](https://xmake.io/) - A C/C++ cross-platform build utility based on Lua that comes with an integrated package manager, xrepo. [Apache]
 
 ## Static Code Analysis
 *List of tools for improving quality and reducing defects by code analysis*
