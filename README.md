@@ -980,6 +980,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [FreeXL](https://www.gaia-gis.it/fossil/freexl/index) - an open source library to extract valid data from within Spreadsheets. [MPL/GPL-2/LGPL-2]
 * [libxls](https://github.com/libxls/libxls) - Read binary Excel files from C/C++ [BSD-2-Clause]
 * [libxlsxwriter](https://github.com/jmcnamara/libxlsxwriter) - A C library for creating Excel XLSX files. [BSD-2-Clause] [website](https://libxlsxwriter.github.io/)
+* [Number Duck](https://github.com/NumberDuck/NumberDuck-CPlusPlus) - A C++ library for developers to read and write Microsoft Excel compatible (.xls/.xlsx) spreadsheets. [AGPLv3/Commercial] [website](https://numberduck.com/)
 * [OpenXLSX](https://github.com/troldal/OpenXLSX) - A C++ library for reading, writing, creating and modifying Microsoft Excel® (.xlsx) files.  [BSD-3-Clause]
 * [SimpleXlsxWriter](https://sourceforge.net/projects/simplexlsx/) - XLSX files writer for Microsoft Excel 2007 and above. [zlib]
 * [XLSX I/O](https://github.com/brechtsanders/xlsxio) - C library for reading and writing .xlsx files. [MIT]
