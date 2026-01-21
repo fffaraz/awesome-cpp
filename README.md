@@ -892,6 +892,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [TCMalloc](https://github.com/google/tcmalloc) - Google's fast, multi-threaded malloc implementation. [Apache-2.0] [website](https://google.github.io/tcmalloc/)
 * [buddy_alloc](https://github.com/spaskalev/buddy_alloc) - A single header buddy memory allocator for C with bounded allocation costs. [0BSD]
 * [tgc](https://github.com/orangeduck/tgc) - A tiny garbage collector for C written in \~500 LOC. [BSD]
+* [poseidon](https://github.com/s0cks/poseidon) - A general purpose allocator and generational garbage collector based on dart/v8's parallel scavenge algorithm. [MIT]
 
 ## Multimedia
 
