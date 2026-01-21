@@ -62,6 +62,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 	- [Build Systems](#build-systems)
 	- [Static Code Analysis](#static-code-analysis)
 	- [Coding Style Tools](#coding-style-tools)
+	- [Miscellaneous](#miscellaneous-software)
 - [Resources](#resources)
 	- [API Design](#api-design)
 	- [Articles](#articles)
@@ -1438,6 +1439,10 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Clang-Tidy](http://clang.llvm.org/extra/clang-tidy.html) - Clang-based C++ linter tool.
 * [EditorConfig](https://editorconfig.org/) - EditorConfig helps maintain consistent coding styles across different editors and IDEs.
 * [Uncrustify](https://github.com/uncrustify/uncrustify) - Code beautifier.
+
+## Miscellaneous software
+* [Cling](https://github.com/root-project/cling) - The Interactive C++ Interpreter. 
+* [Cling Jupyter Kernel](https://github.com/root-project/cling/tree/master/tools/Jupyter) - C++ Kernel for Jupyter with Cling. 
 
 # Resources
 *Various resources, such as books, websites, and articles for improving your C++ development skills and knowledge.*
