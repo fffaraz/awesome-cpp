@@ -1496,6 +1496,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [GNU Coding Standard](http://www.gnu.org/prep/standards/standards.html)
 * [Linux kernel coding style](https://www.kernel.org/doc/Documentation/process/coding-style.rst)
 * [LLVM Coding Standards](http://llvm.org/docs/CodingStandards.html)
+* [C/C++ Coding Standards Collection](https://github.com/abougouffa/c-and-cpp-coding-standards) - A collection of C/C++ coding standards.
 
 ## Podcasts
 
