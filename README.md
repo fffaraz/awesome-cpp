@@ -495,6 +495,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [CUTE](http://cute-test.com) - C++ Unit Testing Easier. [LGPL3]
 * [CMocka](https://cmocka.org/) - unit testing framework for C with support for mock objects. [Apache2]
 * [CppBenchmark](https://github.com/chronoxor/CppBenchmark) - Performance benchmark framework for C++ with nanoseconds measure precision. [MIT]
+* [CppOverride](https://github.com/Neko-Box-Coder/CppOverride) - Override your functions without virtual classes, just like mocking but better. [MIT]
 * [Cpptrace](https://github.com/jeremy-rifkin/cpptrace) - A simple, portable, and self-contained C++ stacktrace library supporting C++11 and greater. [MIT]
 * [CppUnit](http://www.freedesktop.org/wiki/Software/cppunit/) - C++ port of JUnit. [LGPL2]
 * [CrashCatch](https://github.com/keithpotz/CrashCatch) - Single-header crash reporting for C++ that logs stack traces and creates `.dmp` and `.txt` crash dumps. [MIT] [website](https://keithpotz.github.io/CrashCatch)
