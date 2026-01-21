@@ -753,6 +753,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [jsoncons](https://github.com/danielaparker/jsoncons) - A C++ header-only library for JSON and JSON-like binary formats with JSONPointer, JSONPatch, JSONPath and JMESPath. [Boost]
 * [JsonCpp](https://github.com/open-source-parsers/jsoncpp) - A C++ library for interacting with JSON. [MIT]
 * [Jsonifier](https://github.com/RealTimeChris/Jsonifier) - A few classes for parsing and serializing objects from/into JSON - very rapidly. [MIT]
+* [JsonFusion](https://github.com/tucher/JsonFusion) - JSON/CBOR <-> C++, with declarative validation and no glue code. [MIT]
 * [jsonParse](https://github.com/liufeigit/jsonParse) - A simple JSON parser in ANSI C. [MIT]
 * [json-parser](https://github.com/udp/json-parser) - Very low footprint JSON parser written in portable ANSI C. [BSD]
 * [json11](https://github.com/dropbox/json11) - A tiny JSON library for C++11. [MIT]
