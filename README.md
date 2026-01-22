@@ -167,6 +167,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [libevent](http://libevent.org/) - An event notification library. [BSD]
 * [libhv](https://github.com/ithewei/libhv) - Cross-platform event loop library. [BSD]
 * [libuv](https://github.com/libuv/libuv) - Cross-platform asynchronous I/O. [BSD]
+* [portable_concurrency](https://github.com/VestniK/portable_concurrency) - Extended future/promise API. [CC0]
 * [promise-cpp](https://github.com/xhawk18/promise-cpp) - Header only library that implements Promise/A+ standard. [Anti-996]
 * [uvw](https://github.com/skypjack/uvw) - C++ wrapper for libuv. [MIT]
 * [uv-cpp](https://github.com/wlgq2/uv-cpp) - a simple interface, high-performance network library based on C++11. [MIT]
