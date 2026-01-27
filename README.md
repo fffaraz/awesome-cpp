@@ -1274,6 +1274,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [mio](https://github.com/mandreyel/mio) - Cross-platform C++11 header-only library for memory mapped file IO. [MIT]
 * [MPark.Variant](https://github.com/mpark/variant) - C++17 `std::variant` for C++11/14/17. [BSL-1.0]
 * [MPH](https://github.com/qlibs/mph) - C++20 [Minimal] Static Perfect Hash library. [MIT]
+* [Patternia](https://github.com/sentomk/patternia) - A header-only compile-time pattern matching DSL for modern C++. [MIT]
 * [PEGTL](https://github.com/taocpp/PEGTL) - The Parsing Expression Grammar Template Library. [MIT]
 * [Pipes](https://github.com/joboccara/pipes) - Pipelines for expressive code on collections in C++. [MIT]
 * [pprint](https://github.com/p-ranav/pprint) - Pretty Printer for Modern C++. [MIT]
