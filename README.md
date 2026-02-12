@@ -484,6 +484,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 ## Debug
 *Debugging Libraries, Memory Leak and Resource Leak Detection, Unit Testing*
 
+* [Attest](https://github.com/tugglecore/attest) - Cross-platform, heap-free C test framework with parameterized and lifecycle-aware tests and assertions with ad-hoc formatted messages. [MIT]
 * [backward-cpp](https://github.com/bombela/backward-cpp) - A beautiful stack trace pretty printer for C++. [MIT]
 * [Bencher](https://bencher.dev/) - A suite of continuous benchmarking tools designed to catch performance regressions in CI. [MIT]/[Apache2]
 * [benchmark](https://github.com/google/benchmark) - Google provided small microbenchmark support library. [Apache2]
