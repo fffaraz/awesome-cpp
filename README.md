@@ -1475,6 +1475,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [C++Now 2014 Presentations](https://github.com/boostcon/cppnow_presentations_2014) - Presentation materials presented at C++Now 2014.
 * [C++Now 2013 Presentations](https://github.com/boostcon/cppnow_presentations_2013) - Presentation materials presented at C++Now 2013.
 * [C++Now 2012 Presentations](https://github.com/boostcon/cppnow_presentations_2012) - Presentation materials presented at C++Now 2012.
+* [cpp17_in_TTs](https://github.com/tvaneerd/cpp17_in_TTs) - Descriptions of C++17 features, presented mostly in "Tony Tables".
 
 ## Books
 *Fantastic C or C++ related books.*
