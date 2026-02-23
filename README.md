@@ -1308,6 +1308,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [value-category-cheatsheet](https://github.com/jeaye/value-category-cheatsheet) A PDF cheatsheet for lvalues, rvalues, and the like. [Jank copyleft]
 * [VarTypes](https://github.com/szi/vartypes) - A feature-rich, object-oriented framework for managing variables in C++ / Qt4. [LGPL]
 * [Wildcards](https://github.com/zemasoft/wildcards/) - A simple C++ header-only template library implementing matching using wildcards. [BSL-1.0]
+* [xjb](https://github.com/xjb714/xjb) - A fast float to string algorithm. [Apache-2.0]
 * [xxHash](https://github.com/Cyan4973/xxHash) - Extremely fast non-cryptographic hash algorithm. [BSD-2-Clause] [website](https://xxhash.com/)
 * [xxhash_cpp](https://github.com/RedSpah/xxhash_cpp) - Port of the xxhash library to C++17. [BSD-2-Clause]
 * [ZBar](http://zbar.sourceforge.net/) - A barcode scanner library, which allows to scan photos/images/video streams for barcodes and return their value. [LGPL2]
