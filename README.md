@@ -891,6 +891,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [memory-allocators](https://github.com/mtrebi/memory-allocators) - Custom memory allocators to improve the performance of dynamic memory allocation. [MIT]
 * [mimalloc](https://github.com/microsoft/mimalloc) - A compact general purpose allocator with excellent performance. [MIT]
 * [rpmalloc](https://github.com/mjansson/rpmalloc) - Cross platform lock free thread caching 16-byte aligned memory allocator implemented in C. [PublicDomain]
+* [Safe](https://github.com/QuantumBoy1010/Safe-Cpp) - A runtime library that defines a safe context for C++, no reference counting involved.  [PolyForm(Non-commercial)/Proprietary]
 * [snmalloc](https://github.com/microsoft/snmalloc) - Message passing based high-performance allocator. [MIT]
 * [TCMalloc](https://github.com/google/tcmalloc) - Google's fast, multi-threaded malloc implementation. [Apache-2.0] [website](https://google.github.io/tcmalloc/)
 * [buddy_alloc](https://github.com/spaskalev/buddy_alloc) - A single header buddy memory allocator for C with bounded allocation costs. [0BSD]
