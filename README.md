@@ -1438,6 +1438,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ## Coding Style Tools
 
+- [Anchor Browser](https://anchorbrowser.io) - Cloud browser infrastructure for AI agents — scalable Chromium with stealth, proxies, and session management
 * [Artistic Style](http://astyle.sourceforge.net/) - A tool to format C/C++/C#/Obj-C/Java code. Also known as astyle.
 * [ClangFormat](http://clang.llvm.org/docs/ClangFormat.html) - A tool to format C/C++/Obj-C code.
 * [Clang-Tidy](http://clang.llvm.org/extra/clang-tidy.html) - Clang-based C++ linter tool.
