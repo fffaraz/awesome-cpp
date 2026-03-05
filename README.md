@@ -847,7 +847,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [ggml](https://github.com/ggerganov/ggml) - Tensor library for machine learning with 16-bit and 4-bit quantization support. [MIT]
 * [libsvm](https://github.com/cjlin1/libsvm) - A simple, easy-to-use, efficient library for Support Vector Machines. [BSD-3-Clause] [website](https://www.csie.ntu.edu.tw/~cjlin/libsvm/)
 * [m2cgen](https://github.com/BayesWitnesses/m2cgen) - A CLI tool to transpile trained classic ML models into a native C code with zero dependencies. [MIT]
-* [MeTA](https://github.com/meta-toolkit/meta) - A modern C++ data sciences toolkit. [MIT] [website](https://meta-toolkit.org/)
+* [MeTA](https://github.com/meta-toolkit/meta) - A modern C++ data sciences toolkit. [MIT]
 * [Minerva](https://github.com/dmlc/minerva) - A fast and flexible system for deep learning. [Apache2]
 * [mlpack](https://github.com/mlpack/mlpack) - A scalable c++ machine learning library. [LGPLv3] [website](http://www.mlpack.org/)
 * [ncnn](https://github.com/Tencent/ncnn) - A high-performance neural network inference computing framework optimized for mobile platforms. [BSD]
@@ -912,7 +912,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [universal](https://github.com/stillwater-sc/universal) - A C++14 header-only library implementing arbitrary posit arithmetic. The posit number system is a tapered floating point that is more efficient than IEEE floating point. Posits enable reproducible computational science. [MIT license]
 * [utl::random](https://github.com/DmitriBogdanov/UTL/blob/master/docs/module_random.md) - A C++17 header-only library implementing fast random for Monte-Carlo simulations & gamedev. [MIT]
 * [XAD](https://github.com/auto-differentiation/xad) - Powerful Automatic Differentiation for C++. [AGPL] [website](https://auto-differentiation.github.io/)
-* [geogram](https://github.com/BrunoLevy/geogram) - A programming library of geometric algorithms. [BSD-3-Clause] [website](http://alice.loria.fr/software/geogram/doc/html/index.html)
+* [geogram](https://github.com/BrunoLevy/geogram) - A programming library of geometric algorithms. [BSD-3-Clause]
 * [std-simd](https://github.com/VcDevel/std-simd) - A portable implementation of std::experimental::simd for C++. [BSD-3-Clause]
 * [libdivide](https://github.com/ridiculousfish/libdivide) - Optimized integer division for C/C++ using libdivide. [zlib] [website](https://libdivide.com)
 * [fpsqrt](https://github.com/chmike/fpsqrt) - Fast fixed point and floating point square root for C. [MIT]
@@ -1102,7 +1102,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [sregex](https://github.com/openresty/sregex) - A non-backtracking NFA/DFA-based Perl-compatible regex engine library for matching on large data streams. [BSD]
 * [SRELL](https://www.akenotsuki.com/misc/srell/en/) - Unicode-aware regular expression template library for C++. [BSD]
 * [TRE](https://github.com/laurikari/tre) - The approximate regex matching library and agrep command line tool. [BSD-2-Clause]
-* [Vectorscan](https://github.com/VectorCamp/vectorscan) - A portable fork of the high-performance regular expression matching library. [BSD-3-Clause] [website](https://www.vectorcamp.gr/project/vectorscan/)
+* [Vectorscan](https://github.com/VectorCamp/vectorscan) - A portable fork of the high-performance regular expression matching library. [BSD-3-Clause]
 * [Pawn.Regex](https://github.com/urShadow/Pawn.Regex) - A Pawn plugin that provides support for regular expressions using C++11 std::regex. [MIT]
 
 ## Robotics
