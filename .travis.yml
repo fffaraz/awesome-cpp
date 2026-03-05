@@ -1,2 +1,4 @@
-# Travis CI is intentionally disabled for this repository.
-if: false
+# Travis CI is intentionally disabled for this repository via branch filtering.
+branches:
+  only:
+    - "(?!.*)"
