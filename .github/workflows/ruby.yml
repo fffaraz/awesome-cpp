@@ -1,0 +1,23 @@
+name: Ruby
+
+on:
+  push:
+    branches: [ '*' ]
+  pull_request:
+    branches: [ '*' ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v6
+    - name: Set up Ruby 2.6
+      uses: ruby/setup-ruby@v1
+      with:
+        ruby-version: '2.6'
+    - name: Checks
+      run: |
+        gem install awesome_bot
+        awesome_bot -f README.md, books.md, minor.md, videos.md --allow-dupe --allow-redirect --allow-ssl -w libwebsockets --skip-save-results
