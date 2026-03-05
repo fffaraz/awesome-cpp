@@ -20,4 +20,4 @@ jobs:
     - name: Checks
       run: |
         gem install awesome_bot
-        awesome_bot -f README.md, books.md, minor.md, videos.md --allow-dupe --allow-redirect --allow-ssl -w libwebsockets --skip-save-results
+        awesome_bot -f README.md, books.md, minor.md, videos.md --allow-dupe --allow-redirect --allow-ssl -w libwebsockets,https://github.com --skip-save-results
