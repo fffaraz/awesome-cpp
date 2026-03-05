@@ -352,7 +352,6 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [concurrencpp](https://github.com/David-Haim/concurrencpp) - A general concurrency library containing tasks, executors, timers and C++20 coroutines to rule them all.
 * [libcu++](https://github.com/NVIDIA/libcudacxx) - The NVIDIA C++ Standard Library, providing heterogeneous implementation of C++ Standard Library facilities. [Apache-2.0]
 * [nvthreads](https://github.com/HewlettPackard/nvthreads) - A library for enabling efficient and persistent threading in C/C++. [LGPL-2.1]
-* [Reuzel](https://github.com/leohotfn/Reuzel) - A tiny C++ thread pool implementation. [MIT]
 
 ## Configuration
 *Configuration files, INI files*
@@ -427,7 +426,6 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [HEhub](https://github.com/primihub/HEhub) - A library for homomorphic encryption and its applications. [Apache2]
 * [Qt-Secret](https://github.com/QuasarApp/Qt-Secret) - Simple encryption library based on Qt for C++ projects. [LGPL]
 * [micro-ecc](https://github.com/kmackay/micro-ecc) - A small and fast ECDH and ECDSA implementation for 8-bit, 32-bit, and 64-bit processors. [BSD-2-Clause]
-* [r5nd_tiny](https://github.com/round5/r5nd_tiny) - A compact implementation of the Round5 post-quantum key encapsulation scheme. [CC0]
 * [crypto-algorithms](https://github.com/B-Con/crypto-algorithms) - Basic implementations of standard cryptography algorithms (AES, SHA, etc.) in C. [PublicDomain]
 * [aes-stream](https://github.com/jedisct1/aes-stream) - A fast AES-based stream cipher for C. [ISC]
 
@@ -491,7 +489,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [UStore](https://github.com/unum-cloud/ustore) - Multi-Modal database for BLOBs, JSON, and graphs. [Apache2]
 * [Velox](https://github.com/facebookincubator/velox) - A C++ vectorized database acceleration library aimed to optimizing query engines and data processing systems. [Apache-2.0] [website](https://velox-lib.io/)
 * [constexpr-sql](https://github.com/mkitzan/constexpr-sql) - A compile-time SQL query parser and executor in C++17. [MIT]
-* [NuDB](https://github.com/vinniefalco/NuDB) - A fast, append-only key/value store for SSD drives. [Boost]
+* [NuDB](https://github.com/cppalliance/NuDB) - A fast, append-only key/value store for SSD drives. [Boost]
 
 ## Data visualization
 *Data visualization Libraries*
@@ -652,7 +650,6 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [wxWidgets](http://wxwidgets.org/) - A C++ library that lets developers create applications for Windows, Mac OS X, Linux and other platforms with a single code base. [Own LGPL]
 * [Yue](https://github.com/yue/yue) - A library for creating native cross-platform GUI apps. [LGPLv2]
 * [GuiLite](https://github.com/idea4good/GuiLite) - The smallest header-only GUI library (5 KLOC) for all platforms. [Apache-2.0]
-* [Ultralight](https://ultralig.ht/) - A lightweight, high-performance HTML UI renderer for C++ applications. [Proprietary, free for non-commercial]
 * [LCUI](https://github.com/lc-soft/LCUI) - A small C library for building user interfaces with C, XML and CSS. [MIT]
 
 ## Graphics
@@ -1164,7 +1161,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [V8](https://v8.dev) - A fast JavaScript engine by Google that can be embedded into any C++ application. [BSD]
 * [v8pp](https://github.com/pmed/v8pp) - Header-only library to expose C++ classes and functions into V8 to use them in JavaScript code. [BOOST] [website](https://pmed.github.io/v8pp/)
 * [ChakraCore](https://github.com/Microsoft/ChakraCore) -A JavaScript engine by Microsoft that can be embedded into nodejs. [MIT]
-* [MuJS](https://github.com/ccxvii/mujs) - An embeddable Javascript interpreter in C. [ISC] [website](http://mujs.com)
+* [MuJS](https://codeberg.org/ccxvii/mujs) - An embeddable Javascript interpreter in C. [ISC] [website](http://mujs.com)
 * [hobbes](https://github.com/Morgan-Stanley/hobbes) - A language and an embedded JIT compiler from Morgan Stanley. [Apache-2.0]
 
 ## Serialization
@@ -1564,7 +1561,6 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Free C Books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#c) - vhf/free-programming-books/C.
 * [Free C++ Books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#cpp) - vhf/free-programming-books/C++.
 * [cppbestpractices](https://github.com/lefticus/cppbestpractices) - Collaborative Collection of C++ Best Practices.
-* [qt5-book-code](https://github.com/mutse/qt5-book-code) - Code examples from the Qt5 C++ GUI Programming Cookbook.
 
 ## Coding Standards
 
@@ -1611,7 +1607,6 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Bo Qian's playlist](https://www.youtube.com/user/BoQianTheProgrammer/playlists) - Boost Library, C++ Standard Library, Modern C++, Advanced C++, Advanced STL, ...
 * [The Cherno's C++ Playlist](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb) - Extensive C++ tutorial series by The Cherno.
 * [Code for Yourself C++ Playlist](https://www.youtube.com/playlist?list=PLwhKb0RIaIS1sJkejUmWj-0lk7v_xgCuT) - A complete C++ course covering everything from fundamentals to software design.
-* [105 STL Algorithms in Less Than an Hour](https://www.youtube.com/watch?v=bFSnXNIsK4A) - by Jonathan Boccara at CppCon 2018.
 
 ## Websites
 *Useful C or C++ related websites.*
@@ -1641,7 +1636,6 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [C++ Resources](https://andreasfertig.com/cpp-resources/) - A collection of C++ resources including books, articles, and tools.
 * [CppPatterns](https://github.com/sftrabbit/CppPatterns-Patterns) - A repository of modern C++ patterns and idioms. [website](https://cpppatterns.com)
 * [Function Pointers](https://github.com/jerryryle/fuckingfunctionpointers.com) - A guide to understanding function pointers in C/C++.
-* [Good C++ Libraries](http://florianjw.de/en/good_libraries.html) - A list of recommended C++ libraries.
 
 
 ## Weblogs
@@ -1672,7 +1666,6 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [awesome-static-analysis](https://github.com/mre/awesome-static-analysis) - A curated list of static analysis tools for all programming languages.
 * [cpp_functional_programming](https://github.com/graninas/cpp_functional_programming) - A list of materials and links for C++ functional programming.
 * [algorithms_and_data_structures](https://github.com/mandliya/algorithms_and_data_structures) - Implementation of algorithms and data structures in C++.
-* [awesomo](https://github.com/lk-geimfari/awesomo) - An extensive list of interesting open source projects written in various languages including C and C++.
 
 # Other Awesome Lists
 *Other amazingly awesome lists*
