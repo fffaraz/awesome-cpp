@@ -1,4 +1,4 @@
-# Awesome C++ [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/fffaraz/awesome-cpp/)
+﻿# Awesome C++ [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/fffaraz/awesome-cpp/)
 A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 
 - [Awesome C++  ](#awesome-c--)
@@ -157,6 +157,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [tiny-dnn](https://github.com/tiny-dnn/tiny-dnn) - A header only, dependency-free deep learning framework in C++11. [BSD]
 * [Veles](https://github.com/Samsung/veles) - Distributed platform for rapid Deep learning application development. [Apache]
 * [Kaldi](https://github.com/kaldi-asr/kaldi) - Toolkit for speech recognition. [Apache]
+* [llm-cpp](https://github.com/Mattbusel/llm-cpp) - 26 single-header C++20 libraries for LLM infrastructure: token streaming, quantization, KV-cache, SIMD batch inference, speculative decoding, and financial time-series with special-relativistic geometry. [MIT]
 
 ## Asynchronous Event Loop
 
