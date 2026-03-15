@@ -904,6 +904,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [SimSIMD](https://github.com/ashvardanian/SimSIMD) - Vector distance functions for x86 AVX2, AVX-512, Arm NEON, and SVE. [Apache2]
 * [StatsLib](https://github.com/kthohr/stats) - A C++ header-only library of statistical distribution functions. [Apache2] [website](https://www.kthohr.com/statslib.html)
 * [SymEngine](https://github.com/symengine/symengine) - Fast symbolic manipulation library, a rewriting of SymPy's core in C++. [MIT]
+* [smath](https://github.com/slendidev/smath) - Single-file linear algebra library for C++23. [Apache2] [website](http://smath.slendi.dev/)
 * [TinyExpr](https://github.com/codeplea/tinyexpr) - A C library for parsing and evaluating math expressions from strings. [zlib]
 * [Vc](https://github.com/VcDevel/Vc) - SIMD Vector Classes for C++. [BSD]
 * [Versor](http://versor.mat.ucsb.edu/) - A (fast) Generic C++ library for Geometric Algebras, including Euclidean, Projective, Conformal, Spacetime (etc).
