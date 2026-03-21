@@ -565,6 +565,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *Digital signal processing.*
 
 * [DSPFilters](https://github.com/vinniefalco/DSPFilters) - A collection of useful C++ classes for digital signal processing. [MIT]
+* [fCWT](https://github.com/fastlib/fCWT) - The fast Continuous Wavelet Transform (fCWT) is a library for fast calculation of CWT. [Apache-2.0]
 * [FFTW](http://www.fftw.org/) - A C library for computing the DFT in one or more dimensions. [GPL]
 * [iir1](https://github.com/berndporr/iir1) - IIR Realtime C++ filter library. [MIT]
 * [kissfft](https://github.com/mborgerding/kissfft) - A Fast Fourier Transform (FFT) library that tries to Keep it Simple, Stupid. [BSD-3-Clause]
