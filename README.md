@@ -176,6 +176,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *Audio, Sound, Music, Digitized Voice Libraries*
 
 * [Amplitude Audio SDK](https://github.com/SparkyStudios/AmplitudeAudioSDK) - A cross-platform audio engine designed with the needs of games in mind. [Apache-2.0] [website](https://amplitudeaudiosdk.com)
+* - [Amplitron](https://github.com/sudip-mondal-2002/Amplitron) - Free, open-source real-time guitar amp simulator with 9 DSP effects and ultra-low latency. [MIT]
 * [Aubio](https://github.com/aubio/aubio) - A library for audio and music analysis.[GPL-3.0] [website](https://aubio.org/)
 * [AudioFile](https://github.com/adamstark/AudioFile) - A simple C++ library for reading and writing audio files. [MIT]
 * [audioFlux](https://github.com/libAudioFlux/audioFlux) - A C library for audio and music analysis, feature extraction. [MIT]
