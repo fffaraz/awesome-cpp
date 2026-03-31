@@ -288,6 +288,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [miniz](https://github.com/richgel999/miniz) - Single C source file Deflate/Inflate compression library with zlib-compatible API, ZIP archive reading/writing, PNG writing. [MIT]
 * [Minizip](https://github.com/nmoinvaz/minizip) - Zlib with latest bug fixes that supports PKWARE disk spanning, AES encryption, and IO buffering. [zlib]
 * [minizip-ng](https://github.com/zlib-ng/minizip-ng) - Fork of the popular zip manipulation library found in the zlib distribution. [zlib]
+* [OpenZL](https://github.com/facebook/openzl) - A novel data compression framework. [BSD] [website](https://openzl.org/)
 * [PhysicsFS](https://icculus.org/physfs/) - A library to provide abstract access to various archives. It is intended for use in video games, and the design was somewhat inspired by Quake 3's file subsystem. [zlib]
 * [Rapidgzip](https://github.com/mxmlnkn/rapidgzip) - Gzip Decompression and Random Access for Modern Multi-Core Machines. [Apache-2/MIT]
 * [smaz](https://github.com/antirez/smaz) - Small strings compression library. [BSD]
