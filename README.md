@@ -423,6 +423,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [retter](https://github.com/MaciejCzyzewski/retter) - A collection of hash functions, ciphers, tools, libraries, and materials related to cryptography.
 * [s2n](https://github.com/awslabs/s2n) - An implementation of the TLS/SSL protocols. [Apache]
 * [sha1collisiondetection](https://github.com/cr-marcstevens/sha1collisiondetection) - Library and command line tool to detect SHA-1 collision in a file. [MIT]
+* [stduuid](https://github.com/mariusbancila/stduuid) - A C++17 cross-platform implementation for UUIDs. [MIT]
 * [Tink](https://github.com/google/tink) - A multi-language, cross-platform library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse. [Apache-2.0]
 * [Tiny AES in C](https://github.com/kokke/tiny-AES-c) - Small portable AES128/192/256 in C. [PublicDomain]
 * [tiny-ECDH-c](https://github.com/kokke/tiny-ECDH-c) - Small and portable implementation of the ECDH key agreement protocol in C. [PublicDomain]
