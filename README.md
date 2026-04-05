@@ -955,6 +955,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [SDL](https://github.com/libsdl-org/SDL) :zap: - Simple DirectMedia Layer. [zlib] [website](https://libsdl.org)
 * [SFML](https://github.com/SFML/SFML) :zap: - Simple and Fast Multimedia Library. [zlib] [website](http://www.sfml-dev.org/)
 * [TagLib](https://github.com/taglib/taglib) - A library for reading and editing the metadata of several popular audio formats. [LGPL/MPL] [website](https://taglib.org/)
+* [OpenMedia](https://github.com/Nelonn/OpenMedia) - Open Media codecs abstraction. A modern, modular multimedia framework with a clean C++ API. [MIT]
 
 ## Networking
 
