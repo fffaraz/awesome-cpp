@@ -79,6 +79,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 - [Sponsors](#sponsors)
 - [Contributing](#contributing)
 			- [*If you see a project or link here that is no longer maintained or is not a good fit, please submit a pull request to improve this document. Thank you!*](#if-you-see-a-project-or-link-here-that-is-no-longer-maintained-or-is-not-a-good-fit-please-submit-a-pull-request-to-improve-this-document-thank-you)
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for C++ development workflow orchestration, automated code review, and multi-agent coordination. MIT licensed.
 
 ## Standard Libraries
 *C++ Standard Library - including STL Containers, STL Algorithm, STL Functional, etc.*
