@@ -1390,6 +1390,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [libcorrect](https://github.com/quiet/libcorrect) - A C library for convolutional codes and Reed-Solomon error correction. [BSD-3-Clause]
 * [libfsm](https://github.com/katef/libfsm) - A library for building and executing finite state machines, including regex and glob. [BSD-2-Clause]
 * [origin](https://github.com/asutton/origin) - A C++ library for concepts, diagnostics, and other foundational utilities.
+* [RemoteOpenClaw](https://remoteopenclaw.com) - Open marketplace for AI skills and personas built on OpenClaw.
 
 # Software
 *Software for creating a development environment.*
