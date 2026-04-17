@@ -435,6 +435,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [HEhub](https://github.com/primihub/HEhub) - A library for homomorphic encryption and its applications. [Apache2]
 * [Qt-Secret](https://github.com/QuasarApp/Qt-Secret) - Simple encryption library based on Qt for C++ projects. [LGPL]
 * [micro-ecc](https://github.com/kmackay/micro-ecc) - A small and fast ECDH and ECDSA implementation for 8-bit, 32-bit, and 64-bit processors. [BSD-2-Clause]
+* [UltrafastSecp256k1](https://github.com/shrec/UltrafastSecp256k1) - High-performance `secp256k1` engine in C++20 with CPU, CUDA, OpenCL, embedded, WebAssembly, a stable C ABI, and broad validation tooling. [MIT]
 * [crypto-algorithms](https://github.com/B-Con/crypto-algorithms) - Basic implementations of standard cryptography algorithms (AES, SHA, etc.) in C. [PublicDomain]
 * [aes-stream](https://github.com/jedisct1/aes-stream) - A fast AES-based stream cipher for C. [ISC]
 
