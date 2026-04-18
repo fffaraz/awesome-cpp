@@ -588,6 +588,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [otfcc](https://github.com/caryll/otfcc) - A C library and utility used for parsing and writing OpenType font files. [Apache-2.0]
 * [harfbuzz](https://github.com/harfbuzz/harfbuzz) - A text shaping engine. [Old MIT]
 * [libschrift](https://github.com/tomolt/libschrift) - A lightweight TrueType font rendering library. [ISC]
+* [SheenBidi](https://github.com/Tehreer/SheenBidi) - A sophisticated implementation of Unicode Bidirectional Algorithm. [Apache-2.0]
 
 ## Game Engine
 
