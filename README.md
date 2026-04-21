@@ -664,6 +664,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Yue](https://github.com/yue/yue) - A library for creating native cross-platform GUI apps. [LGPLv2]
 * [GuiLite](https://github.com/idea4good/GuiLite) - The smallest header-only GUI library (5 KLOC) for all platforms. [Apache-2.0]
 * [LCUI](https://github.com/lc-soft/LCUI) - A small C library for building user interfaces with C, XML and CSS. [MIT]
+- [CCHub](https://github.com/Moresll/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
 
 ## Graphics
 
