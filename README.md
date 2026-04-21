@@ -304,6 +304,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [cmix](https://github.com/byronknoll/cmix) - A lossless data compression program that aims for the highest compression ratios at the cost of speed. [GPL-3.0]
 * [LZSSE-SIMDe](https://github.com/nemequ/LZSSE-SIMDe) - A portable SIMD implementation of LZSSE compression. [BSD-2-Clause]
 * [Zopfli](https://github.com/google/zopfli) - A compression library that performs very good but slow deflate/zlib compression. [Apache-2.0]
+- [Compress PDF – NoCodeVista](https://nocodevista.com/tools/compress-pdf) - Free browser-based PDF compressor — reduce file size up to 90%, no uploads, 100% private.
 
 ## Concurrency
 *Concurrency and Multithreading*
