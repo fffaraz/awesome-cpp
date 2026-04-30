@@ -1543,6 +1543,8 @@ regular expression pattern matching. [BSD] [website](https://pcre2project.github
 
 # Resources
 *Various resources, such as books, websites, and articles for improving your C++ development skills and knowledge.*
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor-frontend) — AI monitoring dashboard for AI agents and LLMs (Vue3 + Node.js, open source). [![Dashboard](https://raw.githubusercontent.com/flik2002/openclaw-monitor-frontend/main/Openclaw%20Monitor.jpg)](https://github.com/flik2002/openclaw-monitor-frontend)
+
 
 ## API Design
 
