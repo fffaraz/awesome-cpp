@@ -1414,6 +1414,7 @@ regular expression pattern matching. [BSD] [website](https://pcre2project.github
 *List of C or C++ compilers*
 
 * [8cc](https://github.com/rui314/8cc) - A Small C Compiler.
+* [assembly-repl](https://github.com/pirate/assembly-repl) - Native raw assembly, LLVM IR, C, C++, and Objective-C REPLs for macOS and Linux. [MIT]
 * [c](https://github.com/ryanmjacobs/c) - Compile and execute C "scripts" in one go! [MIT]
 * [Clang](http://clang.llvm.org/) - A C compiler for LLVM. Supports C++11/14/1z C11. Developed by LLVM Team. [NCSA]
 * [Fil-C](https://fil-c.org/) - a fanatically compatible memory-safe implementation of C and C++.
