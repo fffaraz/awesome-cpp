@@ -305,6 +305,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [cmix](https://github.com/byronknoll/cmix) - A lossless data compression program that aims for the highest compression ratios at the cost of speed. [GPL-3.0]
 * [LZSSE-SIMDe](https://github.com/nemequ/LZSSE-SIMDe) - A portable SIMD implementation of LZSSE compression. [BSD-2-Clause]
 * [Zopfli](https://github.com/google/zopfli) - A compression library that performs very good but slow deflate/zlib compression. [Apache-2.0]
+* [TinyLoad](https://github.com/iamsopotatoe-coder/TinyLoad) - A single-file Windows PE packer with custom LZ77 compression and a VM-based stream cipher that randomizes its instruction set every build. No dependencies. [MIT]
 
 ## Concurrency
 *Concurrency and Multithreading*
