@@ -150,6 +150,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [MXNet](https://github.com/apache/incubator-mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, JavaScript and more. [website](https://mxnet.apache.org)
 * [PyTorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration. [website](https://pytorch.org)
 * [flashlight](https://github.com/flashlight/flashlight) - Flashlight is a fast, flexible machine learning library written entirely in C++. [BSD]
+* [QSMM](https://gitlab.com/omvolkov/qsmm) - Toolchain for adaptive probabilistic assembler programs implemented as a C library; adaptive parsers that use the library for learning context-free grammars by template. [GPL-3.0-or-later] [website](https://qsmm.org)
 * [Recast/Detour](https://github.com/recastnavigation/recastnavigation) - (3D) Navigation mesh generator and pathfinder, mostly for games. [zlib]
 * [TensorFlow](https://github.com/tensorflow/tensorflow) - An open source software library for numerical computation using data flow graphs. [Apache]
 * [Txeo](https://github.com/rdabra/txeo) - A modern C++ wrapper for TensorFlow. [Apache]
