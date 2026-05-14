@@ -380,6 +380,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 ## Containers
 
 * [C++ B-tree](https://github.com/algorithm-ninja/cpp-btree) - A template library that implements ordered in-memory containers based on a B-tree data structure. [Apache2]
+* [CRoaring](https://github.com/RoaringBitmap/CRoaring) - Roaring bitmaps in C (and C++), with SIMD optimizations. [Apache-2.0]
 * [dynamic_bitset](https://github.com/pinam45/dynamic_bitset) - Simple Useful Libraries: C++17/20 header-only dynamic bitset. [MIT] [website](https://pinam45.github.io/dynamic_bitset/)
 * [fixed-containers](https://github.com/teslamotors/fixed-containers) - Header-only C++20 library that provides fixed capacity constexpr containers. [MIT]
 * [flat_hash_map](https://github.com/skarupke/flat_hash_map) - A very fast flat hashtable with Fibonacci hashing.
@@ -404,7 +405,6 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [svector](https://github.com/martinus/svector) - Compact SVO optimized vector for C++17 or higher. [MIT]
 * [tree.hh](https://github.com/kpeeters/tree.hh) - An STL-like C++ header-only tree library. [GPL2+]
 * [unordered_dense](https://github.com/martinus/unordered_dense) - A fast & densely stored hashmap and hashset based on robin-hood backward shift deletion. [MIT]
-* [CRoaring](https://github.com/RoaringBitmap/CRoaring) - Roaring bitmaps in C (and C++), with SIMD optimizations. [Apache-2.0]
 * [fifo_map](https://github.com/nlohmann/fifo_map) - A FIFO-ordered associative container for C++. [MIT]
 * [ordered-map](https://github.com/Tessil/ordered-map) - A C++ hash map and hash set which preserves the order of insertion. [MIT]
 
