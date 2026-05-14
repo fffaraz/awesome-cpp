@@ -704,6 +704,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ## Image Processing
 
+* [avir](https://github.com/avaneev/avir) - High-quality Pro HDR image resizer and fast SIMD Lanczos resizer. [MIT]
 * [Boost.GIL](https://github.com/boostorg/gil) - Generic Image Library. [Boost] [website](https://boost.org/libs/gil)
 * [BitmapPlusPLus](https://github.com/baderouaich/BitmapPlusPlus) - Simple and Fast header only Bitmap C++ library. [MIT]
 * [CImg](http://cimg.eu/) - A small, open source, C++ toolkit for image processing. [Own LGPL or GPL]
