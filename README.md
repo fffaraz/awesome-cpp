@@ -866,6 +866,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Minerva](https://github.com/dmlc/minerva) - A fast and flexible system for deep learning. [Apache2]
 * [mlpack](https://github.com/mlpack/mlpack) - A scalable c++ machine learning library. [LGPLv3] [website](http://www.mlpack.org/)
 * [ncnn](https://github.com/Tencent/ncnn) - A high-performance neural network inference computing framework optimized for mobile platforms. [BSD]
+* [nn2](https://github.com/facex-engine/facex/tree/master/nn2) - Tiny zero-dependency neural network inference engine in pure C with hand-written AVX-512 / AVX2 / NEON SIMD kernels. Used as the runtime for the FaceX face engine. [Apache2]
 * [OpenCV](https://github.com/Itseez/opencv) :zap: - Open Source Computer Vision Library. [BSD] [website](http://opencv.org/)
 * [oneDAL](https://github.com/oneapi-src/oneDAL) - A powerful machine learning library that helps speed up big data analysis. [Apache]
 * [ONNX runtime](https://github.com/microsoft/onnxruntime) - C and C++ library for training and inference ONNX models. ONNX is a standard that AI models can be converted into, regardless of the library they are trained with. [MIT] [website](https://onnxruntime.ai/)
