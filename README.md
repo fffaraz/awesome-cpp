@@ -562,6 +562,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [doxyrest](https://github.com/vovkos/doxyrest) - A compiler from Doxygen XML to reStructuredText for Sphinx. [MIT]
 * [hdoc](https://github.com/hdoc/hdoc) - The modern documentation tool for C++. [AGPL/Proprietary] [website](https://hdoc.io)
 * [Natural Docs](https://github.com/NaturalDocs/NaturalDocs) - Natural Docs is an open source documentation generator for multiple programming languages. [AGPL/Proprietary] [website](https://www.naturaldocs.org)
+* [Sourcey](https://github.com/sourcey/sourcey) - Static documentation generator that consumes Doxygen XML alongside OpenAPI, godoc, MCP, and Markdown. [AGPL-3.0] [website](https://sourcey.com)
 * [Sphinx](https://github.com/sphinx-doc/sphinx) - Sphinx makes it easy to create intelligent and beautiful documentation. [BSD-2-Clause] [website](https://www.sphinx-doc.org)
 
 ## DSP
