@@ -482,6 +482,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Reindexer](https://github.com/Restream/reindexer) - Embeddable, in-memory, document-oriented database with a high-level Query builder interface. [Apache2] [website](https://reindexer.io/)
 * [RocksDB](https://github.com/facebook/rocksdb) - Embedded key-value store for fast storage from facebook. [BSD]
 * [SimDB](https://github.com/LiveAsynchronousVisualizedArchitecture/simdb) - High performance, shared memory, lock free, cross platform, single file, minimal dependencies, C++11 key-value store. [Apache2]
+* [SlothDB](https://github.com/SouravRoy-ETL/slothdb) - an embedded SQL database that runs everywhere: on your laptop, on a server, and in the browser. [MIT] [website](https://slothdb.org/)
 * [SOCI](https://github.com/SOCI/soci) - A database abstraction layer for C++. [Boost]
 * [Speedb](https://github.com/speedb-io/speedb) - Community-led project: A RocksDB compliant high performance scalable embedded key-value store. [Apache2]
 * [sqlgen](https://github.com/getml/sqlgen) - A reflection-based ORM and SQL query generator for C++-20, similar to Python's SQLAlchemy/SQLModel or Rust's Diesel. [MIT]
