@@ -501,6 +501,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Trilogy](https://github.com/trilogy-libraries/trilogy) - a client library for MySQL-compatible database servers, designed for performance, flexibility, and ease of embedding. [MIT]
 * [UStore](https://github.com/unum-cloud/ustore) - Multi-Modal database for BLOBs, JSON, and graphs. [Apache2]
 * [Velox](https://github.com/facebookincubator/velox) - A C++ vectorized database acceleration library aimed to optimizing query engines and data processing systems. [Apache-2.0] [website](https://velox-lib.io/)
+* [Zvec](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database. [Apache2] [website](https://zvec.org/)
 * [constexpr-sql](https://github.com/mkitzan/constexpr-sql) - A compile-time SQL query parser and executor in C++17. [MIT]
 * [NuDB](https://github.com/cppalliance/NuDB) - A fast, append-only key/value store for SSD drives. [Boost]
 
