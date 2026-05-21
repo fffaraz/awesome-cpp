@@ -1544,6 +1544,7 @@ regular expression pattern matching. [BSD] [website](https://pcre2project.github
 * [Artistic Style](http://astyle.sourceforge.net/) - A tool to format C/C++/C#/Obj-C/Java code. Also known as astyle.
 * [ClangFormat](http://clang.llvm.org/docs/ClangFormat.html) - A tool to format C/C++/Obj-C code.
 * [Clang-Tidy](http://clang.llvm.org/extra/clang-tidy.html) - Clang-based C++ linter tool.
+* [cpp-linter-hooks](https://github.com/cpp-linter/cpp-linter-hooks) - Pre-commit hooks for C/C++ powered by clang-format and clang-tidy. [MIT]
 * [EditorConfig](https://editorconfig.org/) - EditorConfig helps maintain consistent coding styles across different editors and IDEs.
 * [Uncrustify](https://github.com/uncrustify/uncrustify) - Code beautifier.
 
