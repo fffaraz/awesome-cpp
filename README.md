@@ -1331,6 +1331,7 @@ regular expression pattern matching. [BSD] [website](https://pcre2project.github
 * [FastFormat](http://www.fastformat.org) - Fast, Safe C++ Formatting inspired by log4j and Pantheios. [Simplified BSD]
 * [fast_io](https://github.com/cppfastio/fast_io) - Significantly faster input/output for C++20. [MIT]
 * [fccf](https://github.com/p-ranav/fccf) - A command-line tool that recursively searches a directory to find C/C++ source code matching a search string. [MIT]
+* [ffc.h](https://github.com/kolemannix/ffc.h) - Single-header c99 accelerated float/double parsing. Port of the fast_float library. [Apache-2.0/BSL-1.0/MIT]
 * [{fmt}](https://github.com/fmtlib/fmt) :zap: - Small, safe and fast formatting library for C++. [Simplified BSD] [website](https://fmt.dev)
 * [gcc-poison](https://github.com/leafsr/gcc-poison) - A simple header file for developers to ban unsafe C/C++ functions from applications.
 * [Gear-Lib](https://github.com/gozfree/gear-lib) - A collection of basic libraries in POSIX C for embedded and network service development. [MIT]
