@@ -105,12 +105,15 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Coost](https://github.com/idealvin/coost) - A tiny boost library in C++11. [MIT]
 * [Cxxomfort](http://ryan.gulix.cl/fossil.cgi/cxxomfort/) - A small, header-only library that backports various facilities from more recent C++ Standards to C++03 and later. [MIT]
 * [Dlib](https://github.com/davisking/dlib) :zap: - A toolkit for making real world machine learning and data analysis applications in C++. [Boost] [website](http://dlib.net/)
+* [ecere-sdk](https://github.com/ecere/ecere-sdk) - Ecere SDK (eC Language, Ecere IDE, Cross platform GUI, graphics, and more) — http://ec-lang.org — 
 * [EASTL](https://github.com/electronicarts/EASTL) - Electronic Arts Standard Template Library. [BSD]
 * [ETL](https://github.com/ETLCPP/etl) - Embedded Template Library. [MIT]
 * [ffead-cpp](https://github.com/sumeetchhetri/ffead-cpp) - Framework for Enterprise Application Development. [Apache2]
+* [final_game_tech](https://github.com/f1nalspace/final_game_tech) - Game related libraries written in C/C++ written by T. Spaete
 * [Folly](https://github.com/facebook/folly) - An open-source C++ library developed and used at Facebook. [Apache2]
 * [FunctionalPlus](https://github.com/Dobiasd/FunctionalPlus) - Functional Programming Library for C++. Write concise and readable C++ code. [MIT]
 * [GLib](https://wiki.gnome.org/Projects/GLib) - GLib provides the core application building blocks for libraries and applications written in C. [LGPL]
+* [island](https://github.com/tgfrerer/island) - Project Island is an experimental, hot-reloading Vulkan Renderer for Linux and Windows, written in C/C++.
 * [itlib](https://github.com/iboB/itlib) - A collection of std-like single-header C++ libraries  [MIT]
 * [JUCE](https://github.com/julianstorer/JUCE) - An all-encompassing C++ class library for developing cross-platform software. [Core-Module: ISC, Rest: GPL2/GPL3/Proprietary] [website](http://www.juce.com/)
 * [Kigs framework](https://github.com/Kigs-framework/kigs) - A free and open source C++ modular multi-purpose cross platform RAD framework. [MIT] [website](https://kigs-framework.org/)
@@ -120,6 +123,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [libxutils](https://github.com/kala13x/libxutils) - Simple and yet powerful cross-platform C library providing data structures, algorithms and much more. [MIT]
 * [Loki](http://loki-lib.sourceforge.net/) - A C++ library of designs, containing flexible implementations of common design patterns and idioms. [MIT]
 * [MiLi](https://github.com/MariadeAnton/MiLi) - Minimal headers-only C++ Library. [Boost]
+* [NAP](https://github.com/napframework/nap) - NAP Framework: real-time control & visualization platform
 * [OpenFrameworks](https://github.com/openframeworks/openFrameworks) - A cross platform open source toolkit for creative coding in C++. [MIT] [website](http://www.openframeworks.cc/)
 * [PhotonLibOS](https://github.com/alibaba/PhotonLibOS) - A comprehensive C++ framework featuring efficient user-space threading (coroutine with work-stealing), I/O, networking, RPC, HTTP, etc., and used extensively in Alibaba. It is compatible with C++ 14/17/20/23, Linux, MacOS, x86-64, ARM64, gcc and clang. [Apache2] [website](https://photonlibos.github.io/)
 * [Qt](https://github.com/qt) :zap: - A cross-platform application and UI framework. [GPL/LGPL/Proprietary] [website](https://www.qt.io)
@@ -138,6 +142,10 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [WUI](https://github.com/intent-garden/wui) - WUI (Window User Interface Library) is a cross-platform library for creating graphical user interfaces in C++17+ [Boost][website](https://libwui.org)
 * [xtd](https://github.com/gammasoft71/xtd) - Modern C++20 framework to create console (CLI), forms (GUI) and unit tests (xUnit) applications on Windows, macOS, Linux, iOS, Android, FreeBSD and Haiku. [MIT]
 * [Yomm2](https://github.com/jll63/yomm2) - Fast, Orthogonal, Open multi-methods. Supersedes [Yomm11](https://github.com/jll63/yomm11) [Boost]
+* [inputstorm](https://github.com/VoxelStorm-Ltd/inputstorm) - C++ callback-based unified input handling library working with GLFW, by VoxelStorm
+* [sokol](https://github.com/floooh/sokol) - minimal cross-platform standalone C headers 
+* [MethaneKit](https://github.com/egorodet/MethaneKit) - Modern 3D graphics made simple with C++17 cross-platform framework and rendering abstraction API on top of DirectX 12, Metal & Vulkan
+* [Cinder](https://github.com/cinder/Cinder) - Cinder is a community-developed, free and open source library for professional-quality creative coding in C++.
 
 ## Artificial Intelligence
 
@@ -360,6 +368,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [concurrencpp](https://github.com/David-Haim/concurrencpp) - A general concurrency library containing tasks, executors, timers and C++20 coroutines to rule them all.
 * [libcu++](https://github.com/NVIDIA/libcudacxx) - The NVIDIA C++ Standard Library, providing heterogeneous implementation of C++ Standard Library facilities. [Apache-2.0]
 * [nvthreads](https://github.com/HewlettPackard/nvthreads) - A library for enabling efficient and persistent threading in C/C++. [LGPL-2.1]
+* [SyclParallelSTL](https://github.com/KhronosGroup/SyclParallelSTL) - Open Source Parallel STL implementation.
 
 ## Configuration
 *Configuration files, INI files*
@@ -595,6 +604,12 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [harfbuzz](https://github.com/harfbuzz/harfbuzz) - A text shaping engine. [Old MIT]
 * [libschrift](https://github.com/tomolt/libschrift) - A lightweight TrueType font rendering library. [ISC]
 * [SheenBidi](https://github.com/Tehreer/SheenBidi) - A sophisticated implementation of Unicode Bidirectional Algorithm. [Apache-2.0]
+* [Slug](https://github.com/EricLengyel/Slug) - Reference code for the Slug Algorithm.
+* [Sluggish](https://github.com/mightycow/Sluggish) - Toy CPU and GPU implementations of the Slug rendering algorithm
+* [slughorn](https://github.com/AlphaPixel/slughorn) - Library for shoehorning the Slug text/graphics GPU rendering library into projects.
+- [osgSlug](https://github.com/AlphaPixel/osgSlug) - Slug support for OpenSceneGraph via SlugHorn
+* [quesoglc](https://quesoglc.sourceforge.io/) - The OpenGL Character Renderer (GLC) is a state machine that provides OpenGL programs with character rendering services via an application programming interface (API).
+* [vectorfontstorm](https://github.com/VoxelStorm-Ltd/vectorfontstorm) - VectorFontStorm - C++ vector font rendering library for OpenGL 3D text rendering, by VoxelStorm
 
 ## Game Engine
 
@@ -629,6 +644,10 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [toy engine](https://github.com/hugoam/toy) - toy is a thin and modular c++ game engine and offers simple expressive c++ idioms to design full featured 2D or 3D games in fast iterations.
 * [Urho3D](https://urho3d.github.io/) - A free lightweight, cross-platform 2D and 3D game engine implemented in C++. Greatly inspired by OGRE and Horde3D. [MIT]
 * [ezEngine](https://github.com/ezEngine/ezEngine) - Is a free, open-source game engine written in C++. Its philosophy is to be modular and flexible, such that it can be adapted to many different use cases. [MIT] [website](https://ezengine.net/)
+* [vectorstorm](https://github.com/vectorstorm/vectorstorm) - rapid prototyping game library
+* [filament](https://github.com/google/filament) - Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2
+* [B3DFramework](https://github.com/GameFoundry/B3DFramework) - Modern C++ library for the development of real-time graphical applications
+* [magnum](https://github.com/mosra/magnum) - Lightweight and modular C++11 graphics middleware for games and data visualization
 
 ## Graph
 
@@ -664,6 +683,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Sciter](http://sciter.com/) - Sciter is an embeddable HTML/CSS/scripting engine aimed to be used as an UI layer of modern desktop applications. [Free/Commercial]
 * [Slint](https://github.com/slint-ui/slint) - Lightweight GUI toolkit for desktop and embedded. [GPL/Free/Proprietary] [website](https://slint.dev/)
 * [TGUI](https://github.com/texus/TGUI) - Cross-platform modern c++ GUI. [Zlib] [website](https://tgui.eu/)
+* [guistorm](https://github.com/VoxelStorm-Ltd/guistorm) - C++ GUI library by VoxelStorm
 * [WebUI](https://github.com/webui-dev/webui) - Use any web browser as GUI, with your preferred language in the backend and HTML5 in the frontend. [MIT] [website](https://webui.me/)
 * [wxCharts](https://github.com/wxIshiko/wxCharts) - A library to create charts in wxWidgets applications. [MIT] [website](https://www.wxishiko.com/wxCharts/)
 * [wxWidgets](http://wxwidgets.org/) - A C++ library that lets developers create applications for Windows, Mac OS X, Linux and other platforms with a single code base. [Own LGPL]
@@ -850,6 +870,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [P7Baical](http://baical.net/p7.html) - An open source and cross-platform library for high-speed sending telemetry & trace data  with minimal usage of CPU and memory. [LGPL]
 * [Quill](https://github.com/odygrd/quill) - Asynchronous cross platform low latency logging library. [MIT]
 * [logfault](https://github.com/jgaa/logfault) - A simple, elegant and efficient C++ header-only logging library. [MIT]
+* [logstorm](https://github.com/VoxelStorm-Ltd/logstorm) - C++ logging library by VoxelStorm.
 
 ## Machine Learning
 
@@ -939,6 +960,42 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [fastmod](https://github.com/lemire/fastmod) - Header-only fast C/C++ library for computing remainders and modular reductions. [Apache-2.0]
 * [Spectra](https://github.com/yixuan/spectra) - A C++ library for large scale eigenvalue problems, built on top of Eigen. [MPL2] [website](https://spectralib.org)
 * [FastNoiseSIMD](https://github.com/Auburns/FastNoiseSIMD) - A library for SIMD-accelerated noise generation functions. [MIT]
+* [xcmath](https://github.com/xcrtp/xcmath) - xcmath is a modern C++20 header-only linear algebra library providing vec<T, N> and mat<T, R, C> types with a CRTP-based method composition framework.
+* [smath](https://github.com/slendidev/smath) - Single-file linear algebra library for C++23.
+* [sleef](https://github.com/shibatch/sleef) - SIMD Library for Evaluating Elementary Functions, vectorized libm and DFT.
+* [petsc](https://gitlab.com/petsc/petsc/-/edit/release/doc/index.md) - PETSc, the Portable, Extensible Toolkit for Scientific Computation, pronounced PET-see (/ˈpɛt-siː/), is for the scalable (parallel) solution of scientific applications modeled by partial differential equations (PDEs).
+* [ctmd](https://github.com/uonrobotics/ctmd/) - CTMD: Compile-Time Multi-Dimensional matrix library.
+* [Terathon-Math-Library](https://github.com/EricLengyel/Terathon-Math-Library) - C++ math library for 2D/3D/4D vector, matrix, quaternion, and geometric algebra.
+* [ITK](https://github.com/InsightSoftwareConsortium/ITK) - Insight Toolkit (ITK) -- Official Repository. ITK builds on a proven, spatially-oriented architecture for processing, segmentation, and registration of scientific images in two, three, or more dimensions.
+* [vxl/vnl](https://github.com/vxl/vxl/tree/master/core/vnl) - A multi-platform collection of C++ software libraries for Computer Vision and Image Understanding. Numerics Library.
+* [oneMath](https://github.com/uxlfoundation/oneMath) - oneAPI Math Library (oneMath)
+* [eve](https://github.com/jfalcou/eve/) - Expressive Vector Engine - SIMD in C++ Goes Brrrr.
+* [qhull](https://github.com/qhull/qhull) - Convex hull, Delaunay triangulation, Voronoi diagrams, Halfspace intersection
+* [highway](https://github.com/google/highway) - Performance-portable, length-agnostic SIMD with runtime dispatch.
+* [version2](https://github.com/vectorclass/version2) - Vector class library, latest version.
+* [mr-math](https://github.com/4J-company/mr-math/) - Linear algebra library for computer graphics
+* [nicemath](https://github.com/nicebyte/nicemath/) - single-header c++ math library.
+* [GTSAM](https://github.com/borglib/gtsam) - GTSAM is a library of C++ classes that implement smoothing and mapping (SAM) in robotics and vision, using factor graphs and Bayes networks as the underlying computing paradigm rather than sparse matrices.
+* [libxsmm](https://github.com/libxsmm/libxsmm/) - Library for specialized dense and sparse matrix operations, and deep learning primitives.
+* [ensmallen](https://github.com/mlpack/ensmallen) - A header-only C++ library for numerical optimization --.
+* [bandicoot](https://gitlab.com/bandicoot-lib/bandicoot-code) - Bandicoot: user-friendly C++ library for GPU accelerated linear algebra, integrating with CUDA, OpenCL, Vulkan
+* [flint](https://github.com/flintlib/flint) - FLINT (Fast Library for Number Theory)
+* [par](https://github.com/prideout/par/) - single-file C libraries from Philip Allan Rideout
+* [kfr](https://github.com/kfrlib/kfr) - Fast, modern C++ DSP framework, FFT, Sample Rate Conversion, FIR/IIR/Biquad Filters (SSE, AVX, AVX-512, ARM NEON, RISC-V RVV)
+* [libsimdpp](https://github.com/p12tic/libsimdpp/) - Portable header-only C++ low level SIMD library
+* [MatX](https://github.com/NVIDIA/MatX) - An efficient C++20 GPU numerical computing library with Python-like syntax.
+* [cutlass](https://github.com/NVIDIA/cutlass/) - CUDA Templates and Python DSLs for High-Performance Linear Algebra
+* [MathLib](https://github.com/NVIDIA-RTX/MathLib/) - Cross-platform SSE/AVX/NEON-accelerated math library, coming with a common library to be used in HLSL/C++ code.
+* [RTXCR-Geometry-Library](https://github.com/NVIDIA-RTX/RTXCR-Geometry-Library/) - Hair geometry library for RTXCR SDK
+* [TrenchBroom/VmLib](https://github.com/TrenchBroom/TrenchBroom/tree/master/lib/VmLib) - Cross-Platform Quake Level Editor C++ Math library
+* [Q2RTXPerimental/math](https://github.com/PolyhedronStudio/Q2RTXPerimental/tree/master/inc/shared/math/) - Quake 2 RTX C++ Math library
+* [Prey2006/idlib](https://github.com/FriskTheFallenHuman/Prey2006) - Prey 2006 SDK integrated with Doom 3 GPL release
+* [q321/math](https://github.com/andrei-drexler/q321/blob/main/src/engine/math.h) - Quake 3 engine C++ Math library
+* [chronon/math](https://github.com/hogsy/chronon/blob/master/qcommon/include/qcommon/math_vector.h) - Anachronox Quake 2 engine C++ Math Library
+* [fakk2-sdk/math](https://github.com/a1batross/fakk2-sdk/blob/master/source/source/qcommon/vector.h) - Heavy Metal FAKK 2 SDK fixed to build on modern systems Quake 3 engine C++ math library
+* [vectorstorm](https://github.com/VoxelStorm-Ltd/vectorstorm) - C++ Vector mathematics library for computer graphics - VoxelStorm version 
+* [WiredForWar/machines/mathex](https://github.com/WiredForWar/machines/tree/dev/src/libdev/mathex) - Community fork of Machines: Wired for War C++ math library
+* [glsmac/math](https://github.com/afwbkbc/glsmac/tree/main/src/types) - Unofficial open-source OpenGL/SDL2 reimplementation of Sid Meier's Alpha Centauri ( + Alien Crossfire ) C++ math library
 
 ## Memory Allocation
 
