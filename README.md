@@ -894,6 +894,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [CGAL](https://github.com/CGAL/cgal) - Collection of efficient and reliable geometric algorithms. [LGPL&GPL] [website](http://www.cgal.org/)
 * [cml](https://github.com/demianmnave/CML) - The configurable math library. [Boost]
 * [CNL](https://github.com/johnmcfarlane/cnl/) - A Compositional Numeric Library for C++. [Boost]
+* [dichotomia](https://github.com/zem-invictus/dichotomia) - C++23 header-only mathematics library (vectors, matrices, quaternions). [MIT]
 * [DirectXMath](https://github.com/microsoft/DirectXMath) - An all inline SIMD C++ linear algebra library for use in games and graphics apps.
 * [Dlib](https://github.com/davisking/dlib) :zap: - A modern C++11 machine learning, computer vision, numerical optimization, and deep learning toolkit. [Boost] [website](http://dlib.net/)
 * [Eigen](http://eigen.tuxfamily.org/) - A high-level C++ library of template headers for linear algebra, matrix and vector operations, numerical solvers and related algorithms. [MPL2]
