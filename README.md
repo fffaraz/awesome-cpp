@@ -440,7 +440,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [micro-ecc](https://github.com/kmackay/micro-ecc) - A small and fast ECDH and ECDSA implementation for 8-bit, 32-bit, and 64-bit processors. [BSD-2-Clause]
 * [crypto-algorithms](https://github.com/B-Con/crypto-algorithms) - Basic implementations of standard cryptography algorithms (AES, SHA, etc.) in C. [PublicDomain]
 * [aes-stream](https://github.com/jedisct1/aes-stream) - A fast AES-based stream cipher for C. [ISC]
-- [Bolt & Tempest](https://github.com/paim-creater/prng) — High-performance PRNGs: ADC-Bolt (70.3 Gbit/s non-crypto) and 4-cmul Tempest v3 (11.5 Gbit/s CSPRNG, 2^128).Both pass TestU01 BigCrush+Crush & PractRand 1TiB. [MIT]
+- [Bolt & Tempest](https://github.com/paim-creater/prng) — High-performance PRNGs: ADC-Bolt (70.3 Gbit/s non-crypto) and 4-cmul Tempest v3 (17.7 Gbit/s CSPRNG, 2^128).Both pass TestU01 BigCrush+Crush & PractRand 1TiB. [MIT]
 
 ## CSV
 *Libraries for parsing Comma Separated Value (CSV) files*
