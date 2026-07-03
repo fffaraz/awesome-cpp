@@ -941,6 +941,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [fastmod](https://github.com/lemire/fastmod) - Header-only fast C/C++ library for computing remainders and modular reductions. [Apache-2.0]
 * [Spectra](https://github.com/yixuan/spectra) - A C++ library for large scale eigenvalue problems, built on top of Eigen. [MPL2] [website](https://spectralib.org)
 * [FastNoiseSIMD](https://github.com/Auburns/FastNoiseSIMD) - A library for SIMD-accelerated noise generation functions. [MIT]
+* [Wickra](https://github.com/wickra-lib/wickra) - Streaming-first technical-analysis indicators with a C ABI. [MIT] [website](https://docs.wickra.org)
 
 ## Memory Allocation
 
