@@ -414,6 +414,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 * [Bcrypt](http://bcrypt.sourceforge.net/) - A cross platform file encryption utility. Encrypted files are portable across all supported operating systems and processors. [BSD]
 * [BeeCrypt](http://beecrypt.sourceforge.net/) - A portable and fast cryptography library. [LGPLv2.1+]
+* [BoringSSL](https://boringssl.googlesource.com/boringssl) - A fork of OpenSSL that is designed to meet Google's needs. [Apache2]
 * [Botan](http://botan.randombit.net/) - A crypto library for C++. [BSD-2]
 * [Crypto++](https://github.com/weidai11/cryptopp) - A free C++ class library of cryptographic schemes. [Boost] [website](http://www.cryptopp.com/)
 * [digestpp](https://github.com/kerukuro/digestpp) - C++11 header-only message digest (hash) library. [PublicDomain]
