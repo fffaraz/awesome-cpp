@@ -1533,6 +1533,7 @@ regular expression pattern matching. [BSD] [website](https://pcre2project.github
 * [cpplint](https://github.com/cpplint/cpplint) - A C++ style checker following Google's C++ style guide.
 * [PVS-Studio](http://www.viva64.com/en/pvs-studio/) - A tool for bug detection in the source code of programs, written in C, C++ and C#.
 * [cpp-dependencies](https://github.com/tomtom-international/cpp-dependencies) - Tool to check C++ #include dependencies (dependency graphs created in .dot format). [Apache]
+* [cpp-linter-action](https://github.com/cpp-linter/cpp-linter-action) - A GitHub Action for linting C/C++ code with clang-tidy and clang-format, providing feedback as annotations, comments, and reviews. [MIT]
 * [include-what-you-use](https://github.com/include-what-you-use/include-what-you-use) - A tool for use with clang to analyze includes in C and C++ source files. [website](https://include-what-you-use.org/)
 * [Infer](https://github.com/facebook/infer) - A static analyzer for Java, C and Objective-C. [BSD]
 * [OCLint](http://oclint.org/) - A static source code analysis tool to improve quality and reduce defects for C, C++ and Objective-C. - [source](https://github.com/oclint/oclint)
