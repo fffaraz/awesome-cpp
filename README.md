@@ -245,6 +245,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
  * [cli](https://github.com/daniele77/cli) - A cross-platform header only C++14 library for interactive command line interfaces (Cisco style). [Boost]
  * [CLI11](https://github.com/CLIUtils/CLI11) - Header only single or multi-file C++11 library for simple and advanced CLI parsing. [BSD]
  * [clipp](https://github.com/muellan/clipp) - Easy to use, powerful and expressive command line argument handling for C++11/14/17 contained in a single header file. [MIT]
+ * [cpp-argon](https://github.com/SpectraL519/cpp-argon) - Command-Line Argument Parser for C++20. [MIT] [website](https://spectral519.github.io/cpp-argon/latest/)
  * [cpp-terminal](https://github.com/jupyter-xeus/cpp-terminal) - Small header only C++ library for writing multiplatform terminal applications. [MIT]
  * [Crossline](https://github.com/jcwangxp/Crossline) - A small, self-contained, zero-config, MIT licensed, cross-platform, readline and libedit replacement. [MIT]
  * [Ctrl+C](https://github.com/evgenykislov/ctrl-c) - Crossplatform C++11 library to handle Ctrl+C event in custom functions. [MIT]
@@ -634,6 +635,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ## Graph
 
+* [cpp-gl](https://github.com/SpectraL519/cpp-gl) - General-purpose Template Graph and Hypergraph Library for C++23 [MIT] [website](https://spectral519.github.io/cpp-gl/latest/)
 * [CXXGraph](https://github.com/ZigRazor/CXXGraph) - free C++(17) graph header-only library for representation and algorithms execution. [AGPL-3.0]
 * [Graaf](https://github.com/bobluppes/graaf) - A general-purpose lightweight C++20 graph library. [MIT] [website](https://bobluppes.github.io/graaf/)
 
