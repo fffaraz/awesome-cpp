@@ -1715,6 +1715,7 @@ regular expression pattern matching. [BSD] [website](https://pcre2project.github
 # Other Awesome Lists
 *Other amazingly awesome lists*
 
+* [awesome-ai-cpp](https://github.com/anirudhakulkarni/awesome-ai-cpp) - AI and LLM tools for writing, debugging, securing, and migrating C and C++ code (clangd/LSP MCP servers, debugger MCPs, fuzzing, C-to-Rust migration).
 * [lists](https://github.com/jnv/lists) - List of (awesome) lists curated on GitHub.
 * [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness.
 * [awesome](https://github.com/sindresorhus/awesome) :zap: - A curated list of awesome lists.
