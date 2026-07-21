@@ -1322,6 +1322,7 @@ regular expression pattern matching. [BSD] [website](https://pcre2project.github
 * [CCTZ](https://github.com/google/cctz) - a C++ library for translating between absolute and civil times using the rules of a time zone.  [Apache-2.0]
 * [Cheat Sheets of HackingCPP](https://hackingcpp.com/cpp/cheat_sheets.html) - Cool cheat sheets and infographics for algorithms, views, containers, randomness, etc.
 * [Concord](https://github.com/Cogmasters/concord) - A Discord API wrapper library written in C. [MIT] [website](https://cogmasters.github.io/concord)
+* [Conex](https://github.com/DanielCohen197/Conex) - Single-header C++20 library for condition-based binary pattern matching with regex-style syntax and lambda conditions. [MIT]
 * [CPPItertools](https://github.com/ryanhaining/cppitertools) - Range-based for loop add-ons inspired by the Python builtins and itertools library. [BSD-2-Clause]
 * [CPP-JWT](https://github.com/arun11299/cpp-jwt) - JSON Web Token library for C++. [MIT]
 * [cpp-lazy](https://github.com/MarcDirven/cpp-lazy) - a fast and easy lazy evaluation library for C++11/14/17/20. [MIT]
