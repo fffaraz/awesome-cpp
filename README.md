@@ -1389,6 +1389,7 @@ regular expression pattern matching. [BSD] [website](https://pcre2project.github
 * [simdzone](https://github.com/NLnetLabs/simdzone) - Fast and standards compliant DNS zone parser. [BSD-3-Clause]
 * [SimpleSignal](https://github.com/larspensjo/SimpleSignal) - High performance C++11 signals. [PublicDomain]
 * [single_file_libs](https://github.com/r-lyeh/single_file_libs) - C/C++ open-source libraries with minimal dependencies. [Various]
+* [Spicy](https://github.com/zeek/spicy) - C++ parser generator for dissecting protocols & files. [BSD] [website](https://docs.zeek.org/projects/spicy/en/latest/)
 * [Stage](https://github.com/rtv/Stage) - Mobile robot simulator. [GPL2]
 * [stb](https://github.com/nothings/stb) :zap: - A range of single-file libraries for C/C++. [PublicDomain]
 * [stdman](https://github.com/jeaye/stdman) - A tool that parses archived HTML files from [cppreference](https://cppreference.com) and generates groff-formatted manual pages for Unix-based systems. [MIT]
