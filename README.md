@@ -119,6 +119,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [LibU](https://github.com/koanlogic/libu) - A multiplatform utility library written in C. [BSD]
 * [libxutils](https://github.com/kala13x/libxutils) - Simple and yet powerful cross-platform C library providing data structures, algorithms and much more. [MIT]
 * [Loki](https://loki-lib.sourceforge.net/) - A C++ library of designs, containing flexible implementations of common design patterns and idioms. [MIT]
+* [micron.cpp](https://github.com/rfgplk/micron.cpp) - A pure C++ implementation (& redesign) of libc and the Standard Library. [Boost/MIT]
 * [MiLi](https://github.com/MariadeAnton/MiLi) - Minimal headers-only C++ Library. [Boost]
 * [OpenFrameworks](https://github.com/openframeworks/openFrameworks) - A cross platform open source toolkit for creative coding in C++. [MIT] [website](https://www.openframeworks.cc/)
 * [PhotonLibOS](https://github.com/alibaba/PhotonLibOS) - A comprehensive C++ framework featuring efficient user-space threading (coroutine with work-stealing), I/O, networking, RPC, HTTP, etc., and used extensively in Alibaba. It is compatible with C++ 14/17/20/23, Linux, MacOS, x86-64, ARM64, gcc and clang. [Apache2] [website](https://photonlibos.github.io/)
