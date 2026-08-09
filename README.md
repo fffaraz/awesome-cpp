@@ -1037,6 +1037,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [tlse](https://github.com/eduardsui/tlse) - Single C file TLS 1.2/1.3 implementation, using tomcrypt as crypto library [BSD-2-Clause]
 * [TQUIC](https://github.com/tencent/tquic) - A high-performance, lightweight, and cross-platform QUIC library, exposed to C and C++. [Apache2]
 * [Tufão](https://github.com/vinipsmaker/tufao) - An asynchronous web framework for C++ built on top of Qt. [LGPL2]
+* [tachyon](https://github.com/xdearboy/tachyon) - Ultra high-throughput static HTTP/HTTPS engine written in C with Linux kTLS. [MIT]
 * [uriparser](https://github.com/uriparser/uriparser) - Strictly RFC 3986 compliant URI parsing and handling library. [BSD-3-Clause]
 * [uWebSockets](https://github.com/uNetworking/uWebSockets) - µWS is one of the most lightweight, efficient & scalable WebSocket & HTTP server implementations available. [Zlib]
 * [UCall](https://github.com/unum-cloud/ucall) - A high-performance SIMD-accelerated RPC library on io_uring. [Apache2]
