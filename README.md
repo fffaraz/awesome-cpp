@@ -696,6 +696,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [LLGL](https://github.com/LukasBanana/LLGL) - Low Level Graphics Library (LLGL) is a thin abstraction layer for the modern graphics APIs. [BSD-3-Clause]
 * [LunaSVG](https://github.com/sammycage/lunasvg) - a standalone SVG rendering library in C++. [MIT]
 * [magnum](https://github.com/mosra/magnum) - Lightweight and modular C++11/C++14 graphics middleware for games and data visualization. [MIT] [website](https://magnum.graphics)
+* [MESHLIB](https://github.com/meshinspector/meshlib) - An SDK to Supercharge Your 3D Data Processing Efficiency. [Free/Commercial] [website](https://meshlib.io/)
 * [micro-gl](https://github.com/micro-gl/micro-gl) - Realtime, Embeddable, Headers Only C++11 CPU vector graphics. no STD lib, no FPU and no GPU required. [CUSTOM] [website](https://micro-gl.github.io/docs/microgl)
 * [NanoVG](https://github.com/memononen/nanovg) - Antialiased 2D vector drawing library on top of OpenGL for UI and visualizations. [Zlib]
 * [Ogre 3D](https://github.com/OGRECave) :zap: - A scene-oriented, real-time, flexible 3D rendering engine (as opposed to a game engine) written in C++. [MIT] [website](https://www.ogre3d.org)
