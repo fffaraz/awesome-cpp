@@ -383,7 +383,6 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ## Containers
 
-* [C++ B-tree](https://github.com/algorithm-ninja/cpp-btree) - A template library that implements ordered in-memory containers based on a B-tree data structure. [Apache2]
 * [CRoaring](https://github.com/RoaringBitmap/CRoaring) - Roaring bitmaps in C (and C++), with SIMD optimizations. [Apache-2.0]
 * [dynamic_bitset](https://github.com/pinam45/dynamic_bitset) - Simple Useful Libraries: C++17/20 header-only dynamic bitset. [MIT] [website](https://pinam45.github.io/dynamic_bitset/)
 * [fixed-containers](https://github.com/teslamotors/fixed-containers) - Header-only C++20 library that provides fixed capacity constexpr containers. [MIT]
@@ -567,7 +566,6 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [utl::profiler](https://github.com/DmitriBogdanov/UTL/blob/master/docs/module_profiler.md) - Singe-header profiler for C++17. [MIT]
 * [μt](https://github.com/boost-experimental/ut) - C++20 single header/single module, macro-free μ(micro)/Unit Testing Framework. [Boost]
 * [VLD](https://kinddragon.github.io/vld//) - Visual Leak Detector. A free, robust, open-source memory leak detection system for Visual C++.
-* [MTuner](https://github.com/RudjiGames/MTuner) - A C/C++ memory profiler and memory leak finder for Windows, PlayStation, and other platforms. [BSD-2-Clause]
 * [heaptrack](https://github.com/KDE/heaptrack) - A heap memory profiler for Linux. [LGPL-2.1]
 
 ## Documentation
@@ -798,7 +796,6 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [JeayeSON](https://github.com/jeaye/jeayeson) - A very sane (header only) C++ JSON library. [BSD]
 * [Jsmn](https://github.com/zserge/jsmn) - A minimalistic JSON parser in C. [MIT]
 * [json](https://github.com/nlohmann/json) :zap: - JSON for Modern C++. [MIT] [website](https://json.nlohmann.me)
-* [JSON++](https://github.com/hjiang/jsonxx) - A JSON parser in C++. [MIT]
 * [json.cpp](https://github.com/jart/json.cpp) - a baroque JSON parsing / serialization library for C++. [Apache-2.0]
 * [json.h](https://github.com/sheredom/json.h) - A simple one header/one source solution to parsing JSON in C and C++. [Unlicense]
 * [json-build](https://github.com/lcsmuller/json-build) - C89 tiny zero-allocation JSON serializer. [MIT]
@@ -808,7 +805,6 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Jsonifier](https://github.com/RealTimeChris/Jsonifier) - A few classes for parsing and serializing objects from/into JSON - very rapidly. [MIT]
 * [jsonParse](https://github.com/liufeigit/jsonParse) - A simple JSON parser in ANSI C. [MIT]
 * [json-parser](https://github.com/udp/json-parser) - Very low footprint JSON parser written in portable ANSI C. [BSD]
-* [json11](https://github.com/dropbox/json11) - A tiny JSON library for C++11. [MIT]
 * [json-struct](https://github.com/jorgen/json_struct) - High performance, single header JSON parser parsing to and from C++ structs. [MIT]
 * [json-voorhees](https://github.com/tgockel/json-voorhees) - JSON library for C++. Support for C++11. No dependencies, fast and dev-friendly. [Apache2]
 * [JSON Toolkit](https://github.com/sourcemeta/jsontoolkit) - JSON, JSON Pointer, JSON Schema, and JSONL library for C++20. [AGPL/Commercial]
@@ -820,7 +816,6 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [parson](https://github.com/kgabis/parson) - Parson is a lighweight json library written in C. [MIT]
 * [PicoJSON](https://github.com/kazuho/picojson) - A header-file-only, JSON parser serializer in C++. [BSD]
 * [qt-json](https://github.com/gaudecker/qt-json) - A simple class for parsing JSON data into a QVariant hierarchy and vice versa. [GPLv3]
-* [QJson](https://github.com/flavio/qjson) - A qt-based library that maps JSON data to QVariant objects. [LGPL2]
 * [RapidJSON](https://github.com/miloyip/rapidjson) :zap: - A fast JSON parser/generator for C++ with both SAX/DOM style API. [MIT] [website](https://rapidjson.org)
 * [sajson](https://github.com/chadaustin/sajson) - Lightweight, extremely high-performance JSON parser for C++11. [MIT]
 * [simdjson](https://github.com/lemire/simdjson) - Extremely fast JSON library that can parse gigabytes of JSON per second. [Apache-2.0]
@@ -838,7 +833,6 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Blackhole](https://github.com/3Hren/blackhole) - Attribute-based logging framework, which is designed to be fast, modular and highly customizable. [MIT]
 * [Boost.Log](https://github.com/boostorg/log) - Designed to be very modular and extensible. [Boost] [website](https://boost.org/libs/log)
 * [BqLog](https://github.com/Tencent/BqLog) -  A lightweight, high-performance logging system used in projects such as "Honor of Kings". [Apache-2.0]
-* [Easylogging++](https://github.com/amrayn/easyloggingpp) - Extremely light-weight high performance logging library for C++11 (or higher) applications. [MIT]
 * [fmtlog](https://github.com/MengRao/fmtlog) - A performant fmtlib-style logging library with latency in nanoseconds. [MIT]
 * [G3log](https://github.com/KjellKod/g3log) - Asynchronous logger with Dynamic Sinks. [PublicDomain]
 * [glog](https://github.com/google/glog) - C++ implementation of the Google logging module.
@@ -1000,12 +994,10 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [curlcpp](https://github.com/JosephP91/curlcpp) - An object oriented C++ wrapper for CURL(libcurl). [MIT]
 * [curlpp](https://github.com/jpbarrette/curlpp) -C++ wrapper around libcURL. [MIT]
 * [DPDK](https://github.com/DPDK/dpdk) - Data Plane Development Kit, libraries and drivers for fast packet processing. [BSD-3-Clause & GPL-2.0] [website](https://www.dpdk.org/)
-* [Dyad.c](https://github.com/rxi/dyad) - Asynchronous networking for C. [MIT]
 * [ENet](https://github.com/lsalzman/enet) - Reliable UDP networking library. [MIT] [website](https://enet.bespin.org/)
 * [evpp](https://github.com/Qihoo360/evpp) - C++ high performance networking with TCP/UDP/HTTP protocols. [BSD]
 * [FTP client for C++](https://github.com/embeddedmz/ftpclient-cpp) - C++ client for making FTP requests. [MIT]
 * [H2O](https://github.com/h2o/h2o) - An optimized HTTP server with support for HTTP/1.x and HTTP/2. It can also be used as a library. [MIT]
-* [HTTP Parser](https://github.com/nodejs/http-parser) :zap: - A http request/response parser for C. [MIT]
 * [KCP](https://github.com/skywind3000/kcp/blob/master/README.en.md) - A fast and reliable ARQ protocol that helps applications to reduce network latency. [MIT]
 * [libcurl](https://curl.haxx.se/libcurl/) - Multiprotocol file transfer library. [MIT/X derivate license]
 * [libhttpserver](https://github.com/etr/libhttpserver) - C++ library for creating an embedded Rest HTTP server (and more). [LGPL2.1]
@@ -1112,7 +1104,6 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [magic_get](https://github.com/apolukhin/magic_get) - std::tuple like methods for user defined types without any macro or boilerplate code. [Boost]
 * [meta](https://github.com/skypjack/meta) - Header-only, non-intrusive and macro-free runtime reflection system in C++. [MIT]
 * [Nameof](https://github.com/Neargye/nameof) - Header-only C++17 library provides nameof macros and functions to obtain the simple name of variable, type, function, macro, and enum. [MIT]
-* [Ponder](https://github.com/billyquith/ponder) - A C++11 library for reflection. [MIT]
 * [REFLECT](https://github.com/qlibs/reflect) - C++20 Static Reflection library. [MIT]
 * [reflect-cpp](https://github.com/getml/reflect-cpp) - Serialization through reflection, including automatic field name retrieval from structs. [MIT]
 * [RTTR](https://github.com/rttrorg/rttr) - A C++11 library for reflection. [MIT] [website](https://www.rttr.org)
@@ -1481,7 +1472,6 @@ regular expression pattern matching. [BSD] [website](https://pcre2project.github
 * [CLion](https://www.jetbrains.com/clion/) - Cross-platform C and C++ IDE from JetBrains.
 * [Code::Blocks](https://www.codeblocks.org/) - A free C, C++ and Fortran IDE.
 * [CodeLite](https://codelite.org/) - Another cross-platform, free C and C++ IDE. [GPL2 with an exception for plugins]
-* [color_coded](https://github.com/jeaye/color_coded) - A vim plugin for libclang-based highlighting. [MIT]
 * [Dev-C++](https://sourceforge.net/projects/orwelldevcpp/) - A portable C/C++/C++11 IDE.
 * [Eclipse CDT](https://www.eclipse.org/cdt/) - A fully functional C and C++ IDE based on the Eclipse platform.
 * [Embarcadero Dev-CPP](https://github.com/Embarcadero/Dev-Cpp) - A fork of Dev-C++ that comes preinstalled with new themes and modern compilers. [GPLv2] [website](https://www.embarcadero.com/free-tools/dev-cpp)
@@ -1497,7 +1487,6 @@ regular expression pattern matching. [BSD] [website](https://pcre2project.github
 * [rtags](https://github.com/Andersbakken/rtags) - A c/c++ client/server indexer with for integration with emacs based on clang.
 * [Xcode](https://developer.apple.com/xcode/) - Developed by Apple.
 * [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) - YouCompleteMe is a fast, as-you-type, fuzzy-search code completion engine for Vim.
-* [cquery](https://github.com/cquery-project/cquery/) - A C++ code completion engine for vscode, emacs, vim, etc.
 * [C Playground - Online C Programming IDE](https://programiz.pro/ide/c) - An online IDE to practice C Programming where you can write, edit, and run code online.
 
 ## Build Systems
