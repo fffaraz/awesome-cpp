@@ -284,14 +284,14 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [FSST](https://github.com/cwida/fsst) - efficient random-access string compression. [MIT]
 * [heatshrink](https://github.com/atomicobject/heatshrink) - data compression library for embedded/real-time systems  [ISC]
 * [Kanzi](https://github.com/flanglet/kanzi-cpp) - a modern, modular, portable and efficient lossless data compressor implemented in C++. [Apache-2.0]
-* [KArchive](https://api.kde.org/frameworks/karchive/html/index.html) - A library for creating, reading, writing and manipulating file archives like zip and tar. It also provides transparent compression and decompression of data, using formats like gzip, via a subclass of QIODevice. [LGPL]
+* [KArchive](https://api.kde.org/karchive-index.html) - A library for creating, reading, writing and manipulating file archives like zip and tar. It also provides transparent compression and decompression of data, using formats like gzip, via a subclass of QIODevice. [LGPL]
 * [libarchive](https://github.com/libarchive/libarchive) - Multi-format archive and compression library. [New BSD] [website](https://www.libarchive.org/)
 * [LZ4](https://github.com/lz4/lz4) - Extremely Fast Compression algorithm. [BSD] [website](https://www.lz4.org/)
 * [LZAV](https://github.com/avaneev/lzav) - Fast In-Memory Data Compression Algorithm. [MIT]
 * [LZFSE](https://github.com/lzfse/lzfse) - LZFSE compression library and command line tool. Developed by Apple.
 * [LZHAM](https://code.google.com/p/lzham/) - Lossless data compression library with a compression ratio similar to LZMA but with much faster decompression. [BSD]
 * [LZMA](https://sourceforge.net/projects/sevenzip/files/7-Zip) :zap: - The default and general compression method of 7z format. [PublicDomain] [website](https://www.7-zip.org)
-* [LZMAT](https://www.matcode.com/lzmat.htm) - An extremely fast real-time lossless data compression library. [GPL]
+* [LZMAT](https://github.com/nemequ/lzmat) - An extremely fast real-time lossless data compression library. [GPL]
 * [miniz](https://github.com/richgel999/miniz) - Single C source file Deflate/Inflate compression library with zlib-compatible API, ZIP archive reading/writing, PNG writing. [MIT]
 * [Minizip](https://github.com/nmoinvaz/minizip) - Zlib with latest bug fixes that supports PKWARE disk spanning, AES encryption, and IO buffering. [zlib]
 * [minizip-ng](https://github.com/zlib-ng/minizip-ng) - Fork of the popular zip manipulation library found in the zlib distribution. [zlib]
@@ -356,7 +356,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [stdgpu](https://github.com/stotko/stdgpu) - Efficient STL-like Data Structures on the GPU. [Apache2]
 * [Taskflow](https://github.com/taskflow/taskflow) - A General-purpose Parallel and Heterogeneous Task Programming System. (renamed from Cpp-Taskflow) [MIT]
 * [ThreadPool](https://github.com/progschj/ThreadPool) - A simple C++11 Thread Pool implementation [zlib]
-* [Thrust](https://thrust.github.io/) - A parallel algorithms library which resembles the C++ Standard Template Library (STL). [Apache2]
+* [Thrust](https://developer.nvidia.com/thrust) - A parallel algorithms library which resembles the C++ Standard Template Library (STL). [Apache2]
 * [TooManyCooks](https://github.com/tzcnt/TooManyCooks/) - High-performance C++20 coroutine framework with advanced hardware detection features. [BSL-1.0]
 * [transwarp](https://github.com/bloomen/transwarp) - A header-only C++ library for task concurrency. [MIT]
 * [VexCL](https://github.com/ddemidov/vexcl) - A C++ vector expression template library for OpenCL/CUDA. [MIT]
@@ -468,7 +468,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [hiberlite](https://github.com/paulftw/hiberlite) - C++ Object-relational mapping for sqlite3. [BSD]
 * [Hiredis](https://github.com/redis/hiredis) - A minimalistic C client library for the Redis database. [BSD]
 * [Infinity](https://github.com/infiniflow/infinity) - The AI-native database built for LLM applications, providing incredibly fast vector and full-text search. [Apache2]
-* [Kuzu](https://github.com/kuzudb/kuzu) - Embeddable property graph database management system built for query speed and scalability. Implements Cypher. [MIT] [website](https://kuzudb.com/)
+* [Kuzu](https://github.com/kuzudb/kuzu) - Embeddable property graph database management system built for query speed and scalability. Implements Cypher. [MIT]
 * [Kvrocks](https://github.com/apache/incubator-kvrocks) - A distributed key value NoSQL database that uses RocksDB as storage engine and is compatible with Redis protocol. [Apache2]
 * [Ladybug](https://github.com/LadybugDB/ladybug) - an embedded graph database built for query speed and scalability. [MIT] [website](https://ladybugdb.com/)
 * [LevelDB](https://github.com/google/leveldb) - A fast key-value storage library written at Google that provides an ordered mapping from string keys to string values. [BSD]
@@ -623,7 +623,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Oxygine](https://oxygine.org/) - A cross-platform 2D C++ game engine. [MIT]
 * [Panda3D](https://github.com/panda3d/panda3d) - A game engine, a framework for 3D rendering and game development for Python and C++ programs. [Modified BSD] [website](https://www.panda3d.org/)
 * [PixelGameEngine](https://github.com/OneLoneCoder/olcPixelGameEngine) - The official distribution of olcPixelGameEngine, a tool used in javidx9's YouTube videos and projects. [OLC3]
-* [Polycode](https://github.com/ivansafrin/Polycode) - A cross-platform framework for creative code in C++ (with Lua bindings). [MIT] [website](https://polycode.org/)
+* [Polycode](https://github.com/ivansafrin/Polycode) - A cross-platform framework for creative code in C++ (with Lua bindings). [MIT]
 * [quakeforge](https://github.com/quakeforge/quakeforge) - Actively maintained branch of the original Quake engine code with 20+ years of development. [GPL-2.0]
 * [raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming. [zlib/libpng] [website](https://www.raylib.com/)
 * [Spring](https://github.com/spring/spring) - A powerful free cross-platform RTS game engine. [GPLv2/GPLv3] [website](https://springrts.com/)
@@ -1369,7 +1369,6 @@ regular expression pattern matching. [BSD] [website](https://pcre2project.github
 * [RapidFuzz](https://github.com/rapidfuzz/rapidfuzz-cpp) - Rapid fuzzy string matching in C++ using the Levenshtein Distance. [MIT] [website](https://rapidfuzz.github.io/rapidfuzz-cpp/)
 * [rapidhash](https://github.com/Nicoshev/rapidhash) - Very fast, high quality, platform-independent hashing algorithm. [BSD-2-Clause]
 * [Reaction](https://github.com/lumia431/reaction) - A lightweight, header-only reactive programming framework leveraging modern C++20 features for building efficient dataflow applications. [MIT]
-* [Remote Call Framework](https://www.deltavsoft.com/) - Inter-process communication framework for C++. [GPL2/Proprietary]
 * [reproc](https://github.com/DaanDeMeyer/reproc) - A cross-platform (C99/C++11) process library. [MIT]
 * [SafetyHook](https://github.com/cursey/safetyhook) - C++23 procedure hooking library. [BSL-1.0]
 * [scnlib](https://github.com/eliaskosunen/scnlib) - scanf for modern C++. [Apache-2.0] [website](https://v1.scnlib.dev/)
@@ -1669,7 +1668,6 @@ regular expression pattern matching. [BSD] [website](https://pcre2project.github
 * [C++ Hints](https://cpphints.com/) - Every business day hints about most often C++ mistakes and ways to solve them from PVS-Studio Team.
 * [C++ tutorial](https://hackr.io/tutorials/learn-c-plus-plus) - A user ranked online tutorial bank site displaying multiple courses to learn C++ from.
 * [C++ Tutorial for Beginners](https://www.scaler.com/topics/cpp) - A comprenhensive tutorial on C++ curated by trained experts.
-* [cppexpert.online](https://cppexpert.online) - Learn the best C++ practices by improving code snippets with some problems or with bad practices.
 * [C++ for yourself](https://github.com/cpp-for-yourself) - A comprehensive tutorial on modern C++ covering everything from fundamentals to software design.
 * [CompileBytes C++ Compiler](https://www.compilebytes.com/tools/cpp) – Online C++ compiler and interactive code execution environment.
 * [C++ Resources](https://andreasfertig.com/cpp-resources/) - A collection of C++ resources including books, articles, and tools.
@@ -1689,7 +1687,7 @@ regular expression pattern matching. [BSD] [website](https://pcre2project.github
 * [Simplify C++](https://arne-mertz.de/)
 * [Fluent C++](https://www.fluentcpp.com/)
 * [Bartek's Coding Blog](https://www.bfilipek.com/?m=1)
-* [Kenny Kerr](https://kennykerr.ca/articles/)
+* [Kenny Kerr](https://kennykerr.ca/)
 * [Sutter’s Mill](https://herbsutter.com/gotw/)
 * [Vorbrodt's C++ Blog](https://vorbrodt.blog/)
 * [foonathan::blog()](https://foonathan.net/index.html)
@@ -1714,7 +1712,7 @@ regular expression pattern matching. [BSD] [website](https://pcre2project.github
 * [awesome](https://github.com/sindresorhus/awesome) :zap: - A curated list of awesome lists.
 * [C++ links](https://github.com/MattPD/cpplinks) - A categorized list of C++ resources.
 * [Awesome C++](https://cpp.libhunt.com/) - LibHunt's mirror.
-* [Awesome C](https://notabug.org/koz.ross/awesome-c) 1
+* [Awesome C](https://github.com/oz123/awesome-c) 1
 * [Awesome C](https://github.com/aleksandar-todorovic/awesome-c) 2
 * [Awesome Modern C++](https://github.com/rigtorp/awesome-modern-cpp) - A collection of resources on modern C++.
 * [AwesomePerfCpp](https://github.com/fenbf/AwesomePerfCpp) - A curated list of awesome C/C++ performance optimization resources.
