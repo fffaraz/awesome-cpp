@@ -471,6 +471,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Kuzu](https://github.com/kuzudb/kuzu) - Embeddable property graph database management system built for query speed and scalability. Implements Cypher. [MIT] [website](https://kuzudb.com/)
 * [Kvrocks](https://github.com/apache/incubator-kvrocks) - A distributed key value NoSQL database that uses RocksDB as storage engine and is compatible with Redis protocol. [Apache2]
 * [Ladybug](https://github.com/LadybugDB/ladybug) - an embedded graph database built for query speed and scalability. [MIT] [website](https://ladybugdb.com/)
+* [Leaves](https://github.com/kochelmonster/leaves) - A high-performance, header-only C++20 embedded key-value database with ACID transactions, snapshots, lock-free readers, multi-writer support, and deterministic replication. [Leaves Community License 1.0]
 * [LevelDB](https://github.com/google/leveldb) - A fast key-value storage library written at Google that provides an ordered mapping from string keys to string values. [BSD]
 * [libpg_query](https://github.com/pganalyze/libpg_query) - C library for accessing the PostgreSQL parser outside of the server environment. [BSD-3-Clause]
 * [libpqxx](https://github.com/jtv/libpqxx) - The official C++ client API for PostgreSQL. [BSD-3-Clause]
