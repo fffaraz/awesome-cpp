@@ -140,6 +140,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [xtd](https://github.com/gammasoft71/xtd) - Modern C++20 framework to create console (CLI), forms (GUI) and unit tests (xUnit) applications on Windows, macOS, Linux, iOS, Android, FreeBSD and Haiku. [MIT]
 * [Yomm2](https://github.com/jll63/yomm2) - Fast, Orthogonal, Open multi-methods. Supersedes [Yomm11](https://github.com/jll63/yomm11) [Boost]
 * [YUP!](https://github.com/kunitoki/yup) - The modern framework optimized for realtime audio and GPU-native creative software [ISC]
+* [ncpp](https://github.com/vlad441/ncpp) - A minimalistic cross-platform system library, supporting C++98 and above with minimal external dependencies. [PD]
 
 ## Artificial Intelligence
 
