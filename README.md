@@ -383,6 +383,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ## Containers
 
+* [bytell_hash_map](https://github.com/skarupke/bytell_hash_map) - A very fast header-only hash map using byte-sized telltale entries. [BSL-1.0]
 * [CRoaring](https://github.com/RoaringBitmap/CRoaring) - Roaring bitmaps in C (and C++), with SIMD optimizations. [Apache-2.0]
 * [dynamic_bitset](https://github.com/pinam45/dynamic_bitset) - Simple Useful Libraries: C++17/20 header-only dynamic bitset. [MIT] [website](https://pinam45.github.io/dynamic_bitset/)
 * [fixed-containers](https://github.com/teslamotors/fixed-containers) - Header-only C++20 library that provides fixed capacity constexpr containers. [MIT]
