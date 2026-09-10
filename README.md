@@ -1249,6 +1249,7 @@ regular expression pattern matching. [BSD] [website](https://pcre2project.github
 * [Theora](https://www.theora.org/) - A free and open video compression format. [BSD]
 * [Vireo](https://github.com/twitter/vireo/) - A lightweight and versatile video processing library by Twitter. [MIT]
 * [libuvc](https://github.com/libuvc/libuvc) - A cross-platform library for USB video devices. [BSD]
+* [FluxCap](https://github.com/sxyyds/fluxcap) - Low-latency Windows screen capture (WGC / Desktop Duplication) with a GPU-only processing chain and hardware H.264/HEVC/AV1 encoding. [MIT]
 
 ## Virtual Machines
 
