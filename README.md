@@ -154,6 +154,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [PyTorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration. [website](https://pytorch.org)
 * [flashlight](https://github.com/flashlight/flashlight) - Flashlight is a fast, flexible machine learning library written entirely in C++. [BSD]
 * [Recast/Detour](https://github.com/recastnavigation/recastnavigation) - (3D) Navigation mesh generator and pathfinder, mostly for games. [zlib]
+* [Robointuition](https://www.robointuition.net) - Fully local, offline AI coding assistant for secure and private development workflows. C programming.
 * [TensorFlow](https://github.com/tensorflow/tensorflow) - An open source software library for numerical computation using data flow graphs. [Apache]
 * [Txeo](https://github.com/rdabra/txeo) - A modern C++ wrapper for TensorFlow. [Apache]
 * [oneDNN](https://github.com/oneapi-src/oneDNN) - An open-source cross-platform performance library for deep learning applications. [Apache] [website](https://01.org/onednn)
