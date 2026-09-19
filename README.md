@@ -261,6 +261,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
  * [linenoise-ng](https://github.com/arangodb/linenoise-ng) - A small, portable GNU readline replacement for Linux, Windows and MacOS which is capable of handling UTF-8 characters. [BSD]
  * [Lyra](https://github.com/bfgroup/Lyra) - A simple to use, composable, command line parser for C++ 11 and beyond. [Boost]
  * [Ncurses](https://invisible-island.net/ncurses/) - A terminal user interface. [MIT]
+ * [FINAL CUT](https://github.com/gansm/finalcut) - A terminal user interface, a modern replacement for Ncurses. [LGPLv3+]
  * [oof](https://github.com/s9w/oof) - Convenient, high-performance RGB color and position control for console output. [MIT]
  * [PDCurses](https://github.com/wmcbrine/PDCurses) - Public domain curses library with both source code and pre-compiled library available. [PublicDomain]
  * [popl](https://github.com/badaix/popl) - A single-header templated command line arguments and ini file parser for C++ 11 and beyond. [MIT]
