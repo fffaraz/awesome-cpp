@@ -2,6 +2,7 @@
 Please ensure your pull request adheres to the following guidelines:
 
 * **SPAM PR => Instant Block & Report**
+* **PRs by accounts created after 2023 or for repos created after 2023 will also result in an instant block and report.**
 * This is not a comprehensive list of software made with C++; it focuses on libraries that can be used in C++ code.
 * Please search previous suggestions before making a new one, as yours may be a duplicate.
 * Please make an individual pull request for each suggestion.
