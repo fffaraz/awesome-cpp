@@ -545,6 +545,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [DebugViewPP](https://github.com/CobaltFusion/DebugViewPP) - Debug logging viewer. [Boost]
 * [Deleaker](https://www.deleaker.com) - A tool for resource leak detection, including memory, GDI and handle leaks.
 * [FakeIt](https://github.com/eranpeer/FakeIt) - Simple mocking framework for C++. [MIT]
+* [fcfTest](https://github.com/fcf-framework/fcfTest) - Lightweight header-only C++11 testing framework with auto-variable output, logging, benchmarking, fixtures, and parameterized tests. [MIT]
 * [fff](https://github.com/meekrosoft/fff) - A micro-framework for creating fake C functions. [MIT]
 * [Google Mock](https://github.com/google/googletest/blob/master/googlemock/README.md) - A library for writing and using C++ mock classes. [BSD]
 * [Google Test](https://github.com/google/googletest) - Google C++ Testing Framework. [BSD]
