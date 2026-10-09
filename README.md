@@ -336,6 +336,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Intel Parallel STL](https://github.com/intel/parallelstl) - Intel® implementation of C++17 STL for C++11 and above. [Apache2]
 * [Intel TBB](https://www.threadingbuildingblocks.org/) - Intel® Threading Building Blocks. [Apache2]
 * [junction](https://github.com/preshing/junction) - A library of concurrent data structures in C++. [BSD]
+* [Kaspar-HFT](https://github.com/vincent212/kaspar-hft) - A C++20 actor framework and trading system with synchronous message delivery (fast_send), order-book reconstruction and a queue-exact replay simulator. [MIT]
 * [Kokkos](https://github.com/kokkos/kokkos) - A performance portable programming model for parallel execution and memory abstraction. [BSD]
 * [libcds](https://github.com/khizmax/libcds) - A C++ library of Concurrent Data Structures. [BSD]
 * [Libclsph](https://github.com/libclsph/libclsph) - An OpenCL based GPU accelerated SPH fluid simulation library. [MIT]
