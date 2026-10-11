@@ -1047,6 +1047,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Zyre](https://github.com/zeromq/zyre) - Local Area Clustering for Peer-to-Peer Applications. [MPL2]
 * [easyhttpcpp](https://github.com/sony/easyhttpcpp) - A cross-platform HTTP client library providing a caching facility from Sony. [MIT]
 * [GameNetworkingSockets](https://github.com/ValveSoftware/GameNetworkingSockets) - Reliable & unreliable messages over UDP by Valve. Connection-oriented API (like TCP). [BSD-3-Clause]
+* [Game-TCP-Speed](https://github.com/fun3588/game-tcp-speed) - Lightweight Windows process-level TCP game accelerator and proxy tunneling utility using Winsock API hooking. [MIT]
 * [wepoll](https://github.com/piscisaureus/wepoll) - A Windows epoll wrapper based on Winsock. [BSD-2-Clause]
 
 ## Office Open XML
