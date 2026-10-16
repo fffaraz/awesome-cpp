@@ -1445,6 +1445,7 @@ regular expression pattern matching. [BSD] [website](https://pcre2project.github
 ## Online Compiler
 *List of online C or C++ compilers*
 
+* [Coddy](https://coddy.tech/playground/cpp) - A free online C++ compiler with stdin support and no sign-up.
 * [codechef](https://www.codechef.com/ide) - A simple online compiler CodeChef.
 * [coliru](https://coliru.stacked-crooked.com/) - Online compiler/shell with support for various C++ compilers.
 * [Compiler Explorer](https://gcc.godbolt.org/) - An interactive compiler with assembly output available.
