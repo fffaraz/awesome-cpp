@@ -9,6 +9,7 @@
 
 * [Fruit](https://github.com/google/fruit) - A dependency injection framework for C++.
 
+https://home.cs.colorado.edu/~main/cs1300/doc/bgi/
 
 https://www.enlightenment.org/p.php?p=about/efl
 https://github.com/stefanct/sglib
