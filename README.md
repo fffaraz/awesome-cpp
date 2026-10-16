@@ -182,13 +182,13 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [AudioFile](https://github.com/adamstark/AudioFile) - A simple C++ library for reading and writing audio files. [MIT]
 * [audioFlux](https://github.com/libAudioFlux/audioFlux) - A C library for audio and music analysis, feature extraction. [MIT]
 * [dr_libs](https://github.com/mackron/dr_libs) - Single file audio decoding libraries for C and C++. [Unlicense]
-* [FMOD](https://www.fmod.org/) - An easy to use crossplatform audio engine and audio content creation tool for games. [Free for non-commercial/Commercial]
+* [FMOD](https://www.fmod.org/) - An easy to use cross-platform audio engine and audio content creation tool for games. [Free for non-commercial/Commercial]
 * [KFR](https://www.kfrlib.com/) - Fast, modern C++ DSP framework, FFT, FIR/IIR filters, Sample Rate Conversion. [GPL/Proprietary]
 * [LAME](https://lame.sourceforge.io/using.php) - LAME is a high quality MPEG Audio Layer III (MP3) encoder. [LGPL]
 * [libsndfile](https://github.com/erikd/libsndfile/) - C library with C++ wrapper for reading and writing files containing sampled sound through one standard library interface. [LGPL-2.1] [website](https://www.mega-nerd.com/libsndfile/)
 * [libsoundio](https://github.com/andrewrk/libsoundio) - C library for cross-platform real-time audio input and output. [MIT] [website](https://libsound.io/)
 * [Maximilian](https://github.com/micknoise/Maximilian) - C++ Audio and Music DSP Library. [MIT]
-* [OpenAL](https://www.openal.org/) - Open Audio Library - A crossplatform audio API. [BSD/LGPL/Proprietary]
+* [OpenAL](https://www.openal.org/) - Open Audio Library - A cross-platform audio API. [BSD/LGPL/Proprietary]
 * [miniaudio](https://github.com/mackron/miniaudio) - Single file audio playback and capture library. [Unlicense] [website](https://miniaud.io/)
 * [ni-media](https://github.com/NativeInstruments/ni-media) - C++ library for reading and writing audio files. [MIT]
 * [Opus](https://opus-codec.org/) - A totally open, royalty-free, highly versatile audio codec. [BSD]
@@ -247,7 +247,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
  * [clipp](https://github.com/muellan/clipp) - Easy to use, powerful and expressive command line argument handling for C++11/14/17 contained in a single header file. [MIT]
  * [cpp-terminal](https://github.com/jupyter-xeus/cpp-terminal) - Small header only C++ library for writing multiplatform terminal applications. [MIT]
  * [Crossline](https://github.com/jcwangxp/Crossline) - A small, self-contained, zero-config, MIT licensed, cross-platform, readline and libedit replacement. [MIT]
- * [Ctrl+C](https://github.com/evgenykislov/ctrl-c) - Crossplatform C++11 library to handle Ctrl+C event in custom functions. [MIT]
+ * [Ctrl+C](https://github.com/evgenykislov/ctrl-c) - Cross-platform C++11 library to handle Ctrl+C event in custom functions. [MIT]
  * [cxxopts](https://github.com/jarro2783/cxxopts) - Lightweight C++ command line option parser. [MIT]
  * [docopt.cpp](https://github.com/docopt/docopt.cpp) - A library to generate option parser from docstring. [MIT/Boost]
  * [FINAL CUT](https://github.com/gansm/finalcut) - Library for creating terminal applications with text-based widgets. [LGPL]
@@ -816,7 +816,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [libjson](https://sourceforge.net/projects/libjson/) - Lightweight JSON library. [?]
 * [LIBUCL](https://github.com/vstakhov/libucl) :zap: - Universal configuration library parser. [BSD-2-Clause]
 * [meojson](https://github.com/MistEO/meojson) - Next-gen C++ JSON/JSON5 Serialization Engine | Zero Dependency | Header-Only | Unleash JSON Potential. [MIT]
-* [parson](https://github.com/kgabis/parson) - Parson is a lighweight json library written in C. [MIT]
+* [parson](https://github.com/kgabis/parson) - Parson is a lightweight JSON library written in C. [MIT]
 * [PicoJSON](https://github.com/kazuho/picojson) - A header-file-only, JSON parser serializer in C++. [BSD]
 * [qt-json](https://github.com/gaudecker/qt-json) - A simple class for parsing JSON data into a QVariant hierarchy and vice versa. [GPLv3]
 * [RapidJSON](https://github.com/miloyip/rapidjson) :zap: - A fast JSON parser/generator for C++ with both SAX/DOM style API. [MIT] [website](https://rapidjson.org)
