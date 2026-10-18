@@ -1271,6 +1271,7 @@ regular expression pattern matching. [BSD] [website](https://pcre2project.github
 * [Drogon](https://github.com/an-tao/drogon) - A C++17/20 based, high-performance HTTP application framework. [MIT]
 * [C++ wfrest](https://github.com/wfrest/wfrest) - C++ Web Framework REST API. [Apache2]
 * [facil.io](https://github.com/boazsegev/facil.io) - Evented, high performance C web framework supporting HTTP, WebSockets, SSE and more. [MIT] [website](https://facil.io)
+* [Hical](https://github.com/Hical61/Hical) - High-performance C++20/26 web framework on Boost.Asio with zero-copy HTTP parsing, native WebSocket and C++26 reflection routing. [MIT]
 * [Kore](https://kore.io/) - ultra fast and flexible web server / framework for web applications developed in C. [ISC]
 * [libOnion](https://www.coralbits.com/libonion/) - lightweight library to help you create webservers in C programming language. [LGPLv3]
 * [lwan](https://github.com/lpereira/lwan) - Experimental, scalable, high performance HTTP server. [GPL2]
