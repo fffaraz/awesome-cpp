@@ -1026,6 +1026,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [PicoHTTPParser](https://github.com/h2o/picohttpparser) - A tiny, primitive, fast HTTP request/response parser. [MIT]
 * [POCO](https://github.com/pocoproject) :zap: - C++ class libraries and frameworks for building network- and internet-based applications that run on desktop, server, mobile and embedded systems. [Boost] [website](https://pocoproject.org/)
 * [Proxygen](https://github.com/facebook/proxygen) - Facebook's collection of C++ HTTP libraries including an easy to use HTTP server. [BSD]
+* [QuicX](https://github.com/caozhiyi/quicX) - QUIC and HTTP/3 protocol stack, interop-tested against 17 implementations, with 0-RTT, connection migration and QPACK.
 * [RedPanda](https://github.com/redpanda-data/redpanda) - Streaming data platform for developers. Kafka API compatible. 10x faster. [BSL]
 * [RakNet](https://github.com/OculusVR/RakNet) - A cross platform, open source, C++ networking engine for game programmers. [BSD]
 * [restclient-cpp](https://github.com/mrtazz/restclient-cpp) - Simple REST client for C++. It wraps libcurl for HTTP requests. [MIT]
