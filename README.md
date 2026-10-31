@@ -1242,6 +1242,8 @@ regular expression pattern matching. [BSD] [website](https://pcre2project.github
 * [Indiesort](https://github.com/mattreecebentley/plf_indiesort) - A sort wrapper which enables the use of std::sort (& other random-access sort functions) with non-random-access containers, and also improves sort performance for large/non-trivially-copyable types in random-access containers and arrays. [zLib] [website](https://plflib.org/indiesort.htm)
 * [x86-simd-sort](https://github.com/numpy/x86-simd-sort) - C++ template library for high performance SIMD based sorting algorithms. [BSD-3-Clause]
 
+* [OblivoneSort](https://github.com/LSJ-XMJ/OblivoneSort) - A C++17 header-only, unstable distribution sort with an optional parallel backend and no third-party dependencies. [Apache-2.0](https://github.com/LSJ-XMJ/OblivoneSort/blob/main/LICENSE)
+
 ## Video
 
 * [libvpx](https://www.webmproject.org/code/) - VP8/VP9 Codec SDK. [BSD]
