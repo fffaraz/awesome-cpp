@@ -1,4 +1,4 @@
-# Awesome C++ [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/fffaraz/awesome-cpp/)
+# Awesome C++ [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/fffaraz/awesome-cpp/) [![Maintained with Dojo](https://img.shields.io/badge/maintained%20with-Dojo%20%E2%9B%A9%EF%B8%8F-1f2937)](https://heydojo.ai)
 A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 
 - [Awesome C++  ](#awesome-c--)
@@ -113,11 +113,9 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [GLib](https://wiki.gnome.org/Projects/GLib) - GLib provides the core application building blocks for libraries and applications written in C. [LGPL]
 * [itlib](https://github.com/iboB/itlib) - A collection of std-like single-header C++ libraries  [MIT]
 * [JUCE](https://github.com/julianstorer/JUCE) - An all-encompassing C++ class library for developing cross-platform software. [Core-Module: ISC, Rest: GPL2/GPL3/Proprietary] [website](https://www.juce.com/)
-* [Kigs framework](https://github.com/Kigs-framework/kigs) - A free and open source C++ modular multi-purpose cross platform RAD framework. [MIT] [website](https://kigs-framework.org/)
 * [libPhenom](https://github.com/facebook/libphenom) - libPhenom is an eventing framework for building high performance and high scalability systems in C. [Apache2]
 * [LibSourcey](https://github.com/sourcey/libsourcey) - C++11 evented IO for real-time video streaming and high performance networking applications. [LGPL]
 * [LibU](https://github.com/koanlogic/libu) - A multiplatform utility library written in C. [BSD]
-* [libxutils](https://github.com/kala13x/libxutils) - Simple and yet powerful cross-platform C library providing data structures, algorithms and much more. [MIT]
 * [Loki](https://loki-lib.sourceforge.net/) - A C++ library of designs, containing flexible implementations of common design patterns and idioms. [MIT]
 * [micron.cpp](https://github.com/rfgplk/micron.cpp) - A pure C++ implementation (& redesign) of libc and the Standard Library. [Boost/MIT]
 * [MiLi](https://github.com/MariadeAnton/MiLi) - Minimal headers-only C++ Library. [Boost]
@@ -184,13 +182,13 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [AudioFile](https://github.com/adamstark/AudioFile) - A simple C++ library for reading and writing audio files. [MIT]
 * [audioFlux](https://github.com/libAudioFlux/audioFlux) - A C library for audio and music analysis, feature extraction. [MIT]
 * [dr_libs](https://github.com/mackron/dr_libs) - Single file audio decoding libraries for C and C++. [Unlicense]
-* [FMOD](https://www.fmod.org/) - An easy to use crossplatform audio engine and audio content creation tool for games. [Free for non-commercial/Commercial]
+* [FMOD](https://www.fmod.org/) - An easy to use cross-platform audio engine and audio content creation tool for games. [Free for non-commercial/Commercial]
 * [KFR](https://www.kfrlib.com/) - Fast, modern C++ DSP framework, FFT, FIR/IIR filters, Sample Rate Conversion. [GPL/Proprietary]
 * [LAME](https://lame.sourceforge.io/using.php) - LAME is a high quality MPEG Audio Layer III (MP3) encoder. [LGPL]
 * [libsndfile](https://github.com/erikd/libsndfile/) - C library with C++ wrapper for reading and writing files containing sampled sound through one standard library interface. [LGPL-2.1] [website](https://www.mega-nerd.com/libsndfile/)
 * [libsoundio](https://github.com/andrewrk/libsoundio) - C library for cross-platform real-time audio input and output. [MIT] [website](https://libsound.io/)
 * [Maximilian](https://github.com/micknoise/Maximilian) - C++ Audio and Music DSP Library. [MIT]
-* [OpenAL](https://www.openal.org/) - Open Audio Library - A crossplatform audio API. [BSD/LGPL/Proprietary]
+* [OpenAL](https://www.openal.org/) - Open Audio Library - A cross-platform audio API. [BSD/LGPL/Proprietary]
 * [miniaudio](https://github.com/mackron/miniaudio) - Single file audio playback and capture library. [Unlicense] [website](https://miniaud.io/)
 * [ni-media](https://github.com/NativeInstruments/ni-media) - C++ library for reading and writing audio files. [MIT]
 * [Opus](https://opus-codec.org/) - A totally open, royalty-free, highly versatile audio codec. [BSD]
@@ -249,7 +247,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
  * [clipp](https://github.com/muellan/clipp) - Easy to use, powerful and expressive command line argument handling for C++11/14/17 contained in a single header file. [MIT]
  * [cpp-terminal](https://github.com/jupyter-xeus/cpp-terminal) - Small header only C++ library for writing multiplatform terminal applications. [MIT]
  * [Crossline](https://github.com/jcwangxp/Crossline) - A small, self-contained, zero-config, MIT licensed, cross-platform, readline and libedit replacement. [MIT]
- * [Ctrl+C](https://github.com/evgenykislov/ctrl-c) - Crossplatform C++11 library to handle Ctrl+C event in custom functions. [MIT]
+ * [Ctrl+C](https://github.com/evgenykislov/ctrl-c) - Cross-platform C++11 library to handle Ctrl+C event in custom functions. [MIT]
  * [cxxopts](https://github.com/jarro2783/cxxopts) - Lightweight C++ command line option parser. [MIT]
  * [docopt.cpp](https://github.com/docopt/docopt.cpp) - A library to generate option parser from docstring. [MIT/Boost]
  * [FINAL CUT](https://github.com/gansm/finalcut) - Library for creating terminal applications with text-based widgets. [LGPL]
@@ -652,7 +650,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [FOX Toolkit](https://fox-toolkit.org) - an open-source, cross-platform widget toolkit. [LGPL]
 * [GacUI](https://github.com/vczh-libraries/GacUI) - GPU Accelerated C++ User Interface, with WYSIWYG developing tools, XML supports, built-in data binding and MVVM features. [Ms-PL]
 * [GTK+](https://www.gtk.org/) - A multi-platform toolkit for creating graphical user interfaces. [LGPL]
-* [gtkmm](https://www.gtkmm.org/en/) - The official C++ interface for the popular GUI library GTK+. [LGPL]
+* [gtkmm](https://gtkmm.gnome.org/en/) - The official C++ interface for the popular GUI library GTK+. [LGPL]
 * [imgui](https://github.com/ocornut/imgui) - Immediate Mode Graphical User Interface with minimal dependencies. [MIT]
 * [implot](https://github.com/epezent/implot) - Immediate Mode Plotting widgets for imgui. [MIT]
 * [iup](https://www.tecgraf.puc-rio.br/iup) - Multi-platform toolkit for building graphical user interfaces. [MIT]
@@ -726,7 +724,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [FreeImageRe](https://github.com/agruzdev/FreeImageRe) - A fork of FreeImage to support latest image codecs and adjust for modern compilers. All original formats and plugins are maintained. [GPLv2, GPLv3, FIPL]
 * [GD](https://github.com/libgd/libgd) - GD Graphics Library, famously used in PHP for image loading/manipulation & thumbnail generation. [custom permissive license, requires mention in user docs] [website](https://libgd.github.io/)
 * [DCMTK](https://dicom.offis.de/dcmtk.php.en) - DICOM Toolkit.
-* [GDCM](https://gdcm.sourceforge.net/wiki/index.php/Main_Page) - Grassroots DICOM library.
+* [GDCM](https://sourceforge.net/projects/gdcm/) - Grassroots DICOM library.
 * [ITK](https://www.itk.org/) - An open-source, cross-platform system for image analysis. [Apache2 from ITK 4.0]
 * [Jpegli](https://github.com/google/jpegli) - an improved JPEG encoder and decoder implementation. [BSD-3-Clause]
 * [Leptonica](https://github.com/DanBloomberg/leptonica) - Leptonica is an open source library containing software that is broadly useful for image processing and image analysis applications. [BSD-2-Clause] [website](https://leptonica.org/index.html)
@@ -818,7 +816,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [libjson](https://sourceforge.net/projects/libjson/) - Lightweight JSON library. [?]
 * [LIBUCL](https://github.com/vstakhov/libucl) :zap: - Universal configuration library parser. [BSD-2-Clause]
 * [meojson](https://github.com/MistEO/meojson) - Next-gen C++ JSON/JSON5 Serialization Engine | Zero Dependency | Header-Only | Unleash JSON Potential. [MIT]
-* [parson](https://github.com/kgabis/parson) - Parson is a lighweight json library written in C. [MIT]
+* [parson](https://github.com/kgabis/parson) - Parson is a lightweight JSON library written in C. [MIT]
 * [PicoJSON](https://github.com/kazuho/picojson) - A header-file-only, JSON parser serializer in C++. [BSD]
 * [qt-json](https://github.com/gaudecker/qt-json) - A simple class for parsing JSON data into a QVariant hierarchy and vice versa. [GPLv3]
 * [RapidJSON](https://github.com/miloyip/rapidjson) :zap: - A fast JSON parser/generator for C++ with both SAX/DOM style API. [MIT] [website](https://rapidjson.org)
@@ -916,7 +914,6 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [MIRACL](https://github.com/CertiVox/MIRACL) - A Multiprecision Integer and Rational Arithmetic Cryptographic Library. [AGPL]
 * [NumCpp](https://github.com/dpilger26/NumCpp) - A templatized header only C++ implementation of the Python Numpy library. [MIT]
 * [NumKong](https://github.com/ashvardanian/NumKong) - SIMD-accelerated distances, dot products, matrix ops, geospatial & geometric kernels for 16 numeric types. [Apache2] (previously named SimSIMD)
-* [OMath](https://github.com/orange-cpp/omath) - Cross-platform modern general purpose math library written in C++23 that suitable for cheat/game development. [ZLIB]
 * [muparser](https://beltoforion.de/en/muparser) - muParser is an extensible high performance math expression parser library written in C++. [MIT]
 * [LibTomMath](https://github.com/libtom/libtommath) - A free open source portable number theoretic multiple-precision integer library written entirely in C. [PublicDomain & WTFPL] [website](https://www.libtom.net/)
 * [linmath.h](https://github.com/datenwolf/linmath.h) - A lean linear math library, aimed at graphics programming. [WTFPL]
@@ -1533,7 +1530,7 @@ regular expression pattern matching. [BSD] [website](https://pcre2project.github
 * [Cppcheck](https://cppcheck.sourceforge.net/) - A tool for static C/C++ code analysis. - [source](https://github.com/danmar/cppcheck)
 * [CppDepend](https://www.cppdepend.com/) - Simplifies managing a complex C/C++ code base by analyzing and visualizing code dependencies, by defining design rules, by doing impact analysis, and comparing different versions of the code.
 * [cpplint](https://github.com/cpplint/cpplint) - A C++ style checker following Google's C++ style guide.
-* [PVS-Studio](https://www.viva64.com/en/pvs-studio/) - A tool for bug detection in the source code of programs, written in C, C++ and C#.
+* [PVS-Studio](https://pvs-studio.com/en/) - A tool for bug detection in the source code of programs, written in C, C++ and C#.
 * [cpp-dependencies](https://github.com/tomtom-international/cpp-dependencies) - Tool to check C++ #include dependencies (dependency graphs created in .dot format). [Apache]
 * [include-what-you-use](https://github.com/include-what-you-use/include-what-you-use) - A tool for use with clang to analyze includes in C and C++ source files. [website](https://include-what-you-use.org/)
 * [Infer](https://github.com/facebook/infer) - A static analyzer for Java, C and Objective-C. [BSD]
