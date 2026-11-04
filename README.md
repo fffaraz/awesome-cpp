@@ -1450,6 +1450,7 @@ regular expression pattern matching. [BSD] [website](https://pcre2project.github
 * [coliru](https://coliru.stacked-crooked.com/) - Online compiler/shell with support for various C++ compilers.
 * [Compiler Explorer](https://gcc.godbolt.org/) - An interactive compiler with assembly output available.
 * [CompileOnline](https://www.tutorialspoint.com/codingground.htm) - Compile and Execute C++ online on Linux.
+* [Devtoolry](https://devtoolry.com/compilers/cpp) - An online C/C++ compiler that runs Clang in the browser via WebAssembly.
 * [Ideone](https://ideone.com/) - An online compiler and debugging tool which allows you to compile source code and execute it online in more than 60 programming languages.
 * [OneCompiler](https://onecompiler.com/) - An online compiler supporting over 70 programming languages and database systems.
 * [Programiz](https://www.programiz.com/cpp-programming/online-compiler) - An online compiler for learners and developers.
