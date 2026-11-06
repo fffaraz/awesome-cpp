@@ -1089,6 +1089,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Newton Dynamics](https://github.com/MADEAPPS/newton-dynamics) - An integrated solution for real time simulation of physics environments. [zlib]
 * [ODE](https://www.ode.org/) - Open Dynamics Engine - An open source, high performance library for simulating rigid body dynamics. [BSD&LGPL]
 * [ofxBox2d](https://github.com/vanderlin/ofxBox2d) - openFrameworks wrapper for Box2D. [BSD-like]
+* [IAU SOFA](https://github.com/jacobwilliams/IAU_SOFA) - Standards of Fundamental Astronomy (SOFA) algorithms and procedures implementing standard models used in fundamental astronomy. [[SOFA](https://www.iausofa.org/tandc.html)]
 * [PhysX](https://github.com/NVIDIAGameWorks/PhysX-3.4) - An open-source realtime physics engine middleware SDK developed by Nvidia as a part of Nvidia GameWorks software suite. [BSD-3-Clause]
 * [PlayRho](https://github.com/louis-langholtz/PlayRho) - An interactive physics engine & library.  [Zlib]
 * [Project Chrono](https://github.com/projectchrono/chrono) - An open source multi-physics simulation engine. [BSD-3-Clause] [website](https://projectchrono.org/)
