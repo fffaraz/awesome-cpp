@@ -896,6 +896,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [ceres-solver](https://ceres-solver.org/) - C++ library for modeling and solving large complicated nonlinear least squares problems from google. [BSD]
 * [CGAL](https://github.com/CGAL/cgal) - Collection of efficient and reliable geometric algorithms. [LGPL&GPL] [website](https://www.cgal.org/)
 * [cml](https://github.com/demianmnave/CML) - The configurable math library. [Boost]
+* [cvmlib](https://github.com/drnikolaev/cvmlib) - This C++ class library encapsulates concepts of vector and different matrices including square, band, symmetric and hermitian ones in Euclidean space of real and complex numbers. [Boost]
 * [CNL](https://github.com/johnmcfarlane/cnl/) - A Compositional Numeric Library for C++. [Boost]
 * [DirectXMath](https://github.com/microsoft/DirectXMath) - An all inline SIMD C++ linear algebra library for use in games and graphics apps.
 * [Dlib](https://github.com/davisking/dlib) :zap: - A modern C++11 machine learning, computer vision, numerical optimization, and deep learning toolkit. [Boost] [website](https://dlib.net/)
