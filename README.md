@@ -145,6 +145,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 * [ANNetGPGPU](https://github.com/ANNetGPGPU/ANNetGPGPU) - A GPU (CUDA) based Artificial Neural Network library. [LGPL]
 * [btsk](https://github.com/aigamedev/btsk) - Game Behavior Tree Starter Kit. [zlib]
+* [chaincpp](https://github.com/Toyse-dev/chaincpp) - A C++20 library for LLM inference, agents, and RAG that runs offline on low-spec hardware. [MIT]
 * [cpp-mcp](https://github.com/hkr04/cpp-mcp) - Lightweight C++ MCP (Model Context Protocol) SDK. [MIT]
 * [Evolving Objects](https://eodev.sourceforge.net/) - A template-based, ANSI-C++ evolutionary computation library which helps you to write your own stochastic optimization algorithms insanely fast. [LGPL]
 * [fastmcpp](https://github.com/0xeb/fastmcpp) - C++ port of the fastmcp Python library. [Apache2]
