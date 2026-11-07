@@ -8,7 +8,6 @@
 * [Build Your Own Lisp](http://www.buildyourownlisp.com/)
 * [C Programming - Wikibooks](http://en.wikibooks.org/wiki/Programming%3AC)
 * [Deep C](http://www.slideshare.net/olvemaudal/deep-c)
-* [Essential C](http://cslibrary.stanford.edu/101/EssentialC.pdf) (PDF)
 * [Learn C the hard way](http://c.learncodethehardway.org/book/)
 * [Object Oriented Programming in C](https://hps.vi4io.org/_media/teaching/wintersemester_2012_2013/epc-1213-grigoras-oo-praesentation.pdf) (PDF)
 * [The C book](http://publications.gbdirect.co.uk/c_book/)
@@ -39,6 +38,5 @@
 * [Software optimization resources by Agner Fog](http://www.agner.org/optimize/)
 * [The Boost C++ libraries](http://en.highscore.de/cpp/boost)
 * [The Rook's Guide to C++](http://rooksguide.org/2013/11/26/version-1-0-is-out/) (PDF)
-* [Thinking in C++, Second Edition, Vol. 1.](http://www.mindviewinc.com/downloads/TICPP-2nd-ed-Vol-one.zip) [(Vol. 2)](http://www.mindviewinc.com/downloads/TICPP-2nd-ed-Vol-two.zip) - Bruce Eckel
 * Also see: [The Definitive C++ Book Guide and List](https://stackoverflow.com/a/388282)
 * [Object Oriented Programmming](https://www.javatpoint.com/cpp-oops-concepts)

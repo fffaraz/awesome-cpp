@@ -9,16 +9,14 @@
 
 * [Fruit](https://github.com/google/fruit) - A dependency injection framework for C++.
 
-http://www.cs.colorado.edu/~main/cs1300/doc/bgi/
+https://home.cs.colorado.edu/~main/cs1300/doc/bgi/
 
 https://www.enlightenment.org/p.php?p=about/efl
 https://github.com/stefanct/sglib
 http://itpp.sourceforge.net/
 
 http://www.catb.org/esr/structure-packing/
-http://books.cat-v.org/computer-science/c-programming-language/The.C.Programming.Language.2nd.Edition.pdf
 https://graphics.stanford.edu/~seander/bithacks.html
-http://faculty.euc.ac.cy/scharalambous/csc131/books/C%20book%201.pdf
 http://www.planetpdf.com/codecuts/pdfs/ooc.pdf
 http://www.codeproject.com/Articles/6154/Writing-Efficient-C-and-C-Code-Optimization
 
@@ -31,7 +29,6 @@ http://en.cppreference.com/w/cpp/links/libs
 https://github.com/clibs
 https://github.com/clibs/clib/wiki/Packages
 
-https://github.com/rampantpixels
 https://github.com/rampantpixels/foundation_lib
 https://github.com/rampantpixels/network_lib
 
@@ -51,7 +48,6 @@ QUIC & UDT
 
 https://github.com/ellisonleao/magictools
 
-https://github.com/robbinfan/claire-protorpc
 https://github.com/chen3feng/typhoon-blade - Buildsystem
 http://glm.g-truc.net/0.9.5/index.html - Math
 https://code.google.com/p/distcc/
@@ -59,16 +55,12 @@ http://omniorb.sourceforge.net/
 http://www.h323plus.org/
 http://ufmod.sourceforge.net/
 https://github.com/almalk454/wGUI
-http://www.cs.fsu.edu/~engelen/soap.html
 https://github.com/broadinstitute/gamgee
 
 http://www.reddit.com/r/programming/
 https://www.reddit.com/r/cprog/
 https://game-development.zeef.com/ellison.leao
 
-http://www.digilife.be/quickreferences/qrc/c%20reference%20card%20(ansi)%202.2.pdf
-http://www.dreamincode.net/downloads/ref_sheets/cpp_reference_sheet.pdf
-http://cpprocks.com/regex-cheatsheet/
 http://isocpp.org/blog/2012/12/c11-a-cheat-sheet-alex-sinyakov
 
 https://github.com/Tuplanolla/cheat
@@ -101,7 +93,6 @@ http://www.tntnet.org/
 
 http://en.wikiversity.org/wiki/Introduction_to_C++
 
-http://blogs.msdn.com/b/nativeconcurrency/
 
 ----------------------------------------
 
@@ -114,7 +105,6 @@ http://en.wikipedia.org/wiki/CyaSSL
 ----------------------------------------
 
 https://github.com/mozilla/mozjpeg
-https://github.com/tinfoilboy/Explodable
 https://github.com/shaih/HElib
 https://github.com/jlnr/gosu
 https://github.com/m-ou-se/moggle
@@ -152,7 +142,7 @@ https://github.com/Kosta-Github/http-cpp
 https://github.com/adafruit/Adafruit-GFX-Library
 https://github.com/lsegal/my_toy_compiler
 https://github.com/openexr/openexr
-https://github.com/spesmilo/libbitcoin
+https://github.com/libbitcoin/libbitcoin-system
 https://github.com/gwaldron/osgearth
 https://github.com/xiw/stack
 https://github.com/mozy/mordor
@@ -174,7 +164,6 @@ https://github.com/antinucleon/cxxnet
 https://github.com/kylemcdonald/FaceTracker
 https://github.com/miguelmartin75/anax
 https://github.com/arq5x/bedtools2
-https://github.com/vinova/Artemis-Cpp
 https://github.com/pfi/pficommon
 https://github.com/juj/MathGeoLib
 
@@ -286,7 +275,6 @@ https://en.wikipedia.org/wiki/List_of_performance_analysis_tools
 
 ------------------------------------------------------------------------
 Torrent:
-https://github.com/libragnar/ragnar
 https://github.com/Rudde/mktorrent
 https://github.com/hrkfdn/hrktorrent
 https://github.com/rakshasa/rtorrent
