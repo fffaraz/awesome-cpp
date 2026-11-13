@@ -961,6 +961,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 * [Boehm GC](https://github.com/ivmai/bdwgc) - Conservative garbage collector for C and C++. [similar to X11] [website](https://www.hboehm.info/gc/)
 * [C Smart Pointers](https://github.com/Snaipe/libcsptr) - Smart pointers for the (GNU) C programming language. [MIT]
+* [CookMem](https://github.com/coconut2015/cookmem) - Header-only C++11 memory context based on dlmalloc that frees all of its allocations at once. [Apache-2.0] [website](https://coconut2015.github.io/cookmem/)
 * [Hoard](https://github.com/emeryberger/Hoard) - Fast, Scalable, and Memory-efficient Malloc for Linux, Windows, and Mac. [Apache-2.0] [website](https://hoard.org/)
 * [jemalloc](https://github.com/jemalloc/jemalloc) - General purpose malloc(3) implementation that emphasizes fragmentation avoidance and scalable concurrency support. [BSD] [website](https://jemalloc.net/)
 * [memory](https://github.com/foonathan/memory) - STL compatible C++ memory allocator library. [ZLib]
