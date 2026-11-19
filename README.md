@@ -62,6 +62,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 	- [Build Systems](#build-systems)
 	- [Static Code Analysis](#static-code-analysis)
 	- [Coding Style Tools](#coding-style-tools)
+	- [Formal Verification](#formal-verification)
 - [Resources](#resources)
 	- [API Design](#api-design)
 	- [Articles](#articles)
@@ -1579,6 +1580,13 @@ regular expression pattern matching. [BSD] [website](https://pcre2project.github
 * [EditorConfig](https://editorconfig.org/) - EditorConfig helps maintain consistent coding styles across different editors and IDEs.
 * [Uncrustify](https://github.com/uncrustify/uncrustify) - Code beautifier.
 
+## Formal Verification
+*Tools for formal verification and model checking C++ code.*
+
+* [CppVerify](https://swayaminsync.github.io/cpp-verify/) - Extending C++ to support Program Verification using SMT solvers
+* [Frama-Clang](https://frama-c.com/fc-plugins/frama-clang.html) - C++ front-end to [Frama-C](https://www.frama-c.com/), based on the clang compiler
+* [ESBMC](https://esbmc.github.io/) - The efficient SMT-based context-bounded model checker (ESBMC)
+ 
 # Resources
 *Various resources, such as books, websites, and articles for improving your C++ development skills and knowledge.*
 
