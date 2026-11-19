@@ -1583,9 +1583,9 @@ regular expression pattern matching. [BSD] [website](https://pcre2project.github
 ## Formal Verification
 *Tools for formal verification and model checking C++ code.*
 
-* [CppVerify](https://swayaminsync.github.io/cpp-verify/) - Extending C++ to support Program Verification using SMT solvers
-* [Frama-Clang](https://frama-c.com/fc-plugins/frama-clang.html) - C++ front-end to [Frama-C](https://www.frama-c.com/), based on the clang compiler
-* [ESBMC](https://esbmc.github.io/) - The efficient SMT-based context-bounded model checker (ESBMC)
+* [CppVerify](https://swayaminsync.github.io/cpp-verify/) - Extending C++ to support Program Verification using SMT solvers. [Apache2]
+* [Frama-Clang](https://frama-c.com/fc-plugins/frama-clang.html) - C++ front-end to [Frama-C](https://www.frama-c.com/), based on the clang compiler. [LGPL]
+* [ESBMC](https://esbmc.github.io/) - The efficient SMT-based context-bounded model checker (ESBMC). [Apache2/BSD-4-Clause]
  
 # Resources
 *Various resources, such as books, websites, and articles for improving your C++ development skills and knowledge.*
