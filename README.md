@@ -1715,6 +1715,8 @@ regular expression pattern matching. [BSD] [website](https://pcre2project.github
 * [Function Pointers](https://github.com/jerryryle/fuckingfunctionpointers.com) - A guide to understanding function pointers in C/C++.
 
 
+* [C++ Error Explorer](https://cpppath.com/tools/cpp-error-explorer) - Explains common GCC and MSVC compiler, linker, and runtime errors, with a troubleshooting guide for each.
+
 ## Weblogs
 *Useful C or C++ related weblogs.*
 
