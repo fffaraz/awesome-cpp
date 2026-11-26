@@ -207,6 +207,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Verovio](https://github.com/rism-ch/verovio) - Verovio is a fast and lightweight music notation engraving library. [LGPL] [website](https://www.verovio.org)
 * [Wav2Letter++](https://github.com/facebookresearch/wav2letter/) - Public domain, a fast open source speech processing toolkit written entirely in C++ and uses the ArrayFire tensor library and the flashlight machine learning library for maximum efficiency. [BSD]
 * [PocketSphinx](https://github.com/cmusphinx/pocketsphinx) - A lightweight speech recognition engine. [BSD-2-Clause] [website](https://cmusphinx.github.io/)
+* [Yuby](https://github.com/gaborszanto/yubysdk) - A fast, low-latency, cross-platform audio engine (player, effects, analysis, recording, decoding, stem separation) for macOS, iOS, Windows, Android, Linux, and web. [Commercial] [website](https://yuby.com)
 
 ## Biology
 *Bioinformatics, Genomics, Biotech*
