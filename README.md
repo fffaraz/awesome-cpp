@@ -1332,6 +1332,7 @@ regular expression pattern matching. [BSD] [website](https://pcre2project.github
 ## Miscellaneous
 *Useful libraries or tools that don't fit in the categories above or maybe just not categorised yet*
 
+* [libhit](https://github.com/0xddddddddd/libhit) libhit is a C++20 header-only library for SIMD-accelerated hex pattern searching with wildcards.
 * [access_profiler](https://github.com/arvidn/access_profiler) - A tool to count accesses to member variables in c++ programs. [GPL3]
 * [American fuzzy lop](https://lcamtuf.coredump.cx/afl/) a.k.a. afl-fuzz - Crazy fuzzing tool that automatically discovers bugs given time and minimal example input. [Apache2]
 * [Argon2](https://github.com/P-H-C/phc-winner-argon2) - The password hash Argon2, winner of PHC. [CC0/Apache2]
