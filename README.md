@@ -886,6 +886,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [OpenCV](https://github.com/Itseez/opencv) :zap: - Open Source Computer Vision Library. [BSD] [website](https://opencv.org/)
 * [oneDAL](https://github.com/oneapi-src/oneDAL) - A powerful machine learning library that helps speed up big data analysis. [Apache]
 * [ONNX runtime](https://github.com/microsoft/onnxruntime) - C and C++ library for training and inference ONNX models. ONNX is a standard that AI models can be converted into, regardless of the library they are trained with. [MIT] [website](https://onnxruntime.ai/)
+* [OpenNN](https://github.com/Artelnics/opennn) - High-performance C++20 neural network library with dense, CNN, LSTM and Transformer models and CPU/CUDA execution. [AGPL-3.0-only/Commercial] [website](https://www.opennn.net/)
 * [Recommender](https://github.com/GHamrouni/Recommender) - C library for product recommendations/suggestions using collaborative filtering (CF). [BSD]
 * [RNNLIB](https://github.com/szcom/rnnlib) - RNNLIB is a recurrent neural network library for sequence learning problems. [GPLv3]
 * [SHOGUN](https://github.com/shogun-toolbox/shogun) - The Shogun Machine Learning Toolbox. [GPLv3]
